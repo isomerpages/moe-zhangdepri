@@ -182,3 +182,18 @@ The Zhangde School Code of Conduct is a guide for students to ensure that the sc
     *   The school reserves the right to check on the mobile phones.
     *   The responsibility for the safeguarding of the mobile phone rests on the students and parents. <b>The school will not be responsible for any loss of mobile phones.</b>
     *   Inappropriate use of the mobile phone may result in its confiscation. All confiscated mobile phones will be handed over to the Student Management department for safe-keeping until a parent or guardian comes to the school to retrieve it.
+
+
+##### **11\. Use of School Facilities**
+
+  
+
+*   Students should regard the school as their second home and treat the school property with care in order to maintain the school premises in good condition. Vandalism is a serious offence.  
+    
+*   Any accidental damage to any school property should be reported immediately to the teacher-in-charge or to the office.  
+    
+*   Students should practise proper restroom habits such as flushing the toilet and washing their hands properly after use.  
+    
+*   Students should not litter any part of the school premises at all times.  
+    
+*   The Staff Room is out of bounds to all students for security reasons.
