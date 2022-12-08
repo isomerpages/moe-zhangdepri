@@ -10,7 +10,7 @@ Contact Us
 
 ### School Contact
 
-
+Note: Map can be ported over into google map.
 
 
 Address: 51 Jalan Membina Singapore 169485
