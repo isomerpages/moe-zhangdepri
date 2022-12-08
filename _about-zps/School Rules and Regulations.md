@@ -197,3 +197,26 @@ The Zhangde School Code of Conduct is a guide for students to ensure that the sc
 *   Students should not litter any part of the school premises at all times.  
     
 *   The Staff Room is out of bounds to all students for security reasons.
+
+
+##### **12\. End User IT Security Policy**
+
+  
+
+*   All users are to exercise responsibility in the use of the school IT equipment and resources by adhering to the following rules:  
+    
+
+    *   Software – Users are not allowed to install illegal or unauthorized software, including freeware and shareware in the computers and ipads.
+    *   DVD-RW – Users are not to use the DVD-RW Drive for unauthorized copying of licensed application of software, music CDs, movie VCDs/DVDs and game software.
+    *   Internet – Users are not to access inappropriate information on the Internet and World Wide Web. Users are not to participate in any unauthorized access (“hacking”) of computer systems or unlawful technological activities.
+    *   All hardware and software provided by the school or MOE should not be abused, copied, destroyed or modified in any manner.
+
+*   Users who violate these rules will face disciplinary action.
+
+##### **13\. Violation of School Rules and Regulations**
+
+  
+
+*   All Zhangderens are expected to adhere to the schools rules and procedures stated above. When there is a violation, appropriate disciplinary actions will be taken. When there is ambiguity, decision by the Student Management Department under the advice of the school leaders will be final. Inappropriate behaviour are categorized into minor and major offences.  
+    
+*   Consequences for <b>minor</b> misbehaviour range from warning to detention. For <b>major</b> misbehaviour, the consequences include caning, in-house suspension and any other appropriate actions deemed necessary by the Principal or Vice Principal. Besides referring the students for counselling, parents will be called in to help the school to monitor their child’s behaviour. In addition, students may be required to perform community services for a specific duration.
