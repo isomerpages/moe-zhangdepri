@@ -12,3 +12,5 @@ Our Staff
 [Steering Committee](/about-zps/Our-Staff/Steering-Committee/)
 
 [Teaching Staff](/about-zps/Our-Staff/Teaching-Staff/)
+
+[Student Support Team](/about-zps/Our-Staff/Student-Support-Team/)
