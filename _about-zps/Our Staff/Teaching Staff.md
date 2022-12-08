@@ -309,6 +309,7 @@ Teaching Staff
 .tg .tg-j24s{background-color:#FFEFE3;color:#4C4C4C;text-align:left;vertical-align:middle}
 .tg .tg-ut1a{background-color:#EFFBFF;color:#0B5394;text-align:left;text-decoration:underline;vertical-align:top}
 .tg .tg-gfyo{background-color:#FFEFE3;color:#0B5394;text-align:left;text-decoration:underline;vertical-align:top}
+.tg .tg-zugg{background-color:#FFEFE3;color:#0b5394;text-align:left;text-decoration:underline;vertical-align:top}
 </style>
 <table class="tg">
 <thead>
@@ -332,7 +333,7 @@ Teaching Staff
   <tr>
     <td class="tg-j24s"><span style="color:#4C4C4C;background-color:#FFEFE3">3 Empathy</span><br></td>
     <td class="tg-gfyo"><a href="mailto:shakkila_banu_gose_sulta@schools.gov.sg">Ms Shakkila Banu Gose Sulta</a></td>
-    <td class="tg-gfyo"><a href="mailto:ong_li_ya_sandy@schools.gov.sg">Ms Sandy Ong Li Ya</a><br><span style="color:#4C4C4C;background-color:#FFEFE3">Mr Prashan Silva</span></td>
+    <td class="tg-zugg"><a href="mailto:ong_li_ya_sandy@schools.gov.sg" target="_blank" rel="noopener noreferrer">Ms Sandy Ong Li Ya</a><br><span style="background-color:#FFEFE3">Mr Prashan Silva</span></td>
   </tr>
   <tr>
     <td class="tg-x88q"><span style="color:#4C4C4C;background-color:#EFFBFF">3 Responsibility</span><br></td>
