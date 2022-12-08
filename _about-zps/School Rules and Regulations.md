@@ -68,3 +68,5 @@ The Zhangde School Code of Conduct is a guide for students to ensure that the sc
 
     * Every student must have a name tag sewn on the school uniform at all times.
     * The name tags are to be sewn on the left of the school uniform 1cm above the school badge.
+
+<figure><img src="/images/School%20Uniform%20cum%20PE%20Attire.jpg" style="width:55%"><figcaption> Dual Purpose: School Uniform cum P.E. Attire</figcaption></figure>
