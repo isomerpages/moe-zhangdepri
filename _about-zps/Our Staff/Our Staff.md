@@ -10,3 +10,5 @@ Our Staff
 =========
 
 [Steering Committee](/about-zps/Our-Staff/Steering-Committee/)
+
+[Teaching Staff](/about-zps/Our-Staff/Teaching-Staff/)
