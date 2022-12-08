@@ -7,3 +7,9 @@ description: ""
 
 Learning Environment
 ====================
+
+<img src="/images/Loo%20Kian%20Cheang%20Library.jpg" style="width:250px;height:250px;margin-right:10px;" align = "left">  
+
+##### Loo Kian Cheang Library
+
+Journey to the Land of Imagination through the doors of the Loo Kian Cheang Library!
