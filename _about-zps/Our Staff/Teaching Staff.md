@@ -566,3 +566,32 @@ Teaching Staff
 
 
 ##### **MALAY LANGUAGE**
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-qphe{background-color:#EFFBFF;color:#E77A2A;text-align:left;text-decoration:underline;vertical-align:top}
+.tg .tg-52k0{background-color:#FFEFE3;color:#E77A2A;text-align:left;text-decoration:underline;vertical-align:top}
+.tg .tg-63nx{background-color:#FFF;color:#E77A2A;text-align:left;text-decoration:underline;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-qphe"><a href="mailto:abdul_khalik_b_saidin@schools.gov.sg">Mr Abdul Khalik B Saidin</a></th>
+    <th class="tg-qphe"><a href="mailto:khairil_bahri_kamal@schools.gov.sg">Mr Khairil Bahri Kamal</a></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-52k0"><a href="mailto:Fauziah_Mohamad@schools.gov.sg">Mdm Fauziah Bte Mohamad</a></td>
+    <td class="tg-52k0"><a href="mailto:radziah_mohamed@schools.gov.sg">Mdm Radziah Mohamed</a></td>
+  </tr>
+  <tr>
+    <td class="tg-63nx"><a href="mailto:nur_afiqah_mokhtar_kamarudin@schools.gov.sg"><span style="background-color:#FFF">Ms Nur Afiqah Mokhtar Kamarudin</span></a></td>
+    <td class="tg-qphe"><a href="mailto:Nailah_Nizam_Thaha@schools.gov.sg">Ms Nailah Binte Nizam Thaha</a></td>
+  </tr>
+</tbody>
+</table>
