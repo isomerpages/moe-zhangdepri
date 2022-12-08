@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - School Heritage and History/.keep
-      - School Heritage and History.md
       - School Vision, Mission & Values.md
       - School Rules and Regulations.md
       - School Crest & Song.md
