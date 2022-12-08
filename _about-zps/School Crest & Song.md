@@ -9,3 +9,5 @@ School Crest & Song
 ===================
 
 ##### **School Crest**
+
+![](/images/Schcrest.png)
