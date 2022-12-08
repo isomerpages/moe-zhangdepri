@@ -94,7 +94,7 @@ The Zhangde School Code of Conduct is a guide for students to ensure that the sc
     * Nails must be kept short and clean. No varnish or hardener is allowed.
 
 
-**5.  Behaviour in the Assembly Area**
+##### **5.  Behaviour in the Assembly Area**
 
   
 
@@ -105,7 +105,7 @@ The Zhangde School Code of Conduct is a guide for students to ensure that the sc
 
   
 
-**6.  Behaviour during Curriculum Time**
+##### **6.  Behaviour during Curriculum Time**
 
   
 
@@ -122,7 +122,7 @@ The Zhangde School Code of Conduct is a guide for students to ensure that the sc
 
   
 
-**7.  Behaviour during Recess Time**
+##### **7.  Behaviour during Recess Time**
 
   
 
@@ -146,7 +146,7 @@ The Zhangde School Code of Conduct is a guide for students to ensure that the sc
 *   When the music is played towards the end of recess time, students are to line up at their respective assembly area.
 
 
-**8.  Behaviour outside of School Premises**
+##### **8.  Behaviour outside of School Premises**
 
   
 
@@ -159,7 +159,7 @@ The Zhangde School Code of Conduct is a guide for students to ensure that the sc
 
   
 
-**9.  Prohibited items**
+##### **9.  Prohibited items**
 
   
 
