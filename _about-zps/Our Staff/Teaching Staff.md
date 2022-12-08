@@ -597,3 +597,31 @@ Teaching Staff
 </table>
 
 ##### **TAMIL LANGUAGE**
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-qphe{background-color:#EFFBFF;color:#E77A2A;text-align:left;text-decoration:underline;vertical-align:top}
+.tg .tg-52k0{background-color:#FFEFE3;color:#E77A2A;text-align:left;text-decoration:underline;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-qphe"><a href="mailto:sundararajan_anandavalli@schools.gov.sg">Mdm Sundararajan Anandavalli</a></th>
+    <th class="tg-qphe"><a href="mailto:shahul_hameed_ameer_hamsah@schools.gov.sg <shahul_hameed_ameer_hamsah@schools.gov.sg">Mr Shahul Hameed s/o Ameer Hamsah</a></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-52k0"><a href="mailto:kayal_vili_pugalendi@schools.gov.sg">Mdm Kayal Vili d/o Pugalendi</a></td>
+    <td class="tg-52k0"><a href="mailto:azimah_begam_haja_mohidin@schools.gov.sg@schools.gov.sg">Ms Azimah Begam</a><br></td>
+  </tr>
+  <tr>
+    <td class="tg-qphe"><a href="mailto:poopathey_thaigarajan@schools.gov.sg">Mr Poopathey Thaigarajan</a></td>
+    <td class="tg-qphe"><a href="mailto:Sangappillai_Vasuki@schools.gov.sg">Ms Sangappillai Vasuki</a></td>
+  </tr>
+</tbody>
+</table>
