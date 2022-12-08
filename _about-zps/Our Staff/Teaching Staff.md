@@ -510,3 +510,56 @@ Teaching Staff
 #### **MT Teachers**  
   
 ##### **CHINESE LANGUAGE**
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-qphe{background-color:#EFFBFF;color:#E77A2A;text-align:left;text-decoration:underline;vertical-align:top}
+.tg .tg-x88q{background-color:#EFFBFF;color:#4C4C4C;text-align:left;vertical-align:middle}
+.tg .tg-52k0{background-color:#FFEFE3;color:#E77A2A;text-align:left;text-decoration:underline;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-qphe"><a href="mailto:chin_meiyi@schools.gov.sg">Ms Chin Meiyi</a></th>
+    <th class="tg-qphe"><a href="mailto:chung_zhao_li@schools.gov.sg">Mdm Samantha Chung Zhao Li</a></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-52k0"><a href="mailto:xie_yinge@schools.gov.sg">Ms Xie Ying</a></td>
+    <td class="tg-52k0"><a href="mailto:phang_huey_wen@schools.gov.sg">Mdm Phang Huey Wen</a></td>
+  </tr>
+  <tr>
+    <td class="tg-qphe"><a href="mailto:lee_siew_ming@schools.gov.sg">Ms Lee Siew Ming</a></td>
+    <td class="tg-qphe"><a href="mailto:tan_ai_ling@schools.gov.sg">Mdm Tan Ai Ling</a></td>
+  </tr>
+  <tr>
+    <td class="tg-52k0"><a href="mailto:zhou_jin@schools.gov.sg">Mdm Zhou Jin</a></td>
+    <td class="tg-52k0"><a href="mailto:wan_xiaolin@schools.gov.sg">Ms Wan Xiao Lin</a></td>
+  </tr>
+  <tr>
+    <td class="tg-qphe"><a href="mailto:tian_yuyuan@schools.gov.sg">Mr Tian Yuyuan</a></td>
+    <td class="tg-qphe"><a href="mailto:low_yu_ci@schools.gov.sg">Ms Low Yu Ci</a></td>
+  </tr>
+  <tr>
+    <td class="tg-52k0"><a href="mailto:lim_tow_wee@schools.gov.sg">Mr Lim Tow Wee</a></td>
+    <td class="tg-52k0"><a href="mailto:ho_lee_ling@schools.gov.sg">Mdm Ho Lee Ling</a></td>
+  </tr>
+  <tr>
+    <td class="tg-qphe"><a href="mailto:yang_XIAOQI@schools.gov.sg">Ms Yang Xiaoqi</a></td>
+    <td class="tg-qphe"><a href="mailto:shi_hairong@schools.gov.sg">Ms Shi Hai Rong </a></td>
+  </tr>
+  <tr>
+    <td class="tg-52k0"><a href="mailto:tan_kim_choo@schools.gov.sg">Mdm Tan Kim Choo</a><br></td>
+    <td class="tg-52k0"><a href="mailto:tan_chia_huee@schools.gov.sg">Mdm Tan Chia Huee</a></td>
+  </tr>
+  <tr>
+    <td class="tg-qphe"><a href="mailto:Teo_Wui_Seng@schools.gov.sg">Mr Teo Wui Seng</a></td>
+    <td class="tg-x88q"><span style="color:#4C4C4C;background-color:#EFFBFF"> </span></td>
+  </tr>
+</tbody>
+</table>
