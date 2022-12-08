@@ -1,4 +1,5 @@
 collections:
   about-zps:
     output: true
-    order: []
+    order:
+      - Our Staff/.keep
