@@ -169,3 +169,16 @@ The Zhangde School Code of Conduct is a guide for students to ensure that the sc
     *   Any electronic device, MP3 players, toys (toy guns, toy models), hand-held games or card games (playing cards and trading cards) will be handed over to the Student Management department for safe-keeping until a parent / guardian comes to school to retrieve it.
     *   Articles that may be dangerous to others (e.g. metal ruler, flammable items, or pen knife) should not be brought to school. (SUCH ARTICLES IF BROUGHT TO SCHOOL WILL BE CONFISCATED.)
     *   All students are not allowed to have in their possession any weapon. They are also not allowed to bring any weapon-like item which is used or intended to be used to cause harm to others.
+
+
+##### **10\. Use of Mobile Phones in school**
+
+  
+
+*   All students are advised <u><b>not to</b></u> bring mobile phones to school. However, we understand that parents / guardians may at times require your children to bring mobile phones to school. As such, we would like to share some guidelines pertaining to the usage of mobile phones in school. These guidelines are meant to ensure that students are focused during lesson time and not distracted during their learning.  
+    
+
+    *   Mobile phones must be switched off, including during remedial classes and enrichment classes.
+    *   The school reserves the right to check on the mobile phones.
+    *   The responsibility for the safeguarding of the mobile phone rests on the students and parents. <b>The school will not be responsible for any loss of mobile phones.</b>
+    *   Inappropriate use of the mobile phone may result in its confiscation. All confiscated mobile phones will be handed over to the Student Management department for safe-keeping until a parent or guardian comes to the school to retrieve it.
