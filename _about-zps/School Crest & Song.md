@@ -3,7 +3,7 @@ title: School Crest & Song
 permalink: /about-zps/School-Crest-and-Song/
 description: ""
 ---
-![](/images/AboutZPSSubpage.jpg)
+![](/images/AboutUs.png)
 
 School Crest & Song
 ===================
