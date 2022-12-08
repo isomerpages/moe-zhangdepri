@@ -2,6 +2,7 @@ collections:
   about-zps:
     output: true
     order:
+      - Principal's Message.md
       - School Heritage and History/.keep
       - School Heritage and History/School Heritage and History.md
       - School Heritage and History/1923 to 1942.md
