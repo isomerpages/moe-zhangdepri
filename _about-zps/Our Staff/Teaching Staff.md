@@ -187,3 +187,56 @@ Teaching Staff
 #### **Form Teachers**  
   
 ##### **PRIMARY 1 2022**
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-x88q{background-color:#EFFBFF;color:#4C4C4C;text-align:left;vertical-align:middle}
+.tg .tg-j24s{background-color:#FFEFE3;color:#4C4C4C;text-align:left;vertical-align:middle}
+.tg .tg-ut1a{background-color:#EFFBFF;color:#0B5394;text-align:left;text-decoration:underline;vertical-align:top}
+.tg .tg-gfyo{background-color:#FFEFE3;color:#0B5394;text-align:left;text-decoration:underline;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-x88q"><span style="color:#4C4C4C;background-color:#EFFBFF">1 Graciousness</span><br></th>
+    <th class="tg-ut1a"><a href="mailto:tan_ping_ping_a@schools.gov.sg">Mdm Tan Ping Ping</a></th>
+    <th class="tg-ut1a"><a href="mailto:tian_yuyuan@schools.gov.sg">Mr Tian Yuyuan</a></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-j24s"><span style="color:#4C4C4C;background-color:#FFEFE3">1 Integrity</span><br></td>
+    <td class="tg-gfyo"><a href="mailto:koh_mui_khee_florence@schools.gov.sg">Mdm Florence Koh Mui Khee</a></td>
+    <td class="tg-gfyo"><a href="mailto:loh_keng_ming@schools.gov.sg">Mdm Ee Peck Hong</a><br></td>
+  </tr>
+  <tr>
+    <td class="tg-x88q"><span style="color:#4C4C4C;background-color:#EFFBFF">1 Versatility</span><br></td>
+    <td class="tg-ut1a"><a href="mailto:yeo_min_yi_winnie@schools.gov.sg">Ms Yeo Min Yi Winnie</a></td>
+    <td class="tg-ut1a"><a href="mailto:ho_lee_ling@schools.gov.sg">Mdm Ho Lee Ling</a><br></td>
+  </tr>
+  <tr>
+    <td class="tg-j24s"><span style="color:#4C4C4C;background-color:#FFEFE3">1 Empathy</span><br></td>
+    <td class="tg-gfyo"><a href="mailto:tan_chu_wei@schools.gov.sg">Ms Tan Chu Wei</a></td>
+    <td class="tg-gfyo"><a href="mailto:zhou_jin@schools.gov.sg">Mdm Zhou Jin</a><br></td>
+  </tr>
+  <tr>
+    <td class="tg-x88q"><span style="color:#4C4C4C;background-color:#EFFBFF">1 Responsibility</span><br></td>
+    <td class="tg-ut1a"><a href="mailto:qin_xueting@schools.gov.sg">Ms Qin Xueting</a></td>
+    <td class="tg-ut1a"><a href="mailto:radziah_mohamed@schools.gov.sg">Mdm Radziah Mohamed</a><br></td>
+  </tr>
+  <tr>
+    <td class="tg-j24s"><span style="color:#4C4C4C;background-color:#FFEFE3">1 Respect</span></td>
+    <td class="tg-gfyo"><a href="mailto:li_lam_mui_connie@schools.gov.sg">Ms Li Lam Mui Connie</a></td>
+    <td class="tg-gfyo"><a href="mailto:sundararajan_anandavalli@schools.gov.sg">Mdm Sundararajan Anandavalli</a></td>
+  </tr>
+  <tr>
+    <td class="tg-x88q"><span style="color:#4C4C4C;background-color:#EFFBFF">1 Sincerity</span><br></td>
+    <td class="tg-ut1a"><a href="mailto:chia_siew_geok@schools.gov.sg">Ms Chia Siew Geok</a></td>
+    <td class="tg-ut1a"><a href="mailto:mastura_abdul_hamid@schools.gov.sg">Ms Mastura Binte Abdul Hamid</a></td>
+  </tr>
+</tbody>
+</table>
