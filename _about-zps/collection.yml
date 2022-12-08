@@ -2,4 +2,5 @@ collections:
   about-zps:
     output: true
     order:
+      - Our Staff/Executive & Administrative Staff.md
       - Our Staff/.keep
