@@ -9,7 +9,7 @@ third_nav_title: Our Staff
 Teaching Staff
 ==============
 
-##### **Heads of Department**
+#### **Heads of Department**
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -86,7 +86,7 @@ Teaching Staff
 </table>
 
 
-##### **Level Heads/Subjects Heads**
+#### **Level Heads/Subjects Heads**
 
 
 <style type="text/css">
@@ -131,7 +131,7 @@ Teaching Staff
 </tbody>
 </table>
 
-##### **Assistant Year Heads**
+#### **Assistant Year Heads**
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -152,7 +152,7 @@ Teaching Staff
 </table>
 
 
-##### **Senior Teachers**
+#### **Senior Teachers**
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -183,3 +183,7 @@ Teaching Staff
   </tr>
 </tbody>
 </table>
+
+#### **Form Teachers**  
+  
+##### **PRIMARY 1 2022**
