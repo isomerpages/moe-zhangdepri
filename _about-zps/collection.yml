@@ -2,6 +2,7 @@ collections:
   about-zps:
     output: true
     order:
+      - School Heritage and History/1923 to 1942.md
       - School Heritage and History/1945 to 1975.md
       - School Heritage and History/1984 to 1998.md
       - School Heritage and History/1999 to 2004.md
