@@ -144,3 +144,28 @@ The Zhangde School Code of Conduct is a guide for students to ensure that the sc
 *   Used crockery must be returned to the respective receptacles provided.  
     
 *   When the music is played towards the end of recess time, students are to line up at their respective assembly area.
+
+
+**8.  Behaviour outside of School Premises**
+
+  
+
+*   Students are discouraged from loitering at shopping centres, void decks and playground in their school uniform.  
+    
+*   Students must be at their best behaviour at all times in public places.  
+    
+*   Students are to queue in an orderly manner to board the school buses / public buses / MRT trains before and after dismissal.  
+    
+
+  
+
+**9.  Prohibited items**
+
+  
+
+*   Items that interfere with students’ learning are not to be brought to school:  
+    
+
+    *   Any electronic device, MP3 players, toys (toy guns, toy models), hand-held games or card games (playing cards and trading cards) will be handed over to the Student Management department for safe-keeping until a parent / guardian comes to school to retrieve it.
+    *   Articles that may be dangerous to others (e.g. metal ruler, flammable items, or pen knife) should not be brought to school. (SUCH ARTICLES IF BROUGHT TO SCHOOL WILL BE CONFISCATED.)
+    *   All students are not allowed to have in their possession any weapon. They are also not allowed to bring any weapon-like item which is used or intended to be used to cause harm to others.
