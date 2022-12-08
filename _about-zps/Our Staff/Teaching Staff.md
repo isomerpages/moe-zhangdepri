@@ -628,3 +628,42 @@ Teaching Staff
 
 
 ##### **LEARNING SUPPORT**
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-qphe{background-color:#EFFBFF;color:#E77A2A;text-align:left;text-decoration:underline;vertical-align:top}
+.tg .tg-yahg{background-color:#FFEFE3;color:#4C4C4C;text-align:left;vertical-align:top}
+.tg .tg-52k0{background-color:#FFEFE3;color:#E77A2A;text-align:left;text-decoration:underline;vertical-align:top}
+.tg .tg-63nx{background-color:#FFF;color:#E77A2A;text-align:left;text-decoration:underline;vertical-align:top}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-qphe"><a href="mailto:lee_jin_ngee_patrick@schools.gov.sg">Mr Lee Jin Ngee Patrick</a></th>
+    <th class="tg-qphe"><a href="mailto:farzana_begum_kamal@schools.gov.sg">Ms Farzana Begum Binte Kamal</a></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-52k0"><a href="mailto:cheong_chin_fang@schools.gov.sg">Ms Cheong Chin Fang</a></td>
+    <td class="tg-52k0"><a href="mailto:Tay_Pei_niang_shermin@schools.gov.sg">Ms Tay Pei Niang Shermin</a></td>
+  </tr>
+  <tr>
+    <td class="tg-qphe"><a href="mailto:qin_xueting@schools.gov.sg">Ms Qin Xueting</a></td>
+    <td class="tg-qphe"><a href="mailto:phua_siew_hoon@schools.gov.sg">Mdm Phua Siew Hoon</a><br></td>
+  </tr>
+  <tr>
+    <td class="tg-52k0"><a href="mailto:koh_mui_khee_florence@schools.gov.sg">Mdm Florence Koh Mui Khee</a><br></td>
+    <td class="tg-yahg"></td>
+  </tr>
+  <tr>
+    <td class="tg-63nx"><a href="mailto:loh_keng_ming@schools.gov.sg">Mdm Ee Peck Hong</a><br></td>
+    <td class="tg-0lax"></td>
+  </tr>
+</tbody>
+</table>
