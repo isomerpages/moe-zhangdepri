@@ -563,3 +563,6 @@ Teaching Staff
   </tr>
 </tbody>
 </table>
+
+
+##### **MALAY LANGUAGE**
