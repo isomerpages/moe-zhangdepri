@@ -2,6 +2,7 @@ collections:
   about-zps:
     output: true
     order:
+      - School Rules and Regulations.md
       - School Crest & Song.md
       - Our Staff/Our Staff.md
       - Our Staff/Steering Committee.md
