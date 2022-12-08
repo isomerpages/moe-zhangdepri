@@ -2,4 +2,5 @@ collections:
   information:
     output: true
     order:
+      - Contact Us.md
       - ZPS Virtual School Tour.md
