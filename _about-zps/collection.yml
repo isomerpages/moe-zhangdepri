@@ -2,6 +2,7 @@ collections:
   about-zps:
     output: true
     order:
+      - Our Staff/Steering Committee.md
       - Our Staff/Teaching Staff.md
       - Our Staff/Student Support Team.md
       - Our Staff/Executive & Administrative Staff.md
