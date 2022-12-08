@@ -298,3 +298,51 @@ Teaching Staff
 
 
 ##### **PRIMARY 3 2022**
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-x88q{background-color:#EFFBFF;color:#4C4C4C;text-align:left;vertical-align:middle}
+.tg .tg-j24s{background-color:#FFEFE3;color:#4C4C4C;text-align:left;vertical-align:middle}
+.tg .tg-ut1a{background-color:#EFFBFF;color:#0B5394;text-align:left;text-decoration:underline;vertical-align:top}
+.tg .tg-gfyo{background-color:#FFEFE3;color:#0B5394;text-align:left;text-decoration:underline;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-x88q"><span style="color:#4C4C4C;background-color:#EFFBFF">3 Graciousness</span><br></th>
+    <th class="tg-ut1a"><a href="mailto:cindry_handojo@schools.gov.sg">Ms Cindry Handojo</a></th>
+    <th class="tg-ut1a"><a href="mailto:yang_XIAOQI@schools.gov.sg">Ms Yang Xiaoqi</a></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-j24s"><span style="color:#4C4C4C;background-color:#FFEFE3">3 Integrity</span><br></td>
+    <td class="tg-gfyo"><a href="mailto:putri_liyana_megat_mohd@schools.gov.sg">Ms Putri Lyana Megat</a></td>
+    <td class="tg-gfyo"><a href="mailto:tan_wei_lin@schools.gov.sg">Mr Tan Wei Lin</a></td>
+  </tr>
+  <tr>
+    <td class="tg-x88q"><span style="color:#4C4C4C;background-color:#EFFBFF">3 Versatility</span><br></td>
+    <td class="tg-ut1a"><a href="mailto:lee_jin_ngee_patrick@schools.gov.sg">Mr Lee Jin Ngee Patrick</a></td>
+    <td class="tg-ut1a"><a href="mailto:tan_chia_Huee@schools.gov.sg">Mdm Tan Chia Huee</a><br><a href="mailto:Sangappillai_Vasuki@schools.gov.sg">Ms Sangappillai Vasuki</a><br></td>
+  </tr>
+  <tr>
+    <td class="tg-j24s"><span style="color:#4C4C4C;background-color:#FFEFE3">3 Empathy</span><br></td>
+    <td class="tg-gfyo"><a href="mailto:shakkila_banu_gose_sulta@schools.gov.sg">Ms Shakkila Banu Gose Sulta</a></td>
+    <td class="tg-gfyo"><a href="mailto:ong_li_ya_sandy@schools.gov.sg">Ms Sandy Ong Li Ya</a><br><span style="color:#4C4C4C;background-color:#FFEFE3">Mr Prashan Silva</span></td>
+  </tr>
+  <tr>
+    <td class="tg-x88q"><span style="color:#4C4C4C;background-color:#EFFBFF">3 Responsibility</span><br></td>
+    <td class="tg-ut1a"><a href="mailto:muhammad_asyraf_yahaya@schools.gov.sg">Mr Muhammad Asyraf Bin Yahaya</a></td>
+    <td class="tg-ut1a"><a href="mailto:Tay_Pei_niang_shermin@schools.gov.sg">Ms Tay Pei Niang Shermin</a></td>
+  </tr>
+  <tr>
+    <td class="tg-j24s"><span style="color:#4C4C4C;background-color:#FFEFE3">3 Sincerity</span></td>
+    <td class="tg-gfyo"><a href="mailto:tan_jie_ying_cherynn@schools.gov.sg">Ms Tan Jie Ying Cherynn</a></td>
+    <td class="tg-gfyo"><a href="mailto:khairil_bahri_kamal@schools.gov.sg">Mr Khairil Bahri Kamal</a><br><a href="mailto:kayal_vili_pugalendi@schools.gov.sg">Mdm Kayal Vili d/o Pugalendi</a></td>
+  </tr>
+</tbody>
+</table>
