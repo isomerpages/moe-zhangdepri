@@ -8,3 +8,5 @@ third_nav_title: Our Staff
 
 Our Staff
 =========
+
+[Steering Committee](/about-zps/Our-Staff/Steering-Committee/)
