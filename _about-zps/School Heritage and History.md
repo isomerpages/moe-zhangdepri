@@ -7,3 +7,5 @@ description: ""
 
 School Heritage and History
 ===========================
+
+![](/images/ZPSImage.png)
