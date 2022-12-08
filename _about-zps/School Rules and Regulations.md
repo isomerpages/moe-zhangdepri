@@ -70,3 +70,25 @@ The Zhangde School Code of Conduct is a guide for students to ensure that the sc
     * The name tags are to be sewn on the left of the school uniform 1cm above the school badge.
 
 <figure><img src="/images/School%20Uniform%20cum%20PE%20Attire.jpg" style="width:55%"><figcaption> Dual Purpose: School Uniform cum P.E. Attire</figcaption></figure>
+
+
+*   Shoes and socks  
+    
+
+    * Only PLAIN BLACK shoes and school socks are allowed.
+    * Ankle socks are not allowed.
+
+*   Acceptable Hairstyles  
+    * Hair must be neat and tidy at all times.
+    * No gel, mousse, fancy hair styling, tinting or dyeing of hair is allowed.
+    * Boys must keep their hair short and tidy. Hair must be above the ears, collar and eyebrows. There should be a slope at the back.
+    * Boys are to be clean shaven, and not to wear beards and moustaches.
+    * Girls’ hair must be above the base of the collar or neatly tied up. Fringes must be neat and above the eyebrows.
+    * Girls will short hair should keep their fringe above the eyebrow. If the fringe is touching the eyebrow, only black clips or hair band should be used to keep the hair tidy.
+    * Girls with long hair should tie up their hair with black rubber bands or hair clips.
+
+*   Accessories  
+    * Girls should only wear plain ear stud less than 5mm in diameter. For safety reasons, NO dangling or multiple earrings are allowed.
+    * Boys are not allowed to pierce ears or wear ear studs.
+    * Spectacles (if worn) should be plain frame and non-tinted, unless recommended by the physician.
+    * Nails must be kept short and clean. No varnish or hardener is allowed.
