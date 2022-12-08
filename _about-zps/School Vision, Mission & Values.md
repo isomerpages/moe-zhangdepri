@@ -23,3 +23,22 @@ To nurture thinking individuals and gracious citizens
 ##### **School Values**
 
 We are anchored and guided by the <b>GIVER3S</b> Heart values of:
+
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-w8cb{background-color:#FFF;border-color:#ffffff;color:#6892E5;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-zcmz{border-color:#ffffff;color:#6892e5;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <td class="tg-w8cb">G<span style="background-color:#FFF">raciousness</span><br><img src="https://zhangdepri.moe.edu.sg/qql/slot/u180/About%20ZPS/School%20Vision%20Mission%20and%20Values/Zhangde%20Pri%20-%20A2%20Posters%20for%20School%20Values%20Giver3s%202019_Graciousness%20final-01.jpg" alt="Zhangde Pri - A2 Posters for School Values Giver3s 2019_Graciousness final-01.jpg" width="372" height="606"></td>
+    <td class="tg-zcmz"><span style="background-color:#FFF"> </span>I<span style="background-color:#FFF">ntegrity</span><br><img src="https://zhangdepri.moe.edu.sg/qql/slot/u180/About%20ZPS/School%20Vision%20Mission%20and%20Values/Zhangde%20Pri%20-%20A2%20Posters%20for%20School%20Values%20Giver3s%202019_Integrity%20final-01.jpg" alt="Zhangde Pri - A2 Posters for School Values Giver3s 2019_Integrity final-01.jpg" width="367" height="611"></td>
+  </tr>
+</thead>
+</table>
