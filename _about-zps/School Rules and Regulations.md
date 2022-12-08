@@ -92,3 +92,55 @@ The Zhangde School Code of Conduct is a guide for students to ensure that the sc
     * Boys are not allowed to pierce ears or wear ear studs.
     * Spectacles (if worn) should be plain frame and non-tinted, unless recommended by the physician.
     * Nails must be kept short and clean. No varnish or hardener is allowed.
+
+
+**5.  Behaviour in the Assembly Area**
+
+  
+
+*   There should be silence when students gather at the assembly area.  
+    
+*   Students are expected to read a book before morning assembly / pledge-taking ceremony in the assembly area.  
+    
+
+  
+
+**6.  Behaviour during Curriculum Time**
+
+  
+
+*   Students are to bring their books to school according to their daily time-table and submit all homework and assignments on time.  
+    
+*   Students are only allowed to leave the classroom when permission is granted by the teacher. Students should display the “Exit Permit” pass prominently when leaving the classroom.  
+    
+*   Students are expected to read a book while waiting for their teachers in the classrooms.  
+    
+*   Students will observe silence and move in an orderly manner to and from the classroom. They are to move according to their class in twos and always keep to their left.  
+    
+*   Students must ensure that their classrooms doors are closed and lights and fans switched off when not in use.  
+    
+
+  
+
+**7.  Behaviour during Recess Time**
+
+  
+
+*   Students should queue up in an orderly manner when buying food or drinks.  
+    
+*   Students are to keep the canteen clean.  
+    
+*   Students should not run or play in the canteen.  
+    
+*   Food and drinks should be consumed ONLY in the canteen.  
+    
+*   For hygiene reasons, all students are encouraged to: –  
+    
+
+     i)  wash their hands before and after consumption of food; &
+
+     ii)  use cutlery when consuming their food.
+
+*   Used crockery must be returned to the respective receptacles provided.  
+    
+*   When the music is played towards the end of recess time, students are to line up at their respective assembly area.
