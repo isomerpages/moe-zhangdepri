@@ -242,3 +242,56 @@ Teaching Staff
 </table>
 
 ##### **PRIMARY 2 2022**
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-x88q{background-color:#EFFBFF;color:#4C4C4C;text-align:left;vertical-align:middle}
+.tg .tg-j24s{background-color:#FFEFE3;color:#4C4C4C;text-align:left;vertical-align:middle}
+.tg .tg-ut1a{background-color:#EFFBFF;color:#0B5394;text-align:left;text-decoration:underline;vertical-align:top}
+.tg .tg-gfyo{background-color:#FFEFE3;color:#0B5394;text-align:left;text-decoration:underline;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-x88q"><span style="color:#4C4C4C;background-color:#EFFBFF">2 Graciousness</span><br></th>
+    <th class="tg-ut1a"><a href="mailto:hajera_tasneem_abdul_azeez@schools.gov.sg">Ms Hajera Tasneem E N Abdul Azeez</a></th>
+    <th class="tg-ut1a"><a href="mailto:lee_li_hui_lydia@schools.gov.sg">Ms Lydia Lee</a></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-j24s"><span style="color:#4C4C4C;background-color:#FFEFE3">2 Integrity</span><br></td>
+    <td class="tg-gfyo"><a href="mailto:phua_siew_hoon@schools.gov.sg">Mdm Phua Siew Hoon</a></td>
+    <td class="tg-gfyo"><a href="mailto:mou_wai_nor@schools.gov.sgschools.gov.sg">Ms Mou Wai Nor</a><br><a href="mailto:tan_kim_choo@schools.gov.sg">Mdm Tan Kim Choo</a><br></td>
+  </tr>
+  <tr>
+    <td class="tg-x88q"><span style="color:#4C4C4C;background-color:#EFFBFF">2 Versatility</span><br></td>
+    <td class="tg-ut1a"><a href="mailto:syed_hakkim_nisha_sikkandar@schools.gov.sg">Ms Syed Hakkim Nisha D/O Sikkandar</a></td>
+    <td class="tg-ut1a"><a href="mailto:chin_meiyi@schools.gov.sg">Ms Chin Meiyi</a><br><a href="mailto:liu_yuanling_candice@schools.gov.sgschools.gov.sg">Ms Liu Yuanling Candice</a><br></td>
+  </tr>
+  <tr>
+    <td class="tg-j24s"><span style="color:#4C4C4C;background-color:#FFEFE3">2 Empathy</span><br></td>
+    <td class="tg-gfyo"><a href="mailto:han_xuehui_delicia@schools.gov.sg">Mdm Han Xuehui Delicia</a></td>
+    <td class="tg-gfyo"><a href="mailto:Nailah_Nizam_Thaha@schools.gov.sg">Ms Nailah Binte Nizam Thaha</a></td>
+  </tr>
+  <tr>
+    <td class="tg-x88q"><span style="color:#4C4C4C;background-color:#EFFBFF">2 Responsibility</span><br></td>
+    <td class="tg-ut1a"><a href="mailto:Seah_Shi_Hui_Jolene@schools.gov.sg">Ms Seah Shi Hui Jolene</a></td>
+    <td class="tg-ut1a"><a href="mailto:low_yu_ci@schools.gov.sg">Ms Low Yu Ci</a><br></td>
+  </tr>
+  <tr>
+    <td class="tg-j24s"><span style="color:#4C4C4C;background-color:#FFEFE3">2 Respect</span></td>
+    <td class="tg-gfyo"><a href="mailto:ong_bee_hoon@schools.gov.sg">Mdm Ong Bee Hoon, Tiffany</a></td>
+    <td class="tg-gfyo"><a href="mailto:wan_xiaolin@schools.gov.sg">Ms Wan Xiaolin</a></td>
+  </tr>
+  <tr>
+    <td class="tg-x88q"><span style="color:#4C4C4C;background-color:#EFFBFF">2 Sincerity</span><br></td>
+    <td class="tg-ut1a"><a href="mailto:tan_si_mei_grace@schools.gov.sg">Mdm Tan Si Mei Grace</a></td>
+    <td class="tg-ut1a"><a href="mailto:lee_siew_ming@schools.gov.sg">Ms Lee Siew Ming</a></td>
+  </tr>
+</tbody>
+</table>
