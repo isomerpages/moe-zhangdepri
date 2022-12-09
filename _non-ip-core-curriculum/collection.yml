@@ -2,5 +2,6 @@ collections:
   non-ip-core-curriculum:
     output: true
     order:
+      - CCAs/Girls' Brigade.md
       - CCAs/Boys' Brigade.md
       - CCAs/.keep
