@@ -2,4 +2,5 @@ collections:
   our-programmes:
     output: true
     order:
+      - Our Stories/R3 Club @ Zhangde.md
       - Our Stories/.keep
