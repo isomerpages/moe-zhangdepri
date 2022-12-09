@@ -16,20 +16,20 @@ The Girls’ Brigade, 53rd Company is an Uniformed Group that seeks to develop e
 
 <i><b>Every Officer a Servant Leader</b></i>
 
-In GB, the girls go through the **STAR programme** and there are five aspects as follows.
+In GB, the girls go through the <b>STAR programme</b> and there are five aspects as follows.
 
-·       **J**\-Journey : Learning journeys
+·       <b>J</b>\-Journey : Learning journeys
 
-·       **S**\-Service : Serving others
+·       <b>S</b>\-Service : Serving others
 
-·       **T**\-Treasure : Learning new skills
+·       <b>T</b>\-Treasure : Learning new skills
 
-·       **A**\-Activity : Physical Activity
+·       <b>A</b>\-Activity : Physical Activity
 
-·       **R**\-Responsibility : Growing to be more responsible
+·       <b>R</b>\-Responsibility : Growing to be more responsible
 
 The programs and activities carried out under the five aspects are varied and seek to teach the girls good character values, new skills, as well as social and interpersonal skills. 
 
-Over the last 10 years, our 53rd GB Company has clinched the **_Gold Award_** and **_Sustained Gold Awards_**. 
+Over the last 10 years, our 53rd GB Company has clinched the <i><b>Gold Award</b></i> and <i><b>Sustained Gold Awards</b></i>. 
 
 The Girls’ Brigade is an after school CCA conducted on Fridays, from 2:00 – 4:00 pm.
