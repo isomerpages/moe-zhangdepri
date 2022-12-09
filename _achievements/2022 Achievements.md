@@ -65,3 +65,6 @@ OPEN CATEGORY:
   </tr>
 </tbody>
 </table>
+
+
+JUNIOR CATEGORY:
