@@ -25,4 +25,4 @@ Achievements
 
   
 
-[2018 Achievements](https://zhangdepri.moe.edu.sg/our-programmes/our-stories/achievements/2018-achievements)
+[2018 Achievements](/achievements/2018-Achievements/)
