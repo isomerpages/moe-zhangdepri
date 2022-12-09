@@ -30,3 +30,6 @@ Kindergarten students who visit Zhangde are also exposed to our ALP. Led by thei
   
 
 The school collaborated with StarHub and Tiong Bahru Community Centre in a week-long electronic waste outreach project to save “Our Singapore” (2019’s theme for the national celelbrations). An information booth on recycling electronic waste and an electronic waste recycling bin were set up at the CC to raise awareness of recycling electronic wastes, as well as to encourage the Tiong Bahru residents to bring in their electronic wastes. We collected a total amount of 253.6 kg of e-waste during this drive.
+
+![](/images/Environmental%20Outreach3.png)
+<b>Outreach to Tiong Bahru Community Centre to raise the awareness of Tiong Bahru residents on the importance of recycling electronic waste.</b>
