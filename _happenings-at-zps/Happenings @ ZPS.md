@@ -26,3 +26,5 @@ Happenings @ ZPS
 ![](/images/P1%20Welcome.gif)
 
 #### **P2 Orientation**
+
+![](/images/P2%20Orientation.gif)
