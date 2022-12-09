@@ -2,6 +2,8 @@ logo: /images/school logo.png
 links:
   - title: About ZPS
     collection: about-zps
+  - title: Information
+    collection: information
   - title: Contact Us
     url: /contact-us/
   - title: Example Page
