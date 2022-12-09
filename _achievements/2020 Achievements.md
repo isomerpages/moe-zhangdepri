@@ -105,3 +105,50 @@ description: ""
 
 13th Annual Mathlympics Competition 2020
 ----------------------------------------
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-q6nq{color:#4C4C4C;text-align:left;vertical-align:top}
+.tg .tg-1wig{font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-gpqx{color:#4C4C4C;font-weight:bold;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-gpqx"></th>
+    <th class="tg-gpqx">Name of Student</th>
+    <th class="tg-gpqx">Class</th>
+    <th class="tg-1wig">Award</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-q6nq"><span style="color:black">1</span></td>
+    <td class="tg-q6nq"><span style="color:black">Zhou Wuyou</span></td>
+    <td class="tg-q6nq"><span style="color:black">5 Graciousness</span></td>
+    <td class="tg-q6nq"><span style="color:black">Gold Award</span></td>
+  </tr>
+  <tr>
+    <td class="tg-q6nq"><span style="color:black">2</span></td>
+    <td class="tg-q6nq"><span style="color:black">Chew Yun Yi</span></td>
+    <td class="tg-q6nq"><span style="color:black">5 Graciousness</span></td>
+    <td class="tg-q6nq"><span style="color:black">Silver Award</span></td>
+  </tr>
+  <tr>
+    <td class="tg-q6nq"><span style="color:black">3</span></td>
+    <td class="tg-q6nq"><span style="color:black">Kim Geonu</span></td>
+    <td class="tg-q6nq"><span style="color:black">5 Versatility</span></td>
+    <td class="tg-q6nq"><span style="color:black">Bronze Award</span></td>
+  </tr>
+  <tr>
+    <td class="tg-q6nq"><span style="color:black">4</span></td>
+    <td class="tg-q6nq"><span style="color:black">Winston Mohan-He</span></td>
+    <td class="tg-q6nq"><span style="color:black">5 Graciousness</span></td>
+    <td class="tg-q6nq"><span style="color:black">Bronze Award</span></td>
+  </tr>
+</tbody>
+</table>
