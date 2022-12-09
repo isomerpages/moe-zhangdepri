@@ -186,3 +186,34 @@ description: ""
   </tr>
 </tbody>
 </table>
+
+
+### Clubs
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-q6nq{color:#4C4C4C;text-align:left;vertical-align:top}
+.tg .tg-br2o{background-color:#E6E6E6;color:#4C4C4C;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-q6nq">Award</th>
+    <th class="tg-q6nq">Achievement</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-br2o">National Robotics Programming Competition 2018</td>
+    <td class="tg-br2o">2nd Team Placing for Best Research Journal</td>
+  </tr>
+  <tr>
+    <td class="tg-q6nq">South Zone International Chess Carnival 2018</td>
+    <td class="tg-q6nq">Merit Award</td>
+  </tr>
+</tbody>
+</table>
