@@ -72,3 +72,6 @@ Learning journeys and camps are organised for all levels to enhance the students
   
 
 These are Environment Leaders in every class to actively promote recycling efforts, as well as to encourage their classmates to conserve energy and water, and reduce food wastage. The Environment Leaders also assist in carrying out environment-related activities during the annual commemoration of Environment Events such as Environment Week and International Biodiversity Day.
+
+![](/images/ALP6.png)
+<b>Environment Leaders encouraging the students to recycle newspapers.</b>
