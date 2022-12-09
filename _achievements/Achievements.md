@@ -17,7 +17,7 @@ Achievements
 
   
 
-[2020 Achievements](https://zhangdepri.moe.edu.sg/our-programmes/our-stories/achievements/2020-achievements)
+[2020 Achievements](/achievements/2020-Achievements/)
 
   
 
