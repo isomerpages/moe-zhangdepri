@@ -32,3 +32,4 @@ The school has developed its own distinctive Environment Education curriculum th
 Environment Education is infused into the teaching and learning of all subjects to facilitate a more holistic understanding of environment conservation in our students. Our themed gardens also complement Environment Education by providing our students with rich, authentic learning experiences as they engage their heads, hearts and hands in their learning through trails, observation and drawing activities.
 
 ![](/images/ALP1.png)
+<b>Students actively learning on the diverse biodiversity of plants and animals from our themed gardens.</b>
