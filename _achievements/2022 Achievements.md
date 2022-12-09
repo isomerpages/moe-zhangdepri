@@ -68,3 +68,56 @@ OPEN CATEGORY:
 
 
 JUNIOR CATEGORY:
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-6zpi{background-color:#FFEFE3;color:#4C4C4C;text-align:center;vertical-align:top}
+.tg .tg-b05j{background-color:#EFFBFF;color:#4C4C4C;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-sueg{background-color:#EFFBFF;color:#4C4C4C;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-sueg"> </th>
+    <th class="tg-b05j">Name of Student</th>
+    <th class="tg-b05j">Class</th>
+    <th class="tg-b05j">Certificate</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-6zpi">1</td>
+    <td class="tg-6zpi">           CHEONG JIA XUAN ALETHEA</td>
+    <td class="tg-6zpi">            5 VERSATILITY</td>
+    <td class="tg-6zpi">DISTINCTION</td>
+  </tr>
+  <tr>
+    <td class="tg-sueg">2</td>
+    <td class="tg-sueg">               EUGENE KONG JOON PIN</td>
+    <td class="tg-sueg">            5 INTEGRITY</td>
+    <td class="tg-sueg">DISTINCTION</td>
+  </tr>
+  <tr>
+    <td class="tg-6zpi">3</td>
+    <td class="tg-6zpi">             GOH CHENG XUAN, JAYDEN</td>
+    <td class="tg-6zpi">            5 INTEGRITY</td>
+    <td class="tg-6zpi">DISTINCTION</td>
+  </tr>
+  <tr>
+    <td class="tg-sueg">4</td>
+    <td class="tg-sueg">              SAMIRAJA RANJANI SHYAM</td>
+    <td class="tg-sueg">            5 INTEGRITY</td>
+    <td class="tg-sueg">DISTINCTION</td>
+  </tr>
+  <tr>
+    <td class="tg-6zpi">5</td>
+    <td class="tg-6zpi">                   GLENN LIU CHANG HUI</td>
+    <td class="tg-6zpi">            5 GRACIOUSNESS</td>
+    <td class="tg-6zpi">MERIT</td>
+  </tr>
+</tbody>
+</table>
