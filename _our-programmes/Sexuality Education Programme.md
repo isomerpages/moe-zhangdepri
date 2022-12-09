@@ -184,3 +184,15 @@ At Zhangde Primary School, the following lessons from the Growing Years Programm
   </tr>
 </tbody>
 </table>
+
+##### **Information for Parents**
+
+1.    Parents may opt their children out of the Growing Years programme, and/or supplementary sexuality education programmes by MOE-approved external providers.
+
+2.    Parents who wish to opt their children out of the <b>Growing Years (GY) programme</b> need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable 
+
+The completed opt-out form is to be submitted by 21/01/2022.
+
+3.    Parents can contact the school at Tel: <b>62740357</b> or Email: [_zhangde\_ps@moe.edu.sg_](mailto:zhangde_ps@moe.edu.sg)  for discussion or to seek clarification about the school’s sexuality education programme.
+
+4.    Parents, who wish to attend the school sexuality education programmes, should contact the school to make the necessary arrangements.
