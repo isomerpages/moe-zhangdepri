@@ -63,3 +63,6 @@ Students are involved in the Commemoration of Environment Week as well as Intern
   
 
 Learning journeys and camps are organised for all levels to enhance the students’ awareness of the natural and man-made conservation areas and parks found in Singapore. They also learn more about biodiversity and thus better appreciate the importance of conserving them. A highlight for the P3s would be their overnight stay at the Zoo under tents and having the animals around them, it certainly feels like they are on safari!
+
+![](/images/ALP5.png)
+<b>P2 Learning Journey learning on animals with shells @ Science Centre and P3 Camp @ Singapore Zoo learning about animal diversity and conservation.</b>
