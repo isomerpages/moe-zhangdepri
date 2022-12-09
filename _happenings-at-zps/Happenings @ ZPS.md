@@ -13,3 +13,5 @@ Happenings @ ZPS
 ### [2022 Term 1](/happenings-at-zps/2022-Term-1/)
 
 ##### **Class Breakfast**
+
+![](/images/Class%20Breakfast.gif)
