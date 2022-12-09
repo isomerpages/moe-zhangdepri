@@ -11,3 +11,57 @@ description: ""
 <u><b>Raffles Institution Primary Mathematics World Contest (RIPMWC) (2022)</b></u>
 
 OPEN CATEGORY:
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-6zpi{background-color:#FFEFE3;color:#4C4C4C;text-align:center;vertical-align:top}
+.tg .tg-b05j{background-color:#EFFBFF;color:#4C4C4C;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-amwm{font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-sueg{background-color:#EFFBFF;color:#4C4C4C;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-b05j"></th>
+    <th class="tg-b05j">Name of Student</th>
+    <th class="tg-b05j">Class</th>
+    <th class="tg-amwm">Certificate</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-6zpi">1</td>
+    <td class="tg-6zpi">                       LEE YOOBIN</td>
+    <td class="tg-6zpi">              6 VERSATILITY</td>
+    <td class="tg-6zpi">DISTINCTION</td>
+  </tr>
+  <tr>
+    <td class="tg-sueg">2</td>
+    <td class="tg-sueg">                  LEXIS YONG KAI ZHE</td>
+    <td class="tg-sueg">              6 INTEGRITY</td>
+    <td class="tg-sueg">DISTINCTION</td>
+  </tr>
+  <tr>
+    <td class="tg-6zpi">3</td>
+    <td class="tg-6zpi">                          TAO WEIQI</td>
+    <td class="tg-6zpi">              6 INTEGRITY</td>
+    <td class="tg-6zpi">DISTINCTION</td>
+  </tr>
+  <tr>
+    <td class="tg-sueg">4</td>
+    <td class="tg-sueg">                          WAH DE EN</td>
+    <td class="tg-sueg">              6 INTEGRITY</td>
+    <td class="tg-sueg">DISTINCTION</td>
+  </tr>
+  <tr>
+    <td class="tg-6zpi">5</td>
+    <td class="tg-6zpi">          JASON ELIJAH WONG EN SHUO</td>
+    <td class="tg-6zpi">              6 GRACIOUSNESS</td>
+    <td class="tg-6zpi">MERIT</td>
+  </tr>
+</tbody>
+</table>
