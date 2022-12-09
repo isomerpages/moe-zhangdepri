@@ -33,3 +33,7 @@ The programs and activities carried out under the five aspects are varied and se
 Over the last 10 years, our 53rd GB Company has clinched the <i><b>Gold Award</b></i> and <i><b>Sustained Gold Awards</b></i>. 
 
 The Girls’ Brigade is an after school CCA conducted on Fridays, from 2:00 – 4:00 pm.
+
+![](/images/GB1.jpg)
+
+![](/images/GB2.jpg)
