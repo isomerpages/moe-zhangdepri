@@ -15,4 +15,4 @@ Learning Environment
 Journey to the Land of Imagination through the doors of the Loo Kian Cheang Library!
 
 
-<img src="/images/xxx.png" style="width:183px;height:240px;margin-left:15px;" align = "right">
+<img src="/images/xxx.png" style="width:183px;height:240px;margin-right:15px;" align = "left">
