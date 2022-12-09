@@ -12,12 +12,12 @@ Happenings @ ZPS
 
 ### [2022 Term 1](/happenings-at-zps/2022-Term-1/)
 
-##### **Class Breakfast**
+#### **Class Breakfast**
 
 ![](/images/Class%20Breakfast.gif)
 
 
-##### **P1 Orientation**
+#### **P1 Orientation**
 
 
-##### **P1 Welcome**
+#### **P1 Welcome**
