@@ -54,3 +54,6 @@ Students are involved in the Commemoration of Environment Week as well as Intern
 
 ![](/images/ALP3.png)
 <b>Students played student-created games that made use of recycled materials like bottle caps and plastic bottles.</b>
+
+![](/images/ALP4.png)
+<b>Students learn about the various single-use plastics through completing crossword puzzles and other games during the Environment Week recess activities. Information about the negative uses of single-use plastic was also highlighted at the booth.</b>
