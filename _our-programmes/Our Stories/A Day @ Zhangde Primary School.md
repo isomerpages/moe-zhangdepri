@@ -8,3 +8,5 @@ third_nav_title: Our Stories
 
 A Day @ Zhangde Primary School
 ==============================
+
+Note: Video not uploaded via Youtube. 
