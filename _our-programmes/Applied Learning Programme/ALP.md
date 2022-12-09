@@ -33,3 +33,13 @@ Environment Education is infused into the teaching and learning of all subjects 
 
 ![](/images/ALP1.png)
 <b>Students actively learning on the diverse biodiversity of plants and animals from our themed gardens.</b>
+
+<b>Co-Curriculum</b>
+
+  
+
+1\. Recycling Projects
+
+  
+
+The school has embarked on several recycling projects over the years. These include the recycling of paper, plastic, tetra-paks, ring tabs, electronic equipment, pens and correction tape holders. It is important for our students to do their part for the Environment by not wasting resources and actively re-using items or turning them into new products.
