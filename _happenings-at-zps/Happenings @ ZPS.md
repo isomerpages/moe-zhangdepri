@@ -32,3 +32,5 @@ Happenings @ ZPS
 #### **Walk With Me**
 
 ![](/images/Walk%20With%20Me.gif)
+
+#### **Chinese New Year Celebrations**
