@@ -2,4 +2,5 @@ collections:
   happenings-at-zps:
     output: true
     order:
+      - 2022 Term 2.md
       - Students' Work.md
