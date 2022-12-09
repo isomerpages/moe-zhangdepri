@@ -16,8 +16,8 @@ description: ""
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-cly1{text-align:left;vertical-align:middle}
 .tg .tg-3qhc{background-color:#E6E6E6;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-yla0{font-weight:bold;text-align:left;vertical-align:middle}
 </style>
 <table class="tg">
 <thead>
@@ -28,8 +28,8 @@ description: ""
 </thead>
 <tbody>
   <tr>
-    <td class="tg-cly1">Choir - 7th Asian Arts Festival Choral Singing Category</td>
-    <td class="tg-cly1"> Silver Award</td>
+    <td class="tg-yla0">Choir - 7th Asian Arts Festival Choral Singing Category</td>
+    <td class="tg-yla0"> Silver Award</td>
   </tr>
 </tbody>
 </table>
