@@ -121,3 +121,5 @@ JUNIOR CATEGORY:
   </tr>
 </tbody>
 </table>
+
+<u><b>Singapore Mathematical Olympiad for Primary Schools (2022)</b></u>
