@@ -4,7 +4,8 @@ links:
     collection: about-zps
   - title: Information
     collection: information
+  - title: Our Programmes
+    url: /permalink
+    sublinks: []
   - title: Contact Us
     url: /contact-us/
-  - title: Example Page
-    url: /example-page/
