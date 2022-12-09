@@ -111,3 +111,63 @@ On rainy days, school buses will have the priority to park at the porch area. Dr
 Gates 1 and 2 are for vehicles ONLY. Students and parents walking to school are advised to enter the school through Gate 3 for safety reasons. Beyond the stipulated gates opening hours, students and parents are advised to follow the printed footpath along the bus bay to exit from Gate 2.
 
 ![](/images/School%20Safety%20&%20Emergency%20Management.png)
+
+
+##### **Emergency Response**
+
+  
+
+An emergency is defined as a sudden incident involving actual and/or potential loss of lives or damage to property on a scale in excess of what a school can normally deal with. An emergency can also include a mishap arousing high public interest and parental concern.
+
+  
+
+Emergency drills are conducted twice a year in the school to prepare our students for any such emergency. The fire alarm will be rung continuously for at least 1 minute, over the PA system. An immediate safety evacuation to the assembly area is to be carried out by students according to the following procedure:
+
+  
+
+*   Assemble quickly outside the classroom;  
+    
+*   Listen for instructions over the PA system;  
+    
+*   Walk briskly to the assembly area by the shortest route immediately;  
+    
+*   Wait for further instructions at the assembly area.  
+    
+
+  
+
+In light of SG Secure, the school will also conduct a lockdown drill and an evacuation drill to an External Holding Area (EHA). These drills are part of school efforts to strengthen the emergency preparedness of our students and staff.
+
+
+##### **Haze Situation**
+
+  
+
+Haze evacuation drill is conducted once a year to familiarise everyone with the haze management plan during haze situation. Every classroom is now equipped with two air purifiers. In the event the PSI readings rise to ‘Very Unhealthy’ or ‘Hazardous’ bands, the haze management plan will be activated as follows: –
+
+  
+
+*   All outdoor activities will be cancelled.  
+    
+*   All windows and doors in the classroom are to be closed while all the fans and air purifiers are to be turned on. Thereafter, await for further instructions from the Principal.  
+    
+*   Students who have breathing difficulties will be attended to promptly. These students will be sent to the Band Room @ ISH or PAL Room (nearest to where the class is) if necessary.  
+    
+*   Students will escorted to the toilets at all times by the teachers.  
+    
+*   If any of the students is not feeling well at the point of dismissal, he/she will be sent to the General Office and the parent will be contacted to come to fetch him/her home.  
+    
+*   Form teachers are to remind students with pre-existing lung or heart conditions, and their parents to ensure that the students bring their medication (e.g. inhalers) to school.  
+    
+
+  
+
+##### **Travel Declaration**
+
+  
+
+As part of emergency management to safeguard your child’s health and that of all children and staff in the school, students who travel out of Singapore during the holidays and on long weekends are required to submit their Travel Declarations to the school. We seek the cooperation of parents/guardians in ensuring this.
+
+  
+
+You may submit your child’s travel declaration online via the Parents Gateway(PG) App. Parents who are not on board PG may collect a hardcopy of the travel declaration form from the general office.
