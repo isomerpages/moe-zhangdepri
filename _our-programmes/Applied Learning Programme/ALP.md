@@ -66,3 +66,9 @@ Learning journeys and camps are organised for all levels to enhance the students
 
 ![](/images/ALP5.png)
 <b>P2 Learning Journey learning on animals with shells @ Science Centre and P3 Camp @ Singapore Zoo learning about animal diversity and conservation.</b>
+
+4\. Student Leadership Programme – Environment Leaders
+
+  
+
+These are Environment Leaders in every class to actively promote recycling efforts, as well as to encourage their classmates to conserve energy and water, and reduce food wastage. The Environment Leaders also assist in carrying out environment-related activities during the annual commemoration of Environment Events such as Environment Week and International Biodiversity Day.
