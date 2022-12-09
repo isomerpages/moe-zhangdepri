@@ -63,3 +63,63 @@ c.    Character and Citizenship Education (CCE)
 At Zhangde Primary School, the following lessons from the Growing Years Programme will be taught in 2022:
 
 <u><b>Primary 5</b></u>
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-55mt{background-color:#D9D9D9;color:#4C4C4C;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-8dwo{color:#4C4C4C;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-55mt">UNIT</th>
+    <th class="tg-55mt">LESSONS / DURATION</th>
+    <th class="tg-55mt">LESSON OBJECTIVES<br>At the end of the lesson, pupils will be able to:</th>
+    <th class="tg-55mt">TIME PERIOD <br> </th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-8dwo" rowspan="4">Gosh! I Am Changing</td>
+    <td class="tg-8dwo">What Is Happening To Me?<br>(30 min)</td>
+    <td class="tg-8dwo">·         know what puberty is<br>·         identify the physical changes during puberty</td>
+    <td class="tg-8dwo" rowspan="3">Term 3<br> </td>
+  </tr>
+  <tr>
+    <td class="tg-8dwo">What Can I Do? (Part 1)<br> (30 min)</td>
+    <td class="tg-8dwo">·         identify the stresses caused by physical and emotional changes during puberty<br>·         describe healthy ways to manage the stresses caused by physical and emotional changes during puberty<br>·         describe the emotions caused by physical changes during puberty <br>·         recognise that one’s identity does not change even when one’s body is experiencing change due to puberty</td>
+  </tr>
+  <tr>
+    <td class="tg-8dwo">What Can I Do? (Part 2)<br> (30 min)</td>
+    <td class="tg-8dwo">·         identify the stresses caused by physical and emotional changes during puberty<br>·         describe healthy ways to manage the stresses caused by these physical and emotional changes during puberty<br>·         describe the emotions caused by physical changes during puberty <br>·         recognise that one’s identity does not change even when one’s body is experiencing change due to puberty</td>
+  </tr>
+  <tr>
+    <td class="tg-8dwo">Main Task<br>(30 min)</td>
+    <td class="tg-8dwo">Description of the Main Task:<br>Pupils are to play the role of an Uncle/Aunt Agony to help a peer address his/her experiences during puberty. They will consider the situation from the point of view of the peer and share ways to help him/her cope with the changes he/she is going through.</td>
+    <td class="tg-8dwo" rowspan="5">Term 3<br> </td>
+  </tr>
+  <tr>
+    <td class="tg-8dwo">Where I Belong </td>
+    <td class="tg-8dwo">What Are Families?<br>(30 min)<br> </td>
+    <td class="tg-8dwo">·         know that there are different types of family structures<br>·         know that every family is unique<br>·         state that the three basic functions of families are to provide love, protection and guidance<br>·         identify the right sources of help to turn to when in need</td>
+  </tr>
+  <tr>
+    <td class="tg-8dwo">Where I Belong</td>
+    <td class="tg-8dwo">What is My Role?<br> (30 min)</td>
+    <td class="tg-8dwo">·         know that gender is about being male or female<br>·         choose not to stereotype by gender </td>
+  </tr>
+  <tr>
+    <td class="tg-8dwo" rowspan="2">How Do I Keep Myself Safe?</td>
+    <td class="tg-8dwo">What is Safety?<br>(30 min)</td>
+    <td class="tg-8dwo">·         know what sexual abuse is<br>·         know that there are laws in Singapore that can protect them from sexual abuse<br>·         know their rights in keeping themselves safe from sexual abuse</td>
+  </tr>
+  <tr>
+    <td class="tg-8dwo">Stop It! Run! Tell!<br>(30 min)</td>
+    <td class="tg-8dwo">·         protect themselves by resisting, removing themselves from harm and seeking help from a trusted adult<br>·         know their responsibilities in minimising the risk of sexual harm</td>
+  </tr>
+</tbody>
+</table>
