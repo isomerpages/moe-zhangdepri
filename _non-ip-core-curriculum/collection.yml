@@ -1,0 +1,4 @@
+collections:
+  non-ip-core-curriculum:
+    output: true
+    order: []
