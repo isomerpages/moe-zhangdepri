@@ -51,3 +51,6 @@ The school has embarked on several recycling projects over the years. These incl
   
 
 Students are involved in the Commemoration of Environment Week as well as International Biodiversity Day. During the Environment week, students learn about Energy and water conservation as well as the importance of reusing, reducing and recycling. Assembly programmes and hands-on activities are integrated to enhance their learning.
+
+![](/images/ALP3.png)
+<b>Students played student-created games that made use of recycled materials like bottle caps and plastic bottles.</b>
