@@ -75,3 +75,10 @@ These are Environment Leaders in every class to actively promote recycling effor
 
 ![](/images/ALP6.png)
 <b>Environment Leaders encouraging the students to recycle newspapers.</b>
+
+
+5\. Environment Club (CCA)
+
+  
+
+This club is open to Primary 3 to Primary 6 students who are passionate and concerned about environment-related issues. The Environment Club members are mainly involved in gardening, vermicomposting activities and other environment-related projects and learning. As part of serving the school and community, the Club fertilises the plants in the school compound and gifts neighbours with their very own cultured vermi-compost tea.
