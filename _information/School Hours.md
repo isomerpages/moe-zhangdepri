@@ -39,3 +39,6 @@ School Hours
   </tr>
 </tbody>
 </table>
+
+
+##### **Recess Time (Half an Hour)**
