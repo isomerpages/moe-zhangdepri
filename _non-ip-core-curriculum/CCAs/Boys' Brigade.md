@@ -136,3 +136,5 @@ We aim to engage the boys from P2 to P6, in fun, meaningful and challenging acti
   </tr>
 </tbody>
 </table>
+
+<img src="/images/Boys%20Brigade.jpg" style="width:30%">
