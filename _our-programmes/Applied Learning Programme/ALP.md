@@ -57,3 +57,9 @@ Students are involved in the Commemoration of Environment Week as well as Intern
 
 ![](/images/ALP4.png)
 <b>Students learn about the various single-use plastics through completing crossword puzzles and other games during the Environment Week recess activities. Information about the negative uses of single-use plastic was also highlighted at the booth.</b>
+
+3\. Learning Journeys & Level-wide camps
+
+  
+
+Learning journeys and camps are organised for all levels to enhance the students’ awareness of the natural and man-made conservation areas and parks found in Singapore. They also learn more about biodiversity and thus better appreciate the importance of conserving them. A highlight for the P3s would be their overnight stay at the Zoo under tents and having the animals around them, it certainly feels like they are on safari!
