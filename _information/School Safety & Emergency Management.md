@@ -109,3 +109,5 @@ On rainy days, school buses will have the priority to park at the porch area. Dr
   
 
 Gates 1 and 2 are for vehicles ONLY. Students and parents walking to school are advised to enter the school through Gate 3 for safety reasons. Beyond the stipulated gates opening hours, students and parents are advised to follow the printed footpath along the bus bay to exit from Gate 2.
+
+![](/images/School%20Safety%20&%20Emergency%20Management.png)
