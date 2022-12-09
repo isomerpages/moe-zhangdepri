@@ -2,6 +2,7 @@ collections:
   our-programmes:
     output: true
     order:
+      - Applied Learning Programme/ALP.md
       - Applied Learning Programme/Environmental Outreach.md
       - Applied Learning Programme/New Initiatives.md
       - Applied Learning Programme/ALP Sharing.md
