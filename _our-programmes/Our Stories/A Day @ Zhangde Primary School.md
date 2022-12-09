@@ -4,3 +4,7 @@ permalink: /our-programmes/Our-Stories/A-Day-at-Zhangde-Primary-School/
 description: ""
 third_nav_title: Our Stories
 ---
+![](/images/OurProgrammes.png)
+
+A Day @ Zhangde Primary School
+==============================
