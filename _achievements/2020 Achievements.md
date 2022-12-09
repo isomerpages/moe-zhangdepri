@@ -152,3 +152,6 @@ description: ""
   </tr>
 </tbody>
 </table>
+
+Aesthetic Achievements
+----------------------
