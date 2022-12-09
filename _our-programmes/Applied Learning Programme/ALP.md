@@ -8,3 +8,9 @@ third_nav_title: Applied Learning Programme
 
 ALP
 ===
+
+### <u><b>Developing Zhangde’s GIVER3S Values through Environment Education</b></u>
+
+  
+
+<b>Alignment to School’s Vision, Mission and Values</b>
