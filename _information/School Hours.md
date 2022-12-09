@@ -74,3 +74,50 @@ School Hours
   </tr>
 </tbody>
 </table>
+
+
+##### **Opening Hours of School Gates**  
+
+  
+
+<b>Gate 1</b>
+
+Main Gate beside Bin Centre
+
+6.30 a.m. – 7.45 a.m.
+
+  
+
+<b>Gate 2</b>
+
+Main Gate near Foyer
+
+6.30 a.m. – 1.00 p.m.
+
+2.00 p.m. – 7.00 p.m.
+
+  
+
+<b>Gate 3</b>
+
+Side Gate for Pedestrians
+
+6.30 a.m. – 7.30 a.m.
+
+1.30 p.m. – 2.15 p.m.
+
+3.30 p.m. – 4.45 p.m.
+
+  
+
+<b>Gate 4</b>
+
+Rear Gate along Lower Delta Road
+
+6.45 a.m. – 7.30 a.m.
+
+1.30 p.m. – 2.15 p.m.
+
+  
+
+#### _Please advise your child where exactly you will be fetching him/her daily._
