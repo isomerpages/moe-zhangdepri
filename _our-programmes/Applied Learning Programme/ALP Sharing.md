@@ -8,3 +8,7 @@ third_nav_title: Applied Learning Programme
 
 ALP Sharing
 ===========
+
+### **ALP Sharing 2021**
+
+[Disposal of used masks](/files/2021%20ALP%20Sharing%202%20-%20DIsposal%20of%20used%20masks.pdf)
