@@ -35,4 +35,4 @@ The school collaborated with StarHub and Tiong Bahru Community Centre in a week-
 <b>Outreach to Tiong Bahru Community Centre to raise the awareness of Tiong Bahru residents on the importance of recycling electronic waste.</b>
 
 
-### **Recycling E-Waste ALP**
+##### **Recycling E-Waste ALP**
