@@ -114,3 +114,25 @@ We aim to engage the boys from P2 to P6, in fun, meaningful and challenging acti
   </tr>
 </tbody>
 </table>
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-uv15{color:#4C4C4C;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-g3tj{color:#4C4C4C;font-size:16px;font-weight:bold;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-uv15" colspan="5">All boys are to report to the basketball court at the ISH by 2.00 pm.</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-g3tj" colspan="5"> <br>Teachers-in-charge – Mr Tay S C / Mr Tong Y J / Mr Goh H S <br>Contact No.:  6274 0357 (ext 108)</td>
+  </tr>
+</tbody>
+</table>
