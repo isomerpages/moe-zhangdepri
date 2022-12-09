@@ -71,3 +71,28 @@ description: ""
 
 
 ### Clubs
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-a2ei{color:#4C4C4C;text-align:left;vertical-align:middle}
+.tg .tg-m5zk{background-color:#E6E6E6;color:#4C4C4C;text-align:left;vertical-align:middle}
+.tg .tg-8nb5{background-color:#E6E6E6;color:#4C4C4C;font-weight:bold;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-8nb5">Award<br></th>
+    <th class="tg-m5zk">Achievement</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-a2ei">Singapore Primary Science Olympiad 2019</td>
+    <td class="tg-a2ei">Silver Award</td>
+  </tr>
+</tbody>
+</table>
