@@ -30,3 +30,5 @@ A Hydroponics Programme has been introduced to all P5 classes. Each class has th
   
 
 The P5 students create their own terrariums at the end of the topic on the Water Cycle as a means to consolidate their learning. This incorporates authentic learning as their terrariums are the micro-environments that show the science concepts of evaporation and condensation as key processes of the water cycle, in a real-life situation. It caters to different learners’ profiles and the joy of learning in students is obvious as they immerse themselves in the experience.
+
+![](/images/NewInitiatives2.png)
