@@ -40,6 +40,11 @@ The P5 students create their own terrariums at the end of the topic on the Water
 
 <b>3\. Food Waste Management System</b>
 
+
+
   
 
 The school has installed a food waste management system at the School canteen. P3 student Leaders and Parent volunteers are involved daily to monitor the process of food waste collected during recess and convert it to semi-compost through the use of the food waste converter. This semi-compost harvested is used to feed the worms in the existing vermi-composting system and then by-products are then used as fertiliser in the school gardens.
+
+![](/images/New%20Initiatives3.png)
+<b>Environment leaders collecting food waste after recess and placing them into the food digester.</b>
