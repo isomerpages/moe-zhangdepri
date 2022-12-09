@@ -96,3 +96,47 @@ description: ""
   </tr>
 </tbody>
 </table>
+
+
+### Sports
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-a2ei{color:#4C4C4C;text-align:left;vertical-align:middle}
+.tg .tg-q6nq{color:#4C4C4C;text-align:left;vertical-align:top}
+.tg .tg-8nb5{background-color:#E6E6E6;color:#4C4C4C;font-weight:bold;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-8nb5">Award</th>
+    <th class="tg-8nb5">Achievement</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-a2ei">South Zone Volleyball Championships 2019 (Senior Girls) </td>
+    <td class="tg-a2ei">4th Team Placing </td>
+  </tr>
+  <tr>
+    <td class="tg-q6nq"><br><span style="font-weight:400;color:#4C4C4C">National Primary Wushu Competition 2019</span></td>
+    <td class="tg-q6nq"><span style="font-weight:400;color:#4C4C4C">4th in 5th Duan Spear</span><br><br><span style="font-weight:400;color:#4C4C4C">8th in 5th Duan Sword</span></td>
+  </tr>
+  <tr>
+    <td class="tg-a2ei"> National Floorball Junior Divison Boys Tier 3 2019</td>
+    <td class="tg-a2ei"> 2nd Placing</td>
+  </tr>
+  <tr>
+    <td class="tg-a2ei"> National School Games Tennis Junior Division Girls Tier 2 Green Singles 2019</td>
+    <td class="tg-a2ei"> 3rd Placing</td>
+  </tr>
+  <tr>
+    <td class="tg-a2ei"> Singapore National Jump Rope Championship 2019 </td>
+    <td class="tg-q6nq"><span style="font-weight:400;color:#4C4C4C"> 2nd Placing (Individual Speed)(Senior Girls)</span><br><br><span style="font-weight:400;color:#4C4C4C">2nd Placing (Double Dutch) (Senior Girls)</span><br><br><span style="font-weight:400;color:#4C4C4C">5th Placing (Double Under)</span><br><span style="font-weight:400;color:#4C4C4C">(Junior Girls)</span><br><br><span style="font-weight:400;color:#4C4C4C">6th Placing (Double Under, Speed Relay, Team Creative)</span><br><br><span style="font-weight:400;color:#4C4C4C">7th Placing (Pair Creative)</span><br><br><span style="font-weight:400;color:#4C4C4C">8th Placing (Individual Creative, Team Creative) </span></td>
+  </tr>
+</tbody>
+</table>
