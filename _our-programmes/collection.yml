@@ -2,7 +2,6 @@ collections:
   our-programmes:
     output: true
     order:
-      - Applied Learning Programme/Non IP Core Curriculum.md
       - Applied Learning Programme/ALP.md
       - Applied Learning Programme/Environmental Outreach.md
       - Applied Learning Programme/New Initiatives.md
