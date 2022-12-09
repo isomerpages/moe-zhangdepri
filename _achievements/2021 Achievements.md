@@ -189,3 +189,41 @@ description: ""
   </tr>
 </tbody>
 </table>
+
+### Aesthetic Achievements
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-q6nq{color:#4C4C4C;text-align:left;vertical-align:top}
+.tg .tg-jvn1{color:#4C4C4C;font-weight:bold;text-align:left;text-decoration:underline;vertical-align:top}
+.tg .tg-8dwo{color:#4C4C4C;text-align:center;vertical-align:top}
+.tg .tg-cjvl{color:#4C4C4C;font-weight:bold;text-align:center;text-decoration:underline;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-cjvl"><span style="color:black">Year</span></th>
+    <th class="tg-cjvl"><span style="color:black"> Art, Music</span></th>
+    <th class="tg-jvn1"><span style="color:black">Name of Event / Competition</span></th>
+    <th class="tg-jvn1"><span style="color:black">Achievement / Results</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-8dwo">2021</td>
+    <td class="tg-8dwo">Art &amp; Art Club</td>
+    <td class="tg-q6nq">SYF Art Exhibition 2021<br>P1,2 (Cat A): COP - David Khoo Yih Thern 2I, Koh Zhi Quan, Javier 2I<br>P3,4 (Cat B): Cert of Recognition - Yee An Ya 3S, Schuyler Hannah Tan 3V, Wong You Tong Tricia 4I, Goh Betsy 4S, Nadhilah Binte Mansoor 4S, Aydan Wildan Khoo Bin Djuandarie 4V<br>P5,6 (Cat C):  COP - Gan Yue Ting 5G, Sim Ying Hui Rachel 5G, Wong Yue Lin 5V, Wong Yue Teng 6G, Teo Hui En 6I, See Shermin 6Ry</td>
+    <td class="tg-q6nq">P3,4 (Category B): Certification of Recognition</td>
+  </tr>
+  <tr>
+    <td class="tg-8dwo">2021</td>
+    <td class="tg-8dwo">CCA Choir</td>
+    <td class="tg-q6nq">Youth4Climate Concert 2021 - Virtual Choir Performance for O'er the Land<br>(Organised by CDL, in support of MSE Climate Action Week)</td>
+    <td class="tg-q6nq">Participated in the virtual choir performance (14 choir members)</td>
+  </tr>
+</tbody>
+</table>
