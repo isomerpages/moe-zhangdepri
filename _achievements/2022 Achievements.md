@@ -7,3 +7,7 @@ description: ""
 
 2022 Achievements
 =================
+
+<u><b>Raffles Institution Primary Mathematics World Contest (RIPMWC) (2022)</b></u>
+
+OPEN CATEGORY:
