@@ -189,7 +189,7 @@ At Zhangde Primary School, the following lessons from the Growing Years Programm
 
 1.    Parents may opt their children out of the Growing Years programme, and/or supplementary sexuality education programmes by MOE-approved external providers.
 
-2.    Parents who wish to opt their children out of the <b>Growing Years (GY) programme</b> need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable 
+2.    Parents who wish to opt their children out of the <b>Growing Years (GY) programme</b> need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [here](/files/Annex%20A.pdf).
 
 The completed opt-out form is to be submitted by 21/01/2022.
 
