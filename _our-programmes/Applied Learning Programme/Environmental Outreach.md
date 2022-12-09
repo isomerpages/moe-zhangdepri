@@ -22,3 +22,11 @@ In conjunction with International Biodiversity Day (IBD), primary schools from o
   
 
 Kindergarten students who visit Zhangde are also exposed to our ALP. Led by their buddies, they visit the classes and also learn about plants found in the school garden.
+
+![](/images/Environmental%20Outreach2.png)
+
+<b>3\. Tiong Bahru Community Centre – e-Waste Drive</b>
+
+  
+
+The school collaborated with StarHub and Tiong Bahru Community Centre in a week-long electronic waste outreach project to save “Our Singapore” (2019’s theme for the national celelbrations). An information booth on recycling electronic waste and an electronic waste recycling bin were set up at the CC to raise awareness of recycling electronic wastes, as well as to encourage the Tiong Bahru residents to bring in their electronic wastes. We collected a total amount of 253.6 kg of e-waste during this drive.
