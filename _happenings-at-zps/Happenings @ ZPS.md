@@ -19,5 +19,6 @@ Happenings @ ZPS
 
 #### **P1 Orientation**
 
+![](/images/P1%20Orientation.gif)
 
 #### **P1 Welcome**
