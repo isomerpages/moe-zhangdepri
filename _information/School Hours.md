@@ -42,3 +42,35 @@ School Hours
 
 
 ##### **Recess Time (Half an Hour)**
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-yahg{background-color:#FFEFE3;color:#4C4C4C;text-align:left;vertical-align:top}
+.tg .tg-0gyz{background-color:#EFFBFF;color:#4C4C4C;font-weight:bold;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-0gyz">P1</th>
+    <th class="tg-0gyz">P2</th>
+    <th class="tg-0gyz">P3</th>
+    <th class="tg-0gyz">P4</th>
+    <th class="tg-0gyz">P5</th>
+    <th class="tg-0gyz"> P6</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-yahg">9.30 am</td>
+    <td class="tg-yahg">9 am</td>
+    <td class="tg-yahg">10.30 am</td>
+    <td class="tg-yahg">11 am</td>
+    <td class="tg-yahg">11.30am</td>
+    <td class="tg-yahg"> 10 am</td>
+  </tr>
+</tbody>
+</table>
