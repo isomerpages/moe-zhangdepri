@@ -123,3 +123,51 @@ JUNIOR CATEGORY:
 </table>
 
 <u><b>Singapore Mathematical Olympiad for Primary Schools (2022)</b></u>
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-6zpi{background-color:#FFEFE3;color:#4C4C4C;text-align:center;vertical-align:top}
+.tg .tg-b05j{background-color:#EFFBFF;color:#4C4C4C;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-amwm{font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-sueg{background-color:#EFFBFF;color:#4C4C4C;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-b05j"></th>
+    <th class="tg-b05j">Name of Student</th>
+    <th class="tg-b05j">Class</th>
+    <th class="tg-amwm">Award</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-6zpi">1</td>
+    <td class="tg-6zpi">              Yu Guangyue</td>
+    <td class="tg-6zpi">               6 Graciousness</td>
+    <td class="tg-6zpi">                Gold Award</td>
+  </tr>
+  <tr>
+    <td class="tg-sueg">2</td>
+    <td class="tg-sueg">               Shi Lu Fang</td>
+    <td class="tg-sueg">               6 Integrity</td>
+    <td class="tg-sueg">                Silver Award</td>
+  </tr>
+  <tr>
+    <td class="tg-6zpi">3</td>
+    <td class="tg-6zpi">       Aidan Chong Zhi Xuan</td>
+    <td class="tg-6zpi">               6 Versatility</td>
+    <td class="tg-6zpi">                Bronze Award</td>
+  </tr>
+  <tr>
+    <td class="tg-sueg">4</td>
+    <td class="tg-sueg">              Chan Tianyou</td>
+    <td class="tg-sueg">               6 Graciousness</td>
+    <td class="tg-sueg">                Bronze Award</td>
+  </tr>
+</tbody>
+</table>
