@@ -45,3 +45,5 @@ To support you and your child/ward to choose suitable secondary schools under th
 3.    Other resources:
 
 ![](/images/Resources.png)
+
+![](/images/Resources2.png)
