@@ -2,6 +2,7 @@ collections:
   non-ip-core-curriculum:
     output: true
     order:
+      - CCAs/Table Tennis.md
       - CCAs/Photography Club.md
       - CCAs/Volleyball.md
       - CCAs/Wushu Club.md
