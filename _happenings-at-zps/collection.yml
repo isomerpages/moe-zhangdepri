@@ -1,5 +1,4 @@
 collections:
   happenings-at-zps:
     output: true
-    order:
-      - Happenings @ ZPS.md
+    order: []
