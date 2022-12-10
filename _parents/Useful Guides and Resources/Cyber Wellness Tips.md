@@ -26,3 +26,5 @@ Here are some useful tips for parents/guardians in keeping their children safe a
 Note: MOE Cyber Wellness Resources for Parents link broken.
 
 ![](/images/CWT1.png)
+
+<img src="/images/Curbing%20Gaming%20Addiction.jpg" style="width:75%">
