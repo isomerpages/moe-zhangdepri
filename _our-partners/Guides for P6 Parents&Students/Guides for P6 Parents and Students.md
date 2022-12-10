@@ -26,3 +26,5 @@ To support you and your child/ward to choose suitable secondary schools under th
 
 1.    The SchoolFinder website which has information on individual secondary schools and their school programmes, locations etc. The SchoolFinder is an online tool that allows users to search and make a shortlist of schools based on a set of criteria.
 [https://go.gov.sg/schoolfinder](https://go.gov.sg/schoolfinder)
+
+![](/images/SchoolFinder.png)
