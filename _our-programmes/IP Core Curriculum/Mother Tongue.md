@@ -67,31 +67,37 @@ Reading is an integral part of language learning. Creating a structured reading 
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-q6nq{color:#4C4C4C;text-align:left;vertical-align:top}
-.tg .tg-br2o{background-color:#E6E6E6;color:#4C4C4C;text-align:left;vertical-align:top}
-.tg .tg-gpqx{color:#4C4C4C;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-qj0o{color:#4C4C4C;font-size:16px;text-align:left;vertical-align:top}
+.tg .tg-hvav{color:#4C4C4C;font-size:16px;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-4mta{background-color:#E6E6E6;color:#4C4C4C;font-size:16px;text-align:left;vertical-align:top}
 </style>
-<table class="tg">
+<table class="tg" style="undefined;table-layout: fixed; width: 735px">
+<colgroup>
+<col style="width: 66px">
+<col style="width: 194px">
+<col style="width: 101px">
+<col style="width: 374px">
+</colgroup>
 <thead>
   <tr>
-    <th class="tg-gpqx">S/N</th>
-    <th class="tg-gpqx">Programme<br></th>
-    <th class="tg-gpqx">Level<br></th>
-    <th class="tg-gpqx">Rationale<br></th>
+    <th class="tg-hvav">S/N</th>
+    <th class="tg-hvav">Programme<br></th>
+    <th class="tg-hvav">Level<br></th>
+    <th class="tg-hvav">Rationale<br></th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-br2o">1.</td>
-    <td class="tg-br2o">Reading Programme<br></td>
-    <td class="tg-br2o">P1 – P6<br></td>
-    <td class="tg-br2o">To cultivate reading habit<br></td>
+    <td class="tg-4mta">1.</td>
+    <td class="tg-4mta">Reading Programme<br></td>
+    <td class="tg-4mta">P1 – P6<br></td>
+    <td class="tg-4mta">To cultivate reading habit<br></td>
   </tr>
   <tr>
-    <td class="tg-q6nq">2.</td>
-    <td class="tg-q6nq">Non-Readers Programme<br></td>
-    <td class="tg-q6nq">P1 – P2<br></td>
-    <td class="tg-q6nq">Zero non-readers by end of P2 to have smooth transition to P3 Reading Portfolio.</td>
+    <td class="tg-qj0o">2.</td>
+    <td class="tg-qj0o">Non-Readers Programme<br></td>
+    <td class="tg-qj0o">P1 – P2<br></td>
+    <td class="tg-qj0o">Zero non-readers by end of P2 to have smooth transition to P3 Reading Portfolio.</td>
   </tr>
 </tbody>
 </table>
