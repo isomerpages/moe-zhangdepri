@@ -2,6 +2,7 @@ collections:
   non-ip-core-curriculum:
     output: true
     order:
+      - CCAs/Malay Dance.md
       - CCAs/Indian Dance.md
       - CCAs/Badminton.md
       - CCAs/Basketball.md
