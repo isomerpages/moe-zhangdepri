@@ -34,4 +34,4 @@ safe management measures in place.</figcaption></figure>
 <figure><img src="/images/Wushu4.jpeg" style="width:100%"><figcaption> <b>National School Games Wushu Competition 2021:</b> Our participants awaiting instructions from the relevant personnel to proceed to the warm-up venue.</figcaption></figure>
 
 
-<figure><img src="/images/XX.png" style="width:75%"><figcaption> pic caption here</figcaption></figure>
+<figure><img src="/images/Wushu5.jpeg" style="width:100%"><figcaption> <b>National School Games Wushu Competition 2021:</b> Some of our participants waiting for their peers to complete their competition recording.</figcaption></figure>
