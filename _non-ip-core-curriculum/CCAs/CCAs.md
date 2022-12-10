@@ -30,3 +30,7 @@ CCAs
 *  [Environment Club](/non-ip-core-curriculum/CCAs/Environment-Club/)
 *  [Robotics Club](/non-ip-core-curriculum/CCAs/Robotics-Club/)
 *  [Photography Club](/non-ip-core-curriculum/CCAs/Photography-Club/)
+*  [International Chess](/non-ip-core-curriculum/CCAs/International-Chess/)
+
+### **Uniform Groups**
+*  
