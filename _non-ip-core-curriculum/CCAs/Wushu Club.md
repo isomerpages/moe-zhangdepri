@@ -22,3 +22,6 @@ Apart from competing in Wushu competitions, our members regularly perform at var
   
 
 Newcomers will be introduced to the basic stances and techniques of Wushu. Periodic grading is conducted to gauge the progress of all members before they move on to advanced levels. Through this process of assessment and learning, our Wushu members seek to continually improve oneself and achieve greater heights with zeal.
+
+
+<figure><img src="/images/XX.png" style="width:75%"><figcaption> pic caption here</figcaption></figure>
