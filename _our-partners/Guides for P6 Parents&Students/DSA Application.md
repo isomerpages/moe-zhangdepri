@@ -44,3 +44,9 @@ All applicants will apply for DSA-Sec through a centralised DSA-Sec Portal ([htt
 *   Students will receive the S1 Option Form together with the PSLE results. The DSA-Sec allocation results are indicated in the S1 Option Form.
 *   Successful DSA-Sec Students are <b>NOT</b> allowed to participate in the S1 Posting. 
 *   Unsuccessful DSA-Sec Students will be notified of the allocation outcome and to participate in the S1 Posting.
+
+
+<b>Information regarding DSA</b>
+
+*   Students successfully allocated to their DSA-Sec schools will <b>NOT</b> be allowed to participate in the annual S1 Posting to opt for secondary schools, and are expected to honour the commitment to the allocated DSA-Sec school for the entire duration of the programme to develop their talents. 
+*   They will also <b>NOT</b> be allowed to transfer to another school after the release of the PSLE results.
