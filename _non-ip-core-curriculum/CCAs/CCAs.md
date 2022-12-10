@@ -13,9 +13,4 @@ CCAs
 *  [Badminton](/non-ip-core-curriculum/CCAs/Badminton/)
 *  [Basketball](/non-ip-core-curriculum/CCAs/Basketball/)
 *  [Floorball](/non-ip-core-curriculum/CCAs/Floorball/)
-*  
-
-
-
-
-
+*  [Rope Skipping](/non-ip-core-curriculum/CCAs/Rope-Skipping/)
