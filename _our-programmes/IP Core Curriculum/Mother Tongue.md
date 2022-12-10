@@ -30,3 +30,5 @@ Mother Tongue
   
 
 ### Curriculum
+
+![](/images/Mother%20Tongue.gif)
