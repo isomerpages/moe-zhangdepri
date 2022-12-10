@@ -27,3 +27,4 @@ CCAs
 
 ### **Clubs**
 *  [Art Club](/non-ip-core-curriculum/CCAs/Art-Club/)
+*  [Environment Club](/non-ip-core-curriculum/CCAs/Environment-Club/)
