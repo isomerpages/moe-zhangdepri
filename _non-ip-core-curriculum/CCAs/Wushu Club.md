@@ -30,3 +30,5 @@ safe management measures in place.</figcaption></figure>
 <figure><img src="/images/Wushu2.jpeg" style="width:100%"><figcaption> <b>Chinese New Year Concert 2021:</b> Recording of members’ performance for virtual concert.</figcaption></figure>
 
 <figure><img src="/images/Wushu3.jpeg" style="width:100%"><figcaption> <b>Chinese New Year Concert 2021:</b> A beautiful ending pose.</figcaption></figure>
+
+<figure><img src="/images/Wushu4.jpeg" style="width:100%"><figcaption> <b>National School Games Wushu Competition 2021:</b> Our participants awaiting instructions from the relevant personnel to proceed to the warm-up venue.</figcaption></figure>
