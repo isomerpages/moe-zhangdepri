@@ -44,3 +44,4 @@ Pupils are provided with a variety of learning experiences that focus on mathema
   
 
 ·       <b>The Concrete-Pictorial Abstract (CPA) Approach</b> – Students are engaged in hands-on learning experiences to gain a deeper understanding of concepts.
+![](/images/Math1.png)
