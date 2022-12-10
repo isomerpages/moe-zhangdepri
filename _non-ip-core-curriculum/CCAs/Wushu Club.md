@@ -28,3 +28,5 @@ Newcomers will be introduced to the basic stances and techniques of Wushu. Perio
 safe management measures in place.</figcaption></figure>
 
 <figure><img src="/images/Wushu2.jpeg" style="width:100%"><figcaption> <b>Chinese New Year Concert 2021:</b> Recording of members’ performance for virtual concert.</figcaption></figure>
+
+<figure><img src="/images/Wushu3.jpeg" style="width:100%"><figcaption> <b>Chinese New Year Concert 2021:</b> A beautiful ending pose.</figcaption></figure>
