@@ -34,3 +34,23 @@ The STELLAR pedagogic model for lower primary is made up of three major teaching
 *   Modified Language Experience Approach (MLEA)
 *   Learning Centres (LC) \[For P2 and P3\]
 *   Differentiated Focus Lessons (DFLs) \[For P1\]
+
+![](/images/English.jpeg)
+
+<b>Upper Primary STELLAR Strategies</b>
+
+  
+
+The STELLAR pedagogic model for upper primary is made up of five major teaching strategies:
+
+  
+
+*   Supported Reading (SR)  
+    
+*   Know-Want to Know-Learnt (KWL)  
+    
+*   Retelling (RT)  
+    
+*   Writing Process Cycle (WPC)  
+    
+*   Differentiated Instruction (DI)
