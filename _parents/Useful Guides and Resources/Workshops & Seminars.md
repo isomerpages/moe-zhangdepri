@@ -8,3 +8,7 @@ third_nav_title: Useful Guides and Resources
 
 Workshops / Seminars
 ====================
+
+<b>PSLE Special : Empowered to be a Parent-Coach</b>
+
+![](/images/Workshop.png)
