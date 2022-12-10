@@ -18,3 +18,5 @@ During our CCA sessions, pupils will learn the basic skills of table tennis such
   
 
 We strive to create an encouraging environment that is conducive to the pupils’ development which stresses on teamwork, responsibility for the equipment, their own behaviour and respect for fellow teammates, teachers and coaches.
+
+![](/images/Tabletennis.png)
