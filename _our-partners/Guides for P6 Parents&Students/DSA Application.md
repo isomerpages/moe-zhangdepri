@@ -50,3 +50,7 @@ All applicants will apply for DSA-Sec through a centralised DSA-Sec Portal ([htt
 
 *   Students successfully allocated to their DSA-Sec schools will <b>NOT</b> be allowed to participate in the annual S1 Posting to opt for secondary schools, and are expected to honour the commitment to the allocated DSA-Sec school for the entire duration of the programme to develop their talents. 
 *   They will also <b>NOT</b> be allowed to transfer to another school after the release of the PSLE results.
+
+![](/images/DSA%20Info%20Sheet%202022_Page_1.jpg)
+
+![](/images/DSA%20Info%20Sheet%202022_Page_2.jpg)
