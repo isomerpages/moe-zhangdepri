@@ -2,5 +2,6 @@ collections:
   our-stories:
     output: true
     order:
+      - Achievements/2022 Achievements.md
       - Achievements/.keep
       - R3 Club @ Zhangde.md
