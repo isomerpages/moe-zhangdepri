@@ -54,3 +54,86 @@ Pupils are provided with a variety of learning experiences that focus on mathema
 ![](/images/Math3.png)
 
 <u><b>Key Programmes for Different Levels</b></u>
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-q6nq{color:#4C4C4C;text-align:left;vertical-align:top}
+.tg .tg-br2o{background-color:#E6E6E6;color:#4C4C4C;text-align:left;vertical-align:top}
+.tg .tg-gpqx{color:#4C4C4C;font-weight:bold;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-gpqx">S/N</th>
+    <th class="tg-gpqx">Programme<br></th>
+    <th class="tg-gpqx">Level<br></th>
+    <th class="tg-gpqx">Rationale<br></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-br2o"></td>
+    <td class="tg-br2o"></td>
+    <td class="tg-br2o"></td>
+    <td class="tg-br2o"></td>
+  </tr>
+  <tr>
+    <td class="tg-q6nq">1.</td>
+    <td class="tg-q6nq">Activity-based Learning<br></td>
+    <td class="tg-q6nq">P1 – P6<br></td>
+    <td class="tg-q6nq">To teach skills and concepts using resources such as manipulatives to develop understanding.<br></td>
+  </tr>
+  <tr>
+    <td class="tg-br2o"></td>
+    <td class="tg-br2o"></td>
+    <td class="tg-br2o"></td>
+    <td class="tg-br2o"></td>
+  </tr>
+  <tr>
+    <td class="tg-q6nq">2.</td>
+    <td class="tg-q6nq">Teaching of Problem Solving Heuristics<br></td>
+    <td class="tg-q6nq">P1 – P6<br></td>
+    <td class="tg-q6nq">To develop problem solving ability through explicit teaching of heuristics.<br></td>
+  </tr>
+  <tr>
+    <td class="tg-br2o"></td>
+    <td class="tg-br2o"></td>
+    <td class="tg-br2o"></td>
+    <td class="tg-br2o"></td>
+  </tr>
+  <tr>
+    <td class="tg-q6nq">3.</td>
+    <td class="tg-q6nq">Mathematics Trails<br></td>
+    <td class="tg-q6nq">P1 – P4<br></td>
+    <td class="tg-q6nq">To apply mathematical skills and concepts outside their classrooms.</td>
+  </tr>
+  <tr>
+    <td class="tg-br2o"></td>
+    <td class="tg-br2o"></td>
+    <td class="tg-br2o"></td>
+    <td class="tg-br2o"></td>
+  </tr>
+  <tr>
+    <td class="tg-q6nq">4.</td>
+    <td class="tg-q6nq">Mathematics Olympiad Training Programme (for selected students)<br></td>
+    <td class="tg-q6nq">P5 – P6<br></td>
+    <td class="tg-q6nq">To broaden pupils’ Mathematical knowledge and further develop their problem solving and thinking skills;<br><br>To prepare pupils for the Mathematics Olympiad or similar competitions.</td>
+  </tr>
+  <tr>
+    <td class="tg-br2o"></td>
+    <td class="tg-br2o"></td>
+    <td class="tg-br2o"></td>
+    <td class="tg-br2o"></td>
+  </tr>
+  <tr>
+    <td class="tg-q6nq">5.</td>
+    <td class="tg-q6nq">Mathematics E2K (Excellence 2000) Programme (for selected students)<br></td>
+    <td class="tg-q6nq">P4<br></td>
+    <td class="tg-q6nq"><br>To improve students’ abilities through innovative learning techniques.<br><br>To expand students’ horizons and reinforce their confidence in their ability to cope with challenges in problem-solving.  </td>
+  </tr>
+</tbody>
+</table>
