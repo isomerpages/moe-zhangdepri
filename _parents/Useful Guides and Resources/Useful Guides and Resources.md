@@ -14,4 +14,4 @@ Useful Guides and Resources 
 [Guide for Parents Gateway Installation](/files/Parents%20Gateway%20Instrutional%20Guide%20(Installation).pdf)
   
 
-### 2021 New PSLE Scoring System
+### **2021 New PSLE Scoring System**
