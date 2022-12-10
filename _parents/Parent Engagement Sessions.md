@@ -33,6 +33,6 @@ Note: P5 Parents Engagement Slides (Standard Subjects) & P5 Parents Engagement S
 
 *   [P1 CL Parents Workshop Slides](/files/2022%20MTL%20Parent%20Workshop%20for%20P1%20-%20%20CL.pdf)
 *   [P2 CL Parents Workshop Slides](/files/2022%20MTL%20Parent%20Workshop%20for%20P2%20-%20CL.pdf)
-*   [P1\_P2 ML Parents Workshop Slides](https://zhangdepri.moe.edu.sg/qql/slot/u180/Our%20Partners/Parents/Parent%20Engagement%20Sessions/MTL/2022%20MTL%20Parent%20Workshop%20for%20P1_P2%20-%20ML%20.pdf)
+*   [P1_P2 ML Parents Workshop Slides](/files/2022%20MTL%20Parent%20Workshop%20for%20P1_P2%20-%20ML%20.pdf)
 *   [P1\_P2 TL Parents Workshop Slides](https://zhangdepri.moe.edu.sg/qql/slot/u180/Our%20Partners/Parents/Parent%20Engagement%20Sessions/MTL/2022%20MTL%20Parent%20Workshop%20for%20P1_P2%20-%20TL.pdf)
 *   [P1\_P2 CCE&ICT Parents Workshop Slides](https://zhangdepri.moe.edu.sg/qql/slot/u180/Our%20Partners/Parents/Parent%20Engagement%20Sessions/MTL/CCE_ICT%20P1%20and%20P2%20Parents%20Workshop%202022%20Updated.pdf)
