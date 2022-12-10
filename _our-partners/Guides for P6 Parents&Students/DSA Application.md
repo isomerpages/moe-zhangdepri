@@ -36,7 +36,8 @@ All applicants will apply for DSA-Sec through a centralised DSA-Sec Portal ([htt
 *   If parents are unable to submit online, they can approach their child’s primary school for assistance to submit the school preferences on their behalf.
 *   Amendments or withdrawals will NOT be allowed after the end of the School Preference Submission (i.e. 4 Nov 2022, 3pm). DSA-Sec offers not taken up will be considered as lapsed at the end of the School Preference Submission on 4 Nov 2022, 3pm. 
 
-<i>\*Students who wish to accept Singapore Sports School(SSP) offer <b>should not submit</b> their DSA-Sec school preferences. Students who wish to accept the SSP should also continue to take part in the S1 Posting</i>.
+<i>\*Students who wish to accept Singapore Sports School(SSP) offer</i> 
+<b></i>should not submit</i></b> <i>their DSA-Sec school preferences. Students who wish to accept the SSP should also continue to take part in the S1 Posting</i>.
 
 <b>Allocation Results Release (Late-Nov 2022)</b>
 
