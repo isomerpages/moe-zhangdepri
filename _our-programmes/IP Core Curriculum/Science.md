@@ -20,3 +20,5 @@ To develop thinking and gracious citizens through the infusion of vital process 
   
 
 ### Curriculum
+
+![](/images/Science.png)
