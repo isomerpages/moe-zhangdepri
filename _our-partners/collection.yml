@@ -2,6 +2,7 @@ collections:
   our-partners:
     output: true
     order:
+      - Guides for P6 Parents&Students/DSA Application.md
       - Guides for P6 Parents&Students/Guides for P6 Parents and Students.md
       - Guides for P6 Parents&Students/.keep
       - GIVER3S Times 2022.md
