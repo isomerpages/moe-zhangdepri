@@ -14,3 +14,5 @@ In Jump Rope CCA, students skip their way to greater fitness and agility as they
 Students identified for leadership roles in the CCA are given the opportunities to lead and train the younger members. The CCA leaders are called upon to not just impart the kinaesthetic skills in jump rope, but also to influence their juniors with positive attitude and mind sets. 
 
 We are pleased that our CCA members enjoy the sport as well as the social interactions and teamwork during training practices and competitions.
+
+![](/images/Rope%20Skipping.png)
