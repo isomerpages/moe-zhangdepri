@@ -8,4 +8,11 @@ description: ""
 Parent Engagement Sessions
 ==========================
 
-<b>2022 P1 Orientation</b>
+##### **2022 P1 Orientation**
+
+*   [P1 Orientation Slides to Parents](https://zhangdepri.moe.edu.sg/qql/slot/u180/Our%20Partners/Parents/Parent%20Engagement%20Sessions/2022%20P1%20Orientation%20Sharing%20for%20Parents.pdf)
+*   [Guide for Parents Gateway Installation](https://zhangdepri.moe.edu.sg/qql/slot/u180/Our%20Partners/Parents/Parent%20Engagement%20Sessions/Parents%20Gateway%20Instrutional%20Guide%20(Installation).pdf)
+
+  
+
+##### **2022 Parents Engagement Sessions (Term 1)**
