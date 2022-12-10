@@ -26,5 +26,4 @@ CCAs
 *  [Choir](/non-ip-core-curriculum/CCAs/Choir/)
 
 ### **Clubs**
-
-
+*  [Art Club](/non-ip-core-curriculum/CCAs/Art-Club/)
