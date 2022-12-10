@@ -23,3 +23,5 @@ Useful Guides and Resources 
 
 ##### **Online Learning Resource Booklet For Kids! (3-12 years old)**  
 Click on the following link to access the various online resources and workshops.
+
+Note: [E-Learning Resources](https://zhangdepri.moe.edu.sg/qql/slot/u180/Our%20Partners/Parents/Useful%20Guides%20and%20Resources/Online%20Learning%20Resource%20Booklet%20For%20Kids%203-12%20years%20old.pdf) pdf exceeds 5mb.
