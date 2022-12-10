@@ -20,7 +20,7 @@ CCAs
 *  [Wushu](/non-ip-core-curriculum/CCAs/Wushu-Club/)
 
 ### **Performing Arts**
-*  
+*  [Chinese Dance](/non-ip-core-curriculum/CCAs/Chinese-Dance/)
 
 
 | **Sports** | **Performing Arts** | Column 3 | Column 4 |
