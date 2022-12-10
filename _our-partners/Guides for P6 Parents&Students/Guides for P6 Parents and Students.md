@@ -60,3 +60,5 @@ To support you and your child/ward to choose suitable secondary schools under th
 [New PSLE Scoring System(2)](/files/Changes%20to%20the%20PSLE%20Scoring%20System%20MOE.pdf)
 
 [Quick Guide to New PSLE Scoring and S1 Posting](/files/Infosheet%20on%20PSLE%20changes.pdf)
+
+If you have any questions regarding the S1 posting, you may also submit using this [form](https://form.gov.sg/5f9a1b9bf627ec001173c47e).
