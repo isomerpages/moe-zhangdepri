@@ -25,6 +25,8 @@ CCAs
 *  [Indian Dance](/non-ip-core-curriculum/CCAs/Indian-Dance/)
 *  [Choir](/non-ip-core-curriculum/CCAs/Choir/)
 
+### **Clubs**
+
 
 | **Sports** | **Performing Arts** | Column 3 | Column 4 |
 | -------- | -------- | -------- | -------- |
@@ -36,4 +38,12 @@ CCAs
 *  [Table Tennis](/non-ip-core-curriculum/CCAs/Table-Tennis/)
 *  [Football](/non-ip-core-curriculum/CCAs/Football/)
 *  [Volleyball](/non-ip-core-curriculum/CCAs/Volleyball/)
-*  [Wushu](/non-ip-core-curriculum/CCAs/Wushu-Club/)     | Text     | Text     | Text     |
+*  [Wushu](/non-ip-core-curriculum/CCAs/Wushu-Club/)     | 
+
+
+
+
+
+
+
+
