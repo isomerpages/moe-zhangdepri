@@ -34,3 +34,4 @@ CCAs
 
 ### **Uniform Groups**
 *  [Boys’ Brigade](/non-ip-core-curriculum/CCAs/Boys-Brigade/)
+*  [Girls’ Brigade](/non-ip-core-curriculum/CCAs/Girls-Brigade/)
