@@ -69,3 +69,7 @@ Under the guidance of the choir instructor and the teachers-in-charge, Zhangde C
   </tr>
 </tbody>
 </table>
+
+Throughout the journey in music, ZPS Choir has embraced the values of Resilience and Responsibility, which are also the school values. The hours of training taught ZPS Choir the essence of Teamwork.
+
+We look forward to more performances and scaling greater heights.
