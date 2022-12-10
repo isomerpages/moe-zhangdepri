@@ -41,4 +41,4 @@ Communication with Parents
 ### 2022 Term 4
 
 *   [Term 4 Calendar](/files/Term%204%20Student%20Calendar%202022.pdf)
-*   [Term 4 Letter to Parents (1)](https://zhangdepri.moe.edu.sg/qql/slot/u180/Our%20Partners/Parents/Communication%20with%20Parents/2022%20Letters/From%20the%20Desk%20of%20the%20Principal%20Term%204_27th%20Sep%202022.pdf)
+*   [Term 4 Letter to Parents (1)](/files/From%20the%20Desk%20of%20the%20Principal%20Term%204_27th%20Sep%202022.pdf)
