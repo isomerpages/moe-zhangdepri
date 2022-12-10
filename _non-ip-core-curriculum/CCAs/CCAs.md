@@ -23,6 +23,7 @@ CCAs
 *  [Chinese Dance](/non-ip-core-curriculum/CCAs/Chinese-Dance/)
 *  [Malay Dance](/non-ip-core-curriculum/CCAs/Malay-Dance/)
 *  [Indian Dance](/non-ip-core-curriculum/CCAs/Indian-Dance/)
+*  [Choir](/non-ip-core-curriculum/CCAs/Choir/)
 
 
 | **Sports** | **Performing Arts** | Column 3 | Column 4 |
