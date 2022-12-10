@@ -18,3 +18,5 @@ In Zhangde Primary School, our pupils are taught the fundamentals such as passin
 Floorball is incorporated into the PE syllabus and hence all Zhangderens will get to learn to play the sport during their PE lessons. On top of that, they also get to play the sport with their peers during the ‘Active Recess’.
 
 Great emphasis is placed on basic skills, teamwork and communication during play. Pupils will also learn the importance of teamwork and most importantly, be able to keep fit and in shape in a fun way!
+
+![](/images/Floorball.jpeg)
