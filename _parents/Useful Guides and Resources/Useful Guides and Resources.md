@@ -15,3 +15,9 @@ Useful Guides and Resources 
   
 
 ##### **2021 New PSLE Scoring System**
+
+[New PSLE Scoring System(1)](https://www.moe.gov.sg/microsites/psle-fsbb/psle/main.html)  
+[New PSLE Scoring System(2)](/files/PSLE%20Scoring%20System%20MOE.pdf)
+
+[Quick Guide to New PSLE Scoring and S1 Posting](/files/Infosheet.pdf)
+
