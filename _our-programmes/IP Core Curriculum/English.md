@@ -13,7 +13,7 @@ English
 
 ### Curriculum
 
-**The STELLAR Vision**
+<b>The STELLAR Vision</b>
 
 Children Who Love Reading and Have a Strong Foundation in the English Language
 
@@ -21,7 +21,7 @@ English is taught through stories and texts that appeal to children, with explic
 
 ### Pedagogy
 
-**Lower Primary STELLAR Strategies**
+<b>Lower Primary STELLAR Strategies</b>
 
   
 
