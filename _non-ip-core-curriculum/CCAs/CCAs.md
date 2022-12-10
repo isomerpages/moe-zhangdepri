@@ -21,6 +21,7 @@ CCAs
 
 ### **Performing Arts**
 *  [Chinese Dance](/non-ip-core-curriculum/CCAs/Chinese-Dance/)
+*  [Malay Dance](/non-ip-core-curriculum/CCAs/Malay-Dance/)
 
 
 | **Sports** | **Performing Arts** | Column 3 | Column 4 |
