@@ -2,11 +2,11 @@ collections:
   our-stories:
     output: true
     order:
-      - Happenings @ ZPS/2022 Term 2.md
-      - Happenings @ ZPS/Students' Work.md
+      - Happenings @ ZPS/.keep
       - Happenings @ ZPS/Happenings @ ZPS.md
       - Happenings @ ZPS/2022 Term 1.md
-      - Happenings @ ZPS/.keep
+      - Happenings @ ZPS/2022 Term 2.md
+      - Happenings @ ZPS/Students' Work.md
       - A Day @ Zhangde Primary School.md
       - Achievements/Achievements.md
       - Achievements/2018 Achievements.md
