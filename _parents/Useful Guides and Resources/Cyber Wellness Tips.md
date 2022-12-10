@@ -13,7 +13,7 @@ Parents and Guardians plays a crucial role in empowering and supporting children
   
 Here are some useful tips for parents/guardians in keeping their children safe and smart online.  
   
-1) [Helping Your Children Be Discerning About Online Information](/files/3B-2019-Connect-T2-Parents-Tipsheet-Pri.pdf)
+1) [<b>Helping Your Children Be Discerning About Online Information</b>](/files/3B-2019-Connect-T2-Parents-Tipsheet-Pri.pdf)
 
 2) Parent Kit - **[Cyber Wellness for your Child](https://zhangdepri.moe.edu.sg/qql/slot/u180/Our%20Partners/Parents/Parent%20Engagement%20Sessions/Parent_Kit_-_Cyber_Wellness_for_your_Child.pdf)  
 **  
