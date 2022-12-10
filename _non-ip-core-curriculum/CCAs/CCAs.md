@@ -17,3 +17,4 @@ CCAs
 *  [Table Tennis](/non-ip-core-curriculum/CCAs/Table-Tennis/)
 *  [Football](/non-ip-core-curriculum/CCAs/Football/)
 *  [Volleyball](/non-ip-core-curriculum/CCAs/Volleyball/)
+*  [Wushu](/non-ip-core-curriculum/CCAs/Wushu-Club/)
