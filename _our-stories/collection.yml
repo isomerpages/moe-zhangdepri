@@ -2,6 +2,7 @@ collections:
   our-stories:
     output: true
     order:
+      - Happenings @ ZPS/.keep
       - A Day @ Zhangde Primary School.md
       - Achievements/Achievements.md
       - Achievements/2018 Achievements.md
