@@ -4,8 +4,6 @@ permalink: /our-stories/Happenings-at-ZPS/Happenings-at-ZPS/
 description: ""
 third_nav_title: Happenings @ ZPS
 ---
-
-
 ![](/images/OurProgrammes.png)
 
 Happenings @ ZPS
@@ -13,7 +11,7 @@ Happenings @ ZPS
 
   
 
-### [2022 Term 1](/happenings-at-zps/2022-Term-1/)
+### [2022 Term 1](/our-stories/Happenings-at-ZPS/2022-Term-1/)
 
 #### **Class Breakfast**
 
