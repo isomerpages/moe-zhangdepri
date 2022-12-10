@@ -10,4 +10,4 @@ CCAs
 ====
 
 ### **Sports**
-*  
+*  [Badminton](/non-ip-core-curriculum/CCAs/Badminton/)
