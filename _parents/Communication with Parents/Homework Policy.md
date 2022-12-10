@@ -34,3 +34,5 @@ Getting students to do homework serves the following purposes:
 4.  Gives feedback to students of their own performance and progress in learning and  
     
 5.  Triggers students’ schema and prior knowledge and stimulates interest in a topic or concept to be discussed.
+
+<b>General guidelines for assigning homework</b>
