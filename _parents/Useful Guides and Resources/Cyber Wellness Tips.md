@@ -22,3 +22,5 @@ Here are some useful tips for parents/guardians in keeping their children safe a
 4) [<b>MOE Cyber Wellness Resources for Parents</b>](https://ictconnection.moe.edu.sg/cyber-wellness/for-parents)  
 
 5) [<b>ZPS Cyber Wellness Tips for Parents</b>](/files/CYBERWELLNESS%20for%20Parents%20Friday%209%20April_updated%20240321.pdf)
+
+Note: MOE Cyber Wellness Resources for Parents link broken. 
