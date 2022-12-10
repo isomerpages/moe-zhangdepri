@@ -48,4 +48,6 @@ To support you and your child/ward to choose suitable secondary schools under th
 
 ![](/images/Resources2.png)
 
-![](/images/Resources3.png)
+![](/images/Resources3.png) Note: Newsletter pdf exceeds 5mb.
+
+![](/images/A%20Secondary%20School%20Thats%20Suitable%20For%20Your%20Child.jpg)
