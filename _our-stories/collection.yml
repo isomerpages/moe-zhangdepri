@@ -2,7 +2,6 @@ collections:
   our-stories:
     output: true
     order:
-      - 2022 Term 2.md
       - Happenings @ ZPS/Students' Work.md
       - Happenings @ ZPS/Happenings @ ZPS.md
       - Happenings @ ZPS/2022 Term 1.md
