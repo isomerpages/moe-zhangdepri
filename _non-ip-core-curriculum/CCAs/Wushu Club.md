@@ -26,3 +26,5 @@ Newcomers will be introduced to the basic stances and techniques of Wushu. Perio
 
 <figure><img src="/images/Wushu1.jpeg" style="width:35%"><figcaption> <b>CCA sessions:</b> Wushu members in action with 
 safe management measures in place.</figcaption></figure>
+
+<figure><img src="/images/XX.png" style="width:75%"><figcaption> pic caption here</figcaption></figure>
