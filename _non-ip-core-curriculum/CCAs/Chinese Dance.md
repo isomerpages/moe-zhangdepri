@@ -17,3 +17,5 @@ Each CCA session starts with a 30-minutes warm up, which includes stretches, spl
 Our Chinese dancers perform periodically for various school events and celebrations such as Chinese New Year and Racial Harmony day. The dancers also participate actively in performances outside the school such as the Tanjong Pagar-Tiong Bahru Chinese New Year Celebration and National Day dinners. Our dancers are also exposed to various dance genres through attending the annual Chingay and other concerts.
 
 During the weekly training practices, the teachers and instructors emphasized on the importance of character development. Our Chinese dancers are constantly reminded about the importance of working together and being resilient. Gradually, they have grown to become responsible individuals who take pride in their CCA, where they developed the leadership to lead the younger dancers.
+
+![](/images/Chinese%20Dance.gif)
