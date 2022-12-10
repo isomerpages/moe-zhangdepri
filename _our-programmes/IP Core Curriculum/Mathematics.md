@@ -51,3 +51,4 @@ Pupils are provided with a variety of learning experiences that focus on mathema
 ![](/images/Math2.png)
 
 ·       <b>Math Games</b> \- Mathematical concepts are reinforced through the use of board games and ICT.
+![](/images/Math3.png)
