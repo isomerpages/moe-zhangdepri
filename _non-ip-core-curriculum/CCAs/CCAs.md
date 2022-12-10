@@ -15,3 +15,4 @@ CCAs
 *  [Floorball](/non-ip-core-curriculum/CCAs/Floorball/)
 *  [Rope Skipping](/non-ip-core-curriculum/CCAs/Rope-Skipping/)
 *  [Table Tennis](/non-ip-core-curriculum/CCAs/Table-Tennis/)
+*  [Football](/non-ip-core-curriculum/CCAs/Football/)
