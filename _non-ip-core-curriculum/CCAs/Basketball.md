@@ -20,3 +20,7 @@ The scintillating sport of basketball not only enhances one’s overall fitness 
 Student athletes will also be able to forge strong friendships amongst peers and develop resilience as they pursue sporting excellence through the annual South Zone Primary Schools Basketball Championships. They would also be able to further enhance their psycho-motor skills, stamina, sportsmanship and confidence. There would be many opportunities for each player to gradually realise his true potential and develop resilience.
 
 ![](/images/BASKETBALL%20(BOYS).png)
+
+<b>BASKETBALL (GIRLS)</b>  
+
+**Learn the game, Build character**
