@@ -137,3 +137,15 @@ Pupils are provided with a variety of learning experiences that focus on mathema
   </tr>
 </tbody>
 </table>
+
+<u><b>Enrichment Programmes</b></u>
+
+Every year, a group of P5 and P6 students will be selected to take part in the following annual Mathematics competitions. 
+
+<b>Raffles Institution Primary Mathematics World Contest (RIPMWC)</b> organized by Raffles Institution
+
+<b>Singapore Mathematical Olympiad for Primary Schools</b> organized by Hwa Chong Institution (High School)
+
+<u><b>River Valley High School Mathematics Challenge (2022)</b></u>
+
+Two of our students, participated in the River Valley High School's Mathematics Challenge this year. Showing great teamwork, versatility, and resilience in solving interesting and challenging real-life Mathematical problems, the pair emerged 6th place among all the participating primary schools. We are incredibly proud of their achievement. Well done!
