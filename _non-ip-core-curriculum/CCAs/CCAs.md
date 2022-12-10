@@ -33,4 +33,4 @@ CCAs
 *  [International Chess](/non-ip-core-curriculum/CCAs/International-Chess/)
 
 ### **Uniform Groups**
-*  
+*  [Boys’ Brigade](/non-ip-core-curriculum/CCAs/Boys-Brigade/)
