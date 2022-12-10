@@ -20,3 +20,5 @@ The account aims to connect with parents to share tips and MOE resources, celebr
   
 
  We would like to seek your support in following the account and sharing it with your friends and family who are parents via the QR code below or this [link](https://instagram.com/parentingwith.moesg).
+ 
+ ![](/images/MOE%20Instagram%20for%20Parents.png)
