@@ -20,3 +20,6 @@ Every year, there will be a member selection for students to be Garden Rangers. 
 ZPS Environment Club has also been an active participant in NParks’ ‘Greening Schools for Biodiversity’, ‘Science Communication for CIN (Community in Nature) Ambassadors’ as well as ‘BioBlitz for Schools’ programmes. These programs expose our members to a wide range of experiences, knowledge and activities that help them establish linkages between the content learned in schools as well as the real-world context.
 
 Interested to find out more? Visit our club’s blog at <b>[https://zhangdelovesnature.wordpress.com/](https://zhangdelovesnature.wordpress.com/)</b>
+
+
+![](/images/Environment%20Club.gif)
