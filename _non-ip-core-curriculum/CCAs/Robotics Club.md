@@ -16,3 +16,5 @@ At Zhangde Robotics club, our training programme focuses on developing membersâ€
 Through team work, pupils learn how to communicate and cooperate well with one another. They also learn to be responsible individuals as they contribute ideas and findings in order to fix and operate their robots.Â   
 
 Students will be given ample opportunities to compete in various robotics competitions where they could pitch their skills against others to create robots that are innovative.
+
+![](/images/Robotics%20Club.png)
