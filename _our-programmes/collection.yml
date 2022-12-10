@@ -3,11 +3,11 @@ collections:
     output: true
     order:
       - Our Programmes.md
-      - IP Core Curriculum/Mother Tongue.md
       - IP Core Curriculum/.keep
       - IP Core Curriculum/English.md
       - IP Core Curriculum/Mathematics.md
       - IP Core Curriculum/Science.md
+      - IP Core Curriculum/Mother Tongue.md
       - Applied Learning Programme/ALP.md
       - Applied Learning Programme/Environmental Outreach.md
       - Applied Learning Programme/New Initiatives.md
