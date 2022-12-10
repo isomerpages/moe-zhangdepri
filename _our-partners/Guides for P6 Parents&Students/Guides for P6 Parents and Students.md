@@ -33,5 +33,13 @@ To support you and your child/ward to choose suitable secondary schools under th
 
 2.    The PSLE-Full Subject Based Banding (PSLE-FSBB) Microsite which provides information on commonly asked questions and a Score Calculator to generate possible courses and schools that your child/ward may be eligible for.
 
+         [https://go.gov.sg/pslefsbb](https://go.gov.sg/pslefsbb)  
+
+ 
+
+        Click [here](https://go.gov.sg/psle-score-calculator) to access the Score Calculator directly.
+
+         Click [here](https://www.moe.gov.sg/microsites/psle-fsbb/resources/transition-to-secondary-school.html) to access the resource page directly for more information regarding S1 posting.
+
 
 3.    Other resources:
