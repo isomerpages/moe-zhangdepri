@@ -2,5 +2,6 @@ collections:
   parents:
     output: true
     order:
+      - Useful Guides and Resources/Parenting Support Programme.md
       - Useful Guides and Resources/.keep
       - MOE Instagram for Parents.md
