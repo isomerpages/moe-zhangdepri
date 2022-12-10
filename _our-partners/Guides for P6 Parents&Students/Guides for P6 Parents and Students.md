@@ -57,6 +57,6 @@ To support you and your child/ward to choose suitable secondary schools under th
 
 [New PSLE Scoring System(1)](https://www.moe.gov.sg/microsites/psle-fsbb/psle/main.html)  
 
-[New PSLE Scoring System(2)](https://zhangdepri-moe-edu-sg-admin.cwp.sg/qql/slot/u180/Our%20Partners/Parents/Communication%20with%20Parents/Changes%20to%20the%20PSLE%20Scoring%20System%20MOE.pdf)  
+[New PSLE Scoring System(2)](/files/Changes%20to%20the%20PSLE%20Scoring%20System%20MOE.pdf)
 
 [Quick Guide to New PSLE Scoring and S1 Posting](https://zhangdepri-moe-edu-sg-admin.cwp.sg/qql/slot/u180/Our%20Partners/Parents/Useful%20Guides%20and%20Resources/Infosheet%20on%20PSLE%20changes.pdf)
