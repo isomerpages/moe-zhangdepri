@@ -15,8 +15,8 @@ Here are some useful tips for parents/guardians in keeping their children safe a
   
 1) [<b>Helping Your Children Be Discerning About Online Information</b>](/files/3B-2019-Connect-T2-Parents-Tipsheet-Pri.pdf)
 
-2) Parent Kit - **[Cyber Wellness for your Child](https://zhangdepri.moe.edu.sg/qql/slot/u180/Our%20Partners/Parents/Parent%20Engagement%20Sessions/Parent_Kit_-_Cyber_Wellness_for_your_Child.pdf)  
-**  
+2) Parent Kit - [<b>Cyber Wellness for your Child</b>](/files/Parent_Kit_-_Cyber_Wellness_for_your_Child.pdf)
+ 
 3) Cyber Wellness Resources from **[Media Literacy Council](https://www.betterinternet.sg/Resources/Resources-Listing?topic=screen+time&persona=everyone)  
 **  
 4) [**MOE Cyber Wellness Resources for Parents**](https://ictconnection.moe.edu.sg/cyber-wellness/for-parents)  
