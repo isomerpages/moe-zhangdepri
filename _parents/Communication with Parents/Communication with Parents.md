@@ -24,3 +24,8 @@ Communication with Parents
 *   [Term 2 Letter to Parents (1)](/files/2022%20From%20the%20Desk%20of%20the%20Principal_21st%20March%202022.pdf)
 *   [Term 2 Letter to Parents (2)](/files/From%20The%20Desk%20of%20The%20Principal_25th%20April%202022.pdf)
 *   [Joint SPF CNB MOE School Advisory - Jun 2022](/files/Joint%20SPF%20CNB%20MOE%20School%20Advisory%20-%20Jun%202022.pdf)
+*   <b>Mid-Year Exam 2022</b>
+
+    *   [**2022 Mid-Year Examination Schedule**](https://zhangdepri.moe.edu.sg/qql/slot/u180/Our%20Partners/Parents/Communication%20with%20Parents/Exams%20Topics%202022/Mid-Year%20Examination%20Dates%202022.pdf)
+    *   [P4 Collated Mid-Year Exam topics 2022](https://zhangdepri.moe.edu.sg/qql/slot/u180/Our%20Partners/Parents/Communication%20with%20Parents/Exams%20Topics%202022/P4%20Collated%20Mid-Year%20Exam%20topics%202022.pdf)
+    *   [P6 Collated Mid-Year Exam topics 2022](https://zhangdepri.moe.edu.sg/qql/slot/u180/Our%20Partners/Parents/Communication%20with%20Parents/Exams%20Topics%202022/P6%20Collated%20Mid-Year%20Exam%20topics%202022.pdf)
