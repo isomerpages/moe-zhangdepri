@@ -5,7 +5,9 @@ links:
   - title: Information
     collection: information
   - title: Our Programmes
-    url: /permalink
-    sublinks: []
+    url: /our-programmes/Our-Programmes/
+    sublinks:
+      - title: Our Stories
+        url: /permalink
   - title: Contact Us
     url: /contact-us/
