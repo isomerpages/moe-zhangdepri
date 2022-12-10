@@ -2,4 +2,5 @@ collections:
   our-partners:
     output: true
     order:
+      - Guides for P6 Parents&Students/.keep
       - GIVER3S Times 2022.md
