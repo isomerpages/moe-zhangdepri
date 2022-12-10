@@ -21,3 +21,5 @@ Useful Guides and Resources 
 
 [Quick Guide to New PSLE Scoring and S1 Posting](/files/Infosheet.pdf)
 
+##### **Online Learning Resource Booklet For Kids! (3-12 years old)**  
+Click on the following link to access the various online resources and workshops.
