@@ -38,3 +38,9 @@ Student athletes will also be able to forge strong friendships amongst peers and
   </tr>
 </thead>
 </table>
+
+Zhangde basketball (girls) welcomes pupils who are interested in learning and playing basketball. We develop basketball skills such as dribbling, passing, shooting, rebounds, and teach strategic game play using offence and defence during our weekly CCA and extra practices. These contribute to building on pupils’ physical strength and stamina which are essential in every sports activity. More importantly, our basketballers build friendship, character and values such as self-discipline, perseverance, team-work, resilience, commitment and dedication through this sport. 
+
+Basketballers are given opportunities to participate in competitions. We also learn and compete through our friendly matches with other
+![](/images/BASKETBALL%20(GIRLS).jpeg)
+basketball teams. In every round we compete in, we learn, have fun, and become better players!
