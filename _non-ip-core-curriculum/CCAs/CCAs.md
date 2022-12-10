@@ -28,22 +28,3 @@ CCAs
 ### **Clubs**
 
 
-| **Sports** | **Performing Arts** | Column 3 | Column 4 |
-| -------- | -------- | -------- | -------- |
-| 
-*  [Badminton](/non-ip-core-curriculum/CCAs/Badminton/)
-*  [Basketball](/non-ip-core-curriculum/CCAs/Basketball/)
-*  [Floorball](/non-ip-core-curriculum/CCAs/Floorball/)
-*  [Rope Skipping](/non-ip-core-curriculum/CCAs/Rope-Skipping/)
-*  [Table Tennis](/non-ip-core-curriculum/CCAs/Table-Tennis/)
-*  [Football](/non-ip-core-curriculum/CCAs/Football/)
-*  [Volleyball](/non-ip-core-curriculum/CCAs/Volleyball/)
-*  [Wushu](/non-ip-core-curriculum/CCAs/Wushu-Club/)     | 
-
-
-
-
-
-
-
-
