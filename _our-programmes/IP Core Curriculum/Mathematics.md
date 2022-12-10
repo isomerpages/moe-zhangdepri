@@ -11,7 +11,7 @@ Mathematics
 
   
 
-### Department Focus
+##### Department Focus
 
   
 
@@ -19,7 +19,7 @@ To nurture enthusiastic pupils who are able to reason logically, communicate mat
 
   
 
-### Curriculum
+##### Curriculum
 
   
 
@@ -27,7 +27,7 @@ The curriculum is based on the MOE Primary Mathematics syllabus which is guided 
 
   
 
-### Pedagogy
+##### Pedagogy
 
   
 
@@ -35,7 +35,7 @@ In Zhangde Primary, we build on pupils’ prior knowledge and skills and help pu
 
   
 
-### Programmes
+##### Programmes
 
   
 
