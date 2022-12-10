@@ -8,6 +8,6 @@ description: ""
 Our Programmes
 ==============
 
-<p><a href="[English](/our-programmes/IP-Core-Curriculum/English/)"><img style="width:15%" src="/images/Eng.jpeg"></a></p>
+<p><a href="(/our-programmes/IP-Core-Curriculum/English/)"><img style="width:15%" src="/images/Eng.jpeg"></a></p>
 
 [English](/our-programmes/IP-Core-Curriculum/English/)
