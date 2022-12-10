@@ -11,3 +11,4 @@ CCAs
 
 ### **Sports**
 *  [Badminton](/non-ip-core-curriculum/CCAs/Badminton/)
+*  [Basketball](/non-ip-core-curriculum/CCAs/Basketball/)
