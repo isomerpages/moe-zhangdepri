@@ -20,6 +20,7 @@ CCAs
 *  [Wushu](/non-ip-core-curriculum/CCAs/Wushu-Club/)
 
 ### **Performing Arts**
+*  
 
 
 | **Sports** | **Performing Arts** | Column 3 | Column 4 |
@@ -33,4 +34,3 @@ CCAs
 *  [Football](/non-ip-core-curriculum/CCAs/Football/)
 *  [Volleyball](/non-ip-core-curriculum/CCAs/Volleyball/)
 *  [Wushu](/non-ip-core-curriculum/CCAs/Wushu-Club/)     | Text     | Text     | Text     |
-
