@@ -47,3 +47,5 @@ Pupils are provided with a variety of learning experiences that focus on mathema
 ![](/images/Math1.png)
 
 ·       <b>Learning Experiences</b> – Activities such as Math Shopping Day and Math Trails provide the students with opportunities to apply their knowledge and skills in real-life situations.
+
+![](/images/Math2.png)
