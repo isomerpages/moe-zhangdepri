@@ -7,3 +7,5 @@ description: ""
 
 GIVER3S Times 2022
 ==================
+
+### Term 1
