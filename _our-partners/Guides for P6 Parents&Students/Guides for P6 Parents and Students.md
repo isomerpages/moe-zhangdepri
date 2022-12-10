@@ -29,7 +29,9 @@ To support you and your child/ward to choose suitable secondary schools under th
 
 ![](/images/SchoolFinder.png)
 
-### 
 
-2.    The PSLE-Full Subject Based Banding (PSLE-FSBB) Microsite which provides information on commonly asked questions and a Score Calculator to generate possible courses and schools that your child/ward may be eligible for. 
 
+2.    The PSLE-Full Subject Based Banding (PSLE-FSBB) Microsite which provides information on commonly asked questions and a Score Calculator to generate possible courses and schools that your child/ward may be eligible for.
+
+
+    
