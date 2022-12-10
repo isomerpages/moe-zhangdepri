@@ -54,3 +54,5 @@ All applicants will apply for DSA-Sec through a centralised DSA-Sec Portal ([htt
 ![](/images/DSA%20Info%20Sheet%202022_Page_1.jpg)
 
 ![](/images/DSA%20Info%20Sheet%202022_Page_2.jpg)
+
+For more information, please visit the MOE website from 20 Apr 2022 for information on the 2022 DSA-Sec talent areas, application process and timeline ([www.moe.gov.sg/dsa-sec](https://www.moe.gov.sg/dsa-sec)). You may also visit secondary schools’ websites from 20 Apr 2022 for information on DSA talent areas.
