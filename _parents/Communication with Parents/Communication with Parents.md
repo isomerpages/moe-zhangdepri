@@ -35,5 +35,5 @@ Communication with Parents
 
 *   [Term 3 Calendar](/files/Term%203%20Student%20Calendar%202022.pdf)
 *   [Term 3 Letter to Parents (1)](/files/2022%20From%20the%20Desk%20of%20the%20Principal_24th%20June%20Term%203.pdf)
-*   [P6 Letter to Parents\_Preliminary Examination 2022](https://zhangdepri.moe.edu.sg/qql/slot/u180/Our%20Partners/Parents/Communication%20with%20Parents/Exams%20Topics%202022/P6_Letter_to_Parent_PRELIM%202022.pdf)
+*   [P6 Letter to Parents_Preliminary Examination 2022](/files/P6_Letter_to_Parent_PRELIM%202022.pdf)
 *   [Term 3 Letter to Parents (2)](https://zhangdepri.moe.edu.sg/qql/slot/u180/Our%20Partners/Parents/Communication%20with%20Parents/2022%20Letters/2022%20From%20the%20Desk%20of%20the%20Principal_8th%20August%202022.pdf)
