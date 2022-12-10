@@ -2,6 +2,7 @@ collections:
   non-ip-core-curriculum:
     output: true
     order:
+      - CCAs/Basketball.md
       - CCAs/Floorball.md
       - CCAs/Rope Skipping.md
       - CCAs/Football.md
