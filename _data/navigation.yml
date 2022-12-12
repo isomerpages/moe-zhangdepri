@@ -20,8 +20,12 @@ links:
       - title: Our Stories
         url: /our-stories/Happenings-at-ZPS/Happenings-at-ZPS/
   - title: Our Partners
-    url: /permalink
-    sublinks: []
+    url: /parents/Parents/
+    sublinks:
+      - title: Parents
+        url: /parents/Parents/
+      - title: School Advisory Committee
+        url: /permalink
   - title: Resources
     url: /resources/Resources/
     sublinks:
