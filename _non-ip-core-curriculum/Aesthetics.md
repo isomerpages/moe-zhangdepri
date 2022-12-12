@@ -168,3 +168,8 @@ The curriculum aims to equip students with the ability for creative expression a
   </tr>
 </tbody>
 </table>
+
+
+To support ongoing Art and Music lessons in school, we also encourage our students to visit the [Aesthetics Microsite](http://go.gov.sg/zpsaesthetics) for updates on student activities.
+
+<i>(Link to Aesthetics Microsite: [http://go.gov.sg/zpsaesthetics_](http://go.gov.sg/zpsaesthetics))</i>
