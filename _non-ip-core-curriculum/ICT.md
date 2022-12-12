@@ -33,3 +33,5 @@ To nurture a community of responsible learners who possess the 21st Century Com
   
 
 ### Department Focus
+
+![](/images/ICT%20Focus.jpg)
