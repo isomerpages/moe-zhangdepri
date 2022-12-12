@@ -50,3 +50,27 @@ c.    Alimony payment (including lump sum payment) received for the maintena
 7.    If an income earner is on no-pay leave as at the date of application for the MOE FAS, and the total period of his or her no-pay leave is 6 months or less, his or her last drawn income will be included when calculating a family’s GHI.
 
 8.    For students who are staying with one or more legal guardians, the income of the legal guardians and their spouse who are staying in the same household will be taken into account when calculating the GHI for the student’s family.
+
+<u><b>Benefits</b></u>
+
+The financial assistance covers the following:
+
+a.            Full waiver of standard miscellaneous fees of $6.50 from January to December 2021;
+
+b.            Textbooks;
+
+c.            School Attire
+
+·         School Uniforms (4 sets)
+
+·         Black Shoes (1 pair)
+
+·         Socks (2 pairs)
+
+d.            School Meals Fund ($2.00 per day);
+
+e.            School Transport (if applicable)
+
+·         60% subsidy for school bus transport (this subsidy does not cover any additional fares charged by the operator on top of the regular bus fares to ferry the student if he/she stays back for remedial lessons or CCAs), **OR**
+
+·         $180 in transport credit per annum for public transport
