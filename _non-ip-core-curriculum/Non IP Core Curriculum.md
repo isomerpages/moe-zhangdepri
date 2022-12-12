@@ -7,3 +7,5 @@ description: ""
 
 Non-IP Core Curriculum
 ======================
+
+<p><a href="[http://google.com/linkhere](http://google.com/linkhere)"><img style="width:25%" src="/images/xxx.png"></a></p>
