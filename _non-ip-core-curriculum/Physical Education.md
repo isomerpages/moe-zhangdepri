@@ -65,14 +65,13 @@ The lower primary level focuses on mastery of fundamental motor skills such as l
 
 <b>PE Curriculum</b>
 
-
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-bfgr{background-color:#00246E;color:#FFF;text-align:left;vertical-align:middle}
+.tg .tg-jlxq{background-color:#00246E;color:#ffffff;font-weight:bold;text-align:left;vertical-align:middle}
 .tg .tg-uy2r{background-color:#FFEFE3;color:#4C4C4C;font-weight:bold;text-align:left;vertical-align:middle}
 .tg .tg-gryt{background-color:#EFFBFF;color:#4C4C4C;font-weight:bold;text-align:left;vertical-align:middle}
 .tg .tg-m3wd{background-color:#FFEFE3;color:#4C4C4C;font-weight:bold;text-align:left;vertical-align:top}
@@ -81,8 +80,8 @@ The lower primary level focuses on mastery of fundamental motor skills such as l
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-bfgr"><span style="color:#FFF;background-color:#00246E">Level </span></th>
-    <th class="tg-bfgr"><span style="color:#FFF;background-color:#00246E">Curriculum</span></th>
+    <th class="tg-jlxq"><span style="background-color:#00246E">Level </span></th>
+    <th class="tg-jlxq"><span style="background-color:#00246E">Curriculum</span></th>
   </tr>
 </thead>
 <tbody>
