@@ -188,3 +188,41 @@ The Sports Education Programme (SEP) is a collaborative partnership between Sing
   
 
 The Sports Education Programmes have been incorporated into the school structured PE & Sports and Outdoor Education Framework.
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-ajd5{background-color:#ECECEC;color:#4C4C4C;text-align:left;vertical-align:top}
+.tg .tg-xyrl{background-color:#E6E6E6;color:#222;text-align:left;vertical-align:top}
+.tg .tg-b4br{background-color:#ECECEC;color:#222;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-rs0e{background-color:#E6E6E6;color:#222;font-weight:bold;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-b4br"><br><br><br><br><br>P4 Sports Climbing</th>
+    <th class="tg-ajd5"><br>P4 pupils learn how to climb a bouldering wall and a rock wall under this programme. The programme aims to enhance pupils’ sense of adventure and ruggedness and build pupils’ self-confidence and self-esteem. The pupils will: <br><br>• Learn about the basic equipment needed for rock climbing and its usage<br>• Learn about the use worthiness of the equipment<br>• Learn about the different types and forms of climbing<br>• Learn basic bouldering and climbing skills<br>• Learn about the safety in bouldering and rock climbing</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-rs0e"></td>
+    <td class="tg-xyrl"></td>
+  </tr>
+  <tr>
+    <td class="tg-b4br"><br><br><br><br>P5 Kayaking<br></td>
+    <td class="tg-ajd5"><br>P5 pupils learn how to kayak under this programme. The programme aims to build water confidence in pupils and the sense of activeness. The pupils will: <br><br>• Learn about the basic equipment needed for kayaking and its usage<br>• Learn about the use worthiness of the equipment<br>• Learn basic paddling skills for kayaking<br>• Learn basic water survival skills<br>• Learn about the safety in kayaking</td>
+  </tr>
+  <tr>
+    <td class="tg-xyrl"></td>
+    <td class="tg-xyrl"></td>
+  </tr>
+  <tr>
+    <td class="tg-b4br"><br><br><br><br>P6 Dragon Boating<br></td>
+    <td class="tg-ajd5">P6 pupils learn how to dragon boat under this programme. The programme aims to build water confidence in pupils as well as resilience when faced with challenges. The pupils will: <br><br>• Learn about the basic equipment needed for dragon boating and its usage<br>• Learn about the use worthiness of the equipment<br>• Learn basic paddling skills for dragon boating<br>• Learn basic water survival skills<br>• Learn about safety in dragon boating</td>
+  </tr>
+</tbody>
+</table>
