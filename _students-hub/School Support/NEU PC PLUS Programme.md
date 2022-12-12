@@ -13,4 +13,4 @@ The IMDA NEU PC Plus Programme offers full-time pupils and persons with permanen
 
   
 
-Click  for more information
+Click [here](/files/3B-2019-Connect-T2-Parents-Tipsheet-Pri.pdf) for more information
