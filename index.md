@@ -4,19 +4,18 @@ title: Zhangde Primary School
 description: An Isomer site of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
-notification: Here's a notification bar you can use!
+notification: "Zhangde Primary School Open House: Join us in the virtual tour
+  around the school!!! https://4d.silversea-media.com/zps360/"
 sections:
   - hero:
-      title: Hero title
-      subtitle: Hero subtitle
       background: /images/hero-banner.png
       button: Contact Us
-      url: /contact-us/
+      url: /information/Contact-Us/
       key_highlights:
-        - title: Highlight A
+        - title: ANNOUNCEMENTS
           description: Important highlight A is important
           url: https://google.com
-        - title: Highlight B
+        - title: CALENDAR EVENTS
           description: Important highlight B is equally important
           url: https://gmail.com
         - title: Page A
@@ -29,5 +28,3 @@ sections:
       button: Button text
       url: /faq/
 ---
-
-
