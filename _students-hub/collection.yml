@@ -2,5 +2,6 @@ collections:
   students-hub:
     output: true
     order:
+      - School Support/NEU PC PLUS Programme.md
       - School Support/.keep
       - ZPS Arena.md
