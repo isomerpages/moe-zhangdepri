@@ -4,3 +4,90 @@ permalink: /non-ip-core-curriculum/Aesthetics/
 description: ""
 ---
 ![](/images/OurProgrammes1.png)
+
+Aesthetics
+==========
+
+
+  
+
+### Department Focus
+
+
+To develop every child musically and artistically so that he/she will develop an appreciation and love for the Arts.
+
+
+
+### Programmes
+
+  
+
+##### **Art Curriculum**
+
+Art is one of the core subjects in the primary school curriculum. It is a progressive 6-year programme to provide students with a holistic learning experience in Art through Seeing, Appreciating and Expressing themselves through Art. 
+
+The School’s Art curriculum aims to enable every child to enjoy Art, communicate visually and make meaning through connecting with society and culture. It incorporates features to facilitate the development of knowledge, skills and values for all levels.  A wide range of 2-D and 3-D art forms are included to provide students with exposure to a variety of art experiences.
+
+##### **Key Programmes for Different Levels**
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-jxeu{background-color:#EFFBFF;color:#4C4C4C;text-align:left;vertical-align:top}
+.tg .tg-yahg{background-color:#FFEFE3;color:#4C4C4C;text-align:left;vertical-align:top}
+.tg .tg-0gyz{background-color:#EFFBFF;color:#4C4C4C;font-weight:bold;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-0gyz">Level</th>
+    <th class="tg-0gyz">Programme</th>
+    <th class="tg-0gyz">Rationale</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-yahg">P1 - P6</td>
+    <td class="tg-yahg">Artwork by Singapore and International master/contemporary artists, as well as by students from our schools</td>
+    <td class="tg-yahg">To expose students to the different techniques and artistic styles of these artists, as well as the life of these artists.</td>
+  </tr>
+  <tr>
+    <td class="tg-jxeu">P1 - P2</td>
+    <td class="tg-jxeu">Handy Work</td>
+    <td class="tg-jxeu">To expose students to different forms of paintings, starting from experimentation in the mixing of colours.</td>
+  </tr>
+  <tr>
+    <td class="tg-yahg">P3</td>
+    <td class="tg-yahg">Chinese Painting </td>
+    <td class="tg-yahg">To expose students to different forms of painting starting from experimentation of colour mixing to specific skills in Chinese painting.</td>
+  </tr>
+  <tr>
+    <td class="tg-jxeu">P4</td>
+    <td class="tg-jxeu">Ceramics</td>
+    <td class="tg-jxeu">To learn techniques in creating 3D artwork and to build confidence in these techniques</td>
+  </tr>
+  <tr>
+    <td class="tg-yahg">P4</td>
+    <td class="tg-yahg">Museum Based Learning</td>
+    <td class="tg-yahg">To develop appreciation and pride in local art, culture and heritage</td>
+  </tr>
+  <tr>
+    <td class="tg-jxeu">P5</td>
+    <td class="tg-jxeu">Digital Drawing</td>
+    <td class="tg-jxeu">To expose students to other ways of creative expression through drawing on digital devices.</td>
+  </tr>
+  <tr>
+    <td class="tg-yahg">P6</td>
+    <td class="tg-yahg">Ceramics</td>
+    <td class="tg-yahg">To apply hand building techniques learnt in Paper Clay module and to build confidence in these techniques.</td>
+  </tr>
+  <tr>
+    <td class="tg-jxeu"><span style="font-weight:400">P6</span><span style="color:#4C4C4C;background-color:#EFFBFF"> </span></td>
+    <td class="tg-jxeu"><span style="font-weight:400">Experiences Beyond the Classroom</span></td>
+    <td class="tg-jxeu"><span style="font-weight:400">Students go on a teacher-curated Post-PSLE Art Programme as a form of consolidation of the learning they have acquired from their Art lessons.</span></td>
+  </tr>
+</tbody>
+</table>
