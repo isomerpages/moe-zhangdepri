@@ -237,3 +237,135 @@ The Lower Primary Sports Day is an annual event organised by the Physical & Heal
   
 
 ##### **Key Programmes for Different Levels**
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-q6nq{color:#4C4C4C;text-align:left;vertical-align:top}
+.tg .tg-br2o{background-color:#E6E6E6;color:#4C4C4C;text-align:left;vertical-align:top}
+.tg .tg-gpqx{color:#4C4C4C;font-weight:bold;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-gpqx">S/N</th>
+    <th class="tg-gpqx">Programme<br></th>
+    <th class="tg-gpqx">Level</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-br2o"></td>
+    <td class="tg-br2o"></td>
+    <td class="tg-br2o"></td>
+  </tr>
+  <tr>
+    <td class="tg-q6nq">1.</td>
+    <td class="tg-q6nq"><br>PAL Sports/Outdoor Education/Visual Arts/Performing Arts<br></td>
+    <td class="tg-q6nq">P1</td>
+  </tr>
+  <tr>
+    <td class="tg-br2o"></td>
+    <td class="tg-br2o"></td>
+    <td class="tg-br2o"></td>
+  </tr>
+  <tr>
+    <td class="tg-q6nq">2.</td>
+    <td class="tg-q6nq">PAL Sports/Outdoor Education/Visual Arts/Performing Arts<br></td>
+    <td class="tg-q6nq">P2</td>
+  </tr>
+  <tr>
+    <td class="tg-br2o"></td>
+    <td class="tg-br2o"></td>
+    <td class="tg-br2o"></td>
+  </tr>
+  <tr>
+    <td class="tg-q6nq">3.</td>
+    <td class="tg-q6nq">P3 SwimSafer Programme<br></td>
+    <td class="tg-q6nq">P3</td>
+  </tr>
+  <tr>
+    <td class="tg-br2o"></td>
+    <td class="tg-br2o"></td>
+    <td class="tg-br2o"></td>
+  </tr>
+  <tr>
+    <td class="tg-q6nq">4.</td>
+    <td class="tg-q6nq">P3 Discovery Camp<br></td>
+    <td class="tg-q6nq">P3</td>
+  </tr>
+  <tr>
+    <td class="tg-br2o"></td>
+    <td class="tg-br2o"></td>
+    <td class="tg-br2o"></td>
+  </tr>
+  <tr>
+    <td class="tg-q6nq">5.</td>
+    <td class="tg-q6nq">P4 Adventure Camp<br></td>
+    <td class="tg-q6nq">P4</td>
+  </tr>
+  <tr>
+    <td class="tg-br2o"></td>
+    <td class="tg-br2o"></td>
+    <td class="tg-br2o"></td>
+  </tr>
+  <tr>
+    <td class="tg-q6nq">6.</td>
+    <td class="tg-q6nq">P4 SEP Sports Climbing<br></td>
+    <td class="tg-q6nq">P4</td>
+  </tr>
+  <tr>
+    <td class="tg-br2o"></td>
+    <td class="tg-br2o"></td>
+    <td class="tg-br2o"></td>
+  </tr>
+  <tr>
+    <td class="tg-q6nq">7.</td>
+    <td class="tg-q6nq">P5 Relationship Building Camp<br></td>
+    <td class="tg-q6nq">P5</td>
+  </tr>
+  <tr>
+    <td class="tg-br2o"></td>
+    <td class="tg-br2o"></td>
+    <td class="tg-br2o"></td>
+  </tr>
+  <tr>
+    <td class="tg-q6nq">8.</td>
+    <td class="tg-q6nq">P5 SEP Kayaking<br></td>
+    <td class="tg-q6nq">P5</td>
+  </tr>
+  <tr>
+    <td class="tg-br2o"></td>
+    <td class="tg-br2o"></td>
+    <td class="tg-br2o"></td>
+  </tr>
+  <tr>
+    <td class="tg-q6nq">9.</td>
+    <td class="tg-q6nq">P6 SEP Dragon Boating<br></td>
+    <td class="tg-q6nq">P6</td>
+  </tr>
+  <tr>
+    <td class="tg-br2o"></td>
+    <td class="tg-br2o"></td>
+    <td class="tg-br2o"></td>
+  </tr>
+  <tr>
+    <td class="tg-q6nq">10.</td>
+    <td class="tg-q6nq">Lower Primary Sports Day<br></td>
+    <td class="tg-q6nq">P1 − P2</td>
+  </tr>
+  <tr>
+    <td class="tg-br2o"></td>
+    <td class="tg-br2o"></td>
+    <td class="tg-br2o"></td>
+  </tr>
+  <tr>
+    <td class="tg-q6nq">11.</td>
+    <td class="tg-q6nq">Sports Fiesta<br></td>
+    <td class="tg-q6nq">P3 − P6</td>
+  </tr>
+</tbody>
+</table>
