@@ -110,3 +110,52 @@ Each term, two school values are selected to set the focus for the classroom, co
   
 
 Values-in-Action (VIA) are learning experiences that support students’ development as socially responsible citizens who contribute meaningfully to the community, through the learning and application of values, knowledge and skills. VIA fosters student ownership over how they contribute to the community. As part of VIA, students reflect on their experiences, the values they have put into practice, and how they can continue to contribute meaningfully.
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-q6nq{color:#4C4C4C;text-align:left;vertical-align:top}
+.tg .tg-096q{background-color:#E6E6E6;color:#4C4C4C;text-align:center;vertical-align:top}
+.tg .tg-br2o{background-color:#E6E6E6;color:#4C4C4C;text-align:left;vertical-align:top}
+.tg .tg-8dwo{color:#4C4C4C;text-align:center;vertical-align:top}
+.tg .tg-uv15{color:#4C4C4C;font-weight:bold;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-uv15">Level</th>
+    <th class="tg-uv15">Nature of Activities</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-096q">Primary 1, 2 and 3</td>
+    <td class="tg-br2o">School<br></td>
+  </tr>
+  <tr>
+    <td class="tg-8dwo">Primary 4, 5 and 6<br></td>
+    <td class="tg-q6nq">School and Community<br></td>
+  </tr>
+</tbody>
+</table>
+
+##### **Support Structures**
+
+  
+
+<i><b>Student Recognition</b></i>  
+
+  
+
+Student Recognition, given through school-based and MOE-given awards, as well as highlighting of students’ successes, helps to reinforce school values and desired character traits.
+
+  
+
+<i><b>Pastoral Care</b></i>  
+
+  
+
+Research has shown that pupils are likely to be emotionally and intellectually invested in classes where they have positive relationships with their teachers (Nichols, 2006; Pianta 1999; Phelan 1992) and thus it is critical for us to plan time that allows purposeful pupil-teacher interactions and the explicit teaching of social and emotional (SE) competencies. Through Strategies to Ensure More Attention to Individual Pupil (SEAIP), protected time within the curriculum allows form teachers to build positive relationships with their pupils. Also, SEAIP allows teachers to identify the needs of pupils and provide them with better support. Counsellors also provide the expert support where needed.
