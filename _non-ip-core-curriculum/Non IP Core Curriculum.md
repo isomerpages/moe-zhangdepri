@@ -8,4 +8,4 @@ description: ""
 Non-IP Core Curriculum
 ======================
 
-<p><a href="[http://google.com/linkhere](http://google.com/linkhere)"><img style="width:45%" src="/images/Aesthetics.jpg"></a></p>
+<p><a href="[/non-ip-core-curriculum/Aesthetics/]"><img style="width:45%" src="/images/Aesthetics.jpg"></a></p>
