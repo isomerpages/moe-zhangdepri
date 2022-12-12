@@ -9,3 +9,5 @@ Parent Support Group
 ====================
 
 ### **Overview**
+
+![](/images/PSG1.png)
