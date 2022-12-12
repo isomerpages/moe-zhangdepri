@@ -372,3 +372,7 @@ The Lower Primary Sports Day is an annual event organised by the Physical & Heal
 
 
 ### Tips for Students
+
+![](/images/Tips%20for%20Students1.jpeg)
+
+![](/images/Tips%20for%20Students2.jpeg)
