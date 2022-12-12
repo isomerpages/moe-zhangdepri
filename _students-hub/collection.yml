@@ -2,4 +2,5 @@ collections:
   students-hub:
     output: true
     order:
+      - School Support/.keep
       - ZPS Arena.md
