@@ -40,3 +40,12 @@ The PC-Bundle scheme provides a two-tier subsidy for applicants to own a new com
 *       [PC-Bundle Application Form for MOE-SPED FAS Recipients](/files/NPP%20Application%20Form%20v5%204%201Jun21%20for%20MOE-SPED%20FAS.pdf) ; or
 
            [PC-Bundle Application Form for Non MOE-SPED FAS Recipient](/files/NPP%20Application%20Form%20v12%204%201Jun21%20for%20NON%20MOE-SPED%20FAS.pdf)
+					 
+					 
+<b>Supporting Documents</b>
+
+*         A valid student pass/ matriculation card
+*        NRICs / Birth Certificates of the applicant and all the members of the household
+*        Latest pay slip or a 12-month CPF contribution history of all working adults in the household
+*        Latest 12-month CPF contribution history or a declaration of income status of all non-working adults in the household
+*        For more information on the NEU PC Plus Programme, you may visit the Infocomm Media Development Authority (IMDA) website at [www.imda.gov.sg/neupc](https://www.imda.gov.sg/neupc) or call IMDA NEU PC Helpline@ 6684 8858.
