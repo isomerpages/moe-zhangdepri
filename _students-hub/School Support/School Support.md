@@ -24,3 +24,23 @@ Pupils may apply for remission of school fees or half-payment of miscellaneous f
 [<b>SAC Financial Assistance Scheme</b>](/students-hub/School-Support/SAC-Financial-Assistance-Scheme/)
 
 [<b>NEU PC PLUS Programme</b>](/students-hub/School-Support/NEU-PC-PLUS-Programme/)
+
+
+<b>Community-Based Support</b>
+
+[ComCare assistance by Ministry of Social and Family Development (MSF)](http://app.msf.gov.sg/ComCare.aspx)
+
+Note: ComCare assistance link broken. 
+  
+
+  
+
+<b>Self-Help Group Support</b>
+
+*   [CDAC](https://www.cdac.org.sg/en/)  
+    
+*   [MENDAKI](https://www.mendaki.org.sg/)  
+    
+*   [SINDA](http://www.sinda.org.sg/)  
+    
+*   [Eurasian Association of Singapore](http://www.eurasians.org.sg/)
