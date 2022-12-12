@@ -44,3 +44,5 @@ Note: ComCare assistance link broken.
 *   [SINDA](http://www.sinda.org.sg/)  
     
 *   [Eurasian Association of Singapore](http://www.eurasians.org.sg/)
+
+Note: Eurasian Association of Singapore link broken.
