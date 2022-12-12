@@ -18,27 +18,27 @@ The purpose of physical education is to enable students to demonstrate individua
 
   
 
-**Goal 1:** Acquire a range of movement skills to participate in a variety of physical activities.
+<b>Goal 1:</b> Acquire a range of movement skills to participate in a variety of physical activities.
 
   
 
-**Goal 2:** Understand and apply movement concepts, principles and strategies in a range of physical activities.
+<b>Goal 2:</b> Understand and apply movement concepts, principles and strategies in a range of physical activities.
 
   
 
-**Goal 3:** Demonstrate safe practices during physical and daily activities with respect to themselves, others and the environment.
+<b>Goal 3:</b> Demonstrate safe practices during physical and daily activities with respect to themselves, others and the environment.
 
   
 
-**Goal 4:** Display positive personal and social behaviour across different experiences.
+<b>Goal 4:</b> Display positive personal and social behaviour across different experiences.
 
   
 
-**Goal 5:** Acquire and maintain health-enhancing fitness through regular participation in physical activities.
+<b>Goal 5:</b> Acquire and maintain health-enhancing fitness through regular participation in physical activities.
 
   
 
-**Goal 6:** Enjoy and value the benefits of living a physically active and healthy life.
+<b>Goal 6:</b> Enjoy and value the benefits of living a physically active and healthy life.
 
   
 
