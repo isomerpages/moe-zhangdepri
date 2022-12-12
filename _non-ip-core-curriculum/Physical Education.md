@@ -40,7 +40,6 @@ The purpose of physical education is to enable students to demonstrate individua
 
 <b>Goal 6:</b> Enjoy and value the benefits of living a physically active and healthy life.
 
-  
 
   
 
@@ -53,3 +52,5 @@ Physical education teachers consciously make use of movement as the primary medi
 *   education through movement; and  
     
 *   education about movement
+
+![](/images/PE.png)
