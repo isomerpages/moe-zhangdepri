@@ -29,4 +29,4 @@ The PC-Bundle scheme provides a two-tier subsidy for applicants to own a new com
 *   Past recipients of a PC bundle under the NEU PC Plus Programme may reapply only after three years from the last deployment to the household.
 *   Students from one-to-one computing programme are qualified to apply regardless of the fact that their household members are current beneficiaries, with support from school.
 *   Click on this [factsheet](/files/NEU%20PC%20Plus-Factsheet.pdf) for detailed information.
-*   Households with **three or more school-going children may apply for a second subsidised PC**.
+*   Households with <b>three or more school-going children may apply for a second subsidised PC</b>.
