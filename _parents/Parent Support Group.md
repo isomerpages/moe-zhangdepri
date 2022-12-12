@@ -19,3 +19,5 @@ The Zhangde Parent Support Group is made up of like-minded parents who support t
 We would like to invite parents to volunteer (ad-hoc) or be a member of our PSG. Please scan the QR code given below or click on this link [https://form.gov.sg/#!/5f696bb30666cb0011cc3a2e](https://form.gov.sg/#!/5f696bb30666cb0011cc3a2e) to fill up the online registration form and we will get in touch with you.
 
 <b>QR Code</b>
+
+![](/images/PSG2.png)
