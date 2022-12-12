@@ -2,6 +2,7 @@ collections:
   parents:
     output: true
     order:
+      - Parents.md
       - Parent Support Group.md
       - Communication with Parents/Communication with Parents.md
       - Communication with Parents/Homework Policy.md
