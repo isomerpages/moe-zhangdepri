@@ -9,5 +9,4 @@ third_nav_title: Happenings @ ZPS
 Students' Work
 ==============
 
-Note: Pictures in the gif exceeds 5mb. 
-
+Note: Pictures in the gif exceeds 5mb.
