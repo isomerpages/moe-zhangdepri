@@ -27,17 +27,17 @@ PCI = Monthly GHI / No. of members in the same household
 
 <u><b>HOUSEHOLD MEMBERS</b></u>
 
-3.    Household members include the student, his/her parents, and unmarried siblings of the student, **regardless** of the address. 
+3.    Household members include the student, his/her parents, and unmarried siblings of the student, <b>regardless</b> of the address. 
 
 4.    Grandparents and other dependants living at the same address may be included on a case-by-case basis. They include: 
 
-a.    Relatives who are **old or sick and are unemployed and dependent** on the family; and 
+a.    Relatives who are <b>old or sick and are unemployed and dependent</b> on the family; and 
 
-        b. Child dependant (where the family is the **legal guardian**).
+b. Child dependant (where the family is the <b>legal guardian</b>).
 
 <u><b>GROSS HOUSEHOLD INCOME</b></u>
 
-5.    Gross household income or “GHI” is the total combined income of all family members in the same household, as defined in paragraphs 3 and 4 above. Household income includes any **regular** allowances (e.g. overtime, transport, laundry, and etc) and employee's CPF contribution. Income from other sources (e.g. pension and rental income) must also be included when calculating a family’s GHI.
+5.    Gross household income or “GHI” is the total combined income of all family members in the same household, as defined in paragraphs 3 and 4 above. Household income includes any <b>regular</b> allowances (e.g. overtime, transport, laundry, and etc) and employee's CPF contribution. Income from other sources (e.g. pension and rental income) must also be included when calculating a family’s GHI.
 
 6.    The following sources of income will not be considered in the computation of GHI: 
 
@@ -45,7 +45,7 @@ a.    National Service allowance earned by National Servicemen; 
 
 b.    Severance compensation and insurance payouts; and 
 
-c.    Alimony payment (including lump sum payment) received for the maintenance of child(ren) and/or ex-spouse_._
+c.    Alimony payment (including lump sum payment) received for the maintenance of child(ren) and/or ex-spouse.
 
 7.    If an income earner is on no-pay leave as at the date of application for the MOE FAS, and the total period of his or her no-pay leave is 6 months or less, his or her last drawn income will be included when calculating a family’s GHI.
 
