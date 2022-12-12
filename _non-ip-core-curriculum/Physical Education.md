@@ -177,3 +177,14 @@ The learning experiences for the camps are aligned with our school’s Learning 
   </tr>
 </tbody>
 </table>
+
+
+<b>Sports Education Programme (SEP)</b>
+
+  
+
+The Sports Education Programme (SEP) is a collaborative partnership between Singapore Sports Council (SSC) and the Ministry of Education (MOE). The SEP aims to promote the importance of sports education, encourage sports participation in schools and increase sporting opportunities for the young. It also hopes to promote team spirit and character building, as well as arouse interest in continual sports participation amongst students.
+
+  
+
+The Sports Education Programmes have been incorporated into the school structured PE & Sports and Outdoor Education Framework.
