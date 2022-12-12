@@ -54,4 +54,6 @@ The PC-Bundle scheme provides a two-tier subsidy for applicants to own a new com
 
 Home Access provides eligible Singaporean families with subsidised fibre broadband connectivity, with an option to bundle with a tablet or smartphone.
 
-*   Click on this [brochure](https://zhangdepri-moe-edu-sg-admin.cwp.sg/qql/slot/u180/Students%20Hub/School%20Support/NEU%20PC%20PLUS%20Programme/HA%203.0%20Brochure%20WEF%20Oct%202021.pdf) to find out more.
+*   Click on this brochure to find out more.
+
+Note: Home Access brochure pdf exceeds 5mb.
