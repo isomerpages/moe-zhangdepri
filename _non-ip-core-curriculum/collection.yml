@@ -2,6 +2,7 @@ collections:
   non-ip-core-curriculum:
     output: true
     order:
+      - CCE.md
       - Non IP Core Curriculum.md
       - Physical Education.md
       - ICT.md
