@@ -20,7 +20,7 @@ Parents
 
   
 
-[Useful Guides and Resources](https://zhangdepri-moe-edu-sg-admin.cwp.sg/our-partners/parents/useful-guides-and-resources)
+[Useful Guides and Resources](/parents/Useful-Guides-and-Resources/Useful-Guides-and-Resources/)
 
   
 
