@@ -44,6 +44,6 @@ Communication with Parents
 *   [Term 4 Letter to Parents (1)](/files/From%20the%20Desk%20of%20the%20Principal%20Term%204_27th%20Sep%202022.pdf)
 *   <b>End-of-Year Exam 2022</b>
 
-    *   [P3 Collated End-of-Year Exam topics 2022](https://zhangdepri-moe-edu-sg-admin.cwp.sg/qql/slot/u180/Our%20Partners/Parents/Communication%20with%20Parents/Exams%20Topics%202022/2022%20P3%20EOY%20Exams%20Topics%20To%20Be%20Tested_Final.pdf)
+    *   [P3 Collated End-of-Year Exam topics 2022](/files/2022%20P3%20EOY%20Exams%20Topics%20To%20Be%20Tested_Final.pdf)
     *  [P4 Collated End-of-Year Exam topics 2022](https://zhangdepri-moe-edu-sg-admin.cwp.sg/qql/slot/u180/Our%20Partners/Parents/Communication%20with%20Parents/Exams%20Topics%202022/2022%20P4%20EOY%20Exams%20Topics%20To%20Be%20Tested_Final.pdf)
     *  [P5 Collated End-of-Year Exam topics 2022](https://zhangdepri-moe-edu-sg-admin.cwp.sg/qql/slot/u180/Our%20Partners/Parents/Communication%20with%20Parents/Exams%20Topics%202022/2022%20P5%20EOY%20Exams%20Topics%20To%20Be%20Tested_Final.pdf)
