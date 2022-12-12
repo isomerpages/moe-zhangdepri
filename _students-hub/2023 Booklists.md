@@ -3,8 +3,6 @@ title: 2023 Booklists
 permalink: /students-hub/2023-Booklists/
 description: ""
 ---
-
-
 ![](/images/Resourcesheader2.png)
 
 
@@ -14,4 +12,7 @@ description: ""
 
 ```
 
-[P1 Booklist](/files/P1%20BOOKLIST.pdf)
+[P1 Booklist](/files/P1%20BOOKLIST.pdf) 
+
+[P2 Booklist](/files/P2%20BOOKLIST.pdf)
+
