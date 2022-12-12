@@ -29,3 +29,12 @@ PSG Mission: To work in partnership with Zhangde Primary School to deliver the b
 ![](/images/PSG3.jpeg)
 
 ![](/images/PSG4.png)
+
+<i>The Zhangde PSG has set up a Facebook group, <b>Zhangde Parents' Exchange</b>, ([https://www.facebook.com/groups/zhangdeparents](https://www.facebook.com/groups/zhangdeparents)), to enable ZPS parents to donate and receive the following new/used items:  
+\- uniforms;  
+\- textbooks; and  
+\- age-appropriate books.  
+  
+This platform is created to benefit the ZPS parents' community and promote environmental sustainability, by enabling items (in good condition/new) to be reused and recycled meaningfully.</i>
+
+<i>All ZPS parents are welcome to join the group.</i>
