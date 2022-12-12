@@ -52,3 +52,5 @@ Communication with Parents
 
 
 *   <b>HTML Briefing for Primary 3 and Primary 4 students from 2022 and 2023 respectively</b>
+
+Note: HTML Briefing video not uploaded via Youtube. 
