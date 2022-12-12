@@ -19,8 +19,9 @@ links:
         url: /our-programmes/Sexuality-Education-Programme/
       - title: Our Stories
         url: /our-stories/Happenings-at-ZPS/Happenings-at-ZPS/
-  - title: Contact Us
-    url: /contact-us/
+  - title: Our Partners
+    url: /permalink
+    sublinks: []
   - title: Resources
     url: /resources/Resources/
     sublinks:
@@ -28,3 +29,5 @@ links:
         url: /students-hub/Links-and-Helpdesk/
       - title: Teacher's Resources
         url: /resources/Teachers-Resources/
+  - title: Contact Us
+    url: /contact-us/
