@@ -67,3 +67,47 @@ Coding will enable students to develop 21st Century Competencies and skills, pu
 
 
 ##### **2022 Programme from P1 to P6**
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-8dwo{color:#4C4C4C;text-align:center;vertical-align:top}
+.tg .tg-uv15{color:#4C4C4C;font-weight:bold;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-uv15">Level</th>
+    <th class="tg-uv15">Focus</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-8dwo">P1</td>
+    <td class="tg-8dwo">Ø  Osmo (Coding Awbie)<br>Ø  Introduction to coding</td>
+  </tr>
+  <tr>
+    <td class="tg-8dwo">P2</td>
+    <td class="tg-8dwo">Ø  WeDo (Robotics)<br>Ø  Basic understanding of programming logic and thinking<br>Ø  Topic: Recycling</td>
+  </tr>
+  <tr>
+    <td class="tg-8dwo">P3</td>
+    <td class="tg-8dwo">Ø  Combine WeDo and Scratch programming<br>Ø  Topic: Environmental Issues</td>
+  </tr>
+  <tr>
+    <td class="tg-8dwo">P4</td>
+    <td class="tg-8dwo">Ø  Introduction to the SAM lab kits<br>Ø  Introduction to Design Thinking processes<br>Ø  Topic: SMART city</td>
+  </tr>
+  <tr>
+    <td class="tg-8dwo">P5</td>
+    <td class="tg-8dwo">Ø  Design Thinking processes<br>Ø  Topic: Inclusive Society</td>
+  </tr>
+  <tr>
+    <td class="tg-8dwo">P6</td>
+    <td class="tg-8dwo">Ø Code for Fun (CFF) Programme</td>
+  </tr>
+</tbody>
+</table>
