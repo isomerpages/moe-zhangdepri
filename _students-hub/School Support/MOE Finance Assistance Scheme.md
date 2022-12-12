@@ -11,7 +11,7 @@ MOE Finance Assistance Scheme
 
   
 
-**OBJECTIVE**
+<u><b>OBJECTIVE</b></u>
 
 1.    The objective of the MOE FAS is to help financially needy Singaporean students in Government and Government-aided schools to meet basic schooling expenses.
 
