@@ -91,3 +91,80 @@ The School’s Art curriculum aims to enable every child to enjoy Art, communica
   </tr>
 </tbody>
 </table>
+
+
+
+##### **Music Curriculum**
+
+The School’s Music Curriculum consists of a progressive 6-year programme in music education which incorporates musical experiences that encompass listening, creating and performing of music.  
+
+The curriculum aims to equip students with the ability for creative expression and communication through music. This includes exposure to an array of music repertoire to expand their musical experiences and the opportunity to learn and play a range of musical instruments such as the recorder, electronic keyboard, ukulele and Cajon.
+
+##### **Key Programmes for Different Levels**
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-jxeu{background-color:#EFFBFF;color:#4C4C4C;text-align:left;vertical-align:top}
+.tg .tg-yahg{background-color:#FFEFE3;color:#4C4C4C;text-align:left;vertical-align:top}
+.tg .tg-0gyz{background-color:#EFFBFF;color:#4C4C4C;font-weight:bold;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-0gyz">Level</th>
+    <th class="tg-0gyz">Programme</th>
+    <th class="tg-0gyz">Rationale</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-yahg">P1 - P6</td>
+    <td class="tg-yahg">Singing and composition of simple melodies</td>
+    <td class="tg-yahg">To equip students with knowledge and skills to express themselves and communicate musically.</td>
+  </tr>
+  <tr>
+    <td class="tg-jxeu">P1</td>
+    <td class="tg-jxeu">Handbells</td>
+    <td class="tg-jxeu">To scaffold students’ understanding of musical notes and to learn to work in groups as they move on to other instruments in P2.</td>
+  </tr>
+  <tr>
+    <td class="tg-yahg">P2</td>
+    <td class="tg-yahg">Xylophones / Resonator Bells</td>
+    <td class="tg-yahg">To expose students to the first pitched instrument made up of an octave of notes.</td>
+  </tr>
+  <tr>
+    <td class="tg-jxeu">P3</td>
+    <td class="tg-jxeu">Electronic Keyboard<br> </td>
+    <td class="tg-jxeu">To equip students with note reading skills and prepare them to play simple songs with proper fingering and techniques.</td>
+  </tr>
+  <tr>
+    <td class="tg-yahg">P3</td>
+    <td class="tg-yahg">Recorder</td>
+    <td class="tg-yahg">To equip students with sound techniques and listening skills as they learn to play an instrument with a very rich history behind it.</td>
+  </tr>
+  <tr>
+    <td class="tg-jxeu">P3</td>
+    <td class="tg-jxeu">Live Performance Experience</td>
+    <td class="tg-jxeu">To expose students to live performances in a real-life performance setting eg. A theatre or concert hall and to teach audience etiquette.</td>
+  </tr>
+  <tr>
+    <td class="tg-yahg">P4</td>
+    <td class="tg-yahg">Ukulele</td>
+    <td class="tg-yahg">To acquire skills in playing the instrument and to learn some improvisation techniques. As one of the most versatile musical instruments, the ukulele can be played in many styles and techniques. <br></td>
+  </tr>
+  <tr>
+    <td class="tg-jxeu">P5</td>
+    <td class="tg-jxeu">Cajon</td>
+    <td class="tg-jxeu">To equip students with knowledge of common rhythmic patterns used to accompany popular songs. Playing this instrument will also serve to strengthen students’ listening skills as they learn to play in groups.<br></td>
+  </tr>
+  <tr>
+    <td class="tg-yahg">P6</td>
+    <td class="tg-yahg">Composers<br>(Local and Beyond)</td>
+    <td class="tg-yahg">To appreciate music from the Singapore culture, regional cultures as well as repertoire from the Western Classical tradition.</td>
+  </tr>
+</tbody>
+</table>
