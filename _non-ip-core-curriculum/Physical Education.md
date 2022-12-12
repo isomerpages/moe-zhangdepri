@@ -63,7 +63,7 @@ The lower primary level focuses on mastery of fundamental motor skills such as l
 
   
 
-<b>PE Curriculum</b>
+##### **PE Curriculum**
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -113,7 +113,7 @@ The lower primary level focuses on mastery of fundamental motor skills such as l
 </table>
 
 
-<b>Programme For Active Learning (PAL)</b>
+##### **Programme For Active Learning (PAL)**
 
   
 
@@ -130,7 +130,7 @@ The PAL programme aims to:
 *   Provide varied avenues for pupils to develop social and emotional competencies
 
 
-<b>Level Camps</b>
+##### **Level Camps**
 
   
 
@@ -179,7 +179,7 @@ The learning experiences for the camps are aligned with our school’s Learning 
 </table>
 
 
-<b>Sports Education Programme (SEP)</b>
+##### **Sports Education Programme (SEP)**
 
   
 
@@ -226,3 +226,14 @@ The Sports Education Programmes have been incorporated into the school structure
   </tr>
 </tbody>
 </table>
+
+
+##### **Lower Primary Sports Day**  
+
+  
+
+The Lower Primary Sports Day is an annual event organised by the Physical & Health Education Department. It is held on the eve of Children’s Day which falls on the first Friday of October. The objective of the Lower Primary Sports Day is to showcase the skills pupils have learnt during their Physical Education lessons. The Lower Primary Sports Day also provides pupils with the opportunity to cheer and work together in camaraderie within their classes. The event showcases the skills the Primary 1 and Primary 2 pupils have learnt during their Physical Education lessons. It includes skills in the domain of Fundamental Movement such as rolling, hopping, running, leaping and jumping and Fundamental Skills such as throwing, tossing, catching, balancing, bouncing, skipping, dribbling and passing. The event encourages mass participation and every child brings home a token for their participation in the competition. Parents are invited during the event to support and cheer their children as they compete in the races. Parents also take part in the Parent-Teacher race which aims to forge closer rapport between the teachers and parents.
+
+  
+
+##### **Key Programmes for Different Levels**
