@@ -72,4 +72,6 @@ For password reset and unlocking of accounts, please contact Mrs Fiona Wong at 6
 <b>3) Online Learning Resource Booklet For Kids! (3-12 years old)</b>
 
 Click on the following link to access the various online resources and workshops.  
-[E-Learning Resources](https://zhangdepri-moe-edu-sg-admin.cwp.sg/qql/slot/u180/Our%20Partners/Parents/Useful%20Guides%20and%20Resources/Online%20Learning%20Resource%20Booklet%20For%20Kids%203-12%20years%20old.pdf)
+E-Learning Resources
+
+Note: E-Learning Resources pdf exceeds 5mb. 
