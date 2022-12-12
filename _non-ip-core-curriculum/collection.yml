@@ -2,8 +2,8 @@ collections:
   non-ip-core-curriculum:
     output: true
     order:
-      - Aesthetics.md
       - Non IP Core Curriculum.md
+      - Aesthetics.md
       - CCE.md
       - Physical Education.md
       - ICT.md
