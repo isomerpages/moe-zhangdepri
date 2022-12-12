@@ -64,3 +64,5 @@ Note: Home Access brochure pdf exceeds 5mb.
 *       Complete the application form below and submit to <b>Infocomm Media Development Authority (IMDA) PSA Building Post Office P.O. Box 316 Singapore 91114 P.O. Box 316 Singapore 91114</b>
 
 [HA with Devices](/files/HA%203%200%20App%20Form%20v2%200%20HOMES_AutoInclude%205%20Apr%2021.pdf)
+
+[HA without Devices](/files/HA%203%200%20App%20Form%20v2%200%20HOMES_FINAL%205%20Apr.pdf)
