@@ -103,3 +103,10 @@ Each term, two school values are selected to set the focus for the classroom, co
   </tr>
 </tbody>
 </table>
+
+<i><b>Values-in-Action (VIA)</b></i>  
+
+
+  
+
+Values-in-Action (VIA) are learning experiences that support students’ development as socially responsible citizens who contribute meaningfully to the community, through the learning and application of values, knowledge and skills. VIA fosters student ownership over how they contribute to the community. As part of VIA, students reflect on their experiences, the values they have put into practice, and how they can continue to contribute meaningfully.
