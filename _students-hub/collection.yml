@@ -1,4 +1,5 @@
 collections:
   students-hub:
     output: true
-    order: []
+    order:
+      - ZPS Arena.md
