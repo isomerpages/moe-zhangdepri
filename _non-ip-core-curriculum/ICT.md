@@ -142,3 +142,6 @@ There are three key programmes under Cyber Wellness.
 *   Cyber Wellness Ambassadors Programme
 
 These programmes are aligned to our School-Wide Approach “Aware-Behave-Choice”.
+
+
+![](/images/Cyber%20Wellness%20Programme.gif)
