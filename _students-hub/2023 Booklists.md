@@ -19,3 +19,5 @@ description: ""
 [P3 Booklist](/files/P3%20BOOKLIST.pdf)
 
 [P4 Booklist](/files/P4%20BOOKLIST.pdf)
+
+[P5 Booklist](/files/P5%20BOOKLIST.pdf)
