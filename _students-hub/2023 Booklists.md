@@ -25,3 +25,5 @@ description: ""
 [P5 Fdn  Booklist](/files/P5%20FDN%20BOOKLIST.pdf)
 
 [P6 Booklist](/files/P6%20BOOKLIST.pdf)
+
+[P6 Fdn Booklist](/files/P6%20FDN%20BOOKLIST.pdf)
