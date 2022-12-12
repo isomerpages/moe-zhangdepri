@@ -37,6 +37,6 @@ The PC-Bundle scheme provides a two-tier subsidy for applicants to own a new com
 *       Complete the PC-Bundle application form
 *       For broadband service application, fill in the [Broadband Service application form](/files/NEU_PC_Plus_IMDA%20FBB_service_application_form9%20Apr2020.pdf) and Deed of Indemnity
 *       Submit completed form(s) and supporting documents to the applicant’s school’s administrative staff or directly to the relevant appointed lead agency for processing.
-*        [PC-Bundle Application Form for MOE-SPED FAS Recipients](https://zhangdepri-moe-edu-sg-admin.cwp.sg/qql/slot/u180/Students%20Hub/School%20Support/NEU%20PC%20PLUS%20Programme/NPP%20Application%20Form%20v5.4%201Jun21%20for%20MOE-SPED%20FAS.pdf); or
+*       [PC-Bundle Application Form for MOE-SPED FAS Recipients](/files/NPP%20Application%20Form%20v5%204%201Jun21%20for%20MOE-SPED%20FAS.pdf) ; or
 
            [PC-Bundle Application Form for Non MOE-SPED FAS Recipient](https://zhangdepri-moe-edu-sg-admin.cwp.sg/qql/slot/u180/Students%20Hub/School%20Support/NEU%20PC%20PLUS%20Programme/NPP%20Application%20Form%20v12.4%201Jun21%20for%20NON%20MOE-SPED%20FAS.pdf)
