@@ -65,6 +65,8 @@ The P1 to P6 coding programme is in line with the school’s Strategic Thrust 1,
 
 Coding will enable students to develop 21st Century Competencies and skills, putting children in control of the computer and building mastery in sequencing skills, counting, problem solving, logical thinking, creative and critical thinking. Having these skills would help the children in all subjects and build a strong foundation for their future work-life.
 
+![](/images/School%20Coding%20Programme.gif)
+
 
 ##### **2022 Programme from P1 to P6**
 
