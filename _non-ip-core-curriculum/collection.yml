@@ -2,8 +2,8 @@ collections:
   non-ip-core-curriculum:
     output: true
     order:
-      - Physical Education.md
       - Non IP Core Curriculum.md
+      - Physical Education.md
       - ICT.md
       - Student Development.md
       - CCAs/.keep
