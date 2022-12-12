@@ -12,7 +12,7 @@ Parents
 
   
 
-[Communication with Parents](https://zhangdepri-moe-edu-sg-admin.cwp.sg/our-partners/parents/communication-with-parents)  
+[Communication with Parents](/parents/Communication-with-Parents/Communication-with-Parents/)
 
   
 
