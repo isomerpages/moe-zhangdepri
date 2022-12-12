@@ -80,15 +80,15 @@ e.            School Transport (if applicable)
 
 ·         Please submit the following documents together with the application form.
 
-1. Household members who are **employed** are required to submit the following:
+1. Household members who are <u><b>employed</b></u> are required to submit the following:
 
 ·               CPF transaction statement/ contribution history (past 12 months); AND
 
 ·               Latest Income Tax Notice of Assessment (NOA); AND
 
-·               **latest payslip** or letter from employer certifying.
+·               <b>latest payslip</b> or letter from employer certifying.
 
-2. Household members who are **self-employed** are required to submit the following:
+2. Household members who are <u><b>self-employed</b></u> are required to submit the following:
 
 ·               CPF transaction statement/ contribution history (past 12 months);  AND
 
@@ -102,7 +102,7 @@ e.            School Transport (if applicable)
 
 ·               Annex II – Declaration of Unemployment (For household members who are unemployed and below age 62 and are not undertaking full-time studies or undergoing full-time National Service);
 
-4. **Any other documents as and when required by the school for the purpose of verifying the income.** If the Gross Household Income exceeds $2,750 and there are 5 or more members in the same household, please provide the following additional documents:
+4. <b>Any other documents as and when required by the school for the purpose of verifying the income.</b> If the Gross Household Income <u>exceeds $2,750 and there are 5 or more members in the same household</u>, please provide the following additional documents:
 
 5.    Copies of NRIC of household members, other than parents and unmarried siblings. If there are other dependent children without NRIC, please submit copies of legal documents to show that they are staying in the same household.
 
