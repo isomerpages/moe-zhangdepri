@@ -111,3 +111,31 @@ The lower primary level focuses on mastery of fundamental motor skills such as l
   </tr>
 </tbody>
 </table>
+
+
+<b>Programme For Active Learning (PAL)</b>
+
+  
+
+The PAL programme aims to:
+
+  
+
+*   Provide pupils with broad exposure and experiences through fun and varied activities in two broad areas:
+
+    *   Sports & Games and Outdoor Education; and
+    *   Performing Arts (Music and Dance) and Visual Arts.
+
+*   Facilitate holistic development of pupils in the five domains, namely moral, cognitive, physical, social and aesthetics.
+*   Provide varied avenues for pupils to develop social and emotional competencies
+
+
+<b>Level Camps</b>
+
+  
+
+The Level Camps are part of the school’s structured camp, leadership training and CCE programme. It is aligned with the school’s PE & Sports and Outdoor Education Framework and aim to provide our pupils a holistic education.
+
+  
+
+The learning experiences for the camps are aligned with our school’s Learning for Life Programme (LLP) on ‘Developing Zhangde GIVER3S Values Through Environment Education’. The learning experiences at the camps aim to educate our pupils to care for their environment and the world we live in. The camp objectives also ties in with the CCE learning outcomes, where pupils develop self-awareness and self-management skills to achieve personal well-being and effectiveness. Pupils also develop social-awareness and interpersonal skills to build and maintain positive relationships. Self-confidence, teamwork and a sense of independence and interdependence are fostered through spending time with their peers and teachers and completing tasks in teams.
