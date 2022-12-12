@@ -11,3 +11,5 @@ Resources
 
 
 [Student's Hub](/students-hub/Links-and-Helpdesk/)
+
+[Teacher's Resources](/resources/Teachers-Resources/)
