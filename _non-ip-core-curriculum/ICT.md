@@ -117,3 +117,26 @@ Lesson structure: 4 sessions X 2 hours for P3 to P5, 10 lessons X 1 hour for P1 
   
 
 Through the learning experiences from this programme, we hope that the students will develop a basic understanding of coding, acquire basic engineering and design skills and be exposed to science, technology and engineering practices.
+
+
+##### **Curriculum Integration**
+
+ICT is integrated into subjects to empower pupils’ learning. It also aims to encourage pupils to be Self-Directed Learners and ignite their passion for life-long learning.
+
+  
+
+##### **Cyber Wellness Programme**
+
+Cyber Wellness Programme follows the MOE Cyber Wellness Framework and adhered to the guiding Two Principles: ‘Respect for Self and Others’ and ‘Safe and Responsible Use’.
+
+  
+
+There are three key programmes under Cyber Wellness.
+
+*   Safer Internet Day  
+    
+*   Cyber Wellness Week  
+    
+*   Cyber Wellness Ambassadors Programme
+
+These programmes are aligned to our School-Wide Approach “Aware-Behave-Choice”.
