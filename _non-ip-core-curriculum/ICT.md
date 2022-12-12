@@ -38,3 +38,5 @@ To nurture a community of responsible learners who possess the 21st Century Com
 
 
 ### Programmes
+
+![](/images/ICT.png)
