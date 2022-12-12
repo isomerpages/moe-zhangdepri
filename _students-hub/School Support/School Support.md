@@ -21,6 +21,5 @@ Pupils may apply for remission of school fees or half-payment of miscellaneous f
 
 [<b>MOE Finance Assistance Scheme</b>](/students-hub/School-Support/MOE-Finance-Assistance-Scheme/)
 
+[<b>SAC Financial Assistance Scheme</b>](/students-hub/School-Support/SAC-Financial-Assistance-Scheme/)
 
-
-[**NEU PC PLUS Programme**](https://zhangdepri-moe-edu-sg-admin.cwp.sg/resources/students-hub/school-support/neu-pc-plus-programme)
