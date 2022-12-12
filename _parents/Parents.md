@@ -24,4 +24,4 @@ Parents
 
   
 
-[MOE Instagram for Parents](https://zhangdepri-moe-edu-sg-admin.cwp.sg/our-partners/parents/moe-instagram-for-parents)
+[MOE Instagram for Parents](/parents/MOE-Instagram-for-Parents/)
