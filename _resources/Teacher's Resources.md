@@ -21,7 +21,8 @@ Teacher's Resources
 
 <u><b>School Booking System</b></u>
 
-
+[<b>Facilities Booking</b>](https://zhangdepri.edupage.org/)
+ 
 ---
 
 <u><b>MOE Links</b></u>
