@@ -57,3 +57,12 @@ Home Access provides eligible Singaporean families with subsidised fibre broadba
 *   Click on this brochure to find out more.
 
 Note: Home Access brochure pdf exceeds 5mb.
+
+<b>How to Apply?</b>
+
+*       Online submission via [www.digitalaccess.gov.sg](http://www.digitalaccess.gov.sg/).    
+*       Complete the application form below and submit to <b>Infocomm Media Development Authority (IMDA) PSA Building Post Office P.O. Box 316 Singapore 91114 P.O. Box 316 Singapore 91114</b>
+
+    [HA with Devices](https://zhangdepri-moe-edu-sg-admin.cwp.sg/qql/slot/u180/Students%20Hub/School%20Support/NEU%20PC%20PLUS%20Programme/HA%203.0%20App%20Form%20v2.0%20HOMES_AutoInclude%205%20Apr%2021.pdf)
+
+    [HA without Devices](https://zhangdepri-moe-edu-sg-admin.cwp.sg/qql/slot/u180/Students%20Hub/School%20Support/NEU%20PC%20PLUS%20Programme/HA%203.0%20App%20Form%20v2.0%20HOMES_FINAL%205%20Apr.pdf)
