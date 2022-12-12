@@ -47,3 +47,8 @@ Communication with Parents
     *   [P3 Collated End-of-Year Exam topics 2022](/files/2022%20P3%20EOY%20Exams%20Topics%20To%20Be%20Tested_Final.pdf)
     *  [P4 Collated End-of-Year Exam topics 2022](/files/2022%20P4%20EOY%20Exams%20Topics%20To%20Be%20Tested_Final.pdf)
     *  [P5 Collated End-of-Year Exam topics 2022](/files/2022%20P5%20EOY%20Exams%20Topics%20To%20Be%20Tested_Final.pdf)
+
+### 2021 Term 4
+
+
+*   <b>HTML Briefing for Primary 3 and Primary 4 students from 2022 and 2023 respectively</b>
