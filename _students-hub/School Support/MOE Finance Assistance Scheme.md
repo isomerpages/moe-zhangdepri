@@ -96,7 +96,7 @@ e.            School Transport (if applicable)
 
 ·               Annex II – Declaration of Self-employment (For self-employed who are not required to pay tax or whose latest NOA is not reflective of the current income status);
 
-3. Household members who are unemployed or retired are required to submit the following:
+3. Household members who are <u>unemployed or retired</u> are required to submit the following:
 
 ·               CPF transaction statement/ contribution history (past 12 months); AND
 
