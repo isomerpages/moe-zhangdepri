@@ -71,3 +71,35 @@ During Social Studies lessons, students discuss the implications on current issu
   
 
 Each term, two school values are selected to set the focus for the classroom, co-curricular and various activities thereby allowing purposeful participation on an extensive and expansive level. Assembly Programs are also used as a teaching platform for school values.
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-q6nq{color:#4C4C4C;text-align:left;vertical-align:top}
+.tg .tg-br2o{background-color:#E6E6E6;color:#4C4C4C;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-q6nq">Term 1</th>
+    <th class="tg-q6nq">Responsibility and Respect</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-br2o">Term 2</td>
+    <td class="tg-br2o">Graciousness and Integrity<br></td>
+  </tr>
+  <tr>
+    <td class="tg-q6nq">Term 3</td>
+    <td class="tg-q6nq">Empathy and Resilience<br></td>
+  </tr>
+  <tr>
+    <td class="tg-br2o">Term 4</td>
+    <td class="tg-br2o">Versatility and Sincerity</td>
+  </tr>
+</tbody>
+</table>
