@@ -71,3 +71,41 @@ e.            School Transport (if applicable)
 
 *         60% subsidy for school bus transport (this subsidy does not cover any additional fares charged by the operator on top of the regular bus fares to ferry the student if he/she stays back for remedial lessons or CCAs), <u><b>OR</b></u>
 *         $180 in transport credit per annum for public transport
+
+<u><b>How to Apply?</b></u>
+
+·         Application is open throughout the year.
+
+·         Parents may obtain the [application form](https://zhangdepri.moe.edu.sg/qql/slot/u180/Students%20Hub/School%20Support/MOE%20Finance%20Assistance%20Scheme/MOE%20FAS%20Application%20Form%2030%20Sep%202020%20final.pdf) from the school’s General Office or download it from the school’s website.
+
+·         Please submit the following documents together with the application form.
+
+1. Household members who are **employed** are required to submit the following:
+
+·               CPF transaction statement/ contribution history (past 12 months); AND
+
+·               Latest Income Tax Notice of Assessment (NOA); AND
+
+·               **latest payslip** or letter from employer certifying.
+
+2. Household members who are **self-employed** are required to submit the following:
+
+·               CPF transaction statement/ contribution history (past 12 months);  AND
+
+·               Latest Income Tax Notice of Assessment (NOA); AND
+
+·               Annex II – Declaration of Self-employment (For self-employed who are not required to pay tax or whose latest NOA is not reflective of the current income status);
+
+3. Household members who are unemployed or retired are required to submit the following:
+
+·               CPF transaction statement/ contribution history (past 12 months); AND
+
+·               Annex II – Declaration of Unemployment (For household members who are unemployed and below age 62 and are not undertaking full-time studies or undergoing full-time National Service);
+
+4. **Any other documents as and when required by the school for the purpose of verifying the income.** If the Gross Household Income exceeds $2,750 and there are 5 or more members in the same household, please provide the following additional documents:
+
+5.    Copies of NRIC of household members, other than parents and unmarried siblings. If there are other dependent children without NRIC, please submit copies of legal documents to show that they are staying in the same household.
+
+  
+
+Note: Income should be reflected before CPF deduction. Income from other sources (e.g. monthly pension, alimony, rental income) should be included, but not the allowance for full-time National Service men.
