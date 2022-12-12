@@ -26,3 +26,7 @@ Teacher's Resources
 ---
 
 <u><b>MOE Links</b></u>
+
+[<b>Icon 2.0</b>](https://workspace.google.com/dashboard)  
+[<b>OPAL 2.0</b>](https://idm.opal2.moe.edu.sg/)                                                                
+[<b>Parents Gateway</b>](https://pg.moe.edu.sg/)
