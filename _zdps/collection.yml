@@ -1,5 +1,0 @@
-collections:
-  zdps:
-    output: true
-    order:
-      - Privacy Statement.md
