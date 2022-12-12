@@ -111,3 +111,9 @@ Coding will enable students to develop 21st Century Competencies and skills, pu
   </tr>
 </tbody>
 </table>
+
+Lesson structure: 4 sessions X 2 hours for P3 to P5, 10 lessons X 1 hour for P1 and P2 (IPW lessons)
+
+  
+
+Through the learning experiences from this programme, we hope that the students will develop a basic understanding of coding, acquire basic engineering and design skills and be exposed to science, technology and engineering practices.
