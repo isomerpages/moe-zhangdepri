@@ -15,7 +15,7 @@ Teacher's Resources
 
 <u><b>SC Mobile</b></u>
 
-
+[<b>SC Mobile Desktop Version</b>](https://scmobile.moe.edu.sg/)
 
 
 <u><b>School Booking System</b></u>
