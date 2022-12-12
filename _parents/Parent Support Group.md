@@ -27,3 +27,5 @@ We are pleased to announce members of our Parent Support Group for the year 2022
 PSG Mission: To work in partnership with Zhangde Primary School to deliver the best learning environment for our children by enhancing the school learning experiences and home-school collaboration.
 
 ![](/images/PSG3.jpeg)
+
+![](/images/PSG4.png)
