@@ -8,7 +8,7 @@ description: ""
 Parents
 =======
 
-[Parent Support Group](https://zhangdepri-moe-edu-sg-admin.cwp.sg/our-partners/parents/parent-support-group)
+[Parent Support Group](/parents/Parent-Support-Group/)
 
   
 
