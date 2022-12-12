@@ -139,3 +139,41 @@ The Level Camps are part of the school’s structured camp, leadership training 
   
 
 The learning experiences for the camps are aligned with our school’s Learning for Life Programme (LLP) on ‘Developing Zhangde GIVER3S Values Through Environment Education’. The learning experiences at the camps aim to educate our pupils to care for their environment and the world we live in. The camp objectives also ties in with the CCE learning outcomes, where pupils develop self-awareness and self-management skills to achieve personal well-being and effectiveness. Pupils also develop social-awareness and interpersonal skills to build and maintain positive relationships. Self-confidence, teamwork and a sense of independence and interdependence are fostered through spending time with their peers and teachers and completing tasks in teams.
+
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-ajd5{background-color:#ECECEC;color:#4C4C4C;text-align:left;vertical-align:top}
+.tg .tg-xyrl{background-color:#E6E6E6;color:#222;text-align:left;vertical-align:top}
+.tg .tg-b4br{background-color:#ECECEC;color:#222;font-weight:bold;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-b4br"><br><br><br><br><br><br><br><br><br><br>P3 Discovery Camp</th>
+    <th class="tg-ajd5">For this camp, our P3 pupils camp overnight in the Singapore Zoo for 2 days 1 night. The pupils will: <br><br>Engage in ‘behind the scenes’ activities, such as visiting the Zoo’s Central Kitchen. Pupils will learn about the types and amount of food the various animals consume that adds to their diet and nutrition as well as the food preparation process.<br>Take part in “behind the scenes’ guided tours and lessons at the Nursery for the Fragile Forest and Reptile Garden. Pupils will get to see how young animals are cared for as well as the breeding programme undertaken by the Zoo. They also learn about how the eco system is interdependent on the various organisms that live there.<br>Talks and presentations on topics relating to animal care and conservation.<br>Visit to the Night Safari and engage in lessons on behaviour of Endangered and Nocturnal Animals<br>Set up tents and camp in the zoo. Pupils will learn to work in teams interdependently.<br>Explore and engage in activities that require pupils to use their IPW skills.</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-xyrl"></td>
+    <td class="tg-xyrl"></td>
+  </tr>
+  <tr>
+    <td class="tg-b4br"><br><br><br><br><br><br><br>P4 Adventure Camp<br></td>
+    <td class="tg-ajd5">The P4 pupils camp overnight at MOE Labrador Campsite for 3 days 2 nights. The pupils will: <br><br>Participate in a History trail where our pupils will learn about outdoor orientation, and Singapore’s history at Labrador Park.<br>Participate in the low and high elements rope challenges which aim to build the pupils’ confidence and their ability to work together as a team.<br>Engage in a night walk through the campsite. Pupils will learn to depend on each other for strength and guidance.<br>Participate in a Science Trail. Pupils will learn about the nature and eco system in the park and how they can play a part in protecting the environment.<br>Explore and engage in activities that require pupils to use their IPW skills.</td>
+  </tr>
+  <tr>
+    <td class="tg-xyrl"></td>
+    <td class="tg-xyrl"></td>
+  </tr>
+  <tr>
+    <td class="tg-b4br"><br><br><br><br><br>P5 Relationship Building Overseas Learning Trip<br></td>
+    <td class="tg-ajd5">The P5 pupils camp overnight in the school for 3 days 2 nights. The pupils will: <br><br>Build pupil-to-pupil and pupil-to-teacher friendships and understanding;<br>Appreciate and know Singapore;<br>Participate in heritage trails to learn about Singapore’s history and heritage in the past and present;<br>Go on learning trips to Pulau Ubin and Chek Java to understand how to conserve the environment and biodiversity in our nature reserves;<br>Broaden their experiences and appreciate Singapore’s growth, development, constraints and challenges faced in a globalized world.</td>
+  </tr>
+</tbody>
+</table>
