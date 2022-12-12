@@ -35,6 +35,6 @@ PSG Mission: To work in partnership with Zhangde Primary School to deliver the b
 \- textbooks; and  
 \- age-appropriate books.  
   
-This platform is created to benefit the ZPS parents' community and promote environmental sustainability, by enabling items (in good condition/new) to be reused and recycled meaningfully.</i>
+<i>This platform is created to benefit the ZPS parents' community and promote environmental sustainability, by enabling items (in good condition/new) to be reused and recycled meaningfully.</i>
 
 <i>All ZPS parents are welcome to join the group.</i>
