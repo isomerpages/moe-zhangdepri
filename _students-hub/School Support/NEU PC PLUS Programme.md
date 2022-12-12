@@ -49,3 +49,9 @@ The PC-Bundle scheme provides a two-tier subsidy for applicants to own a new com
 *        Latest pay slip or a 12-month CPF contribution history of all working adults in the household
 *        Latest 12-month CPF contribution history or a declaration of income status of all non-working adults in the household
 *        For more information on the NEU PC Plus Programme, you may visit the Infocomm Media Development Authority (IMDA) website at [www.imda.gov.sg/neupc](https://www.imda.gov.sg/neupc) or call IMDA NEU PC Helpline@ 6684 8858.
+
+<u><b>Home Access (HA)</b></u>
+
+Home Access provides eligible Singaporean families with subsidised fibre broadband connectivity, with an option to bundle with a tablet or smartphone.
+
+*   Click on this [brochure](https://zhangdepri-moe-edu-sg-admin.cwp.sg/qql/slot/u180/Students%20Hub/School%20Support/NEU%20PC%20PLUS%20Programme/HA%203.0%20Brochure%20WEF%20Oct%202021.pdf) to find out more.
