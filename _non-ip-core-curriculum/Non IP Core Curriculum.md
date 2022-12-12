@@ -7,5 +7,3 @@ description: ""
 
 Non-IP Core Curriculum
 ======================
-
-<p><a href="[https://www.open.gov.sg/non-ip-core-curriculum/Aesthetics/](https://www.open.gov.sg/non-ip-core-curriculum/Aesthetics/)"><img style="width:45%" src="/images/Aesthetics.jpg"></a></p>
