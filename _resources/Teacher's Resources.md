@@ -11,6 +11,19 @@ Teacher's Resources
 
 <u><b>MOE Links (VPN)</b></u>
 
+**[MOE Intranet](https://intranet.moe.gov.sg/)**
+
+**[SSOE2 Portal](https://ssoe2.moe.edu.sg/)**
+
+**[iExams](https://iexams.seab.gov.sg/login)**
+
+**[School Cockpit](https://schoolcockpit.moe.gov.sg/)**
+
+[<b>MIMS</b>](https://mims.moe.gov.sg/)  
+[<b>HRP Portal</b>](https://www.hrp.gov.sg/hrp/#/)
+
+Note: MOE Intranet, SSOE2 Portal, iExams and School Cockpit links broken. 
+
 ---
 
 <u><b>SC Mobile</b></u>
