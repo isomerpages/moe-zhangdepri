@@ -60,3 +60,16 @@ Students can only contact the <b>SLS Helpdesk</b> outside the school operating
         \*Closed on Sundays & Public Holidays
 
 Alternatively, students can email the SLS Helpdesk at [helpdesk@sls.ufinity.com](mailto:helpdesk@sls.ufinity.com). When emailing the SLS Helpdesk, please include full name, name of school and form class.
+
+
+<b>2) Student Icon</b>
+
+  
+
+<b>Click [here](https://workspace.google.com/dashboard) to login to the student icon.</b>  
+For password reset and unlocking of accounts, please contact Mrs Fiona Wong at 6274 0357 or email to [lee\_hui\_fen\_fiona@schools.gov.sg](mailto:lee_hui_fen_fiona@schools.gov.sg)  
+  
+<b>3) Online Learning Resource Booklet For Kids! (3-12 years old)</b>
+
+Click on the following link to access the various online resources and workshops.  
+[E-Learning Resources](https://zhangdepri-moe-edu-sg-admin.cwp.sg/qql/slot/u180/Our%20Partners/Parents/Useful%20Guides%20and%20Resources/Online%20Learning%20Resource%20Booklet%20For%20Kids%203-12%20years%20old.pdf)
