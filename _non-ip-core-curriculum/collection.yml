@@ -2,9 +2,10 @@ collections:
   non-ip-core-curriculum:
     output: true
     order:
-      - ICT.md
       - Non IP Core Curriculum.md
+      - ICT.md
       - Student Development.md
+      - CCAs/.keep
       - CCAs/CCAs.md
       - CCAs/Art Club.md
       - CCAs/Environment Club.md
@@ -25,4 +26,3 @@ collections:
       - CCAs/Wushu Club.md
       - CCAs/Girls' Brigade.md
       - CCAs/Boys' Brigade.md
-      - CCAs/.keep
