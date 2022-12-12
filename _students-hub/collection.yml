@@ -2,6 +2,7 @@ collections:
   students-hub:
     output: true
     order:
+      - 2023 Booklists.md
       - School Support/School Support.md
       - School Support/MOE Finance Assistance Scheme.md
       - School Support/SAC Financial Assistance Scheme.md
