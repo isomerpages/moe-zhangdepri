@@ -61,16 +61,13 @@ b.            Textbooks;
 
 c.            School Attire
 
-·         School Uniforms (4 sets)
-
-·         Black Shoes (1 pair)
-
-·         Socks (2 pairs)
+  *          School Uniforms (4 sets)
+  *          Black Shoes (1 pair)
+  *          Socks (2 pairs)
 
 d.            School Meals Fund ($2.00 per day);
 
 e.            School Transport (if applicable)
 
-·         60% subsidy for school bus transport (this subsidy does not cover any additional fares charged by the operator on top of the regular bus fares to ferry the student if he/she stays back for remedial lessons or CCAs), **OR**
-
-·         $180 in transport credit per annum for public transport
+*         60% subsidy for school bus transport (this subsidy does not cover any additional fares charged by the operator on top of the regular bus fares to ferry the student if he/she stays back for remedial lessons or CCAs), <u><b>OR</b></u>
+*         $180 in transport credit per annum for public transport
