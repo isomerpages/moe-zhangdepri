@@ -76,7 +76,7 @@ e.            School Transport (if applicable)
 
 ·         Application is open throughout the year.
 
-·         Parents may obtain the [application form](https://zhangdepri.moe.edu.sg/qql/slot/u180/Students%20Hub/School%20Support/MOE%20Finance%20Assistance%20Scheme/MOE%20FAS%20Application%20Form%2030%20Sep%202020%20final.pdf) from the school’s General Office or download it from the school’s website.
+·         Parents may obtain the [application form](/files/MOE%20FAS%20Application%20Form%2030%20Sep%202020%20final.pdf) from the school’s General Office or download it from the school’s website.
 
 ·         Please submit the following documents together with the application form.
 
