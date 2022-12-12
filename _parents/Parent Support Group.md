@@ -21,3 +21,9 @@ We would like to invite parents to volunteer (ad-hoc) or be a member of our PSG
 <b>QR Code</b>
 
 ![](/images/PSG2.png)
+
+We are pleased to announce members of our Parent Support Group for the year 2022. 
+
+PSG Mission: To work in partnership with Zhangde Primary School to deliver the best learning environment for our children by enhancing the school learning experiences and home-school collaboration.
+
+![](/images/PSG3.jpeg)
