@@ -7,3 +7,5 @@ description: ""
 
 Non-IP Core Curriculum
 ======================
+
+<figure><img src="/images/Aestheticss.png" style="width:75%"><figcaption> pic caption here</figcaption></figure>
