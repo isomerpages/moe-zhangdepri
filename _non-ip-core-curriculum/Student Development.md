@@ -91,3 +91,66 @@ Programmes
   </tr>
 </tbody>
 </table>
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-q6nq{color:#4C4C4C;text-align:left;vertical-align:top}
+.tg .tg-uv15{color:#4C4C4C;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-gpqx{color:#4C4C4C;font-weight:bold;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-gpqx" rowspan="2">P3</th>
+    <th class="tg-q6nq">●     Monthly Monitoring of Students’ Attendance<br>●     Student Welfare Screening<br>●     YH/AYH Touchpoint<br>●     Class Breakfast Time <br>●     Roving Optical Shop  <br> </th>
+    <th class="tg-q6nq">●     Growth Mindset Series<br>●     YH/AYH Sharing with Parents – Parent-Teacher Conference <br>●     Financial Literacy <br>(Savings for Life-Part 1) </th>
+    <th class="tg-q6nq">●     YH/AYH Touchpoint<br>●     Student Affirmation (Class)<br>●     Restorative Practice (Circles)<br> </th>
+    <th class="tg-q6nq">●     Class Breakfast Time </th>
+  </tr>
+  <tr>
+    <th class="tg-q6nq" colspan="4">●     Class Letter-Box System – “You’ve Got Mail!”<br>●     Positive Classroom Culture (PCC) <br>●     Working with external partners</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-uv15" rowspan="2">P4</td>
+    <td class="tg-q6nq">●     Monthly Monitoring of Students’ Attendance<br>●     Student Welfare Screening<br>●     YH/AYH Touchpoint<br>●     Class Breakfast Time <br>●     Roving Optical Shop  <br>●     Class Unity Dance     <br> </td>
+    <td class="tg-q6nq">●     Growth Mindset Series <br>●     YH/AYH Sharing with Parents – Parent-Teacher Conference <br>●      Learn to Play Chess Study Skills <br>●      Financial Literacy (Savings for Life-Part 2) </td>
+    <td class="tg-q6nq">●     YH/AYH Touchpoint<br>●     Student Affirmation (Class)<br>●     Student Affirmation for HNS (R3 Club)<br> <br> <br> </td>
+    <td class="tg-q6nq">●     Class Breakfast Time <br>●     Class Unity Dance<br> </td>
+  </tr>
+  <tr>
+    <td class="tg-q6nq" colspan="4">●     Class Letter-Box System – “You’ve Got Mail!”<br>●     Positive Classroom Culture (PCC) <br>●     Working with external partners<br> </td>
+  </tr>
+  <tr>
+    <td class="tg-uv15" rowspan="3">P5</td>
+    <td class="tg-q6nq" rowspan="2">●     Monthly Monitoring of Students’ Attendance<br>●     Student Welfare Screening<br>●     YH/AYH Touchpoint<br>●     Class Breakfast Time <br>●     Roving Optical Shop  <br>●     Class Unity Dance     </td>
+    <td class="tg-q6nq" rowspan="2">●     Growth Mindset Series <br>●     YH/AYH Sharing with Parents – Parent-Teacher Conference</td>
+    <td class="tg-q6nq">●     YH/AYH Touchpoint<br>●     Student Affirmation (Class)<br></td>
+    <td class="tg-q6nq">●     Class Breakfast Time <br>●     Class Unity Dance<br> </td>
+  </tr>
+  <tr>
+    <td class="tg-q6nq" colspan="2">●     Student Affirmation for HNS (R3 Club)</td>
+  </tr>
+  <tr>
+    <td class="tg-q6nq" colspan="4">●     Class Letter-Box System – “You’ve Got Mail!”<br>●     Positive Classroom Culture (PCC)<br>●     Working with external partners</td>
+  </tr>
+  <tr>
+    <td class="tg-uv15" rowspan="3">P6</td>
+    <td class="tg-q6nq" rowspan="2">●     Monthly Monitoring of Students’ Attendance<br>●     Student Welfare Screening<br>●     YH/AYH Touchpoint <br>●     Class Breakfast Time <br>●     Roving Optical Shop  <br> </td>
+    <td class="tg-q6nq" rowspan="2">●     Growth Mindset Series <br>●     YH/AYH Sharing with Parents – Parent-Teacher Conference</td>
+    <td class="tg-q6nq">●     YH/AYH Touchpoint<br>●     Termly Gifts to the level<br>●     Walk with Me (P1 &amp; P6) <br>●     P6 to P1 Presentation to School <br>●     P6 Commitment Day <br>●     P6 Farewell Day <br>●     Student Affirmation (Class)<br> </td>
+    <td class="tg-q6nq">●     Class Breakfast Time <br>●     Class Unity Dance</td>
+  </tr>
+  <tr>
+    <td class="tg-q6nq" colspan="2">●     Student Affirmation for HNS (R3 Club)</td>
+  </tr>
+  <tr>
+    <td class="tg-q6nq" colspan="4">●        Class Letter-Box System – “You’ve Got Mail!”<br>●        Positive Classroom Culture (PCC)<br>●        Motivational Talks<br>●        P6 Post PSLE Transition Programme</td>
+  </tr>
+</tbody>
+</table>
