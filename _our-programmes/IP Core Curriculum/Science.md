@@ -100,3 +100,6 @@ The Science department embarks on programmes to build students' knowledge, value
   </tr>
 </tbody>
 </table>
+
+
+![](/images/Sci.gif)
