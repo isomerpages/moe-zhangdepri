@@ -11,7 +11,7 @@ Home Based Learning (HBL)
 
   
 
-In support of the school’s efforts to promote self-directed learning, we will be engaging our students at home through the Home-Based Learning Exercise (HBL) during PSLE Marking Days on **17 to 20 October 2022**. 
+In support of the school’s efforts to promote self-directed learning, we will be engaging our students at home through the Home-Based Learning Exercise (HBL) during PSLE Marking Days on <b>17 to 20 October 2022</b>. 
 
 Quick Tip! - Have Trouble Accessing SLS?
 ----------------------------------------
