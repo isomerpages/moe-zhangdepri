@@ -21,4 +21,4 @@ Non-IP Core Curriculum
 <p><a href="/non-ip-core-curriculum/ICT/"><img style="width:65%" src="/images/ICT1.png"></a></p>
 
 
-<p><a href="[http://google.com/linkhere](http://google.com/linkhere)"><img style="width:65%" src="/images/SD.png"></a></p>
+<p><a href="/non-ip-core-curriculum/Student-Development/"><img style="width:65%" src="/images/SD.png"></a></p>
