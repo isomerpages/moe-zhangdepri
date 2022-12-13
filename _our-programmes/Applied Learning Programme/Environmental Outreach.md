@@ -36,3 +36,5 @@ The school collaborated with StarHub and Tiong Bahru Community Centre in a week-
 
 
 ##### **Recycling E-Waste ALP**
+
+![](/images/Recycling.gif)
