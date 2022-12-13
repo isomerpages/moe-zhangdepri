@@ -157,3 +157,25 @@ Student Development
 
 
 ### **Student Management**
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-nonh{border-color:#ffffff;color:#00246e;font-size:18px;text-align:center;vertical-align:top}
+.tg .tg-fvgg{border-color:#ffffff;font-size:20px;font-weight:bold;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-nonh">Student Management</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-fvgg">Discipline Policy – “Disciplining the ABC Way”</td>
+  </tr>
+</tbody>
+</table>
