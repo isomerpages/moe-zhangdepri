@@ -8,7 +8,7 @@ third_nav_title: School Heritage and History
 
 School Heritage and History
 ===========================
-
+<img src="/images/ZPS.png" style="width:100%">
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -59,6 +59,8 @@ School Heritage and History
   </tr>
 </tbody>
 </table>
+
+
 
 <b>Contributions of Mr Loo Kian Chiang (2nd Principal of the School) and his family</b>
 
