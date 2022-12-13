@@ -7,15 +7,15 @@ ANNOUNCEMENTS
 -------------
 
 
-[Parents Workshops](/parents/Useful-Guides-and-Resources/Workshops-Seminars/)
+1. [Parents Workshops](/parents/Useful-Guides-and-Resources/Workshops-Seminars/)
 
 New Workshops/Seminars for Parents
 
-[Online Learning Resource Booklet For Kids! (3-12 years old)](/parents/Useful-Guides-and-Resources/Useful-Guides-and-Resources/)
+2. [Online Learning Resource Booklet For Kids! (3-12 years old)](/parents/Useful-Guides-and-Resources/Useful-Guides-and-Resources/)
 
 Please click here to know more detailed information.
 
 
-[Parenting Support Programme](/parents/Useful-Guides-and-Resources/Parenting-Support-Programme/)
+3. [Parenting Support Programme](/parents/Useful-Guides-and-Resources/Parenting-Support-Programme/)
 
 To know more about parenting tips during this covid situation, please click here.
