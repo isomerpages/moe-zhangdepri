@@ -16,11 +16,11 @@ sections:
           description: ""
           url: /ANNOUNCEMENTS/
         - title: CALENDAR EVENTS
-          description: Important highlight B is equally important
+          description: ""
           url: https://gmail.com
         - title: Student Learning Space
           description: ""
-          url: ""
+          url: https://vle.learning.moe.edu.sg/login
         - title: Home Based Learning
           description: ""
           url: ""
