@@ -30,4 +30,5 @@ sections:
       button: Click here to find out more
       url: https://4d.silversea-media.com/zps360/
       image: /images/Virtual Tour 2022.png
+      alt: ZPS Open House
 ---
