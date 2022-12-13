@@ -19,7 +19,7 @@ Journey to the Land of Imagination through the doors of the Loo Kian Cheang Libr
 
 ```
 
-<img src="/images/Potters%20Haven.jpg" style="width:183px;height:240px;margin-right:15px;" align = "left"> 
+<img src="/images/Potters%20Haven.jpg" style="width:250px;height:250px;margin-right:10px;" align = "left"> 
 
 ##### Potters' Haven
 
