@@ -337,3 +337,59 @@ O   Allow restoration through restitution, resolution and reconciliation.
 
 
 ### **Student Leadership**
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-q6nq{color:#4C4C4C;text-align:left;vertical-align:top}
+.tg .tg-uv15{color:#4C4C4C;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-gpqx{color:#4C4C4C;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-uv15" colspan="3">Tier 3</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-gpqx">Student leader</td>
+    <td class="tg-gpqx">Training</td>
+    <td class="tg-gpqx">Objective</td>
+  </tr>
+  <tr>
+    <td class="tg-q6nq"><span style="font-weight:400;color:#4C4C4C">P6 Prefects</span></td>
+    <td class="tg-q6nq"><span style="font-weight:400;color:#4C4C4C">Leadership Development</span></td>
+    <td class="tg-q6nq"><span style="font-weight:400;color:#4C4C4C">To build on the learning from P1 to P6 lifeskills workshops (Tier 1), alongside the school’s GIVER</span>3<span style="font-weight:400;color:#4C4C4C">S values, with an emphasis on another quality of servant leadership: Commitment to the Growth of People</span><br><br><span style="font-weight:400;color:#4C4C4C">*Note: Workshops done in the first few years of implementation would require a proper summary of earlier values and qualities that should have been covered in the younger primary years.</span> </td>
+  </tr>
+  <tr>
+    <td class="tg-q6nq"><span style="font-weight:400;color:#4C4C4C">P5 Prefects</span></td>
+    <td class="tg-q6nq"><span style="font-weight:400;color:#4C4C4C">Leadership Development</span></td>
+    <td class="tg-q6nq"><span style="font-weight:400;color:#4C4C4C">To build on the learning from P1 to P5 lifeskills workshops (Tier 1), alongside the school’s GIVER</span>3<span style="font-weight:400;color:#4C4C4C">S values, with a deeper emphasis on two quality of servant leadership: Stewardship and Building Community, over the few workshops.</span> <br><br><span style="font-weight:400;color:#4C4C4C">*Note: Workshops done in the first few years of implementation would require a proper summary of earlier values and qualities that should have been covered in the younger primary years.</span></td>
+  </tr>
+  <tr>
+    <td class="tg-q6nq"><span style="font-weight:400;color:#4C4C4C">P4 Prefects</span></td>
+    <td class="tg-q6nq"><span style="font-weight:400;color:#4C4C4C">Leadership Development</span></td>
+    <td class="tg-q6nq"><span style="font-weight:400;color:#4C4C4C">To build on the learning from P1 to P4 lifeskills workshops (Tier 1), alongside the school’s GIVER</span>3<span style="font-weight:400;color:#4C4C4C">S values, with a deeper emphasis on two quality of servant leadership: Persuasion and Awareness, over the few workshops.</span> <br><br><span style="font-weight:400;color:#4C4C4C">*Note: Workshops done in the first few years of implementation would require a proper summary of earlier values and qualities that should have been covered in the younger primary years.</span></td>
+  </tr>
+  <tr>
+    <td class="tg-q6nq"><span style="font-weight:400;color:#4C4C4C">P3 Prefects </span> </td>
+    <td class="tg-q6nq"><span style="font-weight:400;color:#4C4C4C">Leadership Development</span></td>
+    <td class="tg-q6nq"><span style="font-weight:400;color:#4C4C4C">To build on the learning from P1 to P3 lifeskills workshops (Tier 1), alongside the school’s GIVER</span>3<span style="font-weight:400;color:#4C4C4C">S values, with a deeper emphasis on two quality of servant leadership: Active Listening and Empathy, over the few workshops.</span> <br><br><span style="font-weight:400;color:#4C4C4C">*Note: Workshops done in the first few years of implementation would require a proper summary of earlier values and qualities that should have been covered in the younger primary years.</span><br></td>
+  </tr>
+  <tr>
+    <td class="tg-q6nq"><span style="font-weight:400;color:#4C4C4C">ICT Ambassadors</span></td>
+    <td class="tg-q6nq"><span style="font-weight:400;color:#4C4C4C">Leadership Development</span></td>
+    <td class="tg-q6nq" rowspan="2"><span style="font-weight:400;color:#4C4C4C">To build on the learning from P1 to P4/5 lifeskills workshops (Tier 1), alongside the school’s GIVER</span>3<span style="font-weight:400;color:#4C4C4C">S values, with a deeper emphasis on two quality of servant leadership: Stewardship and Persuasion, over the few workshops.</span> <br><br><span style="font-weight:400;color:#4C4C4C">*Note: Workshops done in the first few years of implementation would require a proper summary of earlier values and qualities that should have been covered in the younger primary years.</span></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">CCA Vice Chairpersons</td>
+    <td class="tg-0lax">Leadership Development</td>
+    <td class="tg-0lax"></td>
+  </tr>
+</tbody>
+</table>
