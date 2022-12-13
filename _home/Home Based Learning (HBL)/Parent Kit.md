@@ -10,3 +10,5 @@ Parent Kit
 ==========
 
 To better understand what HBL is and how you can support your child/ward during this period of Full HBL. The school has prepared the following parent kit to provide parents/guardians with tips and suggestions on how you can support your child/ward HBL to ensure that learning continue to take place at home on HBL days.
+
+[ZPS Parent Handbook on HBL](/files/Parent%20Handbk%20-%20HBL.pdf)
