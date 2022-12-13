@@ -24,3 +24,6 @@ Our Programmes
 
 
 <p><a href="/non-ip-core-curriculum/CCE/"><img style="width:25%" src="/images/cce.png"></a></p>
+
+
+ <p><a href="[http://google.com/linkhere](http://google.com/linkhere)"><img style="width:25%" src="/images/xxx.png"></a></p>
