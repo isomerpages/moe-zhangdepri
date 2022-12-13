@@ -8,4 +8,6 @@ description: ""
 Non-IP Core Curriculum
 ======================
 
-<img src="/images/Aestheticss.png" style="width:280px;height:250px;margin-right:15px;" align = "left"> 
+<img src="/images/Aestheticss.png" style="width:280px;height:250px;margin-right:105px;" align = "left"> 
+
+### **[Aesthetics](/non-ip-core-curriculum/Aesthetics/)**
