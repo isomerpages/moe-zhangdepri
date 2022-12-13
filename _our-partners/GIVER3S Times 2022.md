@@ -17,7 +17,7 @@ GIVER3S Times 2022
 ### Term 2
 
 
-
+![](/images/Term%202_.gif)
 
 
 ### Term 3
