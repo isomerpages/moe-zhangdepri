@@ -17,3 +17,5 @@ Please click here to know more detailed information.
 
 
 [Parenting Support Programme](/parents/Useful-Guides-and-Resources/Parenting-Support-Programme/)
+
+To know more about parenting tips during this covid situation, please click here.
