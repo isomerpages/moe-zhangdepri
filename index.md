@@ -5,7 +5,7 @@ description: An Isomer site of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
 notification: "Zhangde Primary School Open House: Join us in the virtual tour
-  around the school!!!"
+  around the school!!"
 sections:
   - hero:
       background: /images/Virtual Tour 2022.png
@@ -21,10 +21,10 @@ sections:
         - title: Page A
           description: Page A is important too
           url: /privacy/
-  - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
-      button: Button text
-      url: /faq/
+  - infopic:
+      title: Zhangde Primary School Open House
+      description: Join us in the virtual tour around the school!!
+      button: Click here to find out more
+      url: https://4d.silversea-media.com/zps360/
+      image: /images/Virtual Tour 2022.png
 ---
