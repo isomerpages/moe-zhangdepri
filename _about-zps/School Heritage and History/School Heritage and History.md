@@ -8,6 +8,3 @@ third_nav_title: School Heritage and History
 
 School Heritage and History
 ===========================
-
-
-                    
