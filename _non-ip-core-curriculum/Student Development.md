@@ -240,4 +240,4 @@ O   Allow restoration through restitution, resolution and reconciliation.
 </table>
 
 
-<u><b>Training Objectives:</b></u>
+##### <u><b>Training Objectives:</b></u>
