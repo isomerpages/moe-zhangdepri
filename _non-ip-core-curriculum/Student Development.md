@@ -289,3 +289,48 @@ O   Allow restoration through restitution, resolution and reconciliation.
   </tr>
 </tbody>
 </table>
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-q6nq{color:#4C4C4C;text-align:left;vertical-align:top}
+.tg .tg-uv15{color:#4C4C4C;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-gpqx{color:#4C4C4C;font-weight:bold;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-uv15" colspan="3">Tier 2</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-gpqx">Student leader</td>
+    <td class="tg-gpqx">Training</td>
+    <td class="tg-gpqx">Objective</td>
+  </tr>
+  <tr>
+    <td class="tg-q6nq"><span style="font-weight:400;color:#4C4C4C">P1 – 6</span> <br><span style="font-weight:400;color:#4C4C4C">Class Monitors</span></td>
+    <td class="tg-q6nq"><span style="font-weight:400;color:#4C4C4C">Leadership Development</span></td>
+    <td class="tg-q6nq"><span style="font-weight:400;color:#4C4C4C">To hone basic leadership traits in line with school GIVER</span>3<span style="font-weight:400;color:#4C4C4C">S values and to apply it to the classroom.</span><br><span style="font-weight:400;color:#4C4C4C">To show respect and initiative in carrying out duties.</span><br><br><span style="font-weight:400;color:#4C4C4C">Servant Leadership: In line with lifeskills objective for the level, but also building on what is covered for lower levels</span></td>
+  </tr>
+  <tr>
+    <td class="tg-q6nq"><span style="font-weight:400;color:#4C4C4C">Environmental Leaders/ i-Read Champs/ Peer Supporters</span></td>
+    <td class="tg-q6nq"><span style="font-weight:400;color:#4C4C4C">Leadership Development</span></td>
+    <td class="tg-q6nq"><span style="font-weight:400;color:#4C4C4C">To hone basic leadership traits in line with school GIVER</span>3<span style="font-weight:400;color:#4C4C4C">S values and to apply it to their leadership role in context.</span><br><br><span style="font-weight:400;color:#4C4C4C">Servant Leadership: In line with lifeskills objective for the level, but also building on what is covered for lower levels</span></td>
+  </tr>
+  <tr>
+    <td class="tg-q6nq"><span style="font-weight:400;color:#4C4C4C">P3-4 CCA Sectional Leaders</span></td>
+    <td class="tg-q6nq"><span style="font-weight:400;color:#4C4C4C">Leadership Development</span></td>
+    <td class="tg-q6nq">1.       To hone leadership traits that is in line with school GIVER3S values, which should be applicable to their leadership duties <br>2.       To understand and apply servant leadership, understanding the roles and responsibilities of a leader<br>3.       To build on self-awareness and self-management (SEL competencies)<br>4.       To build effective communication skills and work as a team<br>Servant Leadership: Empathy and Awareness/Persuasion and Active Listening (rotated on bi-yearly basis) – starting with Awareness/Persuasion in 2019</td>
+  </tr>
+  <tr>
+    <td class="tg-q6nq"><span style="font-weight:400;color:#4C4C4C">P5-6 CCA Sectional Leaders</span></td>
+    <td class="tg-q6nq"><span style="font-weight:400;color:#4C4C4C">Leadership Development</span></td>
+    <td class="tg-q6nq">1.       To hone leadership traits that is in line with school GIVER3S values, which should be applicable to their leadership duties <br>2.       To understand and apply servant leadership, understanding the roles and responsibilities of a leader<br>3.       To develop social awareness and relationship management skills (SEL competencies)<br>4.       To continue honing effective communication skills and work as a team<br> <br><span style="font-weight:400;color:#4C4C4C">Servant Leadership: Stewardship/Foresight (Rotated on bi-yearly basis) – Starting with Stewardship in 2019</span></td>
+  </tr>
+</tbody>
+</table>
