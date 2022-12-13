@@ -18,6 +18,12 @@ sections:
         - title: CALENDAR EVENTS
           description: Important highlight B is equally important
           url: https://gmail.com
+        - title: Student Learning Space
+          description: ""
+          url: ""
+        - title: Home Based Learning
+          description: ""
+          url: ""
   - infopic:
       title: Zhangde Primary School Open House
       description: Join us in the virtual tour around the school!!
