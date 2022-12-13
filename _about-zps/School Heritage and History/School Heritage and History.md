@@ -28,3 +28,13 @@ School Heritage and History
 *          Mdm Lee Yin Hui, the granddaughter-in-law of Mr Loo, joined the school’s SAC in 2010 and is the current Chairperson (2021).
 
 ![](/images/SchoolHeritage.png)
+
+       From a humble beginning in rented premises in Kampong Bahru, Chiang Teck School started its operations in1923. It served mainly poor Chinese homes with Mandarin as the medium of instruction. The school was then moved to Silat Road where a block of four classrooms and a teacher’s hostel were built. The enrolment soongrew to 300 students. The school had to stop its operations during World War II and was reconstructed in 1945 to serve some 500 students.
+
+  
+
+      By 1961, the school had 24 classes with 1,004 students and 27 staff members. Zhangde (彰德) is the hanyupinyin name for Chiang Teck. In   August 1981, the School Management Committee decided to close down theschool to make way for other developments in the area. The founders, school management committee, principals and teachers of Chiang Teck School had made important contributions towards the promotion of education in Singapore. In recognition of their efforts, the new school was named Zhangde Primary School.
+
+  
+
+       On 31st August 1984, the school moved to Jalan Bukit Merah and started functioning on 10th September 1984with students from Outram Primary School and Kai Ming Primary School. In the next few years, the school alsotook in students from Silat Primary School, Keppel Primary School and Pearl Park Primary School when theseschools closed down.
