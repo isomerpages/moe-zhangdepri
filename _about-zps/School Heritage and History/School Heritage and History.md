@@ -26,3 +26,5 @@ School Heritage and History
 *          The Loos donated $50 000 for the construction of the Loo Kian Cheang Library in 2004.
 *          Mr Chan Soo Sen, Minister of State for Education, and also the grandson of Mr Loo, officially opened the Loo Kian Cheang Library on 2 July 2005.
 *          Mdm Lee Yin Hui, the granddaughter-in-law of Mr Loo, joined the school’s SAC in 2010 and is the current Chairperson (2021).
+
+![](/images/SchoolHeritage.png)
