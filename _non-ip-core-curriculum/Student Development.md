@@ -393,3 +393,33 @@ O   Allow restoration through restitution, resolution and reconciliation.
   </tr>
 </tbody>
 </table>
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-q6nq{color:#4C4C4C;text-align:left;vertical-align:top}
+.tg .tg-uv15{color:#4C4C4C;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-gpqx{color:#4C4C4C;font-weight:bold;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-uv15" colspan="3">Tier 4</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-gpqx">Student leader</td>
+    <td class="tg-gpqx">Training</td>
+    <td class="tg-gpqx">Objective</td>
+  </tr>
+  <tr>
+    <td class="tg-q6nq"><span style="font-weight:400;color:#4C4C4C">Prefect EXCO and CCA Chairpersons</span></td>
+    <td class="tg-q6nq"><span style="font-weight:400;color:#4C4C4C">Leadership Development</span></td>
+    <td class="tg-q6nq"><span style="font-weight:400;color:#4C4C4C">To be stretched in understanding and applying the various leadership characteristics that is in line with school values.</span><br><span style="font-weight:400;color:#4C4C4C">Develop conflict management and practice effective communication.</span><br><span style="font-weight:400;color:#4C4C4C">Display confidence and maintain assertiveness, while understanding the needs of others.</span><br><span style="font-weight:400;color:#4C4C4C">Be able to take into different considerations in event planning and organizing</span></td>
+  </tr>
+</tbody>
+</table>
