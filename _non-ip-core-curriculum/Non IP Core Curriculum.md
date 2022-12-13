@@ -15,4 +15,4 @@ Non-IP Core Curriculum
 <p><a href="[/non-ip-core-curriculum/CCE/"><img style="width:65%" src="/images/CCE.png"></a></p>
 
 
-<p><a href="[http://google.com/linkhere](http://google.com/linkhere)"><img style="width:65%" src="/images/Pe.png"></a></p>
+<p><a href="[/non-ip-core-curriculum/Physical-Education/"><img style="width:65%" src="/images/Pe.png"></a></p>
