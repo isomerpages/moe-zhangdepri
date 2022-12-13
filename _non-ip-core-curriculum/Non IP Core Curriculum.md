@@ -9,3 +9,7 @@ Non-IP Core Curriculum
 ======================
 
 <p><a href="[https://www.open.gov.sg/non-ip-core-curriculum/Aesthetics/](http://google.com/linkhere)"><img style="width:65%" src="/images/Aestheticss.png"></a></p>
+
+
+
+<p><a href="[http://google.com/linkhere](http://google.com/linkhere)"><img style="width:65%" src="/images/CCE.png"></a></p>
