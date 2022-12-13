@@ -43,3 +43,51 @@ Programmes
 </tbody>
 </table>
 
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-q6nq{color:#4C4C4C;text-align:left;vertical-align:top}
+.tg .tg-8dwo{color:#4C4C4C;text-align:center;vertical-align:top}
+.tg .tg-gpqx{color:#4C4C4C;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-uaof{color:#343434;font-weight:bold;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-gpqx"> </th>
+    <th class="tg-gpqx" colspan="2">Physical</th>
+    <th class="tg-gpqx" colspan="2">Intellectual</th>
+    <th class="tg-gpqx" colspan="2">Emotional</th>
+    <th class="tg-gpqx">Social</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-gpqx" rowspan="2">P1</td>
+    <td class="tg-8dwo" colspan="2"><br>Monthly Monitoring of Students’ Attendanc<br>Student Welfare ScreeningYH/AYH Touchpoint<br>Class Breakfast Time<br>Roving Optical Shop   <br><br></td>
+    <td class="tg-q6nq" colspan="2"><br>Growth Mindset Series <br>YH/AYH Sharing with Parents – Parent-Teacher Conference <br><br> <br> </td>
+    <td class="tg-q6nq" colspan="2"><br>YH/AYH Touchpoint<br>Termly Gifts to the level<br>Walk with Me (P1 &amp; P6) <br>P1 Presentation to School by P6 <br>Student Affirmation (Class)<br>Restorative Practice (Circles)<br></td>
+    <td class="tg-q6nq"><br>Class Breakfast Time <br>First Month Milestone Celebration <br>Kindergarten Visit  <br><br> </td>
+  </tr>
+  <tr>
+    <td class="tg-q6nq" colspan="7">●     P1 Transition Programme<br>●     Class Letter-Box System – “You’ve Got Mail!”<br>●     Positive Classroom Culture (PCC)<br>●     Working with external partners</td>
+  </tr>
+  <tr>
+    <td class="tg-uaof" rowspan="3">P2</td>
+    <td class="tg-q6nq" rowspan="2">●     Monthly Monitoring of Students’ Attendance<br>●     Student Welfare Screening<br>●     YH/AYH Touchpoint<br>●     Class Breakfast Time<br>●     Roving Optical Shop  </td>
+    <td class="tg-q6nq" colspan="2" rowspan="2">●     YH/AYH Sharing with Students (Growth Mindset) <br>●     YH/AYH Sharing with Parents – Parent-Teacher Conference <br> </td>
+    <td class="tg-q6nq" colspan="2">●     YH/AYH Touchpoint<br>●     Student Affirmation (Class)<br>●     Restorative Practice (Circles)<br> </td>
+    <td class="tg-q6nq" colspan="2">●     Class Breakfast Time <br>●     Kindergarten Visit <br> <br> </td>
+  </tr>
+  <tr>
+    <td class="tg-q6nq" colspan="4">●     P2 to P1 Buddy </td>
+  </tr>
+  <tr>
+    <td class="tg-q6nq" colspan="7">●     Class Letter-Box System – “You’ve Got Mail!”<br>●     Positive Classroom Culture (PCC)<br>●     Working with external partners</td>
+  </tr>
+</tbody>
+</table>
