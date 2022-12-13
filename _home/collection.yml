@@ -2,4 +2,5 @@ collections:
   home:
     output: true
     order:
+      - Home Based Learning (HBL)/Home Based Learning (HBL).md
       - Home Based Learning (HBL)/.keep
