@@ -15,3 +15,5 @@ In support of the school’s efforts to promote self-directed learning, we will 
 
 Quick Tip! - Have Trouble Accessing SLS?
 ----------------------------------------
+
+![](/images/SLS.jpeg)
