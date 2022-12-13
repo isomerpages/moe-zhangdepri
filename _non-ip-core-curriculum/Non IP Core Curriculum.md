@@ -13,4 +13,4 @@ Non-IP Core Curriculum
 ### **[Aesthetics](/non-ip-core-curriculum/Aesthetics/)**
 
 
-<img src="/images/xxx.png" style="width:183px;height:240px;margin-right:15px;" align = "left">
+<img src="/images/CCE.png" style="width:280px;height:250px;margin-right:15px;" align = "left">
