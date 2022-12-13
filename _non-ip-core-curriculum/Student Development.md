@@ -241,3 +241,51 @@ O   Allow restoration through restitution, resolution and reconciliation.
 
 
 ##### <u><b>Training Objectives:</b></u>
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-q6nq{color:#4C4C4C;text-align:left;vertical-align:top}
+.tg .tg-uv15{color:#4C4C4C;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-gpqx{color:#4C4C4C;font-weight:bold;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-uv15" colspan="3">Tier 1</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-gpqx">Student leader</td>
+    <td class="tg-gpqx">Training</td>
+    <td class="tg-gpqx">Objective</td>
+  </tr>
+  <tr>
+    <td class="tg-q6nq"><span style="font-weight:400;color:#4C4C4C">P1 – 6  Workshop for Servant Leadership</span></td>
+    <td class="tg-q6nq"><span style="font-weight:400;color:#4C4C4C">Leadership development</span></td>
+    <td class="tg-q6nq"><span style="font-weight:400;color:#4C4C4C">-</span>          <span style="font-weight:400;color:#4C4C4C">P1: To be</span> a responsible <span style="font-weight:400;color:#4C4C4C">student and friend (Tie in with servant leadership quality of</span> active listening<span style="font-weight:400;color:#4C4C4C">)</span><br><span style="font-weight:400;color:#4C4C4C">-</span>          <span style="font-weight:400;color:#4C4C4C">P2: To</span> respect <span style="font-weight:400;color:#4C4C4C">ourselves and people around us (Tie in with servant leadership quality of</span> empathy<span style="font-weight:400;color:#4C4C4C">)</span><br><span style="font-weight:400;color:#4C4C4C">-</span>          <span style="font-weight:400;color:#4C4C4C">P3:</span> Resilience <span style="font-weight:400;color:#4C4C4C">towards our goals (Tie in with servant leadership quality of</span> persuasion – beginning with the end in mind<span style="font-weight:400;color:#4C4C4C">)</span> <br><span style="font-weight:400;color:#4C4C4C">-</span>          <span style="font-weight:400;color:#4C4C4C">P4:</span> Sincerity <span style="font-weight:400;color:#4C4C4C">and</span> graciousness <span style="font-weight:400;color:#4C4C4C">towards others (Tie in with servant leadership quality of</span> Awareness – keeping in touch with ourselves and others<span style="font-weight:400;color:#4C4C4C">)</span><br><span style="font-weight:400;color:#4C4C4C">-</span>          <span style="font-weight:400;color:#4C4C4C">P5:</span> Integrity <span style="font-weight:400;color:#4C4C4C">in word and deed (Tie in with servant leadership quality of</span> Stewardship – Being accountable and sharing control<span style="font-weight:400;color:#4C4C4C">)</span><br><span style="font-weight:400;color:#4C4C4C">-</span>          <span style="font-weight:400;color:#4C4C4C">P6:</span> Versatility <span style="font-weight:400;color:#4C4C4C">to remain relevant (Tie in with servant leadership quality of</span> Foresight – plotting the course<span style="font-weight:400;color:#4C4C4C">)</span></td>
+  </tr>
+  <tr>
+    <td class="tg-q6nq" rowspan="2"><span style="font-weight:400;color:#4C4C4C">Subject Representatives</span><br></td>
+    <td class="tg-q6nq"><span style="font-weight:400;color:#4C4C4C">Skill Development</span></td>
+    <td class="tg-q6nq"><span style="font-weight:400;color:#4C4C4C">To develop skills needed to carry out their class duties and responsibilities</span></td>
+  </tr>
+  <tr>
+    <td class="tg-q6nq"><span style="font-weight:400;color:#4C4C4C">Leadership Development</span></td>
+    <td class="tg-q6nq"><span style="font-weight:400;color:#4C4C4C">To understand and apply the basic principles of servant leadership in their class duties, in line with the school core values.</span> </td>
+  </tr>
+  <tr>
+    <td class="tg-q6nq" rowspan="2"><span style="font-weight:400;color:#4C4C4C">Group Leaders</span></td>
+    <td class="tg-q6nq"><span style="font-weight:400;color:#4C4C4C">Skill Development</span></td>
+    <td class="tg-q6nq"><span style="font-weight:400;color:#4C4C4C">To develop skills needed to carry out their class duties and responsibilities</span></td>
+  </tr>
+  <tr>
+    <td class="tg-q6nq"><span style="font-weight:400;color:#4C4C4C">Leadership Development</span></td>
+    <td class="tg-q6nq"><span style="font-weight:400;color:#4C4C4C">To understand and apply the basic principles of servant leadership in their class duties, in line with the school core values.</span> </td>
+  </tr>
+</tbody>
+</table>
