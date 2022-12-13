@@ -194,3 +194,47 @@ O   Give students opportunity to fix the problem; (behave/choice)
 O  Leave intact the dignity of the student and others affected by focusing on the problem, not on the student; 
 
 O   Allow restoration through restitution, resolution and reconciliation.
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-nonh{border-color:#ffffff;color:#00246e;font-size:18px;text-align:center;vertical-align:top}
+.tg .tg-hovb{border-color:#ffffff;font-size:16px;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-d2d2{border-color:#ffffff;font-size:16px;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-nonh">Student Leadership</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-hovb">Vision</td>
+  </tr>
+  <tr>
+    <td class="tg-d2d2">Student Leaders with a GIVER3S heart of service.</td>
+  </tr>
+  <tr>
+    <td class="tg-hovb">Mission</td>
+  </tr>
+  <tr>
+    <td class="tg-d2d2">To empower student leaders to be critical thinkers and gracious leaders by serving others with integrity, resilience and empathy.</td>
+  </tr>
+  <tr>
+    <td class="tg-hovb">Motto</td>
+  </tr>
+  <tr>
+    <td class="tg-d2d2">Lead to Serve</td>
+  </tr>
+  <tr>
+    <td class="tg-hovb">Spiral-up Leadership training</td>
+  </tr>
+  <tr>
+    <td class="tg-d2d2">To spread out servant leadership qualities in breadth over the 4 tiers, with each tier to go in depth on the qualities</td>
+  </tr>
+</tbody>
+</table>
