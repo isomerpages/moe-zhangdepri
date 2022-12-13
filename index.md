@@ -13,8 +13,8 @@ sections:
       url: /information/Contact-Us/
       key_highlights:
         - title: ANNOUNCEMENTS
-          description: Important highlight A is important
-          url: https://google.com
+          description: ""
+          url: /ANNOUNCEMENTS/
         - title: CALENDAR EVENTS
           description: Important highlight B is equally important
           url: https://gmail.com
