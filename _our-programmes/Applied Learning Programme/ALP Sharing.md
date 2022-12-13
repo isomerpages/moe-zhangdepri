@@ -20,7 +20,7 @@ ALP Sharing
 <b>3Rs (Reduce/Reuse/Recycle)</b>
 
 
-
+![](/images/3Rs.gif)
 
 
 
