@@ -25,3 +25,5 @@ ALP Sharing
 
 
 <b>A Clean and Green Singapore</b>
+
+![](/images/Clean%20and%20Green.gif)
