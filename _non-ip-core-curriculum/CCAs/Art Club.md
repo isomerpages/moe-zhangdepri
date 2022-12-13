@@ -9,7 +9,7 @@ third_nav_title: CCAs
 Art Club
 ========
 
-
+![](/images/Art%20Club.gif)
 
 
 Art is all around us. Children love doing a variety of artworks as an outlet to be creative and have fun. They get to develop their observation and psychomotor skills as they create their artworks. While working on their artworks, they get to develop self regulation, self-esteem and interact with peers to have fun.  
