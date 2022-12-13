@@ -60,7 +60,7 @@ School Heritage and History
 </tbody>
 </table>
 
-
+Note: 1923-1942, 1945-1975, 2000-2004 pages not found.
 
 <b>Contributions of Mr Loo Kian Chiang (2nd Principal of the School) and his family</b>
 
