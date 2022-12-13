@@ -18,6 +18,7 @@ Non-IP Core Curriculum
 
 <img src="/images/CCE.png" style="width:280px;height:250px;margin-right:105px;" align = "left">
 
+
 ### **[CCE](/non-ip-core-curriculum/CCE/)**
 
 ```
@@ -25,3 +26,4 @@ Non-IP Core Curriculum
 ```
 
 <img src="/images/Pe.png" style="width:280px;height:250px;margin-right:105px;" align = "left">
+
