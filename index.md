@@ -18,9 +18,6 @@ sections:
         - title: CALENDAR EVENTS
           description: Important highlight B is equally important
           url: https://gmail.com
-        - title: Page A
-          description: Page A is important too
-          url: /privacy/
   - infopic:
       title: Zhangde Primary School Open House
       description: Join us in the virtual tour around the school!!
