@@ -179,3 +179,18 @@ Student Development
   </tr>
 </tbody>
 </table>
+
+
+Discipline is an integral part of schooling. Good discipline facilitates teaching and learning. Students who have erred in their behaviour need to be re-orientated and guided towards the right direction. We condemn the behaviour but not the child. We use Restorative Practices (RP) to develop our student community and manage conflicts and tensions by repairing harm and building relationships.
+
+The following basic principles apply when managing student’s unacceptable behaviour:
+
+O   Show students what they have done; (aware/behave)
+
+O   Give students ownership of the problem; (behave/choice)
+
+O   Give students opportunity to fix the problem; (behave/choice)
+
+O  Leave intact the dignity of the student and others affected by focusing on the problem, not on the student; 
+
+O   Allow restoration through restitution, resolution and reconciliation.
