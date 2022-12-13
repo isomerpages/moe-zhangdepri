@@ -24,4 +24,4 @@ Non-IP Core Curriculum
 
 ```
 
-<img src="/images/xxx.png" style="width:280px;height:250px;margin-right:105px;" align = "left">
+<img src="/images/Pe.png" style="width:280px;height:250px;margin-right:105px;" align = "left">
