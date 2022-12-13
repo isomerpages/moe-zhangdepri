@@ -17,7 +17,7 @@ sections:
           url: /ANNOUNCEMENTS/
         - title: CALENDAR EVENTS
           description: ""
-          url: https://gmail.com
+          url: /Calendar-Events/
         - title: Student Learning Space
           description: ""
           url: https://vle.learning.moe.edu.sg/login
