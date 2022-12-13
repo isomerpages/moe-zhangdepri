@@ -40,3 +40,5 @@ Our Programmes
  
  2021
 ----
+
+[Primary 1 and Primary 2 Learning Outcomes](/files/ZPS%20Learning%20Outcome%202021%20.pdf)
