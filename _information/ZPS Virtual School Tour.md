@@ -7,3 +7,5 @@ description: ""
 
 ZPS Virtual School Tour
 =======================
+
+Note: Cannot include virtual school tour here. 
