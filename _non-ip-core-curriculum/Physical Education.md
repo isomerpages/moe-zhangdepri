@@ -3,68 +3,25 @@ title: Physical Education
 permalink: /non-ip-core-curriculum/Physical-Education/
 description: ""
 ---
-![](/images/OurProgrammes1.png)
-
-Physical Education
-==================
-
-  
-
-### Department Focus
-
-  
-
-The purpose of physical education is to enable students to demonstrate individually and with others the physical skills, practices, and values to enjoy a lifetime of active, healthy living.
-
-  
-
-<b>Goal 1:</b> Acquire a range of movement skills to participate in a variety of physical activities.
-
-  
-
-<b>Goal 2:</b> Understand and apply movement concepts, principles and strategies in a range of physical activities.
-
-  
-
-<b>Goal 3:</b> Demonstrate safe practices during physical and daily activities with respect to themselves, others and the environment.
-
-  
-
-<b>Goal 4:</b> Display positive personal and social behaviour across different experiences.
-
-  
-
-<b>Goal 5:</b> Acquire and maintain health-enhancing fitness through regular participation in physical activities.
-
-  
-
-<b>Goal 6:</b> Enjoy and value the benefits of living a physically active and healthy life.
-
-
-  
-
-Physical education teachers consciously make use of movement as the primary medium to reach and teach the whole child through the following three modes:
-
-  
-
-*   education in movement;  
-    
-*   education through movement; and  
-    
-*   education about movement
-
-![](/images/PE.png)
-
-The lower primary level focuses on mastery of fundamental motor skills such as locomotor, non-locomotor and manipulative skills with application of movement concepts to develop efficiency, effectiveness and versatility in students’ performance. Once the foundation is laid, the upper primary level extends on the mastery of discrete skills to focus on more complex combinations and sequences of movements, and skills application in more recognisable forms of activity and games.
-
-  
-
-### Programmes
-
-  
-
-##### **PE Curriculum**
-
+<img src="/images/OurProgrammes1.png">
+<h4><strong>Department Focus</strong></h4>
+<p>The purpose of physical education is to enable students to demonstrate individually and with others the physical skills, practices, and values to enjoy a lifetime of active, healthy living.</p>
+<p><strong>Goal 1:</strong>&nbsp;Acquire a range of movement skills to participate in a variety of physical activities.</p>
+<p><strong>Goal 2:</strong>&nbsp;Understand and apply movement concepts, principles and strategies in a range of physical activities.</p>
+<p><strong>Goal 3:</strong>&nbsp;Demonstrate safe practices during physical and daily activities with respect to themselves, others and the environment.</p>
+<p><strong>Goal 4:</strong>&nbsp;Display positive personal and social behaviour across different experiences.</p>
+<p><strong>Goal 5:</strong>&nbsp;Acquire and maintain health-enhancing fitness through regular participation in physical activities.</p>
+<p><strong>Goal 6:</strong>&nbsp;Enjoy and value the benefits of living a physically active and healthy life.</p>
+<p>Physical education teachers consciously make use of movement as the primary medium to reach and teach the whole child through the following three modes:</p>
+<ul>
+<li>education in movement;</li>
+<li>education through movement; and</li>
+<li>education about movement</li>
+</ul>
+<img src="/images/PE.png">
+<p>The lower primary level focuses on mastery of fundamental motor skills such as locomotor, non-locomotor and manipulative skills with application of movement concepts to develop efficiency, effectiveness and versatility in students&rsquo; performance. Once the foundation is laid, the upper primary level extends on the mastery of discrete skills to focus on more complex combinations and sequences of movements, and skills application in more recognisable forms of activity and games.</p>
+<h4><strong>Programmes</strong></h4>
+<p><strong>PE Curriculum</strong></p>
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -111,36 +68,20 @@ The lower primary level focuses on mastery of fundamental motor skills such as l
   </tr>
 </tbody>
 </table>
-
-
-##### **Programme For Active Learning (PAL)**
-
-  
-
-The PAL programme aims to:
-
-  
-
-*   Provide pupils with broad exposure and experiences through fun and varied activities in two broad areas:
-
-    *   Sports & Games and Outdoor Education; and
-    *   Performing Arts (Music and Dance) and Visual Arts.
-
-*   Facilitate holistic development of pupils in the five domains, namely moral, cognitive, physical, social and aesthetics.
-*   Provide varied avenues for pupils to develop social and emotional competencies
-
-
-##### **Level Camps**
-
-  
-
-The Level Camps are part of the school’s structured camp, leadership training and CCE programme. It is aligned with the school’s PE & Sports and Outdoor Education Framework and aim to provide our pupils a holistic education.
-
-  
-
-The learning experiences for the camps are aligned with our school’s Learning for Life Programme (LLP) on ‘Developing Zhangde GIVER3S Values Through Environment Education’. The learning experiences at the camps aim to educate our pupils to care for their environment and the world we live in. The camp objectives also ties in with the CCE learning outcomes, where pupils develop self-awareness and self-management skills to achieve personal well-being and effectiveness. Pupils also develop social-awareness and interpersonal skills to build and maintain positive relationships. Self-confidence, teamwork and a sense of independence and interdependence are fostered through spending time with their peers and teachers and completing tasks in teams.
-
-
+<p><strong>Programme For Active Learning (PAL)</strong></p>
+<p>The PAL programme aims to:</p>
+<ul>
+<li>Provide pupils with broad exposure and experiences through fun and varied activities in two broad areas:</li>
+<ul>
+<li>Sports &amp; Games and Outdoor Education; and</li>
+<li>Performing Arts (Music and Dance) and Visual Arts.</li>
+</ul>
+<li>Facilitate holistic development of pupils in the five domains, namely moral, cognitive, physical, social and aesthetics.</li>
+<li>Provide varied avenues for pupils to develop social and emotional competencies</li>
+</ul>
+<p><strong>Level Camps</strong></p>
+<p>The Level Camps are part of the school&rsquo;s structured camp, leadership training and CCE programme. It is aligned with the school&rsquo;s PE &amp; Sports and Outdoor Education Framework and aim to provide our pupils a holistic education.</p>
+<p>The learning experiences for the camps are aligned with our school&rsquo;s Learning for Life Programme (LLP) on &lsquo;Developing Zhangde GIVER<sup>3</sup>S Values Through Environment Education&rsquo;. The learning experiences at the camps aim to educate our pupils to care for their environment and the world we live in. The camp objectives also ties in with the CCE learning outcomes, where pupils develop self-awareness and self-management skills to achieve personal well-being and effectiveness. Pupils also develop social-awareness and interpersonal skills to build and maintain positive relationships. Self-confidence, teamwork and a sense of independence and interdependence are fostered through spending time with their peers and teachers and completing tasks in teams.</p>
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -177,18 +118,9 @@ The learning experiences for the camps are aligned with our school’s Learning 
   </tr>
 </tbody>
 </table>
-
-
-##### **Sports Education Programme (SEP)**
-
-  
-
-The Sports Education Programme (SEP) is a collaborative partnership between Singapore Sports Council (SSC) and the Ministry of Education (MOE). The SEP aims to promote the importance of sports education, encourage sports participation in schools and increase sporting opportunities for the young. It also hopes to promote team spirit and character building, as well as arouse interest in continual sports participation amongst students.
-
-  
-
-The Sports Education Programmes have been incorporated into the school structured PE & Sports and Outdoor Education Framework.
-
+<p><strong>Sports Education Programme (SEP)</strong></p>
+<p>The Sports Education Programme (SEP) is a collaborative partnership between Singapore Sports Council (SSC) and the Ministry of Education (MOE). The SEP aims to promote the importance of sports education, encourage sports participation in schools and increase sporting opportunities for the young. It also hopes to promote team spirit and character building, as well as arouse interest in continual sports participation amongst students.</p>
+<p>The Sports Education Programmes have been incorporated into the school structured PE &amp; Sports and Outdoor Education Framework.</p>
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -226,18 +158,9 @@ The Sports Education Programmes have been incorporated into the school structure
   </tr>
 </tbody>
 </table>
-
-
-##### **Lower Primary Sports Day**  
-
-  
-
-The Lower Primary Sports Day is an annual event organised by the Physical & Health Education Department. It is held on the eve of Children’s Day which falls on the first Friday of October. The objective of the Lower Primary Sports Day is to showcase the skills pupils have learnt during their Physical Education lessons. The Lower Primary Sports Day also provides pupils with the opportunity to cheer and work together in camaraderie within their classes. The event showcases the skills the Primary 1 and Primary 2 pupils have learnt during their Physical Education lessons. It includes skills in the domain of Fundamental Movement such as rolling, hopping, running, leaping and jumping and Fundamental Skills such as throwing, tossing, catching, balancing, bouncing, skipping, dribbling and passing. The event encourages mass participation and every child brings home a token for their participation in the competition. Parents are invited during the event to support and cheer their children as they compete in the races. Parents also take part in the Parent-Teacher race which aims to forge closer rapport between the teachers and parents.
-
-  
-
-##### **Key Programmes for Different Levels**
-
+<p><strong>Lower Primary Sports Day</strong></p>
+<p>The Lower Primary Sports Day is an annual event organised by the Physical &amp; Health Education Department. It is held on the eve of Children&rsquo;s Day which falls on the first Friday of October. The objective of the Lower Primary Sports Day is to showcase the skills pupils have learnt during their Physical Education lessons. The Lower Primary Sports Day also provides pupils with the opportunity to cheer and work together in camaraderie within their classes. The event showcases the skills the Primary 1 and Primary 2 pupils have learnt during their Physical Education lessons. It includes skills in the domain of Fundamental Movement such as rolling, hopping, running, leaping and jumping and Fundamental Skills such as throwing, tossing, catching, balancing, bouncing, skipping, dribbling and passing. The event encourages mass participation and every child brings home a token for their participation in the competition. Parents are invited during the event to support and cheer their children as they compete in the races. Parents also take part in the Parent-Teacher race which aims to forge closer rapport between the teachers and parents.</p>
+<p><strong>Key Programmes for Different Levels</strong></p>
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -369,10 +292,6 @@ The Lower Primary Sports Day is an annual event organised by the Physical & Heal
   </tr>
 </tbody>
 </table>
-
-
-### Tips for Students
-
-![](/images/Tips%20for%20Students1.jpeg)
-
-![](/images/Tips%20for%20Students2.jpeg)
+<h4><strong>Tips for Students</strong></h4>
+<img src="/images/Tips%20for%20Students1.jpeg"><br>
+<img src="/images/Tips%20for%20Students2.jpeg">
