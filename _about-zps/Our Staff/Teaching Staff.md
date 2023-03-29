@@ -143,7 +143,9 @@ third_nav_title: Our Staff
 </tbody>
 </table>
 <h4><strong>Form Teachers</strong></h4>
+
 <p><strong>PRIMARY 1 2023</strong></p>
+
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -191,7 +193,9 @@ third_nav_title: Our Staff
   </tr>
 </tbody>
 </table>
+
 <p><strong>PRIMARY 2 2023</strong></p>
+
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -245,8 +249,7 @@ third_nav_title: Our Staff
 </tbody>
 </table>
 
-
-##### **PRIMARY 3 2022**
+<p><strong>PRIMARY 3 2023</strong></p>
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
