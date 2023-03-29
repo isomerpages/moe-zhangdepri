@@ -4,17 +4,8 @@ permalink: /our-programmes/our-stories/achievements/2019-achievements/
 description: ""
 third_nav_title: Achievements
 ---
-
-
-
-
-![](/images/OurProgrammes.png)
-
-2019 Achievements
-=================
-
-### Performing Arts
-
+<img src="/images/OurProgrammes.png">
+<h4><strong>Performing Arts</strong></h4>
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -38,10 +29,7 @@ third_nav_title: Achievements
   </tr>
 </tbody>
 </table>
-
-
-### Uniformed Groups
-
+<h4><strong>Uniformed Groups</strong></h4>
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -73,10 +61,7 @@ third_nav_title: Achievements
   </tr>
 </tbody>
 </table>
-
-
-### Clubs
-
+<h4><strong>Clubs</strong></h4>
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -101,10 +86,7 @@ third_nav_title: Achievements
   </tr>
 </tbody>
 </table>
-
-
-### Sports
-
+<h4><strong>Sports</strong></h4>
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
