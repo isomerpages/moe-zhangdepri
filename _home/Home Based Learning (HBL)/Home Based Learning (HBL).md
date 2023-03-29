@@ -5,8 +5,7 @@ description: ""
 third_nav_title: Home Based Learning (HBL)
 ---
 <img src="/images/HBL.png">
-Home Based Learning (HBL)
-=========================
+<h4><strong>Home Based Learning (HBL)</strong></h4>
 
   
 
