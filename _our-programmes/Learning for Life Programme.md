@@ -8,10 +8,7 @@ description: ""
 <p><strong>Learning for Life Programme &ndash; OE @ ZPS</strong></p>
 <p>Zhangde Primary School&rsquo;s vision of a Learning School, GIVER3S Heart undergirds the school&rsquo;s&nbsp;DARE@ZPS&rsquo;s&nbsp;approach towards creating a vibrant and robust learning environment for Outdoor Education, anchored in values.</p>
 <p><strong>DARE@ZPS</strong></p>
-<p><strong>D</strong>iscovery &ndash; Discovering of self and the world around us;</p>
-<p><strong>A</strong>dventure &ndash; Acting on adventure and the &lsquo;can-do&rsquo; spirit;</p>
-<p><strong>R</strong>elationship Building &ndash; Reinforcing relationships and building friendship; and</p>
-<p><strong>E</strong>sprit de-Corps &ndash; Embracing others, accepting differences and diversity.</p>
+<p><strong>D</strong>iscovery &ndash; Discovering of self and the world around us;<br><strong>A</strong>dventure &ndash; Acting on adventure and the &lsquo;can-do&rsquo; spirit;<br><strong>R</strong>elationship Building &ndash; Reinforcing relationships and building friendship; and<br><strong>E</strong>sprit de-Corps &ndash; Embracing others, accepting differences and diversity.</p>
 <p>DARE@ZPS aims to immerse our students in an environment of outdoor and sporting activities to develop socio-emotional competencies and sound values. Learning for Life Programme on Outdoor Education also acts as a platform to instil in our students a spirit of adventure through the exploration of both natural and urbanised environments starting with the local context and extending it to the rugged outdoor locations. The real-life experiential learning also helps students develop character, cultivate positive attitudes and self-expression, build friendships and work as a team towards common goals as well as embrace others through community engagement.</p>
 <p>DARE@ZPS is also aligned to the school&rsquo;s mission of &ldquo;Nurturing Thinking Individuals and Gracious Citizens&rsquo; in our students. This is coupled with the strong focus on the school&rsquo;s</p>
 <p>GIVER<sup>3</sup>S values where our students will embrace giving and contributing back to the society.</p>
