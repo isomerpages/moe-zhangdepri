@@ -3,27 +3,11 @@ title: CCE
 permalink: /non-ip-core-curriculum/CCE/
 description: ""
 ---
-![](/images/OurProgrammes1.png)
-
-CCE
-===
-
-  
-
-### Department Focus
-
-  
-
-To nurture gracious citizens, the school emphasises character development, national education and stays close to community needs, collaborating and partnering with the community in programmes which develop civic mindedness and environmental ownership. This is encapsulated in our school vision “A Learning School with a **GIVER3S** Heart”. The school also continues to pay attention to the acquisition of 21st Century Competencies by our pupils through a compendium of learning activities within and outside of classroom.
-
-  
-
-### Programmes
-
-  
-
-##### **Character and Citizenship Education Curriculum**
-
+<img src="/images/OurProgrammes1.png">
+<h4><strong>Department Focus</strong></h4>
+<p>To nurture gracious citizens, the school emphasises character development, national education and stays close to community needs, collaborating and partnering with the community in programmes which develop civic mindedness and environmental ownership. This is encapsulated in our school vision &ldquo;A Learning School with a&nbsp;<strong>GIVER<sup>3</sup>S</strong>&nbsp;Heart&rdquo;. The school also continues to pay attention to the acquisition of 21st Century Competencies by our pupils through a compendium of learning activities within and outside of classroom.</p>
+<h4><strong>Programmes</strong></h4>
+<p><strong>Character and Citizenship Education Curriculum</strong></p>
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -49,29 +33,12 @@ To nurture gracious citizens, the school emphasises character development, natio
   </tr>
 </tbody>
 </table>
-
-
-##### **Explicit Teaching**  
-
-  
-
-Both Form Teacher Guidance Period (FTGP) and Character and Citizenship Education (CCE) lessons focus on the teaching of Values, Knowledge, skills and competencies which are important for character and citizenship development. CCE lessons are mainly\* conducted in the Mother Tongue languages (MTL). \*For those pupils who exempted from taking MTL, CCE will be taught in English.
-
-  
-
-During Social Studies lessons, students discuss the implications on current issues and topics faced by the community, nation and world. They also learnt to look from different perspectives and understand the impact on individual and community. This helps to promote development to critical thinking skills, reflective skills and create understanding of what is meant to be a good citizen.
-
-
-##### **CCE School-based learning experiences**
-
-  
-
-<i><b>Values Of The Term (VOTT)</b></i>
-
-  
-
-Each term, two school values are selected to set the focus for the classroom, co-curricular and various activities thereby allowing purposeful participation on an extensive and expansive level. Assembly Programs are also used as a teaching platform for school values.
-
+<p><strong>Explicit Teaching</strong></p>
+<p>Both Form Teacher Guidance Period (FTGP) and Character and Citizenship Education (CCE) lessons focus on the teaching of Values, Knowledge, skills and competencies which are important for character and citizenship development. CCE lessons are mainly* conducted in the Mother Tongue languages (MTL). *For those pupils who exempted from taking MTL, CCE will be taught in English.</p>
+<p>During Social Studies lessons, students discuss the implications on current issues and topics faced by the community, nation and world. They also learnt to look from different perspectives and understand the impact on individual and community. This helps to promote development to critical thinking skills, reflective skills and create understanding of what is meant to be a good citizen.</p>
+<p><strong>CCE School-based learning experiences</strong></p>
+<p><strong><em>Values Of The Term (VOTT)</em></strong></p>
+<p>Each term, two school values are selected to set the focus for the classroom, co-curricular and various activities thereby allowing purposeful participation on an extensive and expansive level. Assembly Programs are also used as a teaching platform for school values.</p>
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -103,14 +70,8 @@ Each term, two school values are selected to set the focus for the classroom, co
   </tr>
 </tbody>
 </table>
-
-<i><b>Values-in-Action (VIA)</b></i>  
-
-
-  
-
-Values-in-Action (VIA) are learning experiences that support students’ development as socially responsible citizens who contribute meaningfully to the community, through the learning and application of values, knowledge and skills. VIA fosters student ownership over how they contribute to the community. As part of VIA, students reflect on their experiences, the values they have put into practice, and how they can continue to contribute meaningfully.
-
+<p><strong><em>Values-in-Action (VIA)<br /></em></strong></p>
+<p>Values-in-Action (VIA) are learning experiences that support students&rsquo; development as socially responsible citizens who contribute meaningfully to the community, through the learning and application of values, knowledge and skills. VIA fosters student ownership over how they contribute to the community. As part of VIA, students reflect on their experiences, the values they have put into practice, and how they can continue to contribute meaningfully.</p>
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -141,21 +102,8 @@ Values-in-Action (VIA) are learning experiences that support students’ develop
   </tr>
 </tbody>
 </table>
-
-##### **Support Structures**
-
-  
-
-<i><b>Student Recognition</b></i>  
-
-  
-
-Student Recognition, given through school-based and MOE-given awards, as well as highlighting of students’ successes, helps to reinforce school values and desired character traits.
-
-  
-
-<i><b>Pastoral Care</b></i>  
-
-  
-
-Research has shown that pupils are likely to be emotionally and intellectually invested in classes where they have positive relationships with their teachers (Nichols, 2006; Pianta 1999; Phelan 1992) and thus it is critical for us to plan time that allows purposeful pupil-teacher interactions and the explicit teaching of social and emotional (SE) competencies. Through Strategies to Ensure More Attention to Individual Pupil (SEAIP), protected time within the curriculum allows form teachers to build positive relationships with their pupils. Also, SEAIP allows teachers to identify the needs of pupils and provide them with better support. Counsellors also provide the expert support where needed.
+<p><strong>Support Structures</strong></p>
+<p><strong><em>Student Recognition</em></strong></p>
+<p>Student Recognition, given through school-based and MOE-given awards, as well as highlighting of students&rsquo; successes, helps to reinforce school values and desired character traits.</p>
+<p><strong><em>Pastoral Care</em></strong></p>
+<p>Research has shown that pupils are likely to be emotionally and intellectually invested in classes where they have positive relationships with their teachers (Nichols, 2006; Pianta 1999; Phelan 1992) and thus it is critical for us to plan time that allows purposeful pupil-teacher interactions and the explicit teaching of social and emotional (SE) competencies. Through Strategies to Ensure More Attention to Individual Pupil (SEAIP), protected time within the curriculum allows form teachers to build positive relationships with their pupils. Also, SEAIP allows teachers to identify the needs of pupils and provide them with better support. Counsellors also provide the expert support where needed.</p>
