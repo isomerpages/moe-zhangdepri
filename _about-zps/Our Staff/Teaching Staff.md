@@ -400,8 +400,7 @@ third_nav_title: Our Staff
 </tbody>
 </table>
 
-
-##### **PRIMARY 6 2022**
+<p><strong>PRIMARY 6 2023</strong></p>
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -418,7 +417,7 @@ third_nav_title: Our Staff
 <thead>
   <tr>
     <th class="tg-x88q"><span style="color:#4C4C4C;background-color:#EFFBFF">6 Graciousness</span></th>
-    <th class="tg-ut1a"><a href="mailto:sukhvir_kaur@schools.gov.sg">Mdm Sukhvir Kaur</a></th>
+    <th class="tg-ut1a"><a href="mailto:soh_megumi@schools.gov.sg">Ms Soh Megumi</a></th>
     <th class="tg-ut1a"><a href="mailto:xie_ying@schools.gov.sg">Ms Xie Ying</a></th>
   </tr>
 </thead>
