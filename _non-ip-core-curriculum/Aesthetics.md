@@ -3,33 +3,14 @@ title: Aesthetics
 permalink: /non-ip-core-curriculum/Aesthetics/
 description: ""
 ---
-![](/images/OurProgrammes1.png)
-
-Aesthetics
-==========
-
-
-  
-
-### Department Focus
-
-
-To develop every child musically and artistically so that he/she will develop an appreciation and love for the Arts.
-
-
-
-### Programmes
-
-  
-
-##### **Art Curriculum**
-
-Art is one of the core subjects in the primary school curriculum. It is a progressive 6-year programme to provide students with a holistic learning experience in Art through Seeing, Appreciating and Expressing themselves through Art. 
-
-The School’s Art curriculum aims to enable every child to enjoy Art, communicate visually and make meaning through connecting with society and culture. It incorporates features to facilitate the development of knowledge, skills and values for all levels.  A wide range of 2-D and 3-D art forms are included to provide students with exposure to a variety of art experiences.
-
-##### **Key Programmes for Different Levels**
-
+<img src="/images/OurProgrammes1.png">
+<h4><strong>Department Focus</strong></h4>
+<p>To develop every child musically and artistically so that he/she will develop an appreciation and love for the Arts.</p>
+<h4><strong>Programmes</strong></h4>
+<p><strong>Art Curriculum</strong></p>
+<p>Art is one of the core subjects in the primary school curriculum. It is a progressive 6-year programme to provide students with a holistic learning experience in Art through Seeing, Appreciating and Expressing themselves through Art.</p>
+<p>The School&rsquo;s Art curriculum aims to enable every child to enjoy Art, communicate visually and make meaning through connecting with society and culture. It incorporates features to facilitate the development of knowledge, skills and values for all levels. A wide range of 2-D and 3-D art forms are included to provide students with exposure to a variety of art experiences.</p>
+<p><strong>Key Programmes for Different Levels</strong></p>
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -91,17 +72,10 @@ The School’s Art curriculum aims to enable every child to enjoy Art, communica
   </tr>
 </tbody>
 </table>
-
-
-
-##### **Music Curriculum**
-
-The School’s Music Curriculum consists of a progressive 6-year programme in music education which incorporates musical experiences that encompass listening, creating and performing of music.  
-
-The curriculum aims to equip students with the ability for creative expression and communication through music. This includes exposure to an array of music repertoire to expand their musical experiences and the opportunity to learn and play a range of musical instruments such as the recorder, electronic keyboard, ukulele and Cajon.
-
-##### **Key Programmes for Different Levels**
-
+<p><strong>Music Curriculum</strong></p>
+<p>The School&rsquo;s Music Curriculum consists of a progressive 6-year programme in music education which incorporates musical experiences that encompass listening, creating and performing of music.&nbsp;</p>
+<p>The curriculum aims to equip students with the ability for creative expression and communication through music. This includes exposure to an array of music repertoire to expand their musical experiences and the opportunity to learn and play a range of musical instruments such as the electronic keyboard, ukulele, the Cajon and STOMP instruments.</p>
+<p><strong>Key Programmes for Different Levels</strong></p>
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -168,11 +142,6 @@ The curriculum aims to equip students with the ability for creative expression a
   </tr>
 </tbody>
 </table>
-
-
-To support ongoing Art and Music lessons in school, we also encourage our students to visit the [Aesthetics Microsite](http://go.gov.sg/zpsaesthetics) for updates on student activities.
-
-<i>(Link to Aesthetics Microsite: [http://go.gov.sg/zpsaesthetics](http://go.gov.sg/zpsaesthetics))</i>
-
-
-![](/images/Aesthetics%20Microsite.gif)
+<p>To support ongoing Art and Music lessons in school, we also encourage our students to visit the&nbsp;<a href="http://go.gov.sg/zpsartmusic" target="">Aesthetics Microsite</a>&nbsp;for updates on student activities.</p>
+<p><em>(Link to Aesthetics Microsite: <a href="http://go.gov.sg/zpsartmusic" target="">http://go.gov.sg/zpsartmusic</a>)</em></p>
+<img src="/images/Aesthetics%20Microsite.gif">
