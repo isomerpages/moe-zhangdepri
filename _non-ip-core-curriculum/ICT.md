@@ -3,73 +3,30 @@ title: ICT
 permalink: /non-ip-core-curriculum/ICT/
 description: ""
 ---
-![](/images/OurProgrammes1.png)
-
-ICT
-===
-
-  
-
-### Department Vision
-
-  
-
-Every Zhangde-ren a future-ready and responsible learner.
-
-  
-
-### Department Mission
-
-To nurture a community of responsible learners who possess the 21st Century Competencies.  
-
-  
-
-### Outcome Goal
-
-1.  Zhangde-rens’ learning is empowered by technology.
-2.  Zhangde-rens are Responsible 21st CC Digital Learners.
-3.  Zhangde-rens’ learning are supported by technology.
-
-  
-
-### Department Focus
-
-![](/images/ICT%20Focus.jpg)
-
-
-### Programmes
-
-![](/images/ICT.png)
-
-The use of ICT in school aims to nurture a community of learners, who possess the 21st century competencies through effective and responsible use of technology. Students will first learn how to use technology then harness it to empower their own learning. This is achieved through the three programmes spearheaded by the ICT Department.
-
-  
-
-  
-
-##### **Digital Literacy Programme**
-
-Digital Literacy Programme aims to develop 21st century competencies in pupils, through the learning of Basic ICT skills and online collaborative tools. 
-
-  
-
-Align to the Digital Literacy Framework (Find, Think, Apply,Create), digital literacy activities have been infused into the school curriculum, project work lessons or through enrichment programmes to develop the media literacy skills of all Zhangderens.
-
-  
-
-  
-
-##### **School Coding Programme**  
-
-The P1 to P6 coding programme is in line with the school’s Strategic Thrust 1, that is, “nurturing confident and self-directed learners” as well as the Applied Learning Programme, which focuses on ‘Developing Zhangde GIVER3S Values through Environment Education’. 
-
-Coding will enable students to develop 21st Century Competencies and skills, putting children in control of the computer and building mastery in sequencing skills, counting, problem solving, logical thinking, creative and critical thinking. Having these skills would help the children in all subjects and build a strong foundation for their future work-life.
-
-![](/images/School%20Coding%20Programme.gif)
-
-
-##### **2022 Programme from P1 to P6**
-
+<img src="/images/OurProgrammes1.png">
+<h4><strong>Department Vision</strong></h4>
+<p>Every Zhangde-ren a future-ready and responsible learner.</p>
+<h4><strong>Department Mission</strong></h4>
+<p>To nurture a community of responsible learners who possess the 21<sup>st</sup>&nbsp;Century Competencies.</p>
+<h4><strong>Outcome Goal</strong></h4>
+<ol>
+<li>Zhangde-rens&rsquo; learning is empowered by technology.</li>
+<li>Zhangde-rens are Responsible 21st CC Digital Learners.</li>
+<li>Zhangde-rens&rsquo; learning are supported by technology.</li>
+</ol>
+<h4><strong>Department Focus</strong></h4>
+<img src="/images/ICT%20Focus.jpg">
+<h4><strong>Programmes</strong></h4>
+<img src="/images/ICT.png">
+<p>The use of ICT in school aims to nurture a community of learners, who possess the 21st century competencies through effective and responsible use of technology. Students will first learn how to use technology then harness it to empower their own learning. This is achieved through the three programmes spearheaded by the ICT Department.</p>
+<p><strong>Digital Literacy Programme</strong></p>
+<p>Digital Literacy Programme aims to develop 21st century competencies in pupils, through the learning of Basic ICT skills and online collaborative tools.&nbsp;</p>
+<p>Align to the Digital Literacy Framework (Find, Think, Apply,Create), digital literacy activities have been infused into the school curriculum, project work lessons or through enrichment programmes to develop the media literacy skills of all Zhangderens.</p>
+<p><strong>School Coding Programme </strong></p>
+<p>The P1 to P6 coding programme is in line with the school&rsquo;s Strategic Thrust 1, that is, &ldquo;nurturing confident and self-directed learners&rdquo; as well as the Applied Learning Programme, which focuses on &lsquo;Developing Zhangde GIVER<sup>3</sup>S Values through Environment Education&rsquo;.</p>
+<p>Coding will enable students to develop 21<sup>st</sup>&nbsp;Century Competencies and skills, putting&nbsp;children in control of the computer and building mastery in sequencing skills, counting, problem solving, logical thinking, creative and critical thinking. Having these skills would help the children in all subjects and build a strong foundation for their future work-life.</p>
+<img src="/images/School%20Coding%20Programme.gif">
+<p><strong>2022 Programme from P1 to P6</strong></p>
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -113,35 +70,15 @@ Coding will enable students to develop 21st Century Competencies and skills, pu
   </tr>
 </tbody>
 </table>
-
-Lesson structure: 4 sessions X 2 hours for P3 to P5, 10 lessons X 1 hour for P1 and P2 (IPW lessons)
-
-  
-
-Through the learning experiences from this programme, we hope that the students will develop a basic understanding of coding, acquire basic engineering and design skills and be exposed to science, technology and engineering practices.
-
-
-##### **Curriculum Integration**
-
-ICT is integrated into subjects to empower pupils’ learning. It also aims to encourage pupils to be Self-Directed Learners and ignite their passion for life-long learning.
-
-  
-
-##### **Cyber Wellness Programme**
-
-Cyber Wellness Programme follows the MOE Cyber Wellness Framework and adhered to the guiding Two Principles: ‘Respect for Self and Others’ and ‘Safe and Responsible Use’.
-
-  
-
-There are three key programmes under Cyber Wellness.
-
-*   Safer Internet Day  
-    
-*   Cyber Wellness Week  
-    
-*   Cyber Wellness Ambassadors Programme
-
-These programmes are aligned to our School-Wide Approach “Aware-Behave-Choice”.
-
-
-![](/images/Cyber%20Wellness%20Programme.gif)
+<p>Lesson structure: 4 sessions X 2 hours for P3 to P5, 10 lessons X 1 hour for P1 and P2 (IPW lessons)</p>
+<p>Through the learning experiences from this programme, we hope that the students will develop a basic understanding of coding, acquire basic engineering and design skills and be exposed to science, technology and engineering practices.</p>
+<p><strong>Curriculum Integration<br /></strong>ICT is integrated into subjects to empower pupils&rsquo; learning. It also aims to encourage pupils to be Self-Directed Learners and ignite their passion for life-long learning.</p>
+<p><strong>Cyber Wellness Programme<br /></strong>Cyber Wellness Programme follows the MOE Cyber Wellness Framework and adhered to the guiding Two Principles: &lsquo;Respect for Self and Others&rsquo; and &lsquo;Safe and Responsible Use&rsquo;.</p>
+<p>There are three key programmes under Cyber Wellness.</p>
+<ul>
+<li>Safer Internet Day</li>
+<li>Cyber Wellness Week</li>
+<li>Cyber Wellness Ambassadors Programme</li>
+</ul>
+<p>These programmes are aligned to our School-Wide Approach &ldquo;Aware-Behave-Choice&rdquo;.</p>
+<img src="/images/Cyber%20Wellness%20Programme.gif">
