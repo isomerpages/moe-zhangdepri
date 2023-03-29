@@ -4,12 +4,8 @@ permalink: /about-zps/our-staff/steering-committee/
 description: ""
 third_nav_title: Our Staff
 ---
-
-![](/images/AboutUs.png)
-
-Steering Committee
-==================
-
+<img src="/images/AboutUs.png">
+<h4><strong>Steering Committee</strong></h4>
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
