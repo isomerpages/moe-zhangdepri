@@ -4,12 +4,8 @@ permalink: /about-zps/our-staff/executive-n-administrative-staff/
 description: ""
 third_nav_title: Our Staff
 ---
-
-![](/images/AboutUs.png)
-
-Executive & Administrative Staff
-================================
-
+<img src="/images/AboutUs.png">
+<h4><strong>Executive &amp; Administrative Staff</strong></h4>
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -36,15 +32,7 @@ Executive & Administrative Staff
 <tbody>
   <tr>
     <td class="tg-j24s"><span style="color:#4C4C4C;background-color:#FFEFE3">Administrative Executive</span></td>
-    <td class="tg-gfyo"><a href="mailto:Seah_Yem_leng@schools.gov.sg">Mdm Seah Yem Leng Jessie</a></td>
-  </tr>
-  <tr>
-    <td class="tg-x88q"><span style="color:#4C4C4C;background-color:#EFFBFF"> </span></td>
-    <td class="tg-ut1a"><a href="mailto:tan_wei_ling_magdalene@schools.gov.sg">Ms Magdalene Tan</a><br></td>
-  </tr>
-  <tr>
-    <td class="tg-j24s"><span style="color:#4C4C4C;background-color:#FFEFE3"> </span></td>
-    <td class="tg-gfyo"><a href="mailto:Jannath_beevi_Johabar_ali@schools.gov.sg">Ms Jannath Beevi Bte A Johabar Ali</a></td>
+    <td class="tg-gfyo"><a href="mailto:Seah_Yem_leng@schools.gov.sg">Mdm Seah Yem Leng Jessie</a><br><a href="mailto:Jannath_beevi_Johabar_ali@schools.gov.sg">Ms Jannath Beevi Bte A Johabar Ali</a></td>
   </tr>
   <tr>
     <td class="tg-x88q"><span style="color:#4C4C4C;background-color:#EFFBFF">Corporate Support Officers</span><br></td>
@@ -76,7 +64,7 @@ Executive & Administrative Staff
   </tr>
   <tr>
     <td class="tg-j24s"><span style="color:#4C4C4C;background-color:#FFEFE3">Desktop Enginner </span></td>
-    <td class="tg-ntrq">Ms Rina </td>
+    <td class="tg-ntrq">Ms Rina Johari<br>Mr J. Ganesan</td>
   </tr>
   <tr>
     <td class="tg-x88q"><span style="color:#4C4C4C;background-color:#EFFBFF">Library Assistant</span><br></td>
