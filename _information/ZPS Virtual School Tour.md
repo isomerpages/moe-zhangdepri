@@ -3,9 +3,6 @@ title: ZPS Virtual School Tour
 permalink: /information/ZPS-Virtual-School-Tour/
 description: ""
 ---
-![](/images/Information.png)
-
-ZPS Virtual School Tour
-=======================
-
-Note: Cannot include virtual school tour here. 
+<img src="/images/Information.png">
+<h4><strong>ZPS Virtual School Tour</strong></h4>
+<p>Note: Cannot include virtual school tour here.</p>
