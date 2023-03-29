@@ -418,39 +418,39 @@ third_nav_title: Our Staff
   <tr>
     <th class="tg-x88q"><span style="color:#4C4C4C;background-color:#EFFBFF">6 Graciousness</span></th>
     <th class="tg-ut1a"><a href="mailto:soh_megumi@schools.gov.sg">Ms Soh Megumi</a></th>
-    <th class="tg-ut1a"><a href="mailto:xie_ying@schools.gov.sg">Ms Xie Ying</a></th>
+    <th class="tg-ut1a"><a href="mailto:chin_meiyi@schools.gov.sg">Ms Chin Meiyi</a></th>
   </tr>
 </thead>
 <tbody>
   <tr>
     <td class="tg-j24s"><span style="color:#4C4C4C;background-color:#FFEFE3">6 Integrity</span><br></td>
+    <td class="tg-gfyo"><a href="mailto:Poh_Si_hui@schools.gov.sg">Ms Poh Si Hui</a></td>
     <td class="tg-gfyo"><a href="mailto:goh_han_sin@schools.gov.sg">Mr Goh Han Sin</a></td>
-    <td class="tg-gfyo"><a href="mailto:angela_ho_siow_chun@schools.gov.sg">Ms Angela Ho Siow Chun</a></td>
   </tr>
   <tr>
     <td class="tg-x88q"><span style="color:#4C4C4C;background-color:#EFFBFF">6 Versatility</span><br></td>
-    <td class="tg-ut1a"><a href="mailto:sivakami_sivanantham@schools.gov.sg">Mrs Fernandez</a></td>
-    <td class="tg-ut1a"><a href="mailto:tania_tay_wen_jing@schools.gov.sg">Ms Tania Tay</a></td>
+    <td class="tg-ut1a"><a href="mailto:errol_benedict_robert@schools.gov.sg">Mr Errol Benedict Robert</a></td>
+    <td class="tg-ut1a"><a href="mailto:geraldine_ang_lay_peng@schools.gov.sg">Ms Geraldine Ang Lay Peng</a></td>
   </tr>
   <tr>
     <td class="tg-j24s"><span style="color:#4C4C4C;background-color:#FFEFE3">6 Empathy</span><br></td>
-    <td class="tg-gfyo"><a href="mailto:jane_toh_ka_ru@schools.gov.sg">Ms Jane Toh Ka Ru</a></td>
-    <td class="tg-gfyo"><a href="mailto:Bacierto_Vanessa_Mae_Medidas@schools.gov.sg">Ms Vanessa Mae Medidas Bacierto</a><br></td>
+    <td class="tg-gfyo"><a href="mailto:lee_siew_ming@schools.gov.sg">Ms Lee Siew Ming</a></td>
+    <td class="tg-gfyo"><a href="mailto:liu_yuanling_candice@schools.gov.sgschools.gov.sg">Ms Liu Yuanling Candice</a><br /><a href="mailto:jane_toh_ka_ru@schools.gov.sg">Ms Jane Toh Ka Ru</a>&nbsp;(MLS)</td>
   </tr>
   <tr>
     <td class="tg-x88q"><span style="color:#4C4C4C;background-color:#EFFBFF">6 Responsibility</span><br></td>
-    <td class="tg-ut1a"><a href="mailto:hamidah_mohamed_ismail@schools.gov.sg">Mdm Hamidah Bte Mohamed Ismail</a></td>
-    <td class="tg-ut1a"><a href="mailto:phang_huey_wen@schools.gov.sg">Mdm Phang Huey Wen</a><br></td>
+    <td class="tg-ut1a"><a href="mailto:nur_farhana_zainal_abidin@schools.gov.sg">Ms Nur Farhana Binte Zainal Abidin</a></td>
+    <td class="tg-ut1a"><a href="mailto:teo_bee_hwee@schools.gov.sg">Ms Teo Bee Hwee</a></td>
   </tr>
   <tr>
-    <td class="tg-j24s"><span style="color:#4C4C4C;background-color:#FFEFE3">6 Sincerity1</span></td>
-    <td class="tg-gfyo"><a href="mailto:goh_sze_lin_tracy@schools.gov.sg">Mrs Ching-Goh Sze Lin Tracy</a></td>
-    <td class="tg-gfyo"><a href="mailto:nur_afiqah_mokhtar_kamarudin@schools.gov.sg">Ms Nur Afiqah Mokhtar Kamarudin</a></td>
+    <td class="tg-j24s"><span style="color:#4C4C4C;background-color:#FFEFE3">6 Sincerity 1</span></td>
+    <td class="tg-gfyo"><a href="mailto:shakkila_banu_gose_sulta@schools.gov.sg">Ms Shakkila Banu Gose Sulta</a></td>
+    <td class="tg-gfyo"><a href="mailto:tan_pei_ee@schools.gov.sg">Ms Tan Pei Ee</a></td>
   </tr>
   <tr>
-    <td class="tg-x88q"><span style="color:#4C4C4C;background-color:#EFFBFF">6 Sincerity2</span><br></td>
-    <td class="tg-ut1a"><a href="mailto:nandwani_sunil_bhagwandas@schools.gov.sg">Mr Nandwani Sunil Bhagwandas</a></td>
-    <td class="tg-ut1a"><a href="mailto:TAN_Ai_Ling_a@schools.gov.sg">Mdm Tan Ai Ling</a></td>
+    <td class="tg-x88q"><span style="color:#4C4C4C;background-color:#EFFBFF">6 Sincerity 2</span><br></td>
+    <td class="tg-ut1a"><a href="mailto:Habibah_Najihahbi_Ahmad@schools.gov.sg">Ms Habibah Najihahbi Binte Ahmad</a></td>
+    <td class="tg-ut1a"><a href="mailto:sundararajan_anandavalli@schools.gov.sg">Mdm Sundararajan Anandavalli</a></td>
   </tr>
 </tbody>
 </table>
