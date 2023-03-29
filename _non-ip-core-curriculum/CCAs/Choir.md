@@ -4,14 +4,9 @@ permalink: /our-programmes/non-ip-core-curriculum/ccas/choir/
 description: ""
 third_nav_title: CCAs
 ---
-
-![](/images/OurProgrammes1.png)
-
-Choir
-=====
-
-Under the guidance of the choir instructor and the teachers-in-charge, Zhangde Choir had attained Certificate of Distinction in the Singapore Youth Festival (SYF) Arts Presentation in 2018.The Choir is privileged to have been given the opportunities to perform at numerous school, community and national events.
-
+<img src="/images/OurProgrammes1.png">
+<h4><strong>Choir</strong></h4>
+<p>Under the guidance of the choir instructor and the teachers-in-charge, Zhangde Choir had attained Certificate of Distinction in the Singapore Youth Festival (SYF) Arts Presentation in 2018.The&nbsp;Choir is privileged to have been given the opportunities to perform at numerous school, community and national events.</p>
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -70,7 +65,5 @@ Under the guidance of the choir instructor and the teachers-in-charge, Zhangde C
   </tr>
 </tbody>
 </table>
-
-Throughout the journey in music, ZPS Choir has embraced the values of Resilience and Responsibility, which are also the school values. The hours of training taught ZPS Choir the essence of Teamwork.
-
-We look forward to more performances and scaling greater heights.
+<p>Throughout the journey in music, ZPS Choir has embraced the values of Resilience and Responsibility, which are also the school values. The hours of training taught ZPS Choir the essence of Teamwork.</p>
+<p>We look forward to more performances and scaling greater heights.</p>
