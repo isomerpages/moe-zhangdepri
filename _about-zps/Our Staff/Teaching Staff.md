@@ -4,14 +4,9 @@ permalink: /about-zps/our-staff/teaching-staff/
 description: ""
 third_nav_title: Our Staff
 ---
-
-![](/images/AboutUs.png)
-
-Teaching Staff
-==============
-
-#### **Heads of Department**
-
+<img src="/images/AboutUs.png">
+<h4><strong>Teaching Staff</strong></h4>
+<p><strong>Heads of Department</strong></p>
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -85,11 +80,7 @@ Teaching Staff
   </tr>
 </tbody>
 </table>
-
-
-#### **Level Heads/Subjects Heads**
-
-
+<p><strong>Level Heads/Subjects Heads</strong></p>
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -122,12 +113,8 @@ Teaching Staff
     <td class="tg-gfyo"><a href="mailto:ong_li_ya_sandy@schools.gov.sg">Ms Sandy Ong Li Ya</a></td>
   </tr>
   <tr>
-    <td class="tg-x88q"><span style="color:#4C4C4C;background-color:#EFFBFF">Chinese Language</span></td>
-    <td class="tg-ut1a"><a href="mailto:lim_tow_wee@schools.gov.sg">Mr Lim Tow Wee</a><span style="color:#4C4C4C;background-color:#EFFBFF"> </span><br></td>
-  </tr>
-  <tr>
-    <td class="tg-j24s"><span style="color:#4C4C4C;background-color:#FFEFE3">Student Welfare </span></td>
-    <td class="tg-gfyo"><a href="mailto:mohd_shaan_mohamed_shafie@schools.gov.sg">Mr Mohd Shaan Bin Mohammad Shafie</a></td>
+    <td class="tg-x88q"><span style="color:#4C4C4C;background-color:#EFFBFF">Student Welfare </span></td>
+    <td class="tg-ut1a"><a href="mailto:mohd_shaan_mohamed_shafie@schools.gov.sg">Mr Mohd Shaan Bin Mohammad Shafie</a></td>
   </tr>
 </tbody>
 </table>
