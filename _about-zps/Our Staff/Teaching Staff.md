@@ -191,9 +191,7 @@ third_nav_title: Our Staff
   </tr>
 </tbody>
 </table>
-
-##### **PRIMARY 2 2022**
-
+<p><strong>PRIMARY 2 2023</strong></p>
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -209,40 +207,40 @@ third_nav_title: Our Staff
 <thead>
   <tr>
     <th class="tg-x88q"><span style="color:#4C4C4C;background-color:#EFFBFF">2 Graciousness</span><br></th>
-    <th class="tg-ut1a"><a href="mailto:hajera_tasneem_abdul_azeez@schools.gov.sg">Ms Hajera Tasneem E N Abdul Azeez</a></th>
-    <th class="tg-ut1a"><a href="mailto:lee_li_hui_lydia@schools.gov.sg">Ms Lydia Lee</a></th>
+    <th class="tg-ut1a"><a href="mailto:tian_yuyuan@schools.gov.sg">Mr Tian Yuyuan</a></th>
+    <th class="tg-ut1a"><a href="mailto:tania_tay_wen_jing@schools.gov.sg">Ms Tania Tay</a></th>
   </tr>
 </thead>
 <tbody>
   <tr>
     <td class="tg-j24s"><span style="color:#4C4C4C;background-color:#FFEFE3">2 Integrity</span><br></td>
-    <td class="tg-gfyo"><a href="mailto:phua_siew_hoon@schools.gov.sg">Mdm Phua Siew Hoon</a></td>
-    <td class="tg-gfyo"><a href="mailto:mou_wai_nor@schools.gov.sgschools.gov.sg">Ms Mou Wai Nor</a><br><a href="mailto:tan_kim_choo@schools.gov.sg">Mdm Tan Kim Choo</a><br></td>
+    <td class="tg-gfyo"><a href="mailto:koh_mui_khee_florence@schools.gov.sg">Mdm Florence Koh Mui Khee</a></td>
+    <td class="tg-gfyo"><a href="mailto:loh_keng_ming@schools.gov.sg">Mdm Ee Peck Hong</a></td>
   </tr>
   <tr>
     <td class="tg-x88q"><span style="color:#4C4C4C;background-color:#EFFBFF">2 Versatility</span><br></td>
-    <td class="tg-ut1a"><a href="mailto:syed_hakkim_nisha_sikkandar@schools.gov.sg">Ms Syed Hakkim Nisha D/O Sikkandar</a></td>
-    <td class="tg-ut1a"><a href="mailto:chin_meiyi@schools.gov.sg">Ms Chin Meiyi</a><br><a href="mailto:liu_yuanling_candice@schools.gov.sgschools.gov.sg">Ms Liu Yuanling Candice</a><br></td>
+    <td class="tg-ut1a"><a href="mailto:tan_ping_ping_a@schools.gov.sg">Mdm Tan Ping Ping</a></td>
+    <td class="tg-ut1a"><a href="mailto:ho_lee_ling@schools.gov.sg">Mdm Ho Lee Ling</a></td>
   </tr>
   <tr>
     <td class="tg-j24s"><span style="color:#4C4C4C;background-color:#FFEFE3">2 Empathy</span><br></td>
-    <td class="tg-gfyo"><a href="mailto:han_xuehui_delicia@schools.gov.sg">Mdm Han Xuehui Delicia</a></td>
-    <td class="tg-gfyo"><a href="mailto:Nailah_Nizam_Thaha@schools.gov.sg">Ms Nailah Binte Nizam Thaha</a></td>
+    <td class="tg-gfyo"><a href="mailto:tan_chu_wei@schools.gov.sg">Ms Tan Chu Wei</a></td>
+    <td class="tg-gfyo"><a href="mailto:Fauziah_Mohamad@schools.gov.sg">Mdm Fauziah Bte Mohamad</a></td>
   </tr>
   <tr>
     <td class="tg-x88q"><span style="color:#4C4C4C;background-color:#EFFBFF">2 Responsibility</span><br></td>
-    <td class="tg-ut1a"><a href="mailto:Seah_Shi_Hui_Jolene@schools.gov.sg">Ms Seah Shi Hui Jolene</a></td>
-    <td class="tg-ut1a"><a href="mailto:low_yu_ci@schools.gov.sg">Ms Low Yu Ci</a><br></td>
+    <td class="tg-ut1a"><a href="mailto:qin_xueting@schools.gov.sg">Ms Qin Xueting</a></td>
+    <td class="tg-ut1a"><a href="mailto:yang_XIAOQI@schools.gov.sg">Ms Yang Xiaoqi</a><br></td>
   </tr>
   <tr>
     <td class="tg-j24s"><span style="color:#4C4C4C;background-color:#FFEFE3">2 Respect</span></td>
-    <td class="tg-gfyo"><a href="mailto:ong_bee_hoon@schools.gov.sg">Mdm Ong Bee Hoon, Tiffany</a></td>
-    <td class="tg-gfyo"><a href="mailto:wan_xiaolin@schools.gov.sg">Ms Wan Xiaolin</a></td>
+    <td class="tg-gfyo"><a href="mailto:li_lam_mui_connie@schools.gov.sg">Ms Li Lam Mui Connie</a></td>
+    <td class="tg-gfyo">Mdm Kwan Lee Suan</td>
   </tr>
   <tr>
     <td class="tg-x88q"><span style="color:#4C4C4C;background-color:#EFFBFF">2 Sincerity</span><br></td>
-    <td class="tg-ut1a"><a href="mailto:tan_si_mei_grace@schools.gov.sg">Mdm Tan Si Mei Grace</a></td>
-    <td class="tg-ut1a"><a href="mailto:lee_siew_ming@schools.gov.sg">Ms Lee Siew Ming</a></td>
+    <td class="tg-ut1a"><a href="mailto:chia_siew_geok@schools.gov.sg">Ms Chia Siew Geok</a></td>
+    <td class="tg-ut1a"><a href="mailto:shi_hairong@schools.gov.sg">Ms Shi Hai Rong</a></td>
   </tr>
 </tbody>
 </table>
