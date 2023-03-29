@@ -3,13 +3,9 @@ title: School Hours
 permalink: /information/School-Hours/
 description: ""
 ---
-![](/images/Information.png)
-
-School Hours
-============
-
-##### **School Hours**
-
+<img src="/images/Information.png">
+<h4><strong>School Hours</strong></h4>
+<p><strong>School Hours</strong></p>
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -40,8 +36,7 @@ School Hours
 </tbody>
 </table>
 
-
-##### **Recess Time (Half an Hour)**
+<p><strong>Recess Time (Half an Hour)</strong></p>
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -75,49 +70,9 @@ School Hours
 </tbody>
 </table>
 
-
-##### **Opening Hours of School Gates**  
-
-  
-
-<b>Gate 1</b>
-
-Main Gate beside Bin Centre
-
-6.30 a.m. – 7.45 a.m.
-
-  
-
-<b>Gate 2</b>
-
-Main Gate near Foyer
-
-6.30 a.m. – 1.00 p.m.
-
-2.00 p.m. – 7.00 p.m.
-
-  
-
-<b>Gate 3</b>
-
-Side Gate for Pedestrians
-
-6.30 a.m. – 7.30 a.m.
-
-1.30 p.m. – 2.15 p.m.
-
-3.30 p.m. – 4.45 p.m.
-
-  
-
-<b>Gate 4</b>
-
-Rear Gate along Lower Delta Road
-
-6.45 a.m. – 7.30 a.m.
-
-1.30 p.m. – 2.15 p.m.
-
-  
-
-#### _Please advise your child where exactly you will be fetching him/her daily._
+<p><strong>Opening Hours of School Gates</strong></p>
+<p><strong>Gate 1<br /></strong>Main Gate beside Bin Centre<br />6.00 a.m. &ndash; 7.45 a.m.</p>
+<p><strong>Gate 2<br /></strong>Main Gate near Foyer<br />6.00 a.m. &ndash; 1.00 p.m.<br />4.00 p.m. &ndash; 7.00 p.m.</p>
+<p><strong>Gate 3<br /></strong>Side Gate for Pedestrians<br />6.30 a.m. &ndash; 7.30 a.m.<br />1.15 p.m. &ndash; 2.45 p.m.<br />3.30 p.m. &ndash; 6.00 p.m.</p>
+<p><strong>Gate 4<br /></strong>Rear Gate along Lower Delta Road<br />6.45 a.m. &ndash; 7.30 a.m.<br />1.15 p.m. &ndash; 1.45 p.m.</p>
+<h4><em>Please advise your child where exactly you will be fetching him/her daily.</em></h4>
