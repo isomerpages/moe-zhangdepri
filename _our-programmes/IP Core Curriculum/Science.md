@@ -4,50 +4,17 @@ permalink: /our-programmes/ip-core-curriculum/science/
 description: ""
 third_nav_title: IP Core Curriculum
 ---
-
-![](/images/OurProgrammes1.png)
-
-Science
-=======
-
-  
-
-### Department Focus
-
-  
-
-To develop thinking and gracious citizens through the infusion of vital process skills.
-
-  
-
-### Curriculum
-
-![](/images/Science.png)
-
-In Zhangde, Science Education is presented in the form of an inquiry. It stretches pupils’ thinking skills, enables then to relate Science to all that is present around them in the environment. They will also be able to relate the uses of Science and its application in their daily life and in Society.
-
-  
-
-### Pedagogy
-
-  
-
-Inquiry-Based Learning, Experiential Learning, Investigative Work
-
-  
-
-  
-
-### Programmes
-
-  
-
-The Science department embarks on programmes to build students' knowledge, values and skills in Science concepts and to enable them to apply and see the relation between Science and the environment around them. These include a variety of approaches such as learning from the environment, small group experiential learning in Science, Science Centre Learning Journeysenrichment programmes to stretch the thinking in higher ability learners.
-
-  
-
-<u><b>Key Programmes for Different Levels</b></u>
-
+<img src="/images/OurProgrammes1.png">
+<p><strong>Department Focus</strong></p>
+<p>To develop thinking and gracious citizens through the infusion of vital process skills.</p>
+<p><strong>Curriculum</strong></p>
+<img style="width: 80%;" src="/images/Science.png">
+<p>In Zhangde, Science Education is presented in the form of an inquiry. It stretches pupils&rsquo; thinking skills, enables then to relate Science to all that is present around them in the environment. They will also be able to relate the uses of Science and its application in their daily life and in Society.</p>
+<p><strong>Pedagogy</strong></p>
+<p>Inquiry-Based Learning, Experiential Learning, Investigative Work</p>
+<p><strong>Programmes</strong></p>
+<p>The Science department embarks on programmes to build students' knowledge, values and skills in Science concepts and to enable them to apply and see the relation between Science and the environment around them. These include a variety of approaches such as learning from the environment, small group experiential learning in Science, Science Centre Learning Journeysenrichment programmes to stretch the thinking in higher ability learners.</p>
+<p><strong><u>Key Programmes for Different Levels</u></strong></p>
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -101,6 +68,4 @@ The Science department embarks on programmes to build students' knowledge, value
   </tr>
 </tbody>
 </table>
-
-
-![](/images/Sci.gif)
+<img src="/images/Sci.gif">
