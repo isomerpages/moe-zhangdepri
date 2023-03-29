@@ -4,18 +4,9 @@ permalink: /our-programmes/our-stories/achievements/2022-achievements/
 description: ""
 third_nav_title: Achievements
 ---
-
-
-
-![](/images/OurProgrammes.png)
-
-2022 Achievements
-=================
-
-<u><b>Raffles Institution Primary Mathematics World Contest (RIPMWC) (2022)</b></u>
-
-OPEN CATEGORY:
-
+<img src="/images/OurProgrammes.png">
+<p><u><strong>Raffles Institution Primary Mathematics World Contest (RIPMWC) (2022)</strong></u></p>
+<p>OPEN CATEGORY:</p>
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -69,10 +60,7 @@ OPEN CATEGORY:
   </tr>
 </tbody>
 </table>
-
-
-JUNIOR CATEGORY:
-
+<p>JUNIOR CATEGORY:</p>
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -125,9 +113,7 @@ JUNIOR CATEGORY:
   </tr>
 </tbody>
 </table>
-
-<u><b>Singapore Mathematical Olympiad for Primary Schools (2022)</b></u>
-
+<p><strong><u>Singapore Mathematical Olympiad for Primary Schools (2022)</u></strong></p>
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -175,9 +161,7 @@ JUNIOR CATEGORY:
   </tr>
 </tbody>
 </table>
-
-<u><b>River Valley High School Mathematics Challenge (2022)</b></u>
-
+<p><u>River Valley High School Mathematics Challenge (2022)</u></p>
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
