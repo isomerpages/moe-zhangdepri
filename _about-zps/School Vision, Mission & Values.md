@@ -3,56 +3,44 @@ title: School Vision, Mission & Values
 permalink: /about-zps/School-Vision-Mission-and-Values/
 description: ""
 ---
-![](/images/AboutUs.png)
-
-School Vision, Mission & Values
-===============================
-
-##### **School Vision**
-
-Learning School  •  <b>GIVER3S</b> Heart  
-
-  
-
-##### **School Mission**
-
-To nurture thinking individuals and gracious citizens
-
-  
-
-##### **School Values**
-
-We are anchored and guided by the <b>GIVER3S</b> Heart values of:
-
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-ns85{background-color:#FFF;border-color:#ffffff;color:#6892e5;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-zcmz{border-color:#ffffff;color:#6892e5;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-ns85">G<span style="background-color:#FFF">raciousness</span><br><img src="https://zhangdepri.moe.edu.sg/qql/slot/u180/About%20ZPS/School%20Vision%20Mission%20and%20Values/Zhangde%20Pri%20-%20A2%20Posters%20for%20School%20Values%20Giver3s%202019_Graciousness%20final-01.jpg" alt="Zhangde Pri - A2 Posters for School Values Giver3s 2019_Graciousness final-01.jpg" width="372" height="606"></th>
-    <th class="tg-zcmz"><span style="background-color:#FFF"> </span>I<span style="background-color:#FFF">ntegrity</span><br><img src="https://zhangdepri.moe.edu.sg/qql/slot/u180/About%20ZPS/School%20Vision%20Mission%20and%20Values/Zhangde%20Pri%20-%20A2%20Posters%20for%20School%20Values%20Giver3s%202019_Integrity%20final-01.jpg" alt="Zhangde Pri - A2 Posters for School Values Giver3s 2019_Integrity final-01.jpg" width="367" height="611"></th>
-  </tr>
-</thead>
+<img src="/images/AboutUs.png">
+<h4>School Vision, Mission &amp; Values</h4>
+<p><strong>School Vision<br /></strong>Learning School &bull; <strong>GIVER<sup>3</sup>S</strong>&nbsp;Heart</p>
+<p><strong>School Mission<br /></strong>To nurture thinking individuals and gracious citizens</p>
+<p><strong>School Values<br /></strong>We are anchored and guided by the&nbsp;<strong>GIVER<sup>3</sup>S</strong>&nbsp;Heart values of:</p>
+<table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
-  <tr>
-    <td class="tg-zcmz"> Versatility<br><img src="https://zhangdepri.moe.edu.sg/qql/slot/u180/About%20ZPS/School%20Vision%20Mission%20and%20Values/Zhangde%20Pri%20-%20A2%20Posters%20for%20School%20Values%20Giver3s%202019_Versatility%20final-01.jpg" alt="Zhangde Pri - A2 Posters for School Values Giver3s 2019_Versatility final-01.jpg" width="372" height="661"></td>
-    <td class="tg-zcmz"> Empathy<br><img src="https://zhangdepri.moe.edu.sg/qql/slot/u180/About%20ZPS/School%20Vision%20Mission%20and%20Values/Zhangde%20Pri%20-%20A2%20Posters%20for%20School%20Values%20Giver3s%202019_Empathy%20final-01.jpg" alt="Zhangde Pri - A2 Posters for School Values Giver3s 2019_Empathy final-01.jpg" width="369" height="663"></td>
-  </tr>
-  <tr>
-    <td class="tg-zcmz"> <br>Responsibility<br><img src="https://zhangdepri.moe.edu.sg/qql/slot/u180/About%20ZPS/School%20Vision%20Mission%20and%20Values/Zhangde%20Pri%20-%20A2%20Posters%20for%20School%20Values%20Giver3s%202019_Responsibility%20final-01.jpg" alt="Zhangde Pri - A2 Posters for School Values Giver3s 2019_Responsibility final-01.jpg" width="372" height="623"></td>
-    <td class="tg-zcmz"> <br> Respect<br><img src="https://zhangdepri.moe.edu.sg/qql/slot/u180/About%20ZPS/School%20Vision%20Mission%20and%20Values/Zhangde%20Pri%20-%20A2%20Posters%20for%20School%20Values%20Giver3s%202019_Respect%20final-01.jpg" alt="Zhangde Pri - A2 Posters for School Values Giver3s 2019_Respect final-01.jpg" width="369" height="624"></td>
-  </tr>
-  <tr>
-    <td class="tg-zcmz"> <br> Resilience<br><img src="https://zhangdepri.moe.edu.sg/qql/slot/u180/About%20ZPS/School%20Vision%20Mission%20and%20Values/Zhangde%20Pri%20-%20A2%20Posters%20for%20School%20Values%20Giver3s%202019_Resilience%20final-01.jpg" alt="Zhangde Pri - A2 Posters for School Values Giver3s 2019_Resilience final-01.jpg" width="364" height="674"></td>
-    <td class="tg-zcmz">  <br> Sincerity <br><img src="https://zhangdepri.moe.edu.sg/qql/slot/u180/About%20ZPS/School%20Vision%20Mission%20and%20Values/.tn.Zhangde%20Pri%20-%20A2%20Posters%20for%20School%20Values%20Giver3s%202019_Sincerity%20final-01.jpg.mid.jpg" alt="Zhangde Pri - A2 Posters for School Values Giver3s 2019_Sincerity final-01.jpg" width="369" height="674"></td>
-  </tr>
+<tr>
+<td style="width: 50%;"><strong>G</strong>raciousness</td>
+<td style="width: 50%;"><strong>I</strong>ntegrity</td>
+</tr>
+<tr>
+<td style="width: 50%;"><img src="/images/svmv1.jpg"></td>
+<td style="width: 50%;"><img src="/images/svmv2.jpg"></td>
+</tr>
+<tr>
+<td style="width: 50%;"><strong>V</strong>ersatility</td>
+<td style="width: 50%;"><strong>E</strong>mpathy</td>
+</tr>
+<tr>
+<td style="width: 50%;"><img src="/images/svmv3.jpg"></td>
+<td style="width: 50%;"><img src="/images/svmv4.jpg"></td>
+</tr>
+<tr>
+<td style="width: 50%;"><strong>R</strong>esponsibility</td>
+<td style="width: 50%;"><strong>R</strong>espect</td>
+</tr>
+<tr>
+<td style="width: 50%;"><img src="/images/svmv5.jpg"></td>
+<td style="width: 50%;"><img src="/images/svmv6.jpg"></td>
+</tr>
+<tr>
+<td style="width: 50%;"><strong>R</strong>esilience</td>
+<td style="width: 50%;"><strong>S</strong>incerity</td>
+</tr>
+<tr>
+<td style="width: 50%;"><img src="/images/svmv7.jpg"></td>
+<td style="width: 50%;"><img src="/images/svmv8.jpg"></td>
+</tr>
 </tbody>
 </table>
