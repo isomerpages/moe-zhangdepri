@@ -142,11 +142,8 @@ third_nav_title: Our Staff
   </tr>
 </tbody>
 </table>
-
-#### **Form Teachers**  
-  
-##### **PRIMARY 1 2022**
-
+<h4><strong>Form Teachers</strong></h4>
+<p><strong>PRIMARY 1 2023</strong></p>
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -188,14 +185,9 @@ third_nav_title: Our Staff
     <td class="tg-ut1a"><a href="mailto:radziah_mohamed@schools.gov.sg">Mdm Radziah Mohamed</a><br></td>
   </tr>
   <tr>
-    <td class="tg-j24s"><span style="color:#4C4C4C;background-color:#FFEFE3">1 Respect</span></td>
-    <td class="tg-gfyo"><a href="mailto:li_lam_mui_connie@schools.gov.sg">Ms Li Lam Mui Connie</a></td>
-    <td class="tg-gfyo"><a href="mailto:sundararajan_anandavalli@schools.gov.sg">Mdm Sundararajan Anandavalli</a></td>
-  </tr>
-  <tr>
-    <td class="tg-x88q"><span style="color:#4C4C4C;background-color:#EFFBFF">1 Sincerity</span><br></td>
-    <td class="tg-ut1a"><a href="mailto:chia_siew_geok@schools.gov.sg">Ms Chia Siew Geok</a></td>
-    <td class="tg-ut1a"><a href="mailto:mastura_abdul_hamid@schools.gov.sg">Ms Mastura Binte Abdul Hamid</a></td>
+    <td class="tg-j24s"><span style="color:#4C4C4C;background-color:#FFEFE3">1 Sincerity</span></td>
+    <td class="tg-gfyo"><a href="mailto:syed_hakkim_nisha_sikkandar@schools.gov.sg">Ms Syed Hakkim Nisha D/O Sikkandar</a></td>
+    <td class="tg-gfyo"><a href="mailto:phang_huey_wen@schools.gov.sg">Mdm Phang Huey Wen</a></td>
   </tr>
 </tbody>
 </table>
