@@ -350,8 +350,7 @@ third_nav_title: Our Staff
 </tbody>
 </table>
 
-
-##### **PRIMARY 5 2022**
+<p><strong>PRIMARY 5 2023</strong></p>
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -368,35 +367,35 @@ third_nav_title: Our Staff
 <thead>
   <tr>
     <th class="tg-x88q"><span style="color:#4C4C4C;background-color:#EFFBFF">5 Graciousness</span><br></th>
-    <th class="tg-ut1a"><a href="mailto:soh_megumi@schools.gov.sg">Ms Soh Megumi</a></th>
-    <th class="tg-ut1a"><a href="mailto:thenappan_barathi@schools.gov.sg">Ms Thenappan Barathi</a><br></th>
+    <th class="tg-ut1a"><a href="mailto:goh_sze_lin_tracy@schools.gov.sg">Mrs Ching-Goh Sze Lin Tracy</a></th>
+    <th class="tg-ut1a"><a href="mailto:azimah_begam_haja_mohidin@schools.gov.sg@schools.gov.sg">Ms Azimah Begam</a><br></th>
   </tr>
 </thead>
 <tbody>
   <tr>
     <td class="tg-j24s"><span style="color:#4C4C4C;background-color:#FFEFE3">5 Integrity</span><br></td>
-    <td class="tg-gfyo"><a href="mailto:Poh_Si_hui@schools.gov.sg">Ms Poh Si Hui</a></td>
-    <td class="tg-gfyo"><a href="mailto:low_kin_yew_jonathan@schools.gov.sg">Mr Low Kin Yew Jonathan </a></td>
+    <td class="tg-gfyo"><a href="mailto:thenappan_barathi@schools.gov.sg">Ms Thenappan Barathi</a></td>
+    <td class="tg-gfyo"><a href="mailto:xie_ying@schools.gov.sg">Ms Xie Ying</a></td>
   </tr>
   <tr>
     <td class="tg-x88q"><span style="color:#4C4C4C;background-color:#EFFBFF">5 Versatility</span><br></td>
-    <td class="tg-ut1a"><a href="mailto:errol_benedict_robert@schools.gov.sg">Mr Errol Benedict Robert</a></td>
-    <td class="tg-ut1a"><a href="mailto:geraldine_ang_lay_peng@schools.gov.sg">Ms Geraldine Ang Lay Peng</a></td>
+    <td class="tg-ut1a"><a href="mailto:angela_ho_siow_chun@schools.gov.sg">Ms Angela Ho Siow Chun</a></td>
+    <td class="tg-ut1a"><a href="mailto:radziah_mohamed@schools.gov.sg">Mdm Radziah Mohamed</a></td>
   </tr>
   <tr>
     <td class="tg-j24s"><span style="color:#4C4C4C;background-color:#FFEFE3">5 Empathy</span><br></td>
-    <td class="tg-gfyo"><a href="mailto:farzana_begum_kamal@schools.gov.sg">Ms Farzana Begum Binte Kamal</a></td>
-    <td class="tg-gfyo"><a href="mailto:shi_hairong@schools.gov.sg">Ms Shi Hai Rong</a></td>
+    <td class="tg-gfyo"><a href="mailto:mohd_shaan_mohamed_shafie@schools.gov.sg">Mr Mohd Shaan Bin Mohammad Shafie</a></td>
+    <td class="tg-gfyo"><a href="mailto:zhou_jin@schools.gov.sg">Mdm Zhou Jin</a></td>
   </tr>
   <tr>
     <td class="tg-x88q"><span style="color:#4C4C4C;background-color:#EFFBFF">5 Responsibility</span><br></td>
-    <td class="tg-ut1a"><a href="mailto:nur_farhana_zainal_abidin@schools.gov.sg">Ms Nur Farhana Binte Zainal Abidin</a></td>
-    <td class="tg-ut1a"><a href="mailto:Fauziah_Mohamad@schools.gov.sg">Mdm Fauziah Bte Mohamad</a><br></td>
+    <td class="tg-ut1a"><a href="mailto:hamidah_mohamed_ismail@schools.gov.sg">Mdm Hamidah Bte Mohamed Ismail</a></td>
+    <td class="tg-ut1a"><a href="mailto:low_kin_yew_jonathan@schools.gov.sg">Mr Low Kin Yew Jonathan</a><br></td>
   </tr>
   <tr>
     <td class="tg-j24s"><span style="color:#4C4C4C;background-color:#FFEFE3">5 Sincerity</span></td>
-    <td class="tg-gfyo"><a href="mailto:mohd_shaan_mohamed_shafie@schools.gov.sg">Mr Mohd Shaan Bin Mohammad Shafie</a></td>
-    <td class="tg-gfyo"><a href="mailto:chua_ai_lian_irene@schools.gov.sg">Mdm Chua Ai Lian Irene</a></td>
+    <td class="tg-gfyo"><a href="mailto:farzana_begum_kamal@schools.gov.sg">Ms Farzana Begum Binte Kamal</a></td>
+    <td class="tg-gfyo"> </td>
   </tr>
 </tbody>
 </table>
