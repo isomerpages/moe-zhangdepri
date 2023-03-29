@@ -455,10 +455,8 @@ third_nav_title: Our Staff
 </tbody>
 </table>
 
-
-#### **MT Teachers**  
-  
-##### **CHINESE LANGUAGE**
+<h4><strong>MT Teachers</strong></h4>
+<p><strong>CHINESE LANGUAGE</strong></p>
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -495,20 +493,12 @@ third_nav_title: Our Staff
     <td class="tg-qphe"><a href="mailto:low_yu_ci@schools.gov.sg">Ms Low Yu Ci</a></td>
   </tr>
   <tr>
-    <td class="tg-52k0"><a href="mailto:lim_tow_wee@schools.gov.sg">Mr Lim Tow Wee</a></td>
+    <td class="tg-52k0"><a href="mailto:Teo_Wui_Seng@schools.gov.sg">Mr Teo Wui Seng</a></td>
     <td class="tg-52k0"><a href="mailto:ho_lee_ling@schools.gov.sg">Mdm Ho Lee Ling</a></td>
   </tr>
   <tr>
     <td class="tg-qphe"><a href="mailto:yang_XIAOQI@schools.gov.sg">Ms Yang Xiaoqi</a></td>
     <td class="tg-qphe"><a href="mailto:shi_hairong@schools.gov.sg">Ms Shi Hai Rong </a></td>
-  </tr>
-  <tr>
-    <td class="tg-52k0"><a href="mailto:tan_kim_choo@schools.gov.sg">Mdm Tan Kim Choo</a><br></td>
-    <td class="tg-52k0"><a href="mailto:tan_chia_huee@schools.gov.sg">Mdm Tan Chia Huee</a></td>
-  </tr>
-  <tr>
-    <td class="tg-qphe"><a href="mailto:Teo_Wui_Seng@schools.gov.sg">Mr Teo Wui Seng</a></td>
-    <td class="tg-x88q"><span style="color:#4C4C4C;background-color:#EFFBFF"> </span></td>
   </tr>
 </tbody>
 </table>
