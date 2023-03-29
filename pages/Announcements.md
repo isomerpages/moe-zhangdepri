@@ -3,24 +3,9 @@ title: Announcements
 permalink: /announcements/
 description: ""
 ---
-
-
-ANNOUNCEMENTS
--------------
-
-*   [Cyber wellness Tips](/parents/Useful-Guides-and-Resources/Cyber-Wellness-Tips/)
-
-Click here to find out more.
-
-* [Parents Workshops](/parents/Useful-Guides-and-Resources/Workshops-Seminars/)
-
-New Workshops/Seminars for Parents
-
-* [Online Learning Resource Booklet For Kids! (3-12 years old)](/parents/Useful-Guides-and-Resources/Useful-Guides-and-Resources/)
-
-Please click here to know more detailed information.
-
-
-* [Parenting Support Programme](/parents/Useful-Guides-and-Resources/Parenting-Support-Programme/)
-
-To know more about parenting tips during this covid situation, please click here.
+<h4><strong>ANNOUNCEMENTS</strong></h4>
+<p><strong><a href="/our-partners/parents/communication-with-parents">2023 Term 2 Letter to Parents and Calendar</a><br /></strong>Click here to access the Term 2 Letter to Parents and Term 2 Calendar</p>
+<hr>
+<p><strong><a href="/our-partners/parents/useful-guides-and-resources/cyber-wellness-tips">Cyber wellness Tips</a><br /></strong>Click here to find out more.</p>
+<hr>
+<p><strong><a href="/our-partners/parents/parents-engagement-sessions">2023 Parents Engagement Slides</a><br /></strong>Click here to access the slides.</p>
