@@ -3,10 +3,8 @@ title: School Rules and Regulations
 permalink: /about-zps/School-Rules-and-Regulations/
 description: ""
 ---
-![](/images/AboutUs.png)
-
-School Rules and Regulations
-============================
+<img src="/images/AboutUs.png">
+<h4><strong>School Rules and Regulations</strong></h4>
 
 ##### **School Code of Conduct**  
 
