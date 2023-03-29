@@ -4,16 +4,8 @@ permalink: /our-programmes/our-stories/achievements/2021-achievements/
 description: ""
 third_nav_title: Achievements
 ---
-
-
-
-![](/images/OurProgrammes.png)
-
-2021 Achievements
-=================
-
-#### <u><b>Singapore Mathematical Olympiad for Primary Schools</b></u>
-
+<img src="/images/OurProgrammes.png">
+<h4><strong><u>Singapore Mathematical Olympiad for Primary Schools</u></strong></h4>
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -59,9 +51,7 @@ third_nav_title: Achievements
   </tr>
 </tbody>
 </table>
- 
-#### <u><b>National Mathematical Olympiad of Singapore (NMOS)</b></u>
-
+<h4><strong><u>National Mathematical Olympiad of Singapore (NMOS)</u></strong></h4>
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -193,9 +183,7 @@ third_nav_title: Achievements
   </tr>
 </tbody>
 </table>
-
-### Aesthetic Achievements
-
+<h4><strong><u>Aesthetic Achievements</u></strong></h4>
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
