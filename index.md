@@ -8,7 +8,7 @@ notification: "Zhangde Primary School Open House: Join us in the virtual tour
   around the school!!"
 sections:
   - hero:
-      background: /images/white.jpeg
+      background: /images/banner.jpg
       button: Contact Us
       url: /information/Contact-Us/
       key_highlights:
