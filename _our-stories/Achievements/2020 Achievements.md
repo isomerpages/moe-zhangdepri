@@ -4,14 +4,7 @@ permalink: /our-programmes/our-stories/achievements/2020-achievements/
 description: ""
 third_nav_title: Achievements
 ---
-
-
-
-![](/images/OurProgrammes.png)
-
-2020 Achievements
-=================
-
+<img src="/images/OurProgrammes.png">
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -106,10 +99,7 @@ third_nav_title: Achievements
   </tr>
 </tbody>
 </table>
-
-13th Annual Mathlympics Competition 2020
-----------------------------------------
-
+<h4><strong>13th Annual Mathlympics Competition 2020</strong></h4>
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -156,10 +146,7 @@ third_nav_title: Achievements
   </tr>
 </tbody>
 </table>
-
-Aesthetic Achievements
-----------------------
-
+<h4><strong>Aesthetic Achievements</strong></h4>
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
