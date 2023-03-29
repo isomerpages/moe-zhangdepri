@@ -118,30 +118,7 @@ third_nav_title: Our Staff
   </tr>
 </tbody>
 </table>
-
-#### **Assistant Year Heads**
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-x88q{background-color:#EFFBFF;color:#4C4C4C;text-align:left;vertical-align:middle}
-.tg .tg-ut1a{background-color:#EFFBFF;color:#0B5394;text-align:left;text-decoration:underline;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <td class="tg-x88q"><span style="color:#4C4C4C;background-color:#EFFBFF">Assistant Year Head </span><br></td>
-    <td class="tg-ut1a"><a href="mailto:lim_shi_en@schools.gov.sg">Ms Lim Shi En</a></td>
-  </tr>
-</thead>
-</table>
-
-
-#### **Senior Teachers**
-
+<p><strong>Senior Teachers</strong></p>
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -155,12 +132,6 @@ third_nav_title: Our Staff
 </style>
 <table class="tg">
 <thead>
-  <tr>
-    <th class="tg-x88q"><span style="color:#4C4C4C;background-color:#EFFBFF">ST English Language</span></th>
-    <th class="tg-ut1a"><a href="mailto:sukhvir_kaur@schools.gov.sg">Mdm Sukhvir Kaur</a><br></th>
-  </tr>
-</thead>
-<tbody>
   <tr>
     <td class="tg-j24s"><span style="color:#4C4C4C;background-color:#FFEFE3">ST Chinese Language</span><br></td>
     <td class="tg-gfyo"><a href="mailto:ho_lee_ling@schools.gov.sg">Mdm Ho Lee Ling</a></td>
