@@ -110,16 +110,12 @@ third_nav_title: Our Staff
     <td class="tg-gfyo"><a href="mailto:ong_li_ya_sandy@schools.gov.sg">Ms Sandy Ong Li Ya</a><br></td>
   </tr>
   <tr>
-    <td class="tg-x88q"><span style="color:#4C4C4C;background-color:#EFFBFF">SH Chinese Language</span></td>
-    <td class="tg-ut1a"><a href="mailto:lim_tow_wee@schools.gov.sg">Mr Lim Tow Wee</a></td>
+    <td class="tg-x88q"><span style="color:#4C4C4C;background-color:#EFFBFF">SH Student Welfare</span></td>
+    <td class="tg-ut1a"><a href="mailto:mohd_shaan_mohamed_shafie@schools.gov.sg">Mr Mohd Shaan Bin Mohammad Shafie</a></td>
   </tr>
   <tr>
-    <td class="tg-j24s"><span style="color:#4C4C4C;background-color:#FFEFE3">SH Student Welfare</span></td>
-    <td class="tg-gfyo"><a href="mailto:mohd_shaan_mohamed_shafie@schools.gov.sg">Mr Mohd Shaan Bin Mohammad Shafie</a><br></td>
-  </tr>
-  <tr>
-    <td class="tg-x88q"><span style="color:#4C4C4C;background-color:#EFFBFF">Administration Manager</span></td>
-    <td class="tg-ut1a"><a href="mailto:tan_mae_hee@schools.gov.sg">Ms Verlencia Tan Mae Hee</a></td>
+    <td class="tg-j24s"><span style="color:#4C4C4C;background-color:#FFEFE3">Administration Manager</span></td>
+    <td class="tg-gfyo"><a href="mailto:tan_mae_hee@schools.gov.sg">Ms Verlencia Tan Mae Hee</a></td>
   </tr>
 </tbody>
 </table>
