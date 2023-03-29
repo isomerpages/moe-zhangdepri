@@ -63,7 +63,7 @@ third_nav_title: Our Staff
   </tr>
   <tr>
     <td class="tg-x88q"><span style="color:#4C4C4C;background-color:#EFFBFF">HOD Student Management</span><br></td>
-    <td class="tg-ut1a"><a href="mailto:mohamed_nor_mohamed_hussain@schools.gov.sg">Mr Mohamed Nor B Mohamed Hussain</a></td>
+    <td class="tg-ut1a"><a href="mailto:tan_winnie@schools.gov.sg" target="">Ms Tan Winnie</a> (Covering)</td>
   </tr>
   <tr>
     <td class="tg-j24s"><span style="color:#4C4C4C;background-color:#FFEFE3">HOD PE, CCA &amp; Aesthetics</span></td>
@@ -118,12 +118,8 @@ third_nav_title: Our Staff
     <td class="tg-gfyo"><a href="mailto:mohd_shaan_mohamed_shafie@schools.gov.sg">Mr Mohd Shaan Bin Mohammad Shafie</a><br></td>
   </tr>
   <tr>
-    <td class="tg-x88q"><span style="color:#4C4C4C;background-color:#EFFBFF">Assistant Year Head</span></td>
-    <td class="tg-ut1a"><a href="mailto:lim_shi_en@schools.gov.sg">Ms Lim Shi En</a></td>
-  </tr>
-  <tr>
-    <td class="tg-j24s"><span style="color:#4C4C4C;background-color:#FFEFE3">Administration Manager</span></td>
-    <td class="tg-gfyo"><a href="mailto:tan_mae_hee@schools.gov.sg">Ms Verlencia Tan Mae Hee</a><span style="color:#4C4C4C;background-color:#FFEFE3"> </span></td>
+    <td class="tg-x88q"><span style="color:#4C4C4C;background-color:#EFFBFF">Administration Manager</span></td>
+    <td class="tg-ut1a"><a href="mailto:tan_mae_hee@schools.gov.sg">Ms Verlencia Tan Mae Hee</a></td>
   </tr>
 </tbody>
 </table>
