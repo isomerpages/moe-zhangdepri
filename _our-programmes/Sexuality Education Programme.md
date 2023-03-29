@@ -3,197 +3,132 @@ title: Sexuality Education Programme
 permalink: /our-programmes/sexuality-education-programme/
 description: ""
 ---
-
-![](/images/OurProgrammes1.png)
-
-Sexuality Education Programme
-=============================
-
-<b>MOE SEXUALITY EDUCATION IN SCHOOLS</b>
-
-1.    Sexuality Education (SEd) in schools is about enabling students to understand the physiological, social and emotional changes they experience as they mature, develop healthy and rewarding relationships including those with members of the opposite sex, and make wise, informed and responsible decisions on sexuality matters. SEd is premised on the importance of the family as the basic unit of society. This means encouraging healthy, heterosexual marriages and stable nuclear family units with extended family support. The teaching and learning of SEd is based on respect for the values and beliefs of the different ethnic and religious communities in Singapore on sexuality issues. 
-
-  
-
-2.    The goals of Sexuality Education are:
-
-(i)    To help students make wise, responsible and informed decisions through the provision of accurate, current and age-appropriate knowledge on human sexuality and the consequences of sexual activity;
-
-(ii)    To help students know themselves and build healthy and rewarding relationships through the acquisition of social and emotional skills of self-awareness, management of their thoughts, feelings and behaviours, development of empathy for others, possession of effective communication, problem-solving and decision-making skills; and
-
-(iii)    To help students develop a moral compass, respect for themselves and for others as sexual beings, premised on the family as the basic unit of society, through the inculcation of positive mainstream values and attitudes about sexuality. 
-
-3.    The key messages of Sexuality Education are: 
-
-(i)    Love and respect yourself as you love and respect others;
-
-(ii)    Build positive relationships based on love and respect (which are the foundation for strong families);
-
-(iii)    Make responsible decisions for yourself, your family and society; and
-
-(iv)    Abstinence before marriage is the best protection against STIs/HIV and unintended pregnancies. Casual sex can harm and hurt you and your loved ones.  
-
-You may click [here](https://beta.moe.gov.sg/programmes/sexuality-education/) for more information on MOE Sexuality Education.
-
-Note: MOE Sexuality Education link broken.
-
-<b>Overview of Zhangde Primary School’s Sexuality Education Programme for 2022</b>
-
-1.    Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click [here](https://beta.moe.gov.sg/programmes/sexuality-education/scope-and-teaching-approach/) for more information on the scope of Sexuality Education in the school curriculum. 
-
-Note: Scope of Sexuality Education in the school curriculum link broken.  
-
-2.    The subjects that incorporate topics on sexuality include:
-
-a.    Science 
-
-b.    Form Teacher Guidance Period (FTGP)
-
-c.    Character and Citizenship Education (CCE)
-
-<b>Growing Years (GY) Programme</b>  
-
-“Curious Minds (2nd Edition)” (Primary 5 & 6) Teaching & Learning resource package 
-
- 1.    The upper primary years mark the onset of puberty.  With better nutrition and improved health care, children are reaching puberty at a younger age and have to grapple with physical, emotional and psychological changes in themselves. The implication is that our children are becoming biologically ready for sexual activity sooner without necessarily having the corresponding cognitive or emotional maturity to modulate their behaviours. “Curious Minds” is a response to these challenges.    
-
-2.    The Primary 5 & 6 Growing Years (GY) package, “Curious Minds (2nd Edition)”, aims to meet students’ developmental needs, give emphasis to the teaching of skills and values, and focus on helping students navigate changes, build healthy relationships, especially online relationships, and exercise safety.
-
-  
-
-At Zhangde Primary School, the following lessons from the Growing Years Programme will be taught in 2022:
-
-<u><b>Primary 5</b></u>
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-55mt{background-color:#D9D9D9;color:#4C4C4C;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-8dwo{color:#4C4C4C;text-align:center;vertical-align:top}
-</style>
-<table class="tg">
+<img src="/images/OurProgrammes1.png">
+<h4><strong>MOE Sexuality Education in Schools</strong></h4>
+<p>1. Sexuality Education (SEd) in schools is about enabling students to understand the physiological, social and emotional changes they experience as they mature, develop healthy and rewarding relationships including those with members of the opposite sex, and make wise, informed and responsible decisions on sexuality matters. SEd is premised on the importance of the family as the basic unit of society. This means encouraging healthy, heterosexual marriages and stable nuclear family units with extended family support. The teaching and learning of SEd is based on respect for the values and beliefs of the different ethnic and religious communities in Singapore on sexuality issues.</p>
+<p>2. The&nbsp;<strong>Goals</strong>&nbsp;of Sexuality Education are:</p>
+<ol style="list-style-type: lower-alpha;">
+<li>To help students make wise, responsible and informed decisions through the provision of accurate, current and age-appropriate <u>knowledge</u>&nbsp;on human sexuality and the consequences of sexual activity;</li>
+<li>To help students know themselves and build healthy and rewarding relationships through the acquisition of <u>social and emotional skills</u>&nbsp;of self-awareness, management of their thoughts, feelings and behaviours, development of empathy for others, possession of effective communication, problem-solving and decision-making skills; and</li>
+<li>To help students develop a moral compass, respect for themselves and for others as sexual beings, premised on the family as the basic unit of society, through the inculcation of <u>positive mainstream values and attitudes</u>&nbsp;about sexuality.</li>
+</ol>
+<p>3. The <strong>Key Messages</strong>&nbsp;of Sexuality Education are:</p>
+<ol style="list-style-type: lower-alpha;">
+<li>Love and respect yourself as you love and respect others;</li>
+<li>Build positive relationships based on love and respect (which are the foundation for strong families);</li>
+<li>Make responsible decisions for yourself, your family and society; and</li>
+<li>Abstinence before marriage is the best protection against STIs/HIV and unintended pregnancies. Casual sex can harm and hurt you and your loved ones.</li>
+</ol>
+<p>You may&nbsp;click&nbsp;<a href="https://go.gov.sg/moe-sexuality-education">here</a>&nbsp;for more information on MOE Sexuality Education.</p>
+<h4><strong>Overview of Zhangde Primary&nbsp;</strong><strong>School&rsquo;s</strong><strong>&nbsp;Sexuality Education Programme for 2023</strong></h4>
+<p>1. Sexuality Education is delivered in a holistic manner through the school curriculum.&nbsp;The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click&nbsp;<a href="https://go.gov.sg/moe-sexuality-education-scope">here</a>&nbsp;for more information on the scope of Sexuality Education in the school curriculum.</p>
+<p>2. The subjects that incorporate topics on sexuality include:</p>
+<ol style="list-style-type: lower-alpha;">
+<li>Science</li>
+<li>Character and Citizenship Education (CCE)</li>
+</ol>
+<h4><strong><u>Sexuality Education Lessons</u></strong>:</h4>
+<p>1. The upper primary years mark the onset of puberty. With better nutrition and improved health care, children are reaching puberty at a younger age and have to grapple with physical, emotional and psychological changes in themselves. The implication is that our children are becoming biologically ready for sexual activity sooner without necessarily having the corresponding cognitive or emotional maturity to modulate their behaviours. Furthermore, our young are also exposed to a wide range of influences that could endanger health and undermine the integrity of the family. Our students require guidance so that they can respond with discernment to the sexual messages in the media and other sources.</p>
+<p>2. Sexuality Education (SEd) lessons are taught as part of CCE (FTGP) at Primary 5 and 6. In SEd, students learn to understand the physiological, social and emotional changes they experience as they mature, develop healthy and rewarding relationships including those with members of the opposite sex, and make wise, informed and responsible decisions on sexuality matters.&nbsp;</p>
+<p><strong>At Zhangde Primary School, the following Sexuality Education lessons will be taught in&nbsp;<u>2023</u>:</strong></p>
+<p><strong><u>Primary 5</u></strong></p>
+<table width="0">
 <thead>
-  <tr>
-    <th class="tg-55mt">UNIT</th>
-    <th class="tg-55mt">LESSONS / DURATION</th>
-    <th class="tg-55mt">LESSON OBJECTIVES<br>At the end of the lesson, pupils will be able to:</th>
-    <th class="tg-55mt">TIME PERIOD <br> </th>
-  </tr>
+<tr>
+<td style="text-align: center;" width="119"><strong>CCE(FTGP) THEME</strong></td>
+<td style="text-align: center;" width="217"><strong>LESSON TITLE / DURATION</strong></td>
+<td style="text-align: center;" width="352"><strong>LESSON OVERVIEW</strong></td>
+<td style="text-align: center;" width="159">
+<p><strong>TIME PERIOD</strong></p>
+</td>
+</tr>
 </thead>
 <tbody>
-  <tr>
-    <td class="tg-8dwo" rowspan="4">Gosh! I Am Changing</td>
-    <td class="tg-8dwo">What Is Happening To Me?<br>(30 min)</td>
-    <td class="tg-8dwo">·         know what puberty is<br>·         identify the physical changes during puberty</td>
-    <td class="tg-8dwo" rowspan="3">Term 3<br> </td>
-  </tr>
-  <tr>
-    <td class="tg-8dwo">What Can I Do? (Part 1)<br> (30 min)</td>
-    <td class="tg-8dwo">·         identify the stresses caused by physical and emotional changes during puberty<br>·         describe healthy ways to manage the stresses caused by physical and emotional changes during puberty<br>·         describe the emotions caused by physical changes during puberty <br>·         recognise that one’s identity does not change even when one’s body is experiencing change due to puberty</td>
-  </tr>
-  <tr>
-    <td class="tg-8dwo">What Can I Do? (Part 2)<br> (30 min)</td>
-    <td class="tg-8dwo">·         identify the stresses caused by physical and emotional changes during puberty<br>·         describe healthy ways to manage the stresses caused by these physical and emotional changes during puberty<br>·         describe the emotions caused by physical changes during puberty <br>·         recognise that one’s identity does not change even when one’s body is experiencing change due to puberty</td>
-  </tr>
-  <tr>
-    <td class="tg-8dwo">Main Task<br>(30 min)</td>
-    <td class="tg-8dwo">Description of the Main Task:<br>Pupils are to play the role of an Uncle/Aunt Agony to help a peer address his/her experiences during puberty. They will consider the situation from the point of view of the peer and share ways to help him/her cope with the changes he/she is going through.</td>
-    <td class="tg-8dwo" rowspan="5">Term 3<br> </td>
-  </tr>
-  <tr>
-    <td class="tg-8dwo">Where I Belong </td>
-    <td class="tg-8dwo">What Are Families?<br>(30 min)<br> </td>
-    <td class="tg-8dwo">·         know that there are different types of family structures<br>·         know that every family is unique<br>·         state that the three basic functions of families are to provide love, protection and guidance<br>·         identify the right sources of help to turn to when in need</td>
-  </tr>
-  <tr>
-    <td class="tg-8dwo">Where I Belong</td>
-    <td class="tg-8dwo">What is My Role?<br> (30 min)</td>
-    <td class="tg-8dwo">·         know that gender is about being male or female<br>·         choose not to stereotype by gender </td>
-  </tr>
-  <tr>
-    <td class="tg-8dwo" rowspan="2">How Do I Keep Myself Safe?</td>
-    <td class="tg-8dwo">What is Safety?<br>(30 min)</td>
-    <td class="tg-8dwo">·         know what sexual abuse is<br>·         know that there are laws in Singapore that can protect them from sexual abuse<br>·         know their rights in keeping themselves safe from sexual abuse</td>
-  </tr>
-  <tr>
-    <td class="tg-8dwo">Stop It! Run! Tell!<br>(30 min)</td>
-    <td class="tg-8dwo">·         protect themselves by resisting, removing themselves from harm and seeking help from a trusted adult<br>·         know their responsibilities in minimising the risk of sexual harm</td>
-  </tr>
+<tr>
+<td style="text-align: center;" rowspan="3" width="119">Growing Years</td>
+<td style="text-align: center;" width="217">
+<p>The Changes in Me&nbsp;</p>
+<p>(60 min)</p>
+</td>
+<td width="352">
+<p>This lesson focuses on helping students identify the emotions and stress caused by physical changes during puberty. Students will learn to describe the healthy ways to manage their negative feelings during this time. They will also learn to recognise that one&rsquo;s identity need not be negatively affected, even when one&rsquo;s body is experiencing changes due to puberty.</p>
+<p>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</p>
+</td>
+<td style="text-align: center;">Term 3 Week 6&nbsp;</td>
+</tr>
+<tr>
+<td style="text-align: center;" width="217">
+<p>Did You Know?</p>
+<p>(60 min)&nbsp;</p>
+</td>
+<td width="352">
+<p>This lesson focuses on helping students know what pornography is and how it can affect themselves and others. Students will learn about the dangers of being exposed to sexually explicit materials and reject the viewing and/or reading of pornographic materials. They will learn to evaluate their own responses when they encounter pornography by applying the strategy &lsquo;<strong>Stop-Think-Do&rsquo;.</strong></p>
+<p>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</p>
+</td>
+<td style="text-align: center;">Term 3 Week 8&nbsp;</td>
+</tr>
+<tr>
+<td style="text-align: center;" width="217">
+<p>Keeping Myself Safe</p>
+<p>(60 min)</p>
+</td>
+<td width="352">
+<p>In this lesson, students will learn about sexual abuse, how it can happen during online and offline interactions and the impact of such abuse on victims. They also learn how to take precautionary measures to be safe and how to seek help for themselves and their friends.</p>
+<p>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</p>
+</td>
+<td style="text-align: center;">&nbsp;Term 3 Week 9</td>
+</tr>
 </tbody>
 </table>
-
-<u><b>Primary 6</b></u>
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-q6nq{color:#4C4C4C;text-align:left;vertical-align:top}
-.tg .tg-8dwo{color:#4C4C4C;text-align:center;vertical-align:top}
-.tg .tg-gpqx{color:#4C4C4C;font-weight:bold;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
+<p><strong><u>Primary 6</u></strong></p>
+<table width="0">
 <thead>
-  <tr>
-    <th class="tg-gpqx">UNIT</th>
-    <th class="tg-gpqx">LESSONS / DURATION</th>
-    <th class="tg-gpqx">Lesson Objectives<br>At the end of the lesson, pupils will be able to:</th>
-    <th class="tg-gpqx">TIME PERIOD<br></th>
-  </tr>
+<tr>
+<td style="text-align: center;" width="119"><strong>CCE(FTGP) THEME</strong></td>
+<td style="text-align: center;" width="217"><strong>LESSON TITLE / DURATION</strong></td>
+<td style="text-align: center;" width="352"><strong>LESSON OVERVIEW</strong></td>
+<td style="text-align: center;" width="159">
+<p><strong>TIME PERIOD</strong></p>
+</td>
+</tr>
 </thead>
 <tbody>
-  <tr>
-    <td class="tg-q6nq" rowspan="5">Are We More Than Friends?</td>
-    <td class="tg-q6nq">Who Are My Friends?<br>(30 min)</td>
-    <td class="tg-8dwo">·         identify the qualities of a healthy friendship <br>·         recognise the importance of making wise choices in friendship</td>
-    <td class="tg-q6nq" rowspan="5">Term 2</td>
-  </tr>
-  <tr>
-    <td class="tg-q6nq">Am I A Good Friend?<br>(30 min)</td>
-    <td class="tg-8dwo">·         identify the qualities that they have as a friend<br>·         recognise the importance of developing in oneself the qualities of a good friend</td>
-  </tr>
-  <tr>
-    <td class="tg-q6nq">What is Love? <br>(30 min)</td>
-    <td class="tg-8dwo">·         identify the characteristics of love and infatuation<br>·         distinguish between the characteristics of love versus infatuation<br>·         identify strong feelings arising from infatuation</td>
-  </tr>
-  <tr>
-    <td class="tg-q6nq">Am I Falling In Love?<br>(30 min)</td>
-    <td class="tg-8dwo">·         manage strong feelings arising from infatuation<br>·         identify ways to manage and cope with teasing from peers</td>
-  </tr>
-  <tr>
-    <td class="tg-q6nq">Main Task<br> (30 min)</td>
-    <td class="tg-8dwo">Description of the Main Task:<br><br>Pupils are to play the role of a game designer who wants to create a board game to help pupils of their age learn more about the Big Idea of Relationships, specifically on family, friendships, love and infatuation. They will consider the issues that their peers would face and craft questions and answers that they believe their peers would benefit most from knowing.</td>
-  </tr>
-  <tr>
-    <td class="tg-q6nq" rowspan="3">Friends or Foes?</td>
-    <td class="tg-q6nq">Are You Really My Friend?<br>(30 min)</td>
-    <td class="tg-8dwo">·         identify the pros and cons of forming relationships through social networking websites<br>·         know ways to keep themselves safe when using social networking websites</td>
-    <td class="tg-q6nq" rowspan="3">Term 2<br></td>
-  </tr>
-  <tr>
-    <td class="tg-q6nq">Is It All Safe?<br>(30 min)</td>
-    <td class="tg-8dwo">·         know that some information (like pornography) received through the Internet may be harmful<br>·         know ways to keep themselves safe when using social networking websites or the Internet</td>
-  </tr>
-  <tr>
-    <td class="tg-q6nq">Main Task<br> (30 min)</td>
-    <td class="tg-8dwo">Description of the Main Task:<br><br>Pupils are to apply their understanding of Safety in a variety of scenarios where the main character could be in a precarious situation. They will consider the situation from the point of view of the main character, discuss what they think and feel about the situation and what they will do or say to ensure their safety.  These scenarios will provide pupils with the opportunity to demonstrate their understanding of Safety and that safety is a right and a responsibility.</td>
-  </tr>
+<tr>
+<td style="text-align: center;" rowspan="3" width="119">Growing Years</td>
+<td style="text-align: center;" width="217">
+<p>Are We More than Friends?</p>
+(60 min)</td>
+<td width="352">
+<p>In this lesson, students will learn to distinguish between the characteristics of love and infatuation, and identify the strong emotions that may arise from experiencing the feelings of infatuation. They will recognise that experiencing&nbsp;feelings of infatuation is part of growing up and becoming infatuated with someone does not mean that they should be involved in a romantic relationship. Instead, they should focus on building strong and healthy friendships with their circles of friends.</p>
+</td>
+<td style="text-align: center;">Term 2 Week 2&nbsp;</td>
+</tr>
+<tr>
+<td style="text-align: center;" width="217">
+<p>Are We More than Friends?</p>
+<p>(60 min)&nbsp;</p>
+</td>
+<td width="352">
+<p>In this lesson, students will learn healthy ways to manage the emotions arising from infatuation and recognise the importance of respecting the boundaries of any relationship. They will also recognise the negative impact of teasing their peers who may be experiencing the feelings of infatuation and learn to behave maturely towards each other.</p>
+</td>
+<td style="text-align: center;">Term 2 Week 4&nbsp;</td>
+</tr>
+<tr>
+<td style="text-align: center;" width="217">
+<p>Did You Know?&nbsp;<strong>*</strong></p>
+<p>(60 min)</p>
+</td>
+<td width="352">
+<p>This lesson focuses on helping students to know what pornography is and how it can affect themselves and others. Students will learn the dangers of being exposed to sexually explicit materials and reject the viewing and/or reading of pornographic materials. They will learn to evaluate their own responses when they encounter pornography by applying the strategy &lsquo;<strong>Stop-Think-Do&rsquo;.</strong></p>
+<p>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</p>
+</td>
+<td style="text-align: center;">&nbsp;Term 2 Week 9</td>
+</tr>
 </tbody>
 </table>
-
-##### **Information for Parents**
-
-1.    Parents may opt their children out of the Growing Years programme, and/or supplementary sexuality education programmes by MOE-approved external providers.
-
-2.    Parents who wish to opt their children out of the <b>Growing Years (GY) programme</b> need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [here](/files/Annex%20A.pdf).
-
-The completed opt-out form is to be submitted by 21/01/2022.
-
-3.    Parents can contact the school at Tel: <b>62740357</b> or Email: [_zhangde\_ps@moe.edu.sg_](mailto:zhangde_ps@moe.edu.sg)  for discussion or to seek clarification about the school’s sexuality education programme.
-
-4.    Parents, who wish to attend the school sexuality education programmes, should contact the school to make the necessary arrangements.
+<p><strong>Please Note:</strong></p>
+<p><strong>*For&nbsp;<u>2023</u>, the Primary 5 lesson &ldquo;<em>Did You Know</em>?&rdquo; will also be conducted for the Primary 6 cohort.</strong></p>
+<p><strong>Information for Parents</strong></p>
+<p>1. Parents may opt their children out of Sexuality Education lessons, and/or supplementary Sexuality Education programmes by MOE-approved external providers.</p>
+<p>2. Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable&nbsp;<u><a href="/files/Opt-Out%20Form%202023.pdf" target="_blank" rel="noopener">here</a>.</u>&nbsp;The completed opt-out form is to be submitted by&nbsp;03 Mar 2023.</p>
+<p>3. Parents can contact the school at 6274 0357 (Phone) or <a href="mailto:zhangde_ps@moe.edu.sg">zhangde_ps@moe.edu.sg</a>&nbsp;(email) for discussion or to seek clarification about the school&rsquo;s Sexuality Education programme.</p>
