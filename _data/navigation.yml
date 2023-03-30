@@ -5,20 +5,20 @@ links:
   - title: Information
     collection: information
   - title: Our Programmes
-    url: /our-programmes/Our-Programmes/
+    url: /our-programmes
     sublinks:
       - title: IP Core Curriculum
-        url: /our-programmes/IP-Core-Curriculum/English/
+        url: /our-programmes/ip-core-curriculum/english
       - title: Non-IP Core Curriculum
-        url: /non-ip-core-curriculum/Non-IP-Core-Curriculum/
+        url: /our-programmes/non-ip-core-curriculum
       - title: Applied Learning Programme
-        url: /our-programmes/Applied-Learning-Programme/ALP/
+        url: /our-programmes/applied-learning-programme/alp
       - title: Learning for Life Programme
-        url: /our-programmes/Learning-for-Life-Programme/
+        url: /our-programmes/learning-for-life-programme
       - title: Sexuality Education Programme
-        url: /our-programmes/Sexuality-Education-Programme/
+        url: /our-programmes/sexuality-education-programme
       - title: Our Stories
-        url: /our-stories/Happenings-at-ZPS/Happenings-at-ZPS/
+        url: /our-programmes/our-stories/happenings-at-zps
   - title: Our Partners
     url: /parents/Parents/
     sublinks:
