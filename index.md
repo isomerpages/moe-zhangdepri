@@ -14,10 +14,10 @@ sections:
       key_highlights:
         - title: ANNOUNCEMENTS
           description: ""
-          url: /ANNOUNCEMENTS/
+          url: /announcements/
         - title: CALENDAR EVENTS
           description: ""
-          url: /Calendar-Events/
+          url: /calendar-events/
         - title: Student Learning Space
           description: ""
           url: https://vle.learning.moe.edu.sg/login
@@ -32,4 +32,3 @@ sections:
       image: /images/Virtual Tour 2022.png
       alt: ZPS Open House
 ---
-
