@@ -134,7 +134,7 @@ third_nav_title: Our Staff
 <thead>
   <tr>
     <td class="tg-j24s"><span style="color:#4C4C4C;background-color:#FFEFE3">ST Chinese Language</span><br></td>
-    <td class="tg-gfyo"><a href="mailto:ho_lee_ling@schools.gov.sg">Mdm Ho Lee Ling</a></td>
+		<td class="tg-gfyo"><a href="mailto:ho_lee_ling@schools.gov.sg">Mdm Ho Lee Ling</a></td>
   </tr>
   <tr>
     <td class="tg-x88q"><span style="color:#4C4C4C;background-color:#EFFBFF">ST Tamil Language</span></td>
@@ -142,8 +142,8 @@ third_nav_title: Our Staff
   </tr>
 </tbody>
 </table>
-<h4><strong>Form Teachers</strong></h4>
 
+<h4><strong>Form Teachers</strong></h4>
 <p><strong>PRIMARY 1 2023</strong></p>
 
 <style type="text/css">
