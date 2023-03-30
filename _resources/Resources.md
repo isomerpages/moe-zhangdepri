@@ -3,14 +3,6 @@ title: Resources
 permalink: /resources/
 description: ""
 ---
-
-![](/images/Resourcesheader.png)
-
-
-Resources
-=========
-
-
-[Student's Hub](/students-hub/Links-and-Helpdesk/)
-
-[Teacher's Resources](/resources/Teachers-Resources/)
+<img src="/images/Resourcesheader.png">
+<p><strong><a href="/resources/students-hub" target="">Student's Hub</a></strong></p>
+<p><strong><a href="/resources/teachers-resources" target="">Teacher's Resources</a></strong></p>
