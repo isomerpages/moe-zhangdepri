@@ -23,7 +23,7 @@ sections:
           url: https://vle.learning.moe.edu.sg/login
         - title: Home Based Learning
           description: ""
-          url: /home/Home-Based-Learning-HBL/Home-Based-Learning-HBL/
+          url: /home-based-learning-hbl
   - infopic:
       title: Zhangde Primary School Open House
       description: Join us in the virtual tour around the school!!
