@@ -142,7 +142,6 @@ third_nav_title: Our Staff
     <td class="tg-j24s"><span style="color:#4C4C4C;background-color:#FFEFE3">ST Tamil Language</span></td>
     <td class="tg-gfyo"><a href="mailto:kayal_vili_pungalendi@schools.gov.sg">Mdm Kayal Vili d/o Pugalendi</a></td>
   </tr>
-  <tr>
 </tbody>
 </table>
 
