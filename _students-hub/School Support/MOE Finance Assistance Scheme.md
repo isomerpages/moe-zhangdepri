@@ -51,7 +51,7 @@ third_nav_title: School Support
 <p><strong><u>How to Apply?</u></strong></p>
 <ul>
 <li>Application is open throughout the year.</li>
-<li>Parents may obtain the&nbsp;<a href="https://zhangdepri.moe.edu.sg/qql/slot/u180/Students%20Hub/School%20Support/MOE%20Finance%20Assistance%20Scheme/MOE%20FAS%20Application%20Form%2030%20Sep%202020%20final.pdf">application form</a>&nbsp;from the school&rsquo;s General Office or download it from the school&rsquo;s website.</li>
+<li>Parents may obtain the&nbsp;<a href="/files/MOE%20FAS%20Application%20Form%2030%20Sep%202020%20final.pdf">application form</a>&nbsp;from the school&rsquo;s General Office or download it from the school&rsquo;s website.</li>
 <li>Please submit the following documents together with the application form.</li>
 </ul>
 <ol>
