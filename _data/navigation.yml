@@ -20,20 +20,20 @@ links:
       - title: Our Stories
         url: /our-programmes/our-stories/happenings-at-zps
   - title: Our Partners
-    url: /parents/Parents/
+    url: /our-partners/parents
     sublinks:
       - title: Parents
-        url: /parents/Parents/
+        url: /our-partners/parents
       - title: School Advisory Committee
-        url: /our-partners/School-Advisory-Committee/
+        url: /our-partners/school-advisory-committee
       - title: "Guide for P6 Parents,Students "
-        url: /our-partners/Guides-for-P6-Parents-and-Students/Guides-for-P6-Parents-and-Students/
+        url: /our-partners/guides-for-p6-parents-and-students
       - title: GIVER3S Times 2022
-        url: /our-partners/GIVER3S-Times-2022/
+        url: /our-partners/giver3s-times-2022
   - title: Resources
-    url: /resources/Resources/
+    url: /resources
     sublinks:
       - title: Student's Hub
-        url: /students-hub/Links-and-Helpdesk/
+        url: /resources/students-hub/links-and-helpdesk
       - title: Teacher's Resources
-        url: /resources/Teachers-Resources/
+        url: /resources/teachers-resources
