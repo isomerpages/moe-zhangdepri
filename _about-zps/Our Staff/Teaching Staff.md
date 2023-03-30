@@ -133,8 +133,8 @@ third_nav_title: Our Staff
 <table class="tg">
 <thead>
   <tr>
-    <td class="tg-j24s"><span style="color:#4C4C4C;background-color:#FFEFE3">ST Chinese Language</span><br></td>
-		<td class="tg-gfyo"><a href="mailto:ho_lee_ling@schools.gov.sg">Mdm Ho Lee Ling</a></td>
+    <th class="tg-j24s"><span style="color:#4C4C4C;background-color:#FFEFE3">ST Chinese Language</span></th>
+		<th class="tg-gfyo"><a href="mailto:ho_lee_ling@schools.gov.sg">Mdm Ho Lee Ling</a></th>
   </tr>
   <tr>
     <td class="tg-x88q"><span style="color:#4C4C4C;background-color:#EFFBFF">ST Tamil Language</span></td>
