@@ -2,6 +2,7 @@ collections:
   our-partners:
     output: true
     order:
+      - Parents.md
       - School Advisory Committee.md
       - Guides for P6 Parents&Students/.keep
       - Guides for P6 Parents&Students/Guides for P6 Parents and Students.md
