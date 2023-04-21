@@ -23,5 +23,3 @@ description: ""
 </tr>
 </tbody>
 </table>
-<h4><strong>2021</strong></h4>
-<p><a href="/files/ZPS%20Learning%20Outcome%202021%20.pdf" target="_blank" rel="noopener">Primary 1 and Primary 2 Learning Outcomes</a></p>
