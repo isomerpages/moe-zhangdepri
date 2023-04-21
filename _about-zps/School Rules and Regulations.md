@@ -3,7 +3,6 @@ title: School Rules and Regulations
 permalink: /about-zps/school-rules-and-regulations/
 description: ""
 ---
-
 <img src="/images/AboutUs.png">
 <h4><strong>School Rules and Regulations</strong></h4>
 
@@ -15,7 +14,7 @@ The Zhangde School Code of Conduct is a guide for students to ensure that the sc
 
   
 
-##### **1.  Attendance and Punctuality**
+##### **1.&nbsp; Attendance and Punctuality**
 
   
 
@@ -29,7 +28,7 @@ The Zhangde School Code of Conduct is a guide for students to ensure that the sc
 
   
 
-##### **2.  Leaving School During School Hours**
+##### **2.&nbsp; Leaving School During School Hours**
 
   
 
@@ -40,7 +39,7 @@ The Zhangde School Code of Conduct is a guide for students to ensure that the sc
 
   
 
-##### **3.  National Anthem / Pledge-Taking**
+##### **3.&nbsp; National Anthem / Pledge-Taking**
 
   
 
@@ -51,7 +50,7 @@ The Zhangde School Code of Conduct is a guide for students to ensure that the sc
 
   
 
-##### **4.  Turnout and Bearing**
+##### **4.&nbsp; Turnout and Bearing**
 
   
 
@@ -93,7 +92,7 @@ The Zhangde School Code of Conduct is a guide for students to ensure that the sc
     * Nails must be kept short and clean. No varnish or hardener is allowed.
 
 
-##### **5.  Behaviour in the Assembly Area**
+##### **5.&nbsp; Behaviour in the Assembly Area**
 
   
 
@@ -104,7 +103,7 @@ The Zhangde School Code of Conduct is a guide for students to ensure that the sc
 
   
 
-##### **6.  Behaviour during Curriculum Time**
+##### **6.&nbsp; Behaviour during Curriculum Time**
 
   
 
@@ -121,7 +120,7 @@ The Zhangde School Code of Conduct is a guide for students to ensure that the sc
 
   
 
-##### **7.  Behaviour during Recess Time**
+##### **7.&nbsp; Behaviour during Recess Time**
 
   
 
@@ -136,16 +135,16 @@ The Zhangde School Code of Conduct is a guide for students to ensure that the sc
 *   For hygiene reasons, all students are encouraged to: –  
     
 
-     i)  wash their hands before and after consumption of food; &
+&nbsp; &nbsp; &nbsp;i)&nbsp; wash their hands before and after consumption of food; &amp;
 
-     ii)  use cutlery when consuming their food.
+&nbsp; &nbsp; &nbsp;ii)&nbsp; use cutlery when consuming their food.
 
 *   Used crockery must be returned to the respective receptacles provided.  
     
 *   When the music is played towards the end of recess time, students are to line up at their respective assembly area.
 
 
-##### **8.  Behaviour outside of School Premises**
+##### **8.&nbsp; Behaviour outside of School Premises**
 
   
 
@@ -158,7 +157,7 @@ The Zhangde School Code of Conduct is a guide for students to ensure that the sc
 
   
 
-##### **9.  Prohibited items**
+##### **9.&nbsp; Prohibited items**
 
   
 
@@ -174,12 +173,12 @@ The Zhangde School Code of Conduct is a guide for students to ensure that the sc
 
   
 
-*   All students are advised <u><b>not to</b></u> bring mobile phones to school. However, we understand that parents / guardians may at times require your children to bring mobile phones to school. As such, we would like to share some guidelines pertaining to the usage of mobile phones in school. These guidelines are meant to ensure that students are focused during lesson time and not distracted during their learning.  
+*   All students are advised&nbsp;<u><b>not to</b></u>&nbsp;bring mobile phones to school. However, we understand that parents / guardians may at times require your children to bring mobile phones to school. As such, we would like to share some guidelines pertaining to the usage of mobile phones in school. These guidelines are meant to ensure that students are focused during lesson time and not distracted during their learning.  
     
 
     *   Mobile phones must be switched off, including during remedial classes and enrichment classes.
     *   The school reserves the right to check on the mobile phones.
-    *   The responsibility for the safeguarding of the mobile phone rests on the students and parents. <b>The school will not be responsible for any loss of mobile phones.</b>
+    *   The responsibility for the safeguarding of the mobile phone rests on the students and parents.&nbsp;<b>The school will not be responsible for any loss of mobile phones.</b>
     *   Inappropriate use of the mobile phone may result in its confiscation. All confiscated mobile phones will be handed over to the Student Management department for safe-keeping until a parent or guardian comes to the school to retrieve it.
 
 
@@ -218,4 +217,4 @@ The Zhangde School Code of Conduct is a guide for students to ensure that the sc
 
 *   All Zhangderens are expected to adhere to the schools rules and procedures stated above. When there is a violation, appropriate disciplinary actions will be taken. When there is ambiguity, decision by the Student Management Department under the advice of the school leaders will be final. Inappropriate behaviour are categorized into minor and major offences.  
     
-*   Consequences for <b>minor</b> misbehaviour range from warning to detention. For <b>major</b> misbehaviour, the consequences include caning, in-house suspension and any other appropriate actions deemed necessary by the Principal or Vice Principal. Besides referring the students for counselling, parents will be called in to help the school to monitor their child’s behaviour. In addition, students may be required to perform community services for a specific duration.
+*   Consequences for&nbsp;<b>minor</b>&nbsp;misbehaviour range from warning to detention. For&nbsp;<b>major</b> misbehaviour, the consequences include caning, in-house suspension and any other appropriate actions deemed necessary by the Principal or Vice Principal. Besides referring the students for counselling, parents will be called in to help the school to monitor their child’s behaviour. In addition, students may be required to perform community services for a specific duration.
