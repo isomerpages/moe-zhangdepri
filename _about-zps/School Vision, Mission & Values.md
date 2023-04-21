@@ -3,12 +3,11 @@ title: School Vision, Mission & Values
 permalink: /about-zps/school-vision-mission-n-values/
 description: ""
 ---
-
 <img src="/images/AboutUs.png">
 <h4>School Vision, Mission &amp; Values</h4>
-<p><strong>School Vision<br /></strong>Learning School &bull; <strong>GIVER<sup>3</sup>S</strong>&nbsp;Heart</p>
-<p><strong>School Mission<br /></strong>To nurture thinking individuals and gracious citizens</p>
-<p><strong>School Values<br /></strong>We are anchored and guided by the&nbsp;<strong>GIVER<sup>3</sup>S</strong>&nbsp;Heart values of:</p>
+<p><strong>School Vision<br></strong>Learning School • <strong>GIVER<sup>3</sup>S</strong>&nbsp;Heart</p>
+<p><strong>School Mission<br></strong>To nurture thinking individuals and gracious citizens</p>
+<p><strong>School Values<br></strong>We are anchored and guided by the&nbsp;<strong>GIVER<sup>3</sup>S</strong>&nbsp;Heart values of:</p>
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
 <tr>
