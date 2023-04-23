@@ -9,7 +9,7 @@ third_nav_title: IP Core Curriculum
 <p>To develop thinking and gracious citizens through the infusion of vital process skills.</p>
 <p><strong>Curriculum</strong></p>
 <img style="width: 80%;" src="/images/Science.png">
-<p>In Zhangde, Science Education is presented in the form of an inquiry. It stretches pupils&rsquo; thinking skills, enables then to relate Science to all that is present around them in the environment. They will also be able to relate the uses of Science and its application in their daily life and in Society.</p>
+<p>In Zhangde, Science Education is presented in the form of an inquiry. It stretches pupils’ thinking skills, enables then to relate Science to all that is present around them in the environment. They will also be able to relate the uses of Science and its application in their daily life and in Society.</p>
 <p><strong>Pedagogy</strong></p>
 <p>Inquiry-Based Learning, Experiential Learning, Investigative Work</p>
 <p><strong>Programmes</strong></p>
