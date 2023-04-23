@@ -12,7 +12,7 @@ third_nav_title: Applied Learning Programme
 <img src="/images/NewInitiatives1.png">
 <p><strong>Students planting the seedlings and harvesting the crops that they have grown.</strong></p>
 <p><strong>2. Terrarium-Making</strong></p>
-<p>The P5 students create their own terrariums at the end of the topic on the Water Cycle as a means to consolidate their learning. This incorporates authentic learning as their terrariums are the micro-environments that show the science concepts of evaporation and condensation as key processes of the water cycle, in a real-life situation. It caters to different learners&rsquo; profiles and the joy of learning in students is obvious as they immerse themselves in the experience.</p>
+<p>The P5 students create their own terrariums at the end of the topic on the Water Cycle as a means to consolidate their learning. This incorporates authentic learning as their terrariums are the micro-environments that show the science concepts of evaporation and condensation as key processes of the water cycle, in a real-life situation. It caters to different learners’ profiles and the joy of learning in students is obvious as they immerse themselves in the experience.</p>
 <img src="/images/NewInitiatives2.png">
 <p><strong>Students consolidating their learning as they create their own terrariums.</strong></p>
 <p><strong>3. Food Waste Management System</strong></p>
