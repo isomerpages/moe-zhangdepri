@@ -38,6 +38,6 @@ third_nav_title: Guides for P6 Parents&Students
 <li>Students successfully allocated to their DSA-Sec schools will&nbsp;<strong>NOT</strong>&nbsp;be allowed to participate in the annual S1 Posting to opt for secondary schools, and are expected to honour the commitment to the allocated DSA-Sec school for the entire duration of the programme to develop their talents.</li>
 <li>They will also&nbsp;<strong>NOT</strong>&nbsp;be allowed to transfer to another school after the release of the PSLE results.</li>
 </ul>
-<img src="/images/DSA%20Info%20Sheet%202022_Page_1.png"><br>
-<img src="/images/DSA%20Info%20Sheet%202022_Page_2.png">
+<img src="/images/dsa%20info%20sheet%20page1.jpg"><br>
+<img src="/images/dsa%20info%20sheet%20page%202.jpg">
 <p>For more information, please visit the MOE website from 20 Apr 2022 for information on the 2022 DSA-Sec talent areas, application process and timeline (<a href="https://www.moe.gov.sg/dsa-sec" target="">www.moe.gov.sg/dsa-sec</a>).&nbsp;You may also visit secondary schools’ websites from 20 Apr 2022 for information on DSA talent areas.&nbsp;</p>
