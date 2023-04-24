@@ -10,7 +10,7 @@ sections:
   - hero:
       background: /images/banner.jpg
       button: Contact Us
-      url: /information/Contact-Us/
+      url: /information/contact-us/
       key_highlights:
         - title: ANNOUNCEMENTS
           description: ""
