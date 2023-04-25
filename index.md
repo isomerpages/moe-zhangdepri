@@ -1,32 +1,34 @@
 ---
 layout: homepage
-title: Isomer Site
-description: Brief site description here
-image: /images/isomer-logo.svg
+title: Zhangde Primary School
+description: An Isomer site of the Singapore Government
+image: /images/logo.jpg
 permalink: /
-notification: Here's a notification bar you can use!
+notification: "Zhangde Primary School Open House: Join us in the virtual tour
+  around the school!!"
 sections:
-    - hero:
-        title: Hero title
-        subtitle: Hero subtitle
-        background: /images/hero-banner.png
-        button: Contact Us
-        url: /contact-us/
-        key_highlights:
-            - title: Highlight A
-              description: Important highlight A is important
-              url: https://google.com
-            - title: Highlight B
-              description: Important highlight B is equally important
-              url: https://gmail.com
-            - title: Page A
-              description: Page A is important too
-              url: /privacy/
-    - infobar:
-        title: Infobar title
-        subtitle: Subtitle
-        description: About a sentence worth of description here
-        button: Button text
-        url: /faq/
+  - hero:
+      background: /images/banner.jpg
+      button: Contact Us
+      url: /information/contact-us/
+      key_highlights:
+        - title: ANNOUNCEMENTS
+          description: ""
+          url: /announcements/
+        - title: CALENDAR EVENTS
+          description: ""
+          url: /calendar-events/
+        - title: Student Learning Space
+          description: ""
+          url: https://vle.learning.moe.edu.sg/login
+        - title: Home Based Learning
+          description: ""
+          url: /home-based-learning-hbl
+  - infopic:
+      title: Zhangde Primary School Open House
+      description: Join us in the virtual tour around the school!!
+      button: Click here to find out more
+      url: https://4d.silversea-media.com/zps360/
+      image: /images/Virtual Tour 2022.png
+      alt: ZPS Open House
 ---
-

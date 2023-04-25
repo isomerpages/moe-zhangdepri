@@ -1,0 +1,9 @@
+collections:
+  information:
+    output: true
+    order:
+      - School Hours.md
+      - School Safety & Emergency Management.md
+      - Learning Environment.md
+      - Contact Us.md
+      - ZPS Virtual School Tour.md

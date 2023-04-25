@@ -1,0 +1,30 @@
+collections:
+  non-ip-core-curriculum:
+    output: true
+    order:
+      - Aesthetics.md
+      - CCE.md
+      - Physical Education.md
+      - ICT.md
+      - Student Development.md
+      - CCAs/.keep
+      - CCAs/CCAs.md
+      - CCAs/Art Club.md
+      - CCAs/Environment Club.md
+      - CCAs/Robotics Club.md
+      - CCAs/International Chess.md
+      - CCAs/Chinese Dance.md
+      - CCAs/Choir.md
+      - CCAs/Malay Dance.md
+      - CCAs/Indian Dance.md
+      - CCAs/Badminton.md
+      - CCAs/Basketball.md
+      - CCAs/Floorball.md
+      - CCAs/Rope Skipping.md
+      - CCAs/Football.md
+      - CCAs/Table Tennis.md
+      - CCAs/Photography Club.md
+      - CCAs/Volleyball.md
+      - CCAs/Wushu Club.md
+      - CCAs/Girls' Brigade.md
+      - CCAs/Boys' Brigade.md

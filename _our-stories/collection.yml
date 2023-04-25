@@ -1,0 +1,16 @@
+collections:
+  our-stories:
+    output: true
+    order:
+      - Happenings @ ZPS/.keep
+      - Happenings @ ZPS/Happenings @ ZPS.md
+      - Happenings @ ZPS/Students' Work.md
+      - A Day @ Zhangde Primary School.md
+      - Achievements/Achievements.md
+      - Achievements/2018 Achievements.md
+      - Achievements/2019 Achievements.md
+      - Achievements/2020 Achievements.md
+      - Achievements/2021 Achievements.md
+      - Achievements/2022 Achievements.md
+      - Achievements/.keep
+      - R3 Club @ Zhangde.md

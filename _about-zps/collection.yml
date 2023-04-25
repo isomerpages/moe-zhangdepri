@@ -1,0 +1,22 @@
+collections:
+  about-zps:
+    output: true
+    order:
+      - Principal's Message.md
+      - School Heritage and History/.keep
+      - School Heritage and History/School Heritage and History.md
+      - School Heritage and History/1923 – 1942.md
+      - School Heritage and History/1945 – 1975.md
+      - School Heritage and History/1984 – 1998.md
+      - School Heritage and History/1999 – 2004.md
+      - School Heritage and History/2005 – 2012.md
+      - School Heritage and History/2013 – 2020.md
+      - School Vision, Mission & Values.md
+      - School Rules and Regulations.md
+      - School Crest & Song.md
+      - Our Staff/Our Staff.md
+      - Our Staff/Steering Committee.md
+      - Our Staff/Teaching Staff.md
+      - Our Staff/Student Support Team.md
+      - Our Staff/Executive & Administrative Staff.md
+      - Our Staff/.keep
