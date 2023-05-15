@@ -20,6 +20,4 @@ Fax: 64793937
 
 ![](/images/picture1.png)
 
-###### *`Description: The bus fares listed are the maximum fares for each distance cap. Actual bus fares based on other commercial considerations such as the distance, route, number of students on buses and the size of school bus etc.`*
-
-
+[School Bus Services](/files/zhangde%20ps-school%20bus%20services.pdf)
