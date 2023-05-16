@@ -3,21 +3,9 @@ title: School Bus
 permalink: /information/schoolbus/
 description: ""
 ---
-**DETAILS OF BUS OPERATORS AND BUS FARES**
+**School Bus Service**
 
 
-Name of Company: Operator Revolving Transport Pte Ltd 
+School Bus Operator and Bus Fare
 
-Address: 141 Middle Road #06-06 GSM Building Singapore 188976 
-
-Email address: emltransport@singnet.com.sg 
-
-Tel: 92779277 
-Fax: 64793937 
-
-
-**BUS FARES**
-
-![](/images/picture1.png)
-
-[School Bus Services](/files/zhangde%20ps-school%20bus%20services.pdf)
+[School Bus Service](/files/zhangde%20bus%20service%202023.pdf)
