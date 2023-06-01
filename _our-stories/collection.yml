@@ -2,6 +2,7 @@ collections:
   our-stories:
     output: true
     order:
+      - Happenings @ ZPS/Example Title.md
       - Happenings @ ZPS/.keep
       - Happenings @ ZPS/2023 Term 1.md
       - Happenings @ ZPS/Students' Work.md
