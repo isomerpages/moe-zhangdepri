@@ -2,6 +2,7 @@ collections:
   our-stories:
     output: true
     order:
+      - A Day @ Zhangde Primary School.md
       - R3 Club @ Zhangde.md
       - Happenings @ ZPS/2023 Term 2.md
       - Happenings @ ZPS/.keep
