@@ -2,7 +2,6 @@ collections:
   our-programmes:
     output: true
     order:
-      - Our Stories/R3 Club @ Zhangde.md
       - Our Stories/A Day @ Zhangde Primary School.md
       - Our Stories/.keep
       - Our Programmes.md
