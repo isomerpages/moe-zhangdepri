@@ -2,7 +2,6 @@ collections:
   our-programmes:
     output: true
     order:
-      - Our Stories.md
       - Our Programmes.md
       - IP Core Curriculum/.keep
       - IP Core Curriculum/English.md
@@ -17,3 +16,4 @@ collections:
       - Applied Learning Programme/ALP Sharing.md
       - Learning for Life Programme.md
       - Sexuality Education Programme.md
+      - Our Stories.md
