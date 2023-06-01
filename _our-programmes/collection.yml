@@ -2,6 +2,7 @@ collections:
   our-programmes:
     output: true
     order:
+      - Our Stories.md
       - Our Stories/.keep
       - Our Programmes.md
       - IP Core Curriculum/.keep
