@@ -13,3 +13,5 @@ third_nav_title: Happenings @ ZPS
   <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQTdkrZEUUYr7HQ4LdfuN18aaoGIhmQRvZfjOt4AIGWyxhDw3cjNrtQMUvb_3G11zyiT08oTPhufX_U/embed?start=false&amp;loop=false&amp;delayms=10000" frameborder="0" width="500" height="400" allowfullscreen="true"></iframe>
 <h4><strong>Total Defence Day</strong></h4>
 ![](/images/tdd%20slide1.JPG)
+![](/images/tdd%20slide2.JPG)
+![](/images/tdd%20slide3.JPG)
