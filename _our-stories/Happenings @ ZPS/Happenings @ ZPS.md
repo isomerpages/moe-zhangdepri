@@ -12,4 +12,4 @@ third_nav_title: Happenings @ ZPS
 <h4><strong>P1 Welcome Ceremony by P6s</strong></h4>
   <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQTdkrZEUUYr7HQ4LdfuN18aaoGIhmQRvZfjOt4AIGWyxhDw3cjNrtQMUvb_3G11zyiT08oTPhufX_U/embed?start=false&amp;loop=false&amp;delayms=10000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
 <h4><strong>Total Defence Day</strong></h4>
-<img src="/images/P1%20Welcome.gif">
+![](/images/tdd%20slide1.JPG)
