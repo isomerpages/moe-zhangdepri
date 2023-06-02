@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Our Stories.md
-      - Our Stories/.keep
       - Our Programmes.md
       - IP Core Curriculum/.keep
       - IP Core Curriculum/English.md
