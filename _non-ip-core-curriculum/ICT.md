@@ -25,7 +25,7 @@ description: ""
 <p>The P1 to P6 coding programme is in line with the school’s Strategic Thrust 1, that is, “nurturing confident and self-directed learners” as well as the Applied Learning Programme, which focuses on ‘Developing Zhangde GIVER<sup>3</sup>S Values through Environment Education’.</p>
 <p>Coding will enable students to develop 21<sup>st</sup>&nbsp;Century Competencies and skills, putting&nbsp;children in control of the computer and building mastery in sequencing skills, counting, problem solving, logical thinking, creative and critical thinking. Having these skills would help the children in all subjects and build a strong foundation for their future work-life.</p>
 <img src="/images/School%20Coding%20Programme.gif">
-<p><strong>2022 Programme from P1 to P6</strong></p>
+<p><strong>2023 Programme from P1 to P6</strong></p>
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -53,15 +53,15 @@ description: ""
   </tr>
   <tr>
     <td class="tg-8dwo">P3</td>
-    <td class="tg-8dwo">Ø  Combine WeDo and Scratch programming<br>Ø  Topic: Environmental Issues</td>
+    <td class="tg-8dwo">Ø  Lego Spike programming<br>Ø  Topic: Environmental Issues</td>
   </tr>
   <tr>
     <td class="tg-8dwo">P4</td>
-    <td class="tg-8dwo">Ø  Introduction to the SAM lab kits<br>Ø  Introduction to Design Thinking processes<br>Ø  Topic: SMART city</td>
+    <td class="tg-8dwo">Ø  Introduction to Microbits<br>Ø  Introduction to Design Thinking processes<br>Ø  Topic: Sustainability</td>
   </tr>
   <tr>
     <td class="tg-8dwo">P5</td>
-    <td class="tg-8dwo">Ø  Design Thinking processes<br>Ø  Topic: Inclusive Society</td>
+    <td class="tg-8dwo">Ø  Game Creation using Makercode<br>Ø  Topic: Traditional Games</td>
   </tr>
   <tr>
     <td class="tg-8dwo">P6</td>
