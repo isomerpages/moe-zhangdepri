@@ -56,7 +56,7 @@ third_nav_title: Our Staff
   </tr>
   <tr>
     <td class="tg-x88q"><span style="color:#4C4C4C;background-color:#EFFBFF">Student Management</span></td>
-    <td class="tg-ut1a"><a href="mailto:mohamed_nor_mohamed_hussain@schools.gov.sg%20%3Cmohamed_nor_mohamed_hussain@schools.gov.sg">Mr Mohamed Nor B Mohamed Hussain</a></td>
+    <td class="tg-ut1a"><a href="mailto:tan_winnie@schools.gov.sg">Ms Tan Winnie (Covering)</a></td>
   </tr>
   <tr>
     <td class="tg-j24s"><span style="color:#4C4C4C;background-color:#FFEFE3">Student Welfare</span></td>
@@ -109,12 +109,23 @@ third_nav_title: Our Staff
     <td class="tg-ut1a"><a href="mailto:jane_toh_ka_ru@schools.gov.sg">Ms Jane Toh Ka Ru</a><br></td>
   </tr>
   <tr>
-    <td class="tg-j24s"><span style="color:#4C4C4C;background-color:#FFEFE3">Science</span></td>
+		 <td class="tg-j24s"><span style="color:#4C4C4C;background-color:#FFEFE3">Science</span></td>
     <td class="tg-gfyo"><a href="mailto:ong_li_ya_sandy@schools.gov.sg">Ms Sandy Ong Li Ya</a></td>
+  </tr>
+  <tr>
+    <td class="tg-x88q"><span style="color:#4C4C4C;background-color:#EFFBFF">Information Communication &amp; Technology </span></td>
+    <td class="tg-ut1a"><a href="mailto:goh_han_sin@schools.gov.sg">Mr Goh Han Sin</a></td>
+  </tr>
+    <tr><td class="tg-j24s"><span style="color:#4C4C4C;background-color:#FFEFE3">Character &amp; Citizenship Education</span></td>
+    <td class="tg-gfyo"><a href="mailto:tian_yuyuan@schools.gov.sg">Mr Tian Yuyuan</a></td>
   </tr>
   <tr>
     <td class="tg-x88q"><span style="color:#4C4C4C;background-color:#EFFBFF">Student Welfare </span></td>
     <td class="tg-ut1a"><a href="mailto:mohd_shaan_mohamed_shafie@schools.gov.sg">Mr Mohd Shaan Bin Mohammad Shafie</a></td>
+	</tr>
+  <tr>
+		 <td class="tg-j24s"><span style="color:#4C4C4C;background-color:#FFEFE3">Student Welfare</span></td>
+    <td class="tg-gfyo"><a href="mailto:chin_meiyi@schools.gov.sg">Ms Chin Meiyi</a></td>
   </tr>
 </tbody>
 </table>
@@ -437,7 +448,7 @@ third_nav_title: Our Staff
   <tr>
     <td class="tg-j24s"><span style="color:#4C4C4C;background-color:#FFEFE3">6 Empathy</span><br></td>
     <td class="tg-gfyo"><a href="mailto:lee_siew_ming@schools.gov.sg">Ms Lee Siew Ming</a></td>
-    <td class="tg-gfyo"><a href="mailto:liu_yuanling_candice@schools.gov.sgschools.gov.sg">Ms Liu Yuanling Candice</a><br /><a href="mailto:jane_toh_ka_ru@schools.gov.sg">Ms Jane Toh Ka Ru</a>&nbsp;(MLS)</td>
+    <td class="tg-gfyo"><a href="mailto:liu_yuanling_candice@schools.gov.sgschools.gov.sg">Ms Liu Yuanling Candice</a><br><a href="mailto:jane_toh_ka_ru@schools.gov.sg">Ms Jane Toh Ka Ru</a>&nbsp;(MLS)</td>
   </tr>
   <tr>
     <td class="tg-x88q"><span style="color:#4C4C4C;background-color:#EFFBFF">6 Responsibility</span><br></td>
