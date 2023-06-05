@@ -80,4 +80,4 @@ description: ""
 <li>Cyber Wellness Ambassadors Programme</li>
 </ul>
 <p>These programmes are aligned to our School-Wide Approach “Aware-Behave-Choice”.</p>
-<img src="/images/Cyber%20Wellness%20Programme.gif"></ol>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQQ9eXbqfhVzDtI2Y_Oq3OGA1ITGw4wjEq5r0j-OQaWgnI3lJMaQB3bAuNFTQkpK1CLxOqW9wtLH4KB/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="500" height="400" allowfullscreen="true"></iframe></ol>
