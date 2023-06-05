@@ -12,7 +12,6 @@ description: ""
 <ol>
 <li>Zhangde-rens are self-directed and responsible 21st CC Digital Learners.</li>
 <li>Zhangde-rens'  learning is empowered by technology where learning could be taken place anywhere, anytime.</li>
-
 <h4><strong>Department Focus</strong></h4>
 <img src="/images/ict%20dept%20focus.png">
 <h4><strong>Programmes</strong></h4>
