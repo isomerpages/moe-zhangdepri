@@ -24,6 +24,7 @@ description: ""
 <p><strong>School Coding Programme </strong></p>
 <p>The P1 to P6 coding programme is in line with the school’s Strategic Thrust 1, that is, “nurturing confident and self-directed learners” as well as the Applied Learning Programme, which focuses on ‘Developing Zhangde GIVER<sup>3</sup>S Values through Environment Education’.</p>
 <p>Coding will enable students to develop 21<sup>st</sup>&nbsp;Century Competencies and skills, putting&nbsp;children in control of the computer and building mastery in sequencing skills, counting, problem solving, logical thinking, creative and critical thinking. Having these skills would help the children in all subjects and build a strong foundation for their future work-life.</p>
+![](/images/p5%20coding%20lessons%202023.jpg)
 <img src="/images/School%20Coding%20Programme.gif">
 <p><strong>2023 Programme from P1 to P6</strong></p>
 <style type="text/css">
