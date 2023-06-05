@@ -32,11 +32,11 @@ third_nav_title: Our Staff
 <tbody>
   <tr>
     <td class="tg-j24s"><span style="color:#4C4C4C;background-color:#FFEFE3">Administrative Executive</span></td>
-    <td class="tg-gfyo"><a href="mailto:Seah_Yem_leng@schools.gov.sg">Mdm Seah Yem Leng Jessie</a><br><a href="mailto:Jannath_beevi_Johabar_ali@schools.gov.sg">Ms Jannath Beevi Bte A Johabar Ali</a></td>
-  </tr>
+    <td class="tg-gfyo"><a href="mailto:Seah_Yem_leng@schools.gov.sg">Mdm Seah Yem Leng Jessie</a><br><a>
+  </a></td></tr>
   <tr>
-    <td class="tg-x88q"><span style="color:#4C4C4C;background-color:#EFFBFF">Corporate Support Officers</span><br></td>
-    <td class="tg-ut1a"><a href="mailto:G_Poongkughali@schools.gov.sg">Ms G Poongkughali </a><br></td>
+    <td class="tg-x88q"><span style="color:#4C4C4C;background-color:#EFFBFF"></span><br></td>
+    <td class="tg-ut1a"><a href="mailto:Jannath_beevi_Johabar_ali@schools.gov.sg">Ms Jannath Beevi Bte A Johabar Ali</a><br></td>
   </tr>
   <tr>
     <td class="tg-j24s"><span style="color:#4C4C4C;background-color:#FFEFE3">Operations Managers</span><br></td>
@@ -61,6 +61,7 @@ third_nav_title: Our Staff
   <tr>
     <td class="tg-x88q"><span style="color:#4C4C4C;background-color:#EFFBFF">ICT Associate </span><br></td>
     <td class="tg-qphe"><a href="mailto:Leong_Wee_Siong@schools.gov.sg">Mr Jason Leong Wee Siong</a><br></td>
+		
   </tr>
   <tr>
     <td class="tg-j24s"><span style="color:#4C4C4C;background-color:#FFEFE3">Desktop Enginner </span></td>
@@ -73,6 +74,10 @@ third_nav_title: Our Staff
   <tr>
     <td class="tg-j24s"><span style="color:#4C4C4C;background-color:#FFEFE3">Receptionist</span><br></td>
     <td class="tg-gfyo"><a href="mailto:juliana_peris@schools.gov.sg">Mdm Juliana Peris</a></td>
+		</tr>
+  <tr>
+    <td class="tg-x88q"><span style="color:#4C4C4C;background-color:#EFFBFF">Corporate Support Officers</span><br></td>
+    <td class="tg-ut1a"><a href="mailto:G_Poongkughali@schools.gov.sg">Ms G Poongkughali </a><br></td>
   </tr>
 </tbody>
 </table>
