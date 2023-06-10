@@ -5,4 +5,4 @@ description: ""
 ---
 <img src="/images/Information.png">
 <h4><strong>ZPS Virtual School Tour</strong></h4>
-<p>Note: Cannot include virtual school tour here.</p>
+<p>Look out for new updates soon.</p>
