@@ -5,4 +5,4 @@ description: ""
 ---
 <img src="/images/Information.png">
 <h4><strong>ZPS Virtual School Tour</strong></h4>
-<p>Note: Cannot include virtual school tour here.</p>
+[Zhangde Virtual School Tour](https://4d.silversea-media.com/zps360/)
