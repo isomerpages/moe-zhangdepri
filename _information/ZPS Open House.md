@@ -5,7 +5,7 @@ description: ""
 ---
 <img src="/images/Information.png">
 
-&gt; # ZPS E-Open House 2023
+&gt; ZPS E-Open House 2023
 
 <h4><strong>ZPS Virtual School Tour</strong></h4>
 
