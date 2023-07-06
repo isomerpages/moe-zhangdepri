@@ -28,7 +28,7 @@ sections:
       title: E-Open House 2023
       description: "Starting: 7 July 2023"
       button: Click here to find out more
-      url: https://4d.silversea-media.com/zps360/
+      url: https://zhangdepri.moe.edu.sg/information/zps-e-open-house/
       image: /images/Virtual Tour 2022.png
       alt: ZPS Open House
       subtitle: Zhangde Primary School
