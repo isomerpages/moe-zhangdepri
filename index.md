@@ -25,10 +25,11 @@ sections:
           description: ""
           url: /home-based-learning-hbl
   - infopic:
-      title: Zhangde Primary School Open House
-      description: Join us in the virtual tour around the school!!
+      title: E-Open House 2023
+      description: "Starting: 7 July 2023"
       button: Click here to find out more
       url: https://4d.silversea-media.com/zps360/
       image: /images/Virtual Tour 2022.png
       alt: ZPS Open House
+      subtitle: Zhangde Primary School
 ---
