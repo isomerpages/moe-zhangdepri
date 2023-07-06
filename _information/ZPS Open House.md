@@ -5,8 +5,7 @@ description: ""
 ---
 <img src="/images/Information.png">
 
-&gt; Zhangde Primary School
-&gt; E-open house 2023
+# E-Open House 2023
 
 <h4><strong>ZPS Virtual School Tour</strong></h4>
 
