@@ -7,6 +7,9 @@ description: ""
 
 # E-Open House 2023
 
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRcAAEvxIidYkrIGJEQjtR6JnKqzYkP75a5zTtoTnJI2KN-O7lf492lu0NCp5FlwiOE6sXDgkGZOMLC/embed?start=true&amp;loop=true&amp;delayms=60000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
+
+
 <h4><strong>ZPS Virtual School Tour</strong></h4>
 
 [Zhangde Virtual School Tour](https://4d.silversea-media.com/zps360/)
