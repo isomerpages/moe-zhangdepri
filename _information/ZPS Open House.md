@@ -12,11 +12,11 @@ description: ""
  
 <h4><strong>Our Applied Learning Programme - Environment Education</strong></h4>
 
-<iframe allowfullscreen="true" height="299" width="480" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRcAAEvxIidYkrIGJEQjtR6JnKqzYkP75a5zTtoTnJI2KN-O7lf492lu0NCp5FlwiOE6sXDgkGZOMLC/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/dF14dQ9VUOo?controls=0" height="315" width="560"></iframe>
 
 <h4><strong>Our Learning for Life Programme - Outdoor Education</strong></h4>
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQyfHmGuvHXoTP_jfy52CyaBy90uX67TzdbJWOrU-AJgdQ9rpVlL1MNVPzafcwsnzb5rnBGbeAfFK9W/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true"></iframe>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/lKJJjG-qD9A?controls=0" height="315" width="560"></iframe>
 
 <h4><strong>A day in Zhangde Primary School</strong></h4>
 
