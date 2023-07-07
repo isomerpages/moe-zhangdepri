@@ -26,8 +26,8 @@ sections:
           url: /home-based-learning-hbl
   - infopic:
       title: E-Open House 2023
-      description: "Starting: 7 July 2023"
-      button: Click here to find out more
+      description: 7 July 2023 - 4 August 2023
+      button: Click here to find out more!
       url: https://zhangdepri.moe.edu.sg/information/zps-e-open-house/
       image: /images/Virtual Tour 2022.png
       alt: ZPS Open House
