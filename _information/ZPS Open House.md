@@ -12,11 +12,11 @@ description: ""
  
 <h4><strong>Our Applied Learning Programme - Environment Education</strong></h4>
 
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/dF14dQ9VUOo?controls=0" height="315" width="560"></iframe>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/dF14dQ9VUOo" height="315" width="560"></iframe>
 
 <h4><strong>Our Learning for Life Programme - Outdoor Education</strong></h4>
 
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/lKJJjG-qD9A?controls=0" height="315" width="560"></iframe>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/lKJJjG-qD9A" height="315" width="560"></iframe>
 
 <h4><strong>A day in Zhangde Primary School</strong></h4>
 
