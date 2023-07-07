@@ -18,6 +18,10 @@ description: ""
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQyfHmGuvHXoTP_jfy52CyaBy90uX67TzdbJWOrU-AJgdQ9rpVlL1MNVPzafcwsnzb5rnBGbeAfFK9W/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true"></iframe>
 
+<h4><strong>A day in Zhangde Primary School</strong></h4>
+
+[Our Instagram Reels](https://www.instagram.com/zhangdepri/)
+
 <h4><strong>ZPS Virtual School Tour</strong></h4>
 Click on the link below for a virtual tour of our school!
 
