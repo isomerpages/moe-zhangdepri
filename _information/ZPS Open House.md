@@ -12,6 +12,11 @@ description: ""
 # 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRcAAEvxIidYkrIGJEQjtR6JnKqzYkP75a5zTtoTnJI2KN-O7lf492lu0NCp5FlwiOE6sXDgkGZOMLC/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true"></iframe>
 
+
+# 
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/lKJJjG-qD9A" height="315" width="560"></iframe>
+
+# 
 <h4><strong>ZPS Virtual School Tour</strong></h4>
 
 [Zhangde Virtual School Tour](https://4d.silversea-media.com/zps360/)
