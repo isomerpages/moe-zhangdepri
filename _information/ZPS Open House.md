@@ -20,7 +20,7 @@ description: ""
 
 <h4><strong>A day in Zhangde Primary School</strong></h4>
 
-[Our Instagram Reels](https://www.instagram.com/zhangdepri/)
+[Our Instagram Reels](https://www.instagram.com/zhangdepri/reels/)
 
 <h4><strong>ZPS Virtual School Tour</strong></h4>
 Click on the link below for a virtual tour of our school!
