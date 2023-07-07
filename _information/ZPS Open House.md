@@ -6,11 +6,22 @@ description: ""
 <img src="/images/Information.png">
 
 # E-Open House 2023
+**Introduction Video**
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSeaZ7_SqFwsc3KguRJFYSzIxOH23XBc4uDXbOPSO2cu649hCG3VoUj4bFGjKeo3rOWRZ_N9z8t4B9D/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true"></iframe>
 
-<iframe allowfullscreen="true" height="299" width="480" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSeaZ7_SqFwsc3KguRJFYSzIxOH23XBc4uDXbOPSO2cu649hCG3VoUj4bFGjKeo3rOWRZ_N9z8t4B9D/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+# 
+**Our Applied Learning Programme**
+&gt; Environment Education
+<iframe allowfullscreen="true" height="299" width="480" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRcAAEvxIidYkrIGJEQjtR6JnKqzYkP75a5zTtoTnJI2KN-O7lf492lu0NCp5FlwiOE6sXDgkGZOMLC/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRcAAEvxIidYkrIGJEQjtR6JnKqzYkP75a5zTtoTnJI2KN-O7lf492lu0NCp5FlwiOE6sXDgkGZOMLC/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true"></iframe>
 
+# 
+**Our Learning for Life Programme**
+&gt; Outdoor Education
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQyfHmGuvHXoTP_jfy52CyaBy90uX67TzdbJWOrU-AJgdQ9rpVlL1MNVPzafcwsnzb5rnBGbeAfFK9W/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true"></iframe>
+
+# 
 <h4><strong>ZPS Virtual School Tour</strong></h4>
+Click on the link below for a virtual tour of our school!
 
 [Zhangde Virtual School Tour](https://4d.silversea-media.com/zps360/)
