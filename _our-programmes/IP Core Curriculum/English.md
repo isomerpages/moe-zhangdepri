@@ -7,28 +7,34 @@ third_nav_title: IP Core Curriculum
 <img src="/images/OurProgrammes1.png">
 <h4><strong>Curriculum</strong></h4>
 <p><strong>The STELLAR Vision</strong></p>
-<p>Children Who Love Reading and Have a Strong Foundation in the English Language</p>
-<p>English is taught through stories and texts that appeal to children, with explicit grammar instruction. Students are provided with opportunities to express themselves in an environment where language learning can be enjoyable yet purposeful. Through the reading of engaging stories in class, students get to speak extensively, discussing and sharing their views with the teacher and their peers. The main purpose is to build students’ confidence in speech and writing, and enhance their learning of the language.</p>
+<p>Children Who Love Reading and Have a Strong Foundation in the English Language
+English is taught through stories and texts that appeal to children, with explicit grammar instruction. Students are provided with opportunities to express themselves in an environment where language learning can be enjoyable yet purposeful. Through the reading of engaging stories in class, students get to speak extensively, discussing and sharing their views with the teacher and their peers. The main purpose is to build students’ confidence in speech and writing, and enhance their learning of the language.</p>
+
 <h4><strong>Pedagogy</strong></h4>
 <p><strong>Lower Primary STELLAR Strategies</strong></p>
 <p>The STELLAR pedagogic model for lower primary is made up of three major teaching strategies:</p>
 <ul>
 <li>Shared Book Approach (SBA)</li>
-<li>Modified Language Experience Approach (MLEA)</li>
-<li>Learning Centres (LC) [For P2 and P3]</li>
-<li>Differentiated Focus Lessons (DFLs) [For P1]</li>
-</ul>
-<img src="/images/English.jpeg">
-<p><strong>Upper Primary STELLAR Strategies</strong></p>
-<p>The STELLAR pedagogic model for upper primary is made up of five major teaching strategies:</p>
+<li>Noticing</li>
+<li>Modified ‘Presentation Practice Production’ (PPP) Approach</li>
+<li>Oracy</li>
+<li>Think-aloud</li>
+<li>Modified Learning Experience Approach (MLEA)</li>
+<li>Guided Writing</li>
+<li>Differentiated Focus Lessons (DFLs)</li>
+
+	
+<p><strong>Middle &amp; Upper Primary STELLAR Strategies</strong></p>
+<p>The STELLAR pedagogic model for middle and upper primary is made up of the following teaching strategies:</p>
 <ul>
 <li>Supported Reading (SR)</li>
 <li>Know-Want to Know-Learnt (KWL)</li>
 <li>Retelling (RT)</li>
+<li>Guided Reading</li>
+<li>Annotation</li>
 <li>Writing Process Cycle (WPC)</li>
-<li>Differentiated Instruction (DI)</li>
-</ul>
-<img src="/images/Stellar%20Pedagogic%20Framework%20(P3b%20to%20P6).png">
+
+
 <h4><strong>Programmes</strong></h4>
 <p><strong>Read@ZPS Programme</strong></p>
 <p>The objectives for the Read@ZPS Programme are to:</p>
@@ -54,4 +60,4 @@ third_nav_title: IP Core Curriculum
 <p><strong>English Language Week</strong></p>
 <p>The English Language Week is an annual event organised to promote the effective use of the English Language and the love for reading.</p>
 <p><strong>Learning Journey</strong></p>
-<p>To provide students with authentic learning experiences, the school organises learning journeys to the Singapore Zoo and Singapore Science Centre for all Primary 1 and 2 students. The learning journeys coincide with the STELLAR themes and allow students to learn beyond the classroom. </p>
+<p>To provide students with authentic learning experiences, the school organises learning journeys to the Singapore Zoo and Singapore Science Centre for all Primary 1 and 2 students. The learning journeys coincide with the STELLAR themes and allow students to learn beyond the classroom. </p></ul></ul>
