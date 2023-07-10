@@ -44,12 +44,21 @@ English is taught through stories and texts that appeal to children, with explic
 </ul>
 <p>The school adopts a two-pronged approach to meet the diverse reading needs of our students:</p>
 <ul>
-<li>Collaborate with National Library Board in Read@School, a structured and in-depth reading programme which adopts a holistic approach to reading. READ@School customises a set of structured reading programmes that aims to help students pursue reading as an enjoyable activity. Some of the reading activities include Books 2 Go (mass borrowing of books) and Book Buzz.</li>
 <li>School-based reading programme in which students are exposed to a range of literary and informational texts through their participation in whole school reading initiatives.</li>
 <li>DEAR is classroom time set aside for teachers and students to Drop Everything and Read. The goal of DEAR is to encourage independent silent reading for extended periods of time on a weekly basis. Students choose the book they wish to read based on interest and ability.</li>
 <li>The iRead programme provides age-appropriate books for the class library so that the students have access to a learning environment conducive for reading and surrounded by books.</li>
-<li>Supplementary reading materials are subscribed by students to encourage them to read content beyond the textbooks. These materials are used by teachers to complement the EL curriculum. Some of the publications that our students read include Storybox (P1 &amp; P2), Adventurebox (P3), and Little Red Dot (P4 to P6).</li>
+<li>Supplementary reading materials are subscribed by students to encourage them to read content beyond the textbooks. These materials are used by teachers to complement the EL curriculum. Some of the publications that our students read include: Storybox (P1 &amp; P2), Adventurebox (P3), and Little Red Dot (P4 to P6).</li>
 </ul>
+
+<p><strong>English Language Day</strong></p>
+<p>The English Language Day is an annual event organised to promote the effective use of the English Language and the love for reading. On this day, not only do students have the opportunity to take part in various EL-related activities in the classroom and during recess, but they also get to interact with different story characters that are brought to life by our ZPS teachers.</p>
+
+![](/images/el%20language%20day%20image.JPG)
+
+<img src="/images/el%20language%20day%20image2.JPG">
+
+	
+
 <p><strong>Learning Support Programme (LSP)</strong></p>
 <p>The LSP is a specialised early intervention programme aimed at providing learning support to pupils who enter Primary 1 with weak literacy skills. Pupils are identified for LSP through a systematic screening process carried out at the beginning of Primary 1. The objective of the LSP is to equip pupils with basic literacy skills so that they could access learning in the regular classroom.</p>
 <p>The LSP is implemented by qualified teachers appointed by their schools to be Learning Support Coordinators (LSCs). LSCs are given additional training by MOE HQ that equips them with specialised knowledge and skills to implement the programme. Pupils are supported daily for half an hour a day in groups of 8 to 10 pupils. Support continues in Primary 2 for pupils who need it.</p>
