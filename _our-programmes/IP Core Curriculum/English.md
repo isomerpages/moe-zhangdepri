@@ -54,19 +54,36 @@ English is taught through stories and texts that appeal to children, with explic
 <p>The English Language Day is an annual event organised to promote the effective use of the English Language and the love for reading. On this day, not only do students have the opportunity to take part in various EL-related activities in the classroom and during recess, but they also get to interact with different story characters that are brought to life by our ZPS teachers.</p>
 
 ![](/images/el%20language%20day%20image.JPG)
-
 <img src="/images/el%20language%20day%20image2.JPG">
 
-	
+<p><strong>Characters Alive @ ZPS</strong></p>
 
+<p>During the week, Zhangderens also take part in the annual Read for Books – a charity book drive organised by the National Library Board (NLB) that aims to raise awareness of reading and share the gift of reading with the less privileged.</p>
+
+	
+	
+<p><strong>Learning beyond the EL Classroom</strong></p>
+<p>Especially designed for the lower primary students, the authentic learning experiences promotes learning of the language beyond the EL Classroom. The lessons coincide with the STELLAR Units taught in Primary 1 and 2. </p>
+IMAGE
+
+	
+<p>Primary 1 Experiential Learning – Walking through ZPS Gardens
+[STELLAR Unit – Walking through the Jungle]
+</p>
+
+IMAGE
+	
+<p>Primary 2 Learning Day – Making Pizza Bread
+	[STELLAR Unit: Roti Prata] </p>
+
+
+<p><strong>Literacy and Language Intervention Programme</strong></p>
 <p><strong>Learning Support Programme (LSP)</strong></p>
-<p>The LSP is a specialised early intervention programme aimed at providing learning support to pupils who enter Primary 1 with weak literacy skills. Pupils are identified for LSP through a systematic screening process carried out at the beginning of Primary 1. The objective of the LSP is to equip pupils with basic literacy skills so that they could access learning in the regular classroom.</p>
-<p>The LSP is implemented by qualified teachers appointed by their schools to be Learning Support Coordinators (LSCs). LSCs are given additional training by MOE HQ that equips them with specialised knowledge and skills to implement the programme. Pupils are supported daily for half an hour a day in groups of 8 to 10 pupils. Support continues in Primary 2 for pupils who need it.</p>
+<p>The LSP is a specialised early intervention programme aimed at providing learning support to pupils who enter Primary 1 with weak literacy skills. Pupils are identified for LSP through a systematic screening process carried out at the beginning of Primary 1. The objective of the LSP is to equip pupils with basic literacy skills so that they could access learning in the regular classroom.
+The LSP is implemented by qualified teachers appointed by their schools to be Learning Support Coordinators (LSCs). LSCs are given additional training by MOE HQ that equips them with specialised knowledge and skills to implement the programme. Students are supported daily for half an hour a day in groups of 8 to 10 pupils. Support continues in Primary 2 for pupils who need it.
+</p>
 <p><strong>School-based Dyslexia Remediation Programme (SDR)</strong></p>
-<p>The SDR programme is a two-year intervention for Primary Three and Four students who are identified through a systematic screening process for dyslexia conducted at the end of Primary Two. The programme is conducted in small groups by trained school personnel using a remediation curriculum designed by MOE. The curriculum has been designed taking into consideration the students’ learning profile and the contents of the mainstream English language curriculum. The school personnel conducting the programme also worked with the subject teachers and parents to closely monitor the students’ attendance and learning progress.</p>
+<p>The SDR programme is a two-year intervention for Primary Three and Four students who are identified through a systematic screening process for dyslexia conducted at the end of Primary Two. The programme is conducted in small groups by trained school personnel using a remediation curriculum designed by MOE. The curriculum has been designed taking into consideration the students’ learning profile and the contents of the mainstream English language curriculum. The school personnel conducting the programme also work with the subject teachers and parents to closely monitor the students’ attendance and learning progress. Lessons are conducted after curriculum hours from Monday to Wednesday, from 2pm to 3pm.</p>
+	
 <p><strong>Reading Remediation Programme (RRP)</strong></p>
-<p>The Reading Remediation Programme (RRP) aims to provide support for P3 and P4 students with reading difficulties.&nbsp;Specially trained EL teachers conduct targeted and focussed lessons to equip students with decoding and reading comprehension skills.</p>
-<p><strong>English Language Week</strong></p>
-<p>The English Language Week is an annual event organised to promote the effective use of the English Language and the love for reading.</p>
-<p><strong>Learning Journey</strong></p>
-<p>To provide students with authentic learning experiences, the school organises learning journeys to the Singapore Zoo and Singapore Science Centre for all Primary 1 and 2 students. The learning journeys coincide with the STELLAR themes and allow students to learn beyond the classroom. </p></ul></ul>
+<p>The Reading Remediation Programme (RRP) aims to provide support for P3 and P4 students with reading difficulties. Specially trained EL teachers conduct targeted and focussed lessons to equip students with decoding and reading comprehension skills. Lessons are conducted after curriculum hours on Tuesday and Wednesday, from 2pm to 3pm.</p></ul></ul>
