@@ -7,28 +7,34 @@ third_nav_title: IP Core Curriculum
 <img src="/images/OurProgrammes1.png">
 <h4><strong>Curriculum</strong></h4>
 <p><strong>The STELLAR Vision</strong></p>
-<p>Children Who Love Reading and Have a Strong Foundation in the English Language</p>
-<p>English is taught through stories and texts that appeal to children, with explicit grammar instruction. Students are provided with opportunities to express themselves in an environment where language learning can be enjoyable yet purposeful. Through the reading of engaging stories in class, students get to speak extensively, discussing and sharing their views with the teacher and their peers. The main purpose is to build students’ confidence in speech and writing, and enhance their learning of the language.</p>
+<p>Children Who Love Reading and Have a Strong Foundation in the English Language
+English is taught through stories and texts that appeal to children, with explicit grammar instruction. Students are provided with opportunities to express themselves in an environment where language learning can be enjoyable yet purposeful. Through the reading of engaging stories in class, students get to speak extensively, discussing and sharing their views with the teacher and their peers. The main purpose is to build students’ confidence in speech and writing, and enhance their learning of the language.</p>
+
 <h4><strong>Pedagogy</strong></h4>
 <p><strong>Lower Primary STELLAR Strategies</strong></p>
 <p>The STELLAR pedagogic model for lower primary is made up of three major teaching strategies:</p>
 <ul>
 <li>Shared Book Approach (SBA)</li>
-<li>Modified Language Experience Approach (MLEA)</li>
-<li>Learning Centres (LC) [For P2 and P3]</li>
-<li>Differentiated Focus Lessons (DFLs) [For P1]</li>
-</ul>
-<img src="/images/English.jpeg">
-<p><strong>Upper Primary STELLAR Strategies</strong></p>
-<p>The STELLAR pedagogic model for upper primary is made up of five major teaching strategies:</p>
+<li>Noticing</li>
+<li>Modified ‘Presentation Practice Production’ (PPP) Approach</li>
+<li>Oracy</li>
+<li>Think-aloud</li>
+<li>Modified Learning Experience Approach (MLEA)</li>
+<li>Guided Writing</li>
+<li>Differentiated Focus Lessons (DFLs)</li>
+
+	
+<p><strong>Middle &amp; Upper Primary STELLAR Strategies</strong></p>
+<p>The STELLAR pedagogic model for middle and upper primary is made up of the following teaching strategies:</p>
 <ul>
 <li>Supported Reading (SR)</li>
 <li>Know-Want to Know-Learnt (KWL)</li>
 <li>Retelling (RT)</li>
+<li>Guided Reading</li>
+<li>Annotation</li>
 <li>Writing Process Cycle (WPC)</li>
-<li>Differentiated Instruction (DI)</li>
-</ul>
-<img src="/images/Stellar%20Pedagogic%20Framework%20(P3b%20to%20P6).png">
+
+
 <h4><strong>Programmes</strong></h4>
 <p><strong>Read@ZPS Programme</strong></p>
 <p>The objectives for the Read@ZPS Programme are to:</p>
@@ -38,20 +44,46 @@ third_nav_title: IP Core Curriculum
 </ul>
 <p>The school adopts a two-pronged approach to meet the diverse reading needs of our students:</p>
 <ul>
-<li>Collaborate with National Library Board in Read@School, a structured and in-depth reading programme which adopts a holistic approach to reading. READ@School customises a set of structured reading programmes that aims to help students pursue reading as an enjoyable activity. Some of the reading activities include Books 2 Go (mass borrowing of books) and Book Buzz.</li>
 <li>School-based reading programme in which students are exposed to a range of literary and informational texts through their participation in whole school reading initiatives.</li>
 <li>DEAR is classroom time set aside for teachers and students to Drop Everything and Read. The goal of DEAR is to encourage independent silent reading for extended periods of time on a weekly basis. Students choose the book they wish to read based on interest and ability.</li>
 <li>The iRead programme provides age-appropriate books for the class library so that the students have access to a learning environment conducive for reading and surrounded by books.</li>
-<li>Supplementary reading materials are subscribed by students to encourage them to read content beyond the textbooks. These materials are used by teachers to complement the EL curriculum. Some of the publications that our students read include Storybox (P1 &amp; P2), Adventurebox (P3), and Little Red Dot (P4 to P6).</li>
+<li>Supplementary reading materials are subscribed by students to encourage them to read content beyond the textbooks. These materials are used by teachers to complement the EL curriculum. Some of the publications that our students read include: Storybox (P1 &amp; P2), Adventurebox (P3), and Little Red Dot (P4 to P6).</li>
 </ul>
+
+<p><strong>English Language Day</strong></p>
+<p>The English Language Day is an annual event organised to promote the effective use of the English Language and the love for reading. On this day, not only do students have the opportunity to take part in various EL-related activities in the classroom and during recess, but they also get to interact with different story characters that are brought to life by our ZPS teachers.</p>
+
+![](/images/el%20language%20day%20image.JPG)
+<img src="/images/el%20language%20day%20image2.JPG">
+
+<p><strong>Characters Alive @ ZPS</strong></p>
+
+<p>During the week, Zhangderens also take part in the annual Read for Books – a charity book drive organised by the National Library Board (NLB) that aims to raise awareness of reading and share the gift of reading with the less privileged.</p>
+
+	
+	
+<p><strong>Learning beyond the EL Classroom</strong></p>
+<p>Especially designed for the lower primary students, the authentic learning experiences promotes learning of the language beyond the EL Classroom. The lessons coincide with the STELLAR Units taught in Primary 1 and 2. </p>
+
+![](/images/learning%20beyond%20el%20classroom.JPG)
+	
+<p>Primary 1 Experiential Learning – Walking through ZPS Gardens
+[STELLAR Unit – Walking through the Jungle]
+</p>
+
+![](/images/p2%20learning%20beyond%20the%20classroom.JPG)
+	
+<p>Primary 2 Learning Day – Making Pizza Bread
+	[STELLAR Unit: Roti Prata] </p>
+
+
+<p><strong>Literacy and Language Intervention Programme</strong></p>
 <p><strong>Learning Support Programme (LSP)</strong></p>
-<p>The LSP is a specialised early intervention programme aimed at providing learning support to pupils who enter Primary 1 with weak literacy skills. Pupils are identified for LSP through a systematic screening process carried out at the beginning of Primary 1. The objective of the LSP is to equip pupils with basic literacy skills so that they could access learning in the regular classroom.</p>
-<p>The LSP is implemented by qualified teachers appointed by their schools to be Learning Support Coordinators (LSCs). LSCs are given additional training by MOE HQ that equips them with specialised knowledge and skills to implement the programme. Pupils are supported daily for half an hour a day in groups of 8 to 10 pupils. Support continues in Primary 2 for pupils who need it.</p>
+<p>The LSP is a specialised early intervention programme aimed at providing learning support to pupils who enter Primary 1 with weak literacy skills. Pupils are identified for LSP through a systematic screening process carried out at the beginning of Primary 1. The objective of the LSP is to equip pupils with basic literacy skills so that they could access learning in the regular classroom.
+The LSP is implemented by qualified teachers appointed by their schools to be Learning Support Coordinators (LSCs). LSCs are given additional training by MOE HQ that equips them with specialised knowledge and skills to implement the programme. Students are supported daily for half an hour a day in groups of 8 to 10 pupils. Support continues in Primary 2 for pupils who need it.
+</p>
 <p><strong>School-based Dyslexia Remediation Programme (SDR)</strong></p>
-<p>The SDR programme is a two-year intervention for Primary Three and Four students who are identified through a systematic screening process for dyslexia conducted at the end of Primary Two. The programme is conducted in small groups by trained school personnel using a remediation curriculum designed by MOE. The curriculum has been designed taking into consideration the students’ learning profile and the contents of the mainstream English language curriculum. The school personnel conducting the programme also worked with the subject teachers and parents to closely monitor the students’ attendance and learning progress.</p>
+<p>The SDR programme is a two-year intervention for Primary Three and Four students who are identified through a systematic screening process for dyslexia conducted at the end of Primary Two. The programme is conducted in small groups by trained school personnel using a remediation curriculum designed by MOE. The curriculum has been designed taking into consideration the students’ learning profile and the contents of the mainstream English language curriculum. The school personnel conducting the programme also work with the subject teachers and parents to closely monitor the students’ attendance and learning progress. Lessons are conducted after curriculum hours from Monday to Wednesday, from 2pm to 3pm.</p>
+	
 <p><strong>Reading Remediation Programme (RRP)</strong></p>
-<p>The Reading Remediation Programme (RRP) aims to provide support for P3 and P4 students with reading difficulties.&nbsp;Specially trained EL teachers conduct targeted and focussed lessons to equip students with decoding and reading comprehension skills.</p>
-<p><strong>English Language Week</strong></p>
-<p>The English Language Week is an annual event organised to promote the effective use of the English Language and the love for reading.</p>
-<p><strong>Learning Journey</strong></p>
-<p>To provide students with authentic learning experiences, the school organises learning journeys to the Singapore Zoo and Singapore Science Centre for all Primary 1 and 2 students. The learning journeys coincide with the STELLAR themes and allow students to learn beyond the classroom. </p>
+<p>The Reading Remediation Programme (RRP) aims to provide support for P3 and P4 students with reading difficulties. Specially trained EL teachers conduct targeted and focussed lessons to equip students with decoding and reading comprehension skills. Lessons are conducted after curriculum hours on Tuesday and Wednesday, from 2pm to 3pm.</p></ul></ul>
