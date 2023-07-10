@@ -64,14 +64,14 @@ English is taught through stories and texts that appeal to children, with explic
 	
 <p><strong>Learning beyond the EL Classroom</strong></p>
 <p>Especially designed for the lower primary students, the authentic learning experiences promotes learning of the language beyond the EL Classroom. The lessons coincide with the STELLAR Units taught in Primary 1 and 2. </p>
-IMAGE
 
+![](/images/learning%20beyond%20el%20classroom.JPG)
 	
 <p>Primary 1 Experiential Learning – Walking through ZPS Gardens
 [STELLAR Unit – Walking through the Jungle]
 </p>
 
-IMAGE
+![](/images/p2%20learning%20beyond%20the%20classroom.JPG)
 	
 <p>Primary 2 Learning Day – Making Pizza Bread
 	[STELLAR Unit: Roti Prata] </p>
