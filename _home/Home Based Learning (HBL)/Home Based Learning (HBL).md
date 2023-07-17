@@ -6,16 +6,14 @@ third_nav_title: Home Based Learning (HBL)
 ---
 <img src="/images/HBL.png">
 <h4><strong>Home Based Learning (HBL)</strong></h4>
-<p>In support of the school&rsquo;s efforts to promote self-directed learning, we will be engaging our students at home through the Home-Based Learning Exercise (HBL) on the following days.</p>
+<p>In support of the school’s efforts to promote self-directed learning, we will be engaging our students at home through the Home-Based Learning Exercise (HBL) on the following day.</p>
 <table>
 <tbody>
 <tr>
-<th style="text-align: center;">P2 and P3</th>
-<th style="text-align: center;">P4 and P5</th>
-</tr>
-<tr>
-<td style="text-align: center;">5th April 2023</td>
-<td style="text-align: center;">13 April 2023</td>
+<th style="text-align: center;">P1 to P5</th>
+</tr><tr>
+<td style="text-align: center;">18th July 2023</td>
+<td style="text-align: center;"></td>
 </tr>
 </tbody>
 </table>
