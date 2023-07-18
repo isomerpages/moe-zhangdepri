@@ -15,9 +15,13 @@ third_nav_title: Home Based Learning (HBL)
 <td style="text-align: center;">18th July 2023</td><td style="text-align: center;"></td></tr>
 </tbody>
 </table>
+P1 Schedule
 [](/files/p1%20hbl%2018%20july%202023.pdf)
-<p></p>[](/files/p2%20hbl%2018%20july%202023.pdf)
-<p></p>[](/files/p3%20hbl%2018%20july%202023.pdf)
-<p></p>[](/files/p4%20hbl%2018%20july%202023.pdf)
+<p></p>P2 Schedule
+[](/files/p2%20hbl%2018%20july%202023.pdf)
+<p></p>P3 Schedule
+[](/files/p3%20hbl%2018%20july%202023.pdf)
+<p></p>P4 Schedule
+[](/files/p4%20hbl%2018%20july%202023.pdf)
 <h4><strong>Quick Tip! - Have Trouble Accessing SLS?</strong></h4>
 <img src="/images/SLS.jpeg">
