@@ -7,16 +7,19 @@ description: ""
 
 # E-Open House 2023
 ### **Introduction Video**
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSeaZ7_SqFwsc3KguRJFYSzIxOH23XBc4uDXbOPSO2cu649hCG3VoUj4bFGjKeo3rOWRZ_N9z8t4B9D/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true"></iframe>
+<iframe allowfullscreen="true" height="299" width="480" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSeaZ7_SqFwsc3KguRJFYSzIxOH23XBc4uDXbOPSO2cu649hCG3VoUj4bFGjKeo3rOWRZ_N9z8t4B9D/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+
+### **Good Stories from Parents**
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTLOGyIvcE2wJwjBj_ZCY17AeSMDxnYtUd_iE3Fozvv_4LMoSTIH9b-1FjD7SWGGY-FYnoaE9mFsIdr/embed?start=true&amp;loop=true&amp;delayms=15000" frameborder="0" width="480" height="299" allowfullscreen="true"></iframe>
 
  
 <h4><strong>Our Applied Learning Programme - Environment Education</strong></h4>
 
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/dF14dQ9VUOo" height="315" width="560"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dF14dQ9VUOo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
 
 <h4><strong>Our Learning for Life Programme - Outdoor Education</strong></h4>
 
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/lKJJjG-qD9A" height="315" width="560"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lKJJjG-qD9A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
 
 <h4><strong>A day in Zhangde Primary School</strong></h4>
 
