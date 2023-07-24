@@ -191,7 +191,7 @@ third_nav_title: Our Staff
   </tr>
   <tr>
     <td class="tg-j24s"><span style="color:#4C4C4C;background-color:#FFEFE3">1 Empathy</span><br></td>
-    <td class="tg-gfyo"><a href="mailto:tan_jie_ying_cherynn@schools.gov.sg">Ms Tan Jie Ying Cherynn</a></td>
+    <td class="tg-gfyo"><a href="mailto:cheong_chin_fang@schools.gov.sg">Ms Cheong Chin Fang</a></td>
     <td class="tg-gfyo"><a href="mailto:kayal_vili_pugalendi@schools.gov.sg">Mdm Kayal Vili d/o Pugalendi</a><br></td>
   </tr>
   <tr>
@@ -298,7 +298,7 @@ third_nav_title: Our Staff
   <tr>
     <td class="tg-j24s"><span style="color:#4C4C4C;background-color:#FFEFE3">3 Empathy</span><br></td>
     <td class="tg-gfyo"><a href="mailto:ang_su_hsien_fairlyn@schools.gov.sg">Ms Ang Su Hsien Fairlyn</a></td>
-    <td class="tg-zugg"><a href="mailto:ng_yeo_heng@schools.gov.sg" target="_blank" rel="noopener noreferrer">Mr Ng Yeo Heng</a></td>
+    <td class="tg-zugg"><a href="mailto:jane_toh_ka_ru@schools.gov.sg" target="_blank" rel="noopener noreferrer">Ms Jane Toh Ka Ru</a><br></td>
   </tr>
   <tr>
     <td class="tg-x88q"><span style="color:#4C4C4C;background-color:#EFFBFF">3 Responsibility</span><br></td>
@@ -448,8 +448,8 @@ third_nav_title: Our Staff
   <tr>
     <td class="tg-j24s"><span style="color:#4C4C4C;background-color:#FFEFE3">6 Empathy</span><br></td>
     <td class="tg-gfyo"><a href="mailto:lee_siew_ming@schools.gov.sg">Ms Lee Siew Ming</a></td>
-    <td class="tg-gfyo"><a href="mailto:liu_yuanling_candice@schools.gov.sgschools.gov.sg">Ms Liu Yuanling Candice</a><br><a href="mailto:jane_toh_ka_ru@schools.gov.sg">Ms Jane Toh Ka Ru</a>&nbsp;</td>
-  </tr>
+    <td class="tg-gfyo"><a href="mailto:liu_yuanling_candice@schools.gov.sgschools.gov.sg">Ms Liu Yuanling Candice</a><br><a>
+  </a></td></tr>
   <tr>
     <td class="tg-x88q"><span style="color:#4C4C4C;background-color:#EFFBFF">6 Responsibility</span><br></td>
     <td class="tg-ut1a"><a href="mailto:nur_farhana_zainal_abidin@schools.gov.sg">Ms Nur Farhana Binte Zainal Abidin</a></td>
