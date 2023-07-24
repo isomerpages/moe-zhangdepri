@@ -6,7 +6,7 @@ description: ""
 **Type of stall**: 
 Chinese Rice/ Japanese Rice/ Korean Rice
 
-Closing Date: 30 June 2023
+Closing Date: 15 August 2023
 
 **Application Procedure**
 
