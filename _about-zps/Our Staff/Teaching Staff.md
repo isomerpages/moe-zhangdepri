@@ -298,7 +298,7 @@ third_nav_title: Our Staff
   <tr>
     <td class="tg-j24s"><span style="color:#4C4C4C;background-color:#FFEFE3">3 Empathy</span><br></td>
     <td class="tg-gfyo"><a href="mailto:ang_su_hsien_fairlyn@schools.gov.sg">Ms Ang Su Hsien Fairlyn</a></td>
-    <td class="tg-zugg"><a href="mailto:ng_yeo_heng@schools.gov.sg" target="_blank" rel="noopener noreferrer">Mr Ng Yeo Heng</a></td>
+    <td class="tg-zugg"><a href="mailto:jane_toh_ka_ru@schools.gov.sg" target="_blank" rel="noopener noreferrer">Ms Jane Toh Ka Ru</a><br></td>
   </tr>
   <tr>
     <td class="tg-x88q"><span style="color:#4C4C4C;background-color:#EFFBFF">3 Responsibility</span><br></td>
