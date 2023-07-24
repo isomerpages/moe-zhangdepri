@@ -448,8 +448,8 @@ third_nav_title: Our Staff
   <tr>
     <td class="tg-j24s"><span style="color:#4C4C4C;background-color:#FFEFE3">6 Empathy</span><br></td>
     <td class="tg-gfyo"><a href="mailto:lee_siew_ming@schools.gov.sg">Ms Lee Siew Ming</a></td>
-    <td class="tg-gfyo"><a href="mailto:liu_yuanling_candice@schools.gov.sgschools.gov.sg">Ms Liu Yuanling Candice</a><br><a href="mailto:jane_toh_ka_ru@schools.gov.sg">Ms Jane Toh Ka Ru</a>&nbsp;</td>
-  </tr>
+    <td class="tg-gfyo"><a href="mailto:liu_yuanling_candice@schools.gov.sgschools.gov.sg">Ms Liu Yuanling Candice</a><br><a>
+  </a></td></tr>
   <tr>
     <td class="tg-x88q"><span style="color:#4C4C4C;background-color:#EFFBFF">6 Responsibility</span><br></td>
     <td class="tg-ut1a"><a href="mailto:nur_farhana_zainal_abidin@schools.gov.sg">Ms Nur Farhana Binte Zainal Abidin</a></td>
