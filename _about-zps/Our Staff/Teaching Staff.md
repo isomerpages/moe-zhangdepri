@@ -191,7 +191,7 @@ third_nav_title: Our Staff
   </tr>
   <tr>
     <td class="tg-j24s"><span style="color:#4C4C4C;background-color:#FFEFE3">1 Empathy</span><br></td>
-    <td class="tg-gfyo"><a href="mailto:tan_jie_ying_cherynn@schools.gov.sg">Ms Tan Jie Ying Cherynn</a></td>
+    <td class="tg-gfyo"><a href="mailto:cheong_chin_fang@schools.gov.sg">Ms Cheong Chin Fang</a></td>
     <td class="tg-gfyo"><a href="mailto:kayal_vili_pugalendi@schools.gov.sg">Mdm Kayal Vili d/o Pugalendi</a><br></td>
   </tr>
   <tr>
