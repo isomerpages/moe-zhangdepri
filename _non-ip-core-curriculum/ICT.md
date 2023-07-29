@@ -62,7 +62,7 @@ description: ""
   </tr>
   <tr>
     <td class="tg-8dwo">P5</td>
-    <td class="tg-8dwo">Ø  Game Creation using Makercode<br>Ø  Topic: Traditional Games</td>
+    <td class="tg-8dwo">Ø  Game Creation using MakeCode Arcade<br>Ø  Topic: Traditional Games</td>
   </tr>
   <tr>
     <td class="tg-8dwo">P6</td>
