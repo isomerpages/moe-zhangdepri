@@ -107,11 +107,9 @@ description: ""
     <tr><td class="tg-m8iq"><span style="color:#134F5C">31 Aug</span>  </td>
     <td class="tg-m8iq">Teachers' Day Celebration</td>
 		</tr>
-	
     <tr><td class="tg-m8iq"><span style="color:#134F5C">1 Sep</span>  </td>
     <td class="tg-m8iq">Teachers' Day Holiday</td>
 		</tr>
-	
     <tr><td class="tg-m8iq"><span style="color:#134F5C">2 - 10 Sep</span>  </td>
     <td class="tg-m8iq">School Holidays</td>
 		</tr>
