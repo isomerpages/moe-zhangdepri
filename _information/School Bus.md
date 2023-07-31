@@ -3,9 +3,28 @@ title: School Bus
 permalink: /information/schoolbus/
 description: ""
 ---
-**School Bus Service**
+# **School Bus Advertisement**
 
+To apply, please to the Service Requirements and the Application Procedure below.
 
-School Bus Operator and Bus Fare
+**Service Requirements**
+<br>
+1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Call for proposal [](/files/call%20for%20proposal.pdf)
+<br>
+2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Agreement for Appointment of School Bus Operator [](/files/agreement%20for%20appointment%20of%20school%20bus%20operator.pdf)
 
-[School Bus Service](/files/zhangde%20bus%20service%202023.pdf)
+**Application Procedure**
+<br>
+1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Complete the Call for Proposal – Annex A [](/files/call%20for%20proposal%20-%20annex%20a.pdf)
+<br>
+2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Submit the completed Call for Proposal – Annex A by 11 Aug 2023, to the School’s General Office.
+
+**Address:** 51 Jalan Membina, Singapore 169485<br>
+**Contact No**: 62740357<br>
+**Email**: zhangde\_ps@moe.edu.sg<br>
+**Contact Person:** Ms Verlencia Tan
+
+**How to get there?**
+<br>
+**Nearest MRT**: Tiong Bahru MRT<br>
+**Bus number:** 5, 16, 16M, 33, 63,121,122, 123, 123M, 195, 851
