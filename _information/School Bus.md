@@ -8,23 +8,23 @@ description: ""
 To apply, please to the Service Requirements and the Application Procedure below.
 
 **Service Requirements**
-
-1.       Call for proposal [](/files/call%20for%20proposal.pdf)
-
-2.       Agreement for Appointment of School Bus Operator [](/files/agreement%20for%20appointment%20of%20school%20bus%20operator.pdf)
+<br>
+1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Call for proposal [](/files/call%20for%20proposal.pdf)
+<br>
+2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Agreement for Appointment of School Bus Operator [](/files/agreement%20for%20appointment%20of%20school%20bus%20operator.pdf)
 
 **Application Procedure**
+<br>
+1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Complete the Call for Proposal – Annex A [](/files/call%20for%20proposal%20-%20annex%20a.pdf)
+<br>
+2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Submit the completed Call for Proposal – Annex A by 11 Aug 2023, to the School’s General Office.
 
-1.       Complete the Call for Proposal – Annex A [](/files/call%20for%20proposal%20-%20annex%20a.pdf)
-
-2.       Submit the completed Call for Proposal – Annex A by 11 Aug 2023, to the School’s General Office.
-
-**Address:** 51 Jalan Membina, Singapore 169485
-**Contact No**: 62740357
-**Email**: zhangde\_ps@moe.edu.sg
+**Address:** 51 Jalan Membina, Singapore 169485<br>
+**Contact No**: 62740357<br>
+**Email**: zhangde\_ps@moe.edu.sg<br>
 **Contact Person:** Ms Verlencia Tan
 
 **How to get there?**
-
-Nearest MRT: Tiong Bahru MRT
-Bus number: 5, 16, 16M, 33, 63,121,122, 123, 123M, 195, 851
+<br>
+**Nearest MRT**: Tiong Bahru MRT<br>
+**Bus number:** 5, 16, 16M, 33, 63,121,122, 123, 123M, 195, 851
