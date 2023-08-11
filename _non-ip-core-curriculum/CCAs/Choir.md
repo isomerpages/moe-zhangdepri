@@ -65,5 +65,7 @@ third_nav_title: CCAs
   </tr>
 </tbody>
 </table>
+
+<img src="/images/zhangde%20choir%20performance.JPG">
 <p>Throughout the journey in music, ZPS Choir has embraced the values of Resilience and Responsibility, which are also the school values. The hours of training taught ZPS Choir the essence of Teamwork.</p>
 <p>We look forward to more performances and scaling greater heights.</p>
