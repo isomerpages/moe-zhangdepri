@@ -16,4 +16,3 @@ third_nav_title: CCAs
 
 <h4><strong>National School Games 2023</strong></h4>
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQkeK2v_SC1efyaq9-boxXEUs_F7q2QTIpKWZNq_tqMt3wdPMfxNbNgxu0VOy2-Lg/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true"></iframe>
-
