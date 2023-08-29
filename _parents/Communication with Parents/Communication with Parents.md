@@ -19,3 +19,6 @@ third_nav_title: Communication with Parents
 <ul>
 <li><a href="/files/term%203%20student%20calendar%202023.pdf" target="_blank" rel="noopener">Term 3 Calendar</a></li>
 <li><a href="/files/term%203%20letter%20from%20the%20desk%20of%20the%20principal.pdf" target="_blank" rel="noopener">Term 3&nbsp;Letter to Parents</a></li></ul>
+<h4><strong>2023 Term 4</strong></h4>
+<ul>
+<li><a href="/files/term%204%20student%20calendar%202023.pdf" target="_blank" rel="noopener">Term 4 Calendar</a></li></ul>
