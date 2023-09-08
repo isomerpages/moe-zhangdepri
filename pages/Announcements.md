@@ -11,5 +11,5 @@ description: ""
 <p><strong><a href="/our-partners/parents/parents-engagement-sessions">2023 Parents Engagement Slides</a><br></strong>Click here to access the slides.</p>
 <hr>
 
-**Teacher's Day Celebrations - 31st August 2023**<br>School will be closed at 10.30am for the election day. <p></p>
+**Teacher's Day Celebrations - 31st August 2023**<br>School will be closed at 10.30am for the election day. 
 <hr>
