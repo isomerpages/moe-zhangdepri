@@ -12,16 +12,18 @@ third_nav_title: Home Based Learning (HBL)
 <tr>
 <th style="text-align: center;">P1 to P5</th>
 </tr><tr>
-<td style="text-align: center;">15th and 16th Aug 2023</td><td style="text-align: center;"></td></tr>
+<td style="text-align: center;">15th September 2023</td><td style="text-align: center;"></td></tr>
 </tbody>
 </table>
 P1 Schedule
-[](/files/p1%20hbl%20-%20psle%20oral%20days.pdf)
+[](/files/p1%202023%20hbl_15%20september.pdf)
 <p></p>P2 Schedule
-[](/files/p2%20hbl%20-%20psle%20oral%20days.pdf)
+[](/files/p2%202023%20hbl_15%20september.pdf)
 <p></p>P3 Schedule
+[](/files/p3%202023%20hbl_15%20september.pdf)
 <p></p>P4 Schedule
+[](/files/p4%202023%20hbl_15%20september.pdf)
 <p></p>P5 Schedule
-[](/files/p5%20hbl%20-%20psle%20oral%20days.pdf)
+[](/files/p5%202023%20hbl_15%20september.pdf)
 <h4><strong>Quick Tip! - Have Trouble Accessing SLS?</strong></h4>
 <img src="/images/SLS.jpeg">
