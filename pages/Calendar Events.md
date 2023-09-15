@@ -20,12 +20,12 @@ description: ""
     <td class="tg-m8iq">Teachers' Day Holiday</td>
   </tr>
   <tr>
-    <td class="tg-m8iq"><span style="color:#134F5C">30 Jun</span>  </td>
-    <td class="tg-m8iq">Olimpik Kampung Competition</td>
+    <td class="tg-m8iq"><span style="color:#134F5C">13 Sep</span>  </td>
+    <td class="tg-m8iq">Let’s Chat Session by PSG (Online)</td>
   </tr>
   <tr>
-    <td class="tg-m8iq"><span style="color:#134F5C">3 Jul</span>  </td>
-    <td class="tg-m8iq">Youth Day</td>
+    <td class="tg-m8iq"><span style="color:#134F5C">14 Sep</span>  </td>
+    <td class="tg-m8iq">P3 MTL Cultural Camp</td>
   </tr>
   <tr>
     <td class="tg-m8iq"><span style="color:#134F5C">4 - 5 Jul</span>  </td>
