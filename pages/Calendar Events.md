@@ -95,22 +95,18 @@ description: ""
     <td class="tg-m8iq"><span style="color:#134F5C">10 Nov</span>  </td>
     <td class="tg-m8iq">P1 Day Camp</td>
 	</tr>
-	<tr><td class="tg-m8iq"><span style="color:#134F5C">17 Aug</span>  </td>
-    <td class="tg-m8iq">P3 GEP Screening Exercise</td>
+	<tr><td class="tg-m8iq"><span style="color:#134F5C">15 Nov</span>  </td>
+    <td class="tg-m8iq">Deepavali Celebration
+
+Let’s Chat Session by PSG (Online)
+  </td></tr>
+	<tr><td class="tg-m8iq"><span style="color:#134F5C">16 Nov</span>  </td>
+    <td class="tg-m8iq">P6 Farewell Day (No school for P1 - P5)</td>
   </tr>
-	<tr><td class="tg-m8iq"><span style="color:#134F5C">16 - 18 Aug</span>  </td>
-    <td class="tg-m8iq">Let’s Chat Session by PSG (Online)</td>
+    <tr><td class="tg-m8iq"><span style="color:#134F5C">17 Nov</span>  </td>
+    <td class="tg-m8iq">P1 - P5 Celebrating Our 2023 Journey (No school for P6)</td>
   </tr>
-    <tr><td class="tg-m8iq"><span style="color:#134F5C">18 - 24 Aug</span>  </td>
-    <td class="tg-m8iq">Prelim Written Examinations</td>
-  </tr>
-    <tr><td class="tg-m8iq"><span style="color:#134F5C">31 Aug</span>  </td>
-    <td class="tg-m8iq">Teachers' Day Celebration</td>
-		</tr>
-    <tr><td class="tg-m8iq"><span style="color:#134F5C">1 Sep</span>  </td>
-    <td class="tg-m8iq">Teachers' Day Holiday</td>
-		</tr>
-    <tr><td class="tg-m8iq"><span style="color:#134F5C">2 - 10 Sep</span>  </td>
+    <tr><td class="tg-m8iq"><span style="color:#134F5C">18 Nov - 31 Dec</span>  </td>
     <td class="tg-m8iq">School Holidays</td>
 		</tr>
 </thead>
