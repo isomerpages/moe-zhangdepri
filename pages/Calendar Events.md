@@ -16,8 +16,8 @@ description: ""
 <table class="tg">
 <thead>
   <tr>
-    <td class="tg-m8iq"><span style="color:#134F5C">29 Jun</span>  </td>
-    <td class="tg-m8iq">Hari Raya Haji</td>
+    <td class="tg-m8iq"><span style="color:#134F5C">11 Sep</span>  </td>
+    <td class="tg-m8iq">Teachers' Day Holiday</td>
   </tr>
   <tr>
     <td class="tg-m8iq"><span style="color:#134F5C">30 Jun</span>  </td>
