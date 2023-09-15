@@ -48,24 +48,24 @@ description: ""
     <td class="tg-m8iq">P1, P2 &amp; P5 HBL</td>
   </tr>
   <tr>
-    <td class="tg-m8iq"><span style="color:#134F5C">12 &amp; 3 Oct</span>  </td>
+    <td class="tg-m8iq"><span style="color:#134F5C">2 &amp; 3 Oct</span>  </td>
     <td class="tg-m8iq">P3 &amp; P4 HBL</td>
   </tr>
   <tr>
-    <td class="tg-m8iq"><span style="color:#134F5C">18 Jul</span>  </td>
-    <td class="tg-m8iq">P6 Prelim Oral Examination (P1 to P5 HBL)</td>
+    <td class="tg-m8iq"><span style="color:#134F5C">5 Oct</span>  </td>
+    <td class="tg-m8iq">Sports Fiesta</td>
   </tr>
   <tr>
-    <td class="tg-m8iq"><span style="color:#134F5C">19 Jul</span>  </td>
-    <td class="tg-m8iq">Let’s Chat Session by PSG (Online)</td>
+    <td class="tg-m8iq"><span style="color:#134F5C">6 Oct</span>  </td>
+    <td class="tg-m8iq">Children's Day Holiday</td>
   </tr>
   <tr>
-    <td class="tg-m8iq"><span style="color:#134F5C">20 Jul</span>  </td>
-    <td class="tg-m8iq">Racial Harmony Day Celebration</td>
+    <td class="tg-m8iq"><span style="color:#134F5C">9 &amp; 10 Oct</span>  </td>
+    <td class="tg-m8iq">P5 EOY Oral Examination</td>
   </tr>
   <tr>
-    <td class="tg-m8iq"><span style="color:#134F5C">24 - 25 Jul</span>  </td>
-    <td class="tg-m8iq">P1 Phase 2B Registration</td>
+    <td class="tg-m8iq"><span style="color:#134F5C">11 &amp; 12 Oct</span>  </td>
+    <td class="tg-m8iq">Clean Plates Campaign @ Recess</td>
   </tr>
   <tr>
     <td class="tg-m8iq"><span style="color:#134F5C">1 - 3 Aug</span>  </td>
