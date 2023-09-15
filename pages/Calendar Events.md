@@ -3,7 +3,7 @@ title: Calendar Events
 permalink: /calendar-events/
 description: ""
 ---
-<h4><strong>CALENDAR EVENTS</strong></h4>
+2<h4><strong>CALENDAR EVENTS</strong></h4>
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -68,16 +68,16 @@ description: ""
     <td class="tg-m8iq">Clean Plates Campaign @ Recess</td>
   </tr>
   <tr>
-    <td class="tg-m8iq"><span style="color:#134F5C">1 - 3 Aug</span>  </td>
-    <td class="tg-m8iq">P1 Phase 2C Registration<br>
+    <td class="tg-m8iq"><span style="color:#134F5C">12, 13 &amp; 19 Oct</span>  </td>
+    <td class="tg-m8iq">P3 - P5 EOY Written Examination<br>
   </td></tr>
   <tr>
-    <td class="tg-m8iq"><span style="color:#134F5C">3 Aug</span>  </td>
-    <td class="tg-m8iq">P6 Prelim LC</td>
+    <td class="tg-m8iq"><span style="color:#134F5C">16 - 18 Oct</span>  </td>
+    <td class="tg-m8iq">PSLE Marking</td>
   </tr>
   <tr>
-    <td class="tg-m8iq"><span style="color:#134F5C">8 Aug</span>  </td>
-    <td class="tg-m8iq">National Day Celebration</td>
+    <td class="tg-m8iq"><span style="color:#134F5C">23 - 27 Oct</span>  </td>
+    <td class="tg-m8iq">P3 - P5 EOY Written Examination</td>
   </tr>
   <tr>
     <td class="tg-m8iq"><span style="color:#134F5C">9 - 10 Aug</span>  </td>
