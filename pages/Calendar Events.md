@@ -36,20 +36,20 @@ description: ""
     <td class="tg-m8iq">PSG Meeting</td>
   </tr>
   <tr>
-    <td class="tg-m8iq"><span style="color:#134F5C">10 Jul</span>  </td>
-    <td class="tg-m8iq">Student Leaders Investiture</td>
+    <td class="tg-m8iq"><span style="color:#134F5C">25 &amp; 26 Sep</span>  </td>
+    <td class="tg-m8iq">P3 &amp; P4 EOY Oral Examination</td>
   </tr>
   <tr>
-    <td class="tg-m8iq"><span style="color:#134F5C">12 - 14 Jul</span></td>
-    <td class="tg-m8iq">P1 Phase 2A Registration</td>
+    <td class="tg-m8iq"><span style="color:#134F5C">28 Sep - 4 Oct</span></td>
+    <td class="tg-m8iq">PSLE Written Examination</td>
   </tr>
   <tr>
-    <td class="tg-m8iq"><span style="color:#134F5C">13 Jul</span>  </td>
-    <td class="tg-m8iq">Characters Alive Arts Fest</td>
+    <td class="tg-m8iq"><span style="color:#134F5C">28 &amp; 29 Sep</span>  </td>
+    <td class="tg-m8iq">P1, P2 &amp; P5 HBL</td>
   </tr>
   <tr>
-    <td class="tg-m8iq"><span style="color:#134F5C">15 Jul</span>  </td>
-    <td class="tg-m8iq">PSG Meeting</td>
+    <td class="tg-m8iq"><span style="color:#134F5C">12 &amp; 3 Oct</span>  </td>
+    <td class="tg-m8iq">P3 &amp; P4 HBL</td>
   </tr>
   <tr>
     <td class="tg-m8iq"><span style="color:#134F5C">18 Jul</span>  </td>
