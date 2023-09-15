@@ -84,22 +84,22 @@ description: ""
     <td class="tg-m8iq">PSG Meeting</td>
   </tr>
   <tr>
-    <td class="tg-m8iq"><span style="color:#134F5C">14 - 22 Aug</span>  </td>
-    <td class="tg-m8iq">Weighted Assessment 2</td>
+    <td class="tg-m8iq"><span style="color:#134F5C">6 Nov</span>  </td>
+    <td class="tg-m8iq">Admin Day</td>
   </tr>
   <tr>
-    <td class="tg-m8iq"><span style="color:#134F5C">15 - 16 Aug</span>  </td>
-    <td class="tg-m8iq">PSLE Oral Examinations (P1 to P5 HBL)</td>
+    <td class="tg-m8iq"><span style="color:#134F5C">8 Nov</span>  </td>
+    <td class="tg-m8iq">P1 - P5 Parent Engagement Session</td>
 		</tr>
 	<tr>
-    <td class="tg-m8iq"><span style="color:#134F5C">16 Aug</span>  </td>
-    <td class="tg-m8iq">Let’s Chat Session by PSG (Online)</td>
+    <td class="tg-m8iq"><span style="color:#134F5C">10 Nov</span>  </td>
+    <td class="tg-m8iq">P1 Day Camp</td>
 	</tr>
 	<tr><td class="tg-m8iq"><span style="color:#134F5C">17 Aug</span>  </td>
     <td class="tg-m8iq">P3 GEP Screening Exercise</td>
   </tr>
 	<tr><td class="tg-m8iq"><span style="color:#134F5C">16 - 18 Aug</span>  </td>
-    <td class="tg-m8iq">P1 Phase 2C Supplementary Registration</td>
+    <td class="tg-m8iq">Let’s Chat Session by PSG (Online)</td>
   </tr>
     <tr><td class="tg-m8iq"><span style="color:#134F5C">18 - 24 Aug</span>  </td>
     <td class="tg-m8iq">Prelim Written Examinations</td>
