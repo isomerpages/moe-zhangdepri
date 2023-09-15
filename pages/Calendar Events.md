@@ -80,8 +80,8 @@ description: ""
     <td class="tg-m8iq">P3 - P5 EOY Written Examination</td>
   </tr>
   <tr>
-    <td class="tg-m8iq"><span style="color:#134F5C">9 - 10 Aug</span>  </td>
-    <td class="tg-m8iq">National Day Holidays</td>
+    <td class="tg-m8iq"><span style="color:#134F5C">4 Nov</span>  </td>
+    <td class="tg-m8iq">PSG Meeting</td>
   </tr>
   <tr>
     <td class="tg-m8iq"><span style="color:#134F5C">14 - 22 Aug</span>  </td>
