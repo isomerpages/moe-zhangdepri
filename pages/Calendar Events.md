@@ -28,12 +28,12 @@ description: ""
     <td class="tg-m8iq">P3 MTL Cultural Camp</td>
   </tr>
   <tr>
-    <td class="tg-m8iq"><span style="color:#134F5C">4 - 5 Jul</span>  </td>
-    <td class="tg-m8iq">P1 Phase 1 Registration</td>
+    <td class="tg-m8iq"><span style="color:#134F5C">15 Sep</span>  </td>
+    <td class="tg-m8iq">PSLE LC Examination (P1 to P5 HBL)</td>
   </tr>
   <tr>
-    <td class="tg-m8iq"><span style="color:#134F5C">6 - 8 Jul</span>  </td>
-    <td class="tg-m8iq">P4 Adventure Camp</td>
+    <td class="tg-m8iq"><span style="color:#134F5C">16 Sep</span>  </td>
+    <td class="tg-m8iq">PSG Meeting</td>
   </tr>
   <tr>
     <td class="tg-m8iq"><span style="color:#134F5C">10 Jul</span>  </td>
