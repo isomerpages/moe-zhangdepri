@@ -252,7 +252,7 @@ third_nav_title: Our Staff
   <tr>
     <td class="tg-j24s"><span style="color:#4C4C4C;background-color:#FFEFE3">2 Respect</span></td>
     <td class="tg-gfyo"><a href="mailto:li_lam_mui_connie@schools.gov.sg">Ms Li Lam Mui Connie</a></td>
-    <td class="tg-gfyo"><a href="mailto:Kwan_Lee_Suan@schools.gov.sg">Mdm Kwan Lee Suan</a></td>
+    <td class="tg-gfyo"><a href="mailto:Ong_Wei_Ting@schools.gov.sg">Ms Ong Wei Ting</a></td>
   </tr>
   <tr>
     <td class="tg-x88q"><span style="color:#4C4C4C;background-color:#EFFBFF">2 Sincerity</span><br></td>
@@ -408,7 +408,9 @@ third_nav_title: Our Staff
   <tr>
     <td class="tg-j24s"><span style="color:#4C4C4C;background-color:#FFEFE3">5 Sincerity</span></td>
     <td class="tg-gfyo"><a href="mailto:farzana_begum_kamal@schools.gov.sg">Ms Farzana Begum Binte Kamal</a></td>
-    <td class="tg-gfyo"> </td>
+    <td class="tg-gfyo"><a href="mailto:Li_Liqin@schools.gov.sg">Mdm Li Liqin</a></td>
+  </tr>
+  <tr>
   </tr>
 </tbody>
 </table>
