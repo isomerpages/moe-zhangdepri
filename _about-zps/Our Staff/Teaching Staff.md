@@ -252,7 +252,7 @@ third_nav_title: Our Staff
   <tr>
     <td class="tg-j24s"><span style="color:#4C4C4C;background-color:#FFEFE3">2 Respect</span></td>
     <td class="tg-gfyo"><a href="mailto:li_lam_mui_connie@schools.gov.sg">Ms Li Lam Mui Connie</a></td>
-    <td class="tg-gfyo"><a href="mailto:Kwan_Lee_Suan@schools.gov.sg">Mdm Kwan Lee Suan</a></td>
+    <td class="tg-gfyo"><a href="mailto:Ong_Wei_Ting@schools.gov.sg">Ms Ong Wei Ting</a></td>
   </tr>
   <tr>
     <td class="tg-x88q"><span style="color:#4C4C4C;background-color:#EFFBFF">2 Sincerity</span><br></td>
@@ -293,12 +293,12 @@ third_nav_title: Our Staff
   <tr>
     <td class="tg-x88q"><span style="color:#4C4C4C;background-color:#EFFBFF">3 Versatility</span><br></td>
     <td class="tg-ut1a"><a href="mailto:karine_lau_zi_xi@schools.gov.sg">Ms Karine Lau Zi Xi</a></td>
-    <td class="tg-ut1a"><a href="mailto:Sangappillai_Vasuki@schools.gov.sg">Ms Sangappillai Vasuki</a></td>
+    <td class="tg-ut1a"><a href="mailto:Sangappillai_Vasuki@schools.gov.sg">Mdm Sangappillai Vasuki</a></td>
   </tr>
   <tr>
     <td class="tg-j24s"><span style="color:#4C4C4C;background-color:#FFEFE3">3 Empathy</span><br></td>
     <td class="tg-gfyo"><a href="mailto:ang_su_hsien_fairlyn@schools.gov.sg">Ms Ang Su Hsien Fairlyn</a></td>
-    <td class="tg-zugg"><a href="mailto:jane_toh_ka_ru@schools.gov.sg" target="_blank" rel="noopener noreferrer">Ms Jane Toh Ka Ru</a><br></td>
+    <td class="tg-zugg"><a rel="noopener noreferrer" target="_blank" href="mailto:jane_toh_ka_ru@schools.gov.sg">Ms Jane Toh Ka Ru</a><br></td>
   </tr>
   <tr>
     <td class="tg-x88q"><span style="color:#4C4C4C;background-color:#EFFBFF">3 Responsibility</span><br></td>
@@ -408,7 +408,9 @@ third_nav_title: Our Staff
   <tr>
     <td class="tg-j24s"><span style="color:#4C4C4C;background-color:#FFEFE3">5 Sincerity</span></td>
     <td class="tg-gfyo"><a href="mailto:farzana_begum_kamal@schools.gov.sg">Ms Farzana Begum Binte Kamal</a></td>
-    <td class="tg-gfyo"> </td>
+    <td class="tg-gfyo"><a href="mailto:Li_Liqin@schools.gov.sg">Mdm Li Liqin</a></td>
+  </tr>
+  <tr>
   </tr>
 </tbody>
 </table>
@@ -512,6 +514,14 @@ third_nav_title: Our Staff
   <tr>
     <td class="tg-qphe"><a href="mailto:yang_XIAOQI@schools.gov.sg">Ms Yang Xiaoqi</a></td>
     <td class="tg-qphe"><a href="mailto:shi_hairong@schools.gov.sg">Ms Shi Hai Rong </a></td>
+		</tr>
+  <tr>
+    <td class="tg-52k0"><a href="mailto:Li_Liqin@schools.gov.sg">Mdm Li Liqin</a></td>
+    <td class="tg-52k0"><a href="mailto:Kwan_Lee_Suan@schools.gov.sg">Mdm Kwan Lee Suan</a></td>
+		</tr>
+  <tr>
+    <td class="tg-qphe"><a href="mailto:Ong_Wei_Ting@schools.gov.sg">Ms Ong Wei Ting</a></td>
+    <td class="tg-qphe"><a href="mailto:Wong_King_Sing_A@schools.gov.sg">Mdm Wong King Sing </a></td>
   </tr>
 </tbody>
 </table>
@@ -541,7 +551,7 @@ third_nav_title: Our Staff
     <td class="tg-52k0"><a href="mailto:radziah_mohamed@schools.gov.sg">Mdm Radziah Mohamed</a></td>
   </tr>
   <tr>
-    <td class="tg-63nx"><a href="mailto:nur_afiqah_mokhtar_kamarudin@schools.gov.sg"><span style="background-color:#FFF">Ms Nur Afiqah Mokhtar Kamarudin</span></a></td>
+    <td class="tg-qphe"><a href="mailto:nur_afiqah_mokhtar_kamarudin@schools.gov.sg">Ms Nur Afiqah Mokhtar Kamarudin</a></td>
     <td class="tg-qphe"><a href="mailto:Nailah_Nizam_Thaha@schools.gov.sg">Ms Nailah Binte Nizam Thaha</a></td>
   </tr>
 </tbody>
@@ -562,19 +572,18 @@ third_nav_title: Our Staff
 <thead>
   <tr>
     <th class="tg-qphe"><a href="mailto:sundararajan_anandavalli@schools.gov.sg">Mdm Sundararajan Anandavalli</a></th>
-    <th class="tg-qphe"><a href="mailto:shahul_hameed_ameer_hamsah@schools.gov.sg <shahul_hameed_ameer_hamsah@schools.gov.sg">Mr Shahul Hameed s/o Ameer Hamsah</a></th>
+    <th class="tg-qphe"><a href="mailto:kayal_vili_pugalendi@schools.gov.sg<shahul_hameed_ameer_hamsah@schools.gov.sg">Mdm Kayal Vili d/o Pugalendi</a></th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-52k0"><a href="mailto:kayal_vili_pugalendi@schools.gov.sg">Mdm Kayal Vili d/o Pugalendi</a></td>
+    <td class="tg-52k0"><a href="mailto:Sangappillai_Vasuki@schools.gov.sg">Mdm Sangappillai Vasuki</a></td>
     <td class="tg-52k0"><a href="mailto:azimah_begam_haja_mohidin@schools.gov.sg@schools.gov.sg">Ms Azimah Begam</a><br></td>
   </tr>
   <tr>
     <td class="tg-qphe"><a href="mailto:poopathey_thaigarajan@schools.gov.sg">Mr Poopathey Thaigarajan</a></td>
-    <td class="tg-qphe"><a href="mailto:Sangappillai_Vasuki@schools.gov.sg">Ms Sangappillai Vasuki</a></td>
-  </tr>
-</tbody>
+ <td class="tg-qphe"><a>
+</a></td></tr></tbody>
 </table>
 
 <p><strong>LEARNING SUPPORT</strong></p>

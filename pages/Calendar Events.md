@@ -3,7 +3,7 @@ title: Calendar Events
 permalink: /calendar-events/
 description: ""
 ---
-<h4><strong>CALENDAR EVENTS</strong></h4>
+2<h4><strong>CALENDAR EVENTS</strong></h4>
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -16,101 +16,97 @@ description: ""
 <table class="tg">
 <thead>
   <tr>
-    <td class="tg-m8iq"><span style="color:#134F5C">29 Jun</span>  </td>
-    <td class="tg-m8iq">Hari Raya Haji</td>
+    <td class="tg-m8iq"><span style="color:#134F5C">11 Sep</span>  </td>
+    <td class="tg-m8iq">Teachers' Day Holiday</td>
   </tr>
   <tr>
-    <td class="tg-m8iq"><span style="color:#134F5C">30 Jun</span>  </td>
-    <td class="tg-m8iq">Olimpik Kampung Competition</td>
+    <td class="tg-m8iq"><span style="color:#134F5C">13 Sep</span>  </td>
+    <td class="tg-m8iq">Let’s Chat Session by PSG (Online)</td>
   </tr>
   <tr>
-    <td class="tg-m8iq"><span style="color:#134F5C">3 Jul</span>  </td>
-    <td class="tg-m8iq">Youth Day</td>
+    <td class="tg-m8iq"><span style="color:#134F5C">14 Sep</span>  </td>
+    <td class="tg-m8iq">P3 MTL Cultural Camp</td>
   </tr>
   <tr>
-    <td class="tg-m8iq"><span style="color:#134F5C">4 - 5 Jul</span>  </td>
-    <td class="tg-m8iq">P1 Phase 1 Registration</td>
+    <td class="tg-m8iq"><span style="color:#134F5C">15 Sep</span>  </td>
+    <td class="tg-m8iq">PSLE LC Examination (P1 to P5 HBL)</td>
   </tr>
   <tr>
-    <td class="tg-m8iq"><span style="color:#134F5C">6 - 8 Jul</span>  </td>
-    <td class="tg-m8iq">P4 Adventure Camp</td>
-  </tr>
-  <tr>
-    <td class="tg-m8iq"><span style="color:#134F5C">10 Jul</span>  </td>
-    <td class="tg-m8iq">Student Leaders Investiture</td>
-  </tr>
-  <tr>
-    <td class="tg-m8iq"><span style="color:#134F5C">12 - 14 Jul</span></td>
-    <td class="tg-m8iq">P1 Phase 2A Registration</td>
-  </tr>
-  <tr>
-    <td class="tg-m8iq"><span style="color:#134F5C">13 Jul</span>  </td>
-    <td class="tg-m8iq">Characters Alive Arts Fest</td>
-  </tr>
-  <tr>
-    <td class="tg-m8iq"><span style="color:#134F5C">15 Jul</span>  </td>
+    <td class="tg-m8iq"><span style="color:#134F5C">16 Sep</span>  </td>
     <td class="tg-m8iq">PSG Meeting</td>
   </tr>
   <tr>
-    <td class="tg-m8iq"><span style="color:#134F5C">18 Jul</span>  </td>
-    <td class="tg-m8iq">P6 Prelim Oral Examination (P1 to P5 HBL)</td>
+    <td class="tg-m8iq"><span style="color:#134F5C">25 &amp; 26 Sep</span>  </td>
+    <td class="tg-m8iq">P3 &amp; P4 EOY Oral Examination</td>
   </tr>
   <tr>
-    <td class="tg-m8iq"><span style="color:#134F5C">19 Jul</span>  </td>
-    <td class="tg-m8iq">Let’s Chat Session by PSG (Online)</td>
+    <td class="tg-m8iq"><span style="color:#134F5C">28 Sep - 4 Oct</span></td>
+    <td class="tg-m8iq">PSLE Written Examination</td>
   </tr>
   <tr>
-    <td class="tg-m8iq"><span style="color:#134F5C">20 Jul</span>  </td>
-    <td class="tg-m8iq">Racial Harmony Day Celebration</td>
+    <td class="tg-m8iq"><span style="color:#134F5C">28 &amp; 29 Sep</span>  </td>
+    <td class="tg-m8iq">P1, P2 &amp; P5 HBL</td>
   </tr>
   <tr>
-    <td class="tg-m8iq"><span style="color:#134F5C">24 - 25 Jul</span>  </td>
-    <td class="tg-m8iq">P1 Phase 2B Registration</td>
+    <td class="tg-m8iq"><span style="color:#134F5C">2 &amp; 3 Oct</span>  </td>
+    <td class="tg-m8iq">P3 &amp; P4 HBL</td>
   </tr>
   <tr>
-    <td class="tg-m8iq"><span style="color:#134F5C">1 - 3 Aug</span>  </td>
-    <td class="tg-m8iq">P1 Phase 2C Registration<br>
+    <td class="tg-m8iq"><span style="color:#134F5C">5 Oct</span>  </td>
+    <td class="tg-m8iq">Sports Fiesta</td>
+  </tr>
+  <tr>
+    <td class="tg-m8iq"><span style="color:#134F5C">6 Oct</span>  </td>
+    <td class="tg-m8iq">Children's Day Holiday</td>
+  </tr>
+  <tr>
+    <td class="tg-m8iq"><span style="color:#134F5C">9 &amp; 10 Oct</span>  </td>
+    <td class="tg-m8iq">P5 EOY Oral Examination</td>
+  </tr>
+  <tr>
+    <td class="tg-m8iq"><span style="color:#134F5C">11 &amp; 12 Oct</span>  </td>
+    <td class="tg-m8iq">Clean Plates Campaign @ Recess</td>
+  </tr>
+  <tr>
+    <td class="tg-m8iq"><span style="color:#134F5C">12, 13 &amp; 19 Oct</span>  </td>
+    <td class="tg-m8iq">P3 - P5 EOY Written Examination<br>
   </td></tr>
   <tr>
-    <td class="tg-m8iq"><span style="color:#134F5C">3 Aug</span>  </td>
-    <td class="tg-m8iq">P6 Prelim LC</td>
+    <td class="tg-m8iq"><span style="color:#134F5C">16 - 18 Oct</span>  </td>
+    <td class="tg-m8iq">PSLE Marking</td>
   </tr>
   <tr>
-    <td class="tg-m8iq"><span style="color:#134F5C">8 Aug</span>  </td>
-    <td class="tg-m8iq">National Day Celebration</td>
+    <td class="tg-m8iq"><span style="color:#134F5C">23 - 27 Oct</span>  </td>
+    <td class="tg-m8iq">P3 - P5 EOY Written Examination</td>
   </tr>
   <tr>
-    <td class="tg-m8iq"><span style="color:#134F5C">9 - 10 Aug</span>  </td>
-    <td class="tg-m8iq">National Day Holidays</td>
+    <td class="tg-m8iq"><span style="color:#134F5C">4 Nov</span>  </td>
+    <td class="tg-m8iq">PSG Meeting</td>
   </tr>
   <tr>
-    <td class="tg-m8iq"><span style="color:#134F5C">14 - 22 Aug</span>  </td>
-    <td class="tg-m8iq">Weighted Assessment 2</td>
+    <td class="tg-m8iq"><span style="color:#134F5C">6 Nov</span>  </td>
+    <td class="tg-m8iq">Admin Day</td>
   </tr>
   <tr>
-    <td class="tg-m8iq"><span style="color:#134F5C">15 - 16 Aug</span>  </td>
-    <td class="tg-m8iq">PSLE Oral Examinations (P1 to P5 HBL)</td>
+    <td class="tg-m8iq"><span style="color:#134F5C">8 Nov</span>  </td>
+    <td class="tg-m8iq">P1 - P5 Parent Engagement Session</td>
 		</tr>
 	<tr>
-    <td class="tg-m8iq"><span style="color:#134F5C">16 Aug</span>  </td>
-    <td class="tg-m8iq">Let’s Chat Session by PSG (Online)</td>
+    <td class="tg-m8iq"><span style="color:#134F5C">10 Nov</span>  </td>
+    <td class="tg-m8iq">P1 Day Camp</td>
 	</tr>
-	<tr><td class="tg-m8iq"><span style="color:#134F5C">17 Aug</span>  </td>
-    <td class="tg-m8iq">P3 GEP Screening Exercise</td>
+	<tr><td class="tg-m8iq"><span style="color:#134F5C">15 Nov</span>  </td>
+    <td class="tg-m8iq">Deepavali Celebration
+
+Let’s Chat Session by PSG (Online)
+  </td></tr>
+	<tr><td class="tg-m8iq"><span style="color:#134F5C">16 Nov</span>  </td>
+    <td class="tg-m8iq">P6 Farewell Day (No school for P1 - P5)</td>
   </tr>
-	<tr><td class="tg-m8iq"><span style="color:#134F5C">16 - 18 Aug</span>  </td>
-    <td class="tg-m8iq">P1 Phase 2C Supplementary Registration</td>
+    <tr><td class="tg-m8iq"><span style="color:#134F5C">17 Nov</span>  </td>
+    <td class="tg-m8iq">P1 - P5 Celebrating Our 2023 Journey (No school for P6)</td>
   </tr>
-    <tr><td class="tg-m8iq"><span style="color:#134F5C">18 - 24 Aug</span>  </td>
-    <td class="tg-m8iq">Prelim Written Examinations</td>
-  </tr>
-    <tr><td class="tg-m8iq"><span style="color:#134F5C">31 Aug</span>  </td>
-    <td class="tg-m8iq">Teachers' Day Celebration</td>
-		</tr>
-    <tr><td class="tg-m8iq"><span style="color:#134F5C">1 Sep</span>  </td>
-    <td class="tg-m8iq">Teachers' Day Holiday</td>
-		</tr>
-    <tr><td class="tg-m8iq"><span style="color:#134F5C">2 - 10 Sep</span>  </td>
+    <tr><td class="tg-m8iq"><span style="color:#134F5C">18 Nov - 31 Dec</span>  </td>
     <td class="tg-m8iq">School Holidays</td>
 		</tr>
 </thead>
