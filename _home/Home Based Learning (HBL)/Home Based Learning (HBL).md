@@ -6,23 +6,26 @@ third_nav_title: Home Based Learning (HBL)
 ---
 <img src="/images/HBL.png">
 <h4><strong>Home Based Learning (HBL)</strong></h4>
-<p>In support of the school’s efforts to promote self-directed learning, we will be engaging our students at home through the Home-Based Learning Exercise (HBL) on the following day.</p>
+<p>In support of the school’s efforts to promote self-directed learning, we will be engaging our students at home through the Home-Based Learning Exercise (HBL) on the following day. </p>
 <p></p><table>
 <tbody>
-<tr>
-<th style="text-align: center;">P1 to P5</th>
-</tr><tr>
-<td style="text-align: center;">15th September 2023</td><td style="text-align: center;"></td></tr>
-</tbody>
-</table>
+<tr></tr></tbody></table>
+	
+
+| Level | Dates | Schedule |
+| -------- | -------- | -------- |
+| P1, P2 and P5    | 28 Sep 2023  |[](/files/zhangde%20primary%20school_hbl%20schedule_p1p2p5_28sep2023_final.pdf)|    
+|    | 29 Sep 2023  | Text |   
+| P3 and P4    | 2 Oct 2023  | Text |   
+|    | 3 Oct 2023  | Text |   
+
+	
+**Detailed Schedule:**
+
 P1 Schedule
 [](/files/p1%202023%20hbl_15%20september.pdf)
 <p></p>P2 Schedule
 [](/files/p2%202023%20hbl_15%20september.pdf)
-<p></p>P3 Schedule
-[](/files/p3%202023%20hbl_15%20september.pdf)
-<p></p>P4 Schedule
-[](/files/p4%202023%20hbl_15%20september.pdf)
 <p></p>P5 Schedule
 [](/files/p5%202023%20hbl_15%20september.pdf)
 <h4><strong>Quick Tip! - Have Trouble Accessing SLS?</strong></h4>
