@@ -6,7 +6,7 @@ third_nav_title: Home Based Learning (HBL)
 ---
 <img src="/images/HBL.png">
 <h4><strong>Home Based Learning (HBL)</strong></h4>
-<p>In support of the school’s efforts to promote self-directed learning, we will be engaging our students at home through the Home-Based Learning Exercise (HBL) on the following day. </p>
+<p>In support of the school’s efforts to promote self-directed learning, we will be engaging our students at home through the Home-Based Learning Exercise (HBL) on the following days. </p>
 <p></p><table>
 <tbody>
 <tr></tr></tbody></table>
