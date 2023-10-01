@@ -4,8 +4,7 @@ title: Zhangde Primary School
 description: An Isomer site of the Singapore Government
 image: /images/logo.jpg
 permalink: /
-notification: "Zhangde Primary School Open House: Join us in the virtual tour
-  around the school!!"
+notification: ""
 sections:
   - hero:
       background: /images/banner.jpg
