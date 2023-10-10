@@ -17,3 +17,7 @@ description: ""
 <p><strong>School Bus<br></strong>Revolving Transport Pte Ltd<br>Tel: 6479 7597 / 9277 0099<br>Email: <a href="mailto:emltpt96@gmail.com">emltpt96@gmail.com</a></p>
 <p><strong>School Dental Clinic<br></strong>Tel: 8940 0375</p>
 <p>The School Dental Services provide free dental services for our students.</p>
+
+### Words of compliment for our Staff!!
+
+Do send them through this [form](https://go.gov.sg/zpsform). 
