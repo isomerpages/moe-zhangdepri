@@ -21,10 +21,10 @@ third_nav_title: Home Based Learning (HBL)
 **Detailed Schedule:**
 
 P1 Schedule
-P2 Schedule
-P3 Schedule
+<p></p>P2 Schedule
+<p></p>P3 Schedule
 [](/files/p3%202023%20hbl_2%20&amp;%203%20october.pdf)
-<p></p>P4 Schedule
+<p></p>P5 Schedule
 [](/files/p4%202023%20hbl_2%20&amp;%203%20october.pdf)
 
 <h4><strong>Quick Tip! - Have Trouble Accessing SLS?</strong></h4>
