@@ -17,10 +17,10 @@ variant: markdown
 <td>&nbsp;<strong><a href="/files/P5__FDN__BOOKLIST_2024.pdf" target="_blank" rel="noopener">P5 Fdn Booklist</a></strong></td>
 </tr>
 <tr>
-<td><strong><a href="/files/P2%20BOOKLIST.pdf" target="_blank" rel="noopener">P2 Booklist</a><br></strong></td>
-<td><strong><a href="/files/P4%20BOOKLIST.pdf" target="_blank" rel="noopener">P4 Booklist</a></strong></td>
-<td><strong><a href="/files/P6%20BOOKLIST.pdf" target="_blank" rel="noopener">P6 Booklist</a><br></strong></td>
-<td><strong>&nbsp;<a href="/files/P6%20FDN%20BOOKLIST.pdf" target="_blank" rel="noopener">P6 Fdn Booklist</a></strong></td>
+<td><strong><a href="/files/P2_BOOKLIST_2024.pdf" target="_blank" rel="noopener">P2 Booklist</a><br></strong></td>
+<td><strong><a href="/files/P4_BOOKLIST_2024.pdf" target="_blank" rel="noopener">P4 Booklist</a></strong></td>
+<td><strong><a href="/files/P6_BOOKLIST_2024.pdf" target="_blank" rel="noopener">P6 Booklist</a><br></strong></td>
+<td><strong>&nbsp;<a href="/files/P6__FDN__BOOKLIST_2024.pdf" target="_blank" rel="noopener">P6 Fdn Booklist</a></strong></td>
 </tr>
 </tbody>
 </table>
