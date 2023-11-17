@@ -2,7 +2,7 @@
 title: 2024 Booklists
 permalink: /resources/students-hub/2024-booklists/
 description: ""
-variant: tiptap
+variant: markdown
 ---
 <img src="/images/Resourcesheader2.png">
 
@@ -11,10 +11,10 @@ variant: tiptap
 <table>
 <tbody>
 <tr>
-<th><a href="/files/P1%20BOOKLIST.pdf" target="_blank" rel="noopener">P1 Booklist</a></th>
-<th><a href="/files/P3%20BOOKLIST.pdf" target="_blank" rel="noopener">P3 Booklist</a></th>
-<th><a href="/files/P5%20BOOKLIST.pdf" target="_blank" rel="noopener">P5 Booklist</a></th>
-<td>&nbsp;<strong><a href="/files/P5%20FDN%20BOOKLIST.pdf" target="_blank" rel="noopener">P5 Fdn Booklist</a></strong></td>
+<th><a href="/files/P1_BOOKLIST_2024.pdf" target="_blank" rel="noopener">P1 Booklist</a></th>
+<th><a href="/files/P3_BOOKLIST_2024.pdf" target="_blank" rel="noopener">P3 Booklist</a></th>
+<th><a href="/files/P5_BOOKLIST_2024.pdf" target="_blank" rel="noopener">P5 Booklist</a></th>
+<td>&nbsp;<strong><a href="/files/P5__FDN__BOOKLIST_2024.pdf" target="_blank" rel="noopener">P5 Fdn Booklist</a></strong></td>
 </tr>
 <tr>
 <td><strong><a href="/files/P2%20BOOKLIST.pdf" target="_blank" rel="noopener">P2 Booklist</a><br></strong></td>
