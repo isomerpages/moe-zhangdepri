@@ -74,7 +74,7 @@ variant: markdown
   </tr>
   <tr>
     <td class="tg-j24s"><span style="color:#4C4C4C;background-color:#FFEFE3">Desktop Enginner </span></td>
-    <td class="tg-ntrq">Ms Rina Johari<br>Mr J. Ganesan</td>
+    <td class="tg-ntrq">Mr J. Ganesan</td>
   </tr>
   <tr>
     <td class="tg-x88q"><span style="color:#4C4C4C;background-color:#EFFBFF">Library Assistant</span><br></td>
@@ -84,9 +84,6 @@ variant: markdown
     <td class="tg-j24s"><span style="color:#4C4C4C;background-color:#FFEFE3">Receptionist</span><br></td>
     <td class="tg-gfyo"><a href="mailto:juliana_peris@schools.gov.sg">Mdm Juliana Peris</a></td>
 		</tr>
-  <tr>
-    <td class="tg-x88q"><span style="color:#4C4C4C;background-color:#EFFBFF">Corporate Support Officers</span><br></td>
-    <td class="tg-ut1a"><a href="mailto:G_Poongkughali@schools.gov.sg">Ms G Poongkughali </a><br></td>
-  </tr>
-</tbody>
+  <tr> 
+</tr></tbody>
 </table>
