@@ -2,9 +2,10 @@
 title: Parent Engagement Sessions
 permalink: /our-partners/parents/parents-engagement-sessions/
 description: ""
+variant: markdown
 ---
 <img src="/images/OurPartners.png">
-<h4><strong>2023 P1 Orientation</strong></h4>
+<h4><strong>2024 P1 Orientation</strong></h4>
 <ul>
 <li><a href="/files/2023%20P1%20Orientation%20Sharing%20for%20Parents_%20School%20Website.pdf" target="_blank" rel="noopener">P1 Orientation Slides to Parents</a></li>
 <li><a href="/files/Parents%20Gateway%20Instrutional%20Guide%20(Installation).pdf" target="_blank" rel="noopener">Guide for Parents Gateway Installation</a></li>
