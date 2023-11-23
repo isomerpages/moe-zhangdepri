@@ -3,6 +3,7 @@ title: Executive & Administrative Staff
 permalink: /about-zps/our-staff/executive-n-administrative-staff/
 description: ""
 third_nav_title: Our Staff
+variant: markdown
 ---
 <img src="/images/AboutUs.png">
 <h4><strong>Executive &amp; Administrative Staff</strong></h4>
@@ -38,6 +39,14 @@ third_nav_title: Our Staff
     <td class="tg-x88q"><span style="color:#4C4C4C;background-color:#EFFBFF"></span><br></td>
     <td class="tg-ut1a"><a href="mailto:Jannath_beevi_Johabar_ali@schools.gov.sg">Ms Jannath Beevi Bte A Johabar Ali</a><br></td>
   </tr>
+	<tr>
+    <td class="tg-j24s"><span style="color:#4C4C4C;background-color:#FFEFE3">Corporate Support Officers</span><br></td>
+    <td class="tg-gfyo"><a href="mailto:G_Poongkughali@schools.gov.sg">Ms G Poongkughali </a><br></td>
+  </tr>
+  <tr>
+    <td class="tg-jxeu"></td>
+    <td class="tg-ut1a"><a href="mailto:Mui_Pek_Kuan@schools.gov.sg">Ms Mui Pek Kuan</a><br></td>        
+  </tr>
   <tr>
     <td class="tg-j24s"><span style="color:#4C4C4C;background-color:#FFEFE3">Operations Managers</span><br></td>
     <td class="tg-gfyo"><a href="mailto:Lee_Hon_meng@schools.gov.sg">Mr Jason Lee Hon Meng</a><br></td>
@@ -65,7 +74,7 @@ third_nav_title: Our Staff
   </tr>
   <tr>
     <td class="tg-j24s"><span style="color:#4C4C4C;background-color:#FFEFE3">Desktop Enginner </span></td>
-    <td class="tg-ntrq">Ms Rina Johari<br>Mr J. Ganesan</td>
+    <td class="tg-ntrq">Mr J. Ganesan</td>
   </tr>
   <tr>
     <td class="tg-x88q"><span style="color:#4C4C4C;background-color:#EFFBFF">Library Assistant</span><br></td>
@@ -75,9 +84,6 @@ third_nav_title: Our Staff
     <td class="tg-j24s"><span style="color:#4C4C4C;background-color:#FFEFE3">Receptionist</span><br></td>
     <td class="tg-gfyo"><a href="mailto:juliana_peris@schools.gov.sg">Mdm Juliana Peris</a></td>
 		</tr>
-  <tr>
-    <td class="tg-x88q"><span style="color:#4C4C4C;background-color:#EFFBFF">Corporate Support Officers</span><br></td>
-    <td class="tg-ut1a"><a href="mailto:G_Poongkughali@schools.gov.sg">Ms G Poongkughali </a><br></td>
-  </tr>
-</tbody>
+  <tr> 
+</tr></tbody>
 </table>
