@@ -313,8 +313,8 @@ variant: markdown
 <thead>
   <tr>
     <th class="tg-x88q"><span style="color:#4C4C4C;background-color:#EFFBFF">4 Graciousness</span><br></th>
-    <th class="tg-ut1a"><a href="mailto:cindry_handojo@schools.gov.sg">Ms Cindry Handojo</a></th>
-    <th class="tg-ut1a"><a href="mailto:wan_xiaolin@schools.gov.sg">Ms Wan Xiaolin</a></th>
+    <th class="tg-ut1a"><a href="mailto:leong_xiu_ying@schools.gov.sg">Ms Leong Xiu Ying</a></th>
+    <th class="tg-ut1a"><a href="mailto:tan_pei_ee@schools.gov.sg">Ms Tan Pei Ee</a></th>
   </tr>
 </thead>
 <tbody>
@@ -334,14 +334,12 @@ variant: markdown
     <td class="tg-gfyo"><a href="mailto:Soh_Shi_Qi_Beatrice@schools.gov.sg">Ms Soh Shi Qi Beatrice</a></td>
   </tr>
   <tr>
-    <td class="tg-x88q"><span style="color:#4C4C4C;background-color:#EFFBFF">4 Responsibility</span><br></td>
-    <td class="tg-ut1a"><a href="mailto:Tay_Pei_niang_shermin@schools.gov.sg">Ms Tay Pei Niang Shermin</a></td>
-    <td class="tg-ut1a"><a href="mailto:muhammad_asyraf_yahaya@schools.gov.sg">Mr Muhammad Asyraf Bin Yahaya</a></td>
+    <td class="tg-x88q"><span style="color:#4C4C4C;background-color:#EFFBFF">4 Sincerity</span><br></td>
+    <td class="tg-ut1a"><a href="mailto:LIM_Mei_Gee@schools.gov.sg">Ms Lim Mei Gee</a></td>
+    <td class="tg-ut1a"><a href="mailto:Teo_Wui_Seng@schools.gov.sg">Mr Teo Wui Seng</a></td>
   </tr>
   <tr>
-    <td class="tg-j24s"><span style="color:#4C4C4C;background-color:#FFEFE3">4 Sincerity</span></td>
-    <td class="tg-gfyo"><a href="mailto:Bacierto_Vanessa_Mae_Medidas@schools.gov.sg">Ms Vanessa Mae Medidas Bacierto</a></td>
-    <td class="tg-gfyo"><a href="mailto:Teo_Wui_Seng@schools.gov.sg">Mr Teo Wui Seng</a></td>
+
   </tr>
 </tbody>
 </table>
