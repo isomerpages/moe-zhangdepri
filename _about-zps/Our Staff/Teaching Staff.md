@@ -205,7 +205,7 @@ variant: markdown
 </tbody>
 </table>
 
-<p><strong>PRIMARY 2 2023</strong></p>
+<p><strong>PRIMARY 2 2024</strong></p>
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
