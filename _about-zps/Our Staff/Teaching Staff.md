@@ -491,8 +491,9 @@ variant: markdown
 		</tr>
   <tr>
     <td class="tg-52k0"><a href="mailto:Wong_King_Sing_A@schools.gov.sg">Mdm Wong King Sing </a></td>
-
-</tr></tbody></table>
+ <td class="tg-52k0"><a>
+</a></td></tr></tbody>
+</table>
 
 <p><strong>MALAY LANGUAGE</strong></p>
 
@@ -515,13 +516,13 @@ variant: markdown
 </thead>
 <tbody>
   <tr>
-    <td class="tg-52k0"><a href="mailto:Fauziah_Mohamad@schools.gov.sg">Mdm Fauziah Bte Mohamad</a></td>
+    <td class="tg-52k0"><a href="mailto:Nailah_Nizam_Thaha@schools.gov.sg">Ms Nailah Binte Nizam Thaha</a></td>
     <td class="tg-52k0"><a href="mailto:radziah_mohamed@schools.gov.sg">Mdm Radziah Mohamed</a></td>
   </tr>
   <tr>
     <td class="tg-qphe"><a href="mailto:nur_afiqah_mokhtar_kamarudin@schools.gov.sg">Ms Nur Afiqah Mokhtar Kamarudin</a></td>
-    <td class="tg-qphe"><a href="mailto:Nailah_Nizam_Thaha@schools.gov.sg">Ms Nailah Binte Nizam Thaha</a></td>
-  </tr>
+    <td class="tg-qphe">
+  </td></tr>
 </tbody>
 </table>
 
