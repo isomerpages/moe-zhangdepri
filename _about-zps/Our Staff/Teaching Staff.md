@@ -386,12 +386,9 @@ variant: markdown
   <tr>
     <td class="tg-x88q"><span style="color:#4C4C4C;background-color:#EFFBFF">5 Sincerity</span><br></td>
     <td class="tg-ut1a"><a href="mailto:errol_benedict_robert@schools.gov.sg">Mr Errol Benedict Robert</a></td>
-    <td class="tg-ut1a"><a href="mailto:low_kin_yew_jonathan@schools.gov.sg">Mr Low Kin Yew Jonathan</a><br></td>
+    <td class="tg-ut1a"><a href="">Ms Geraldine Ang Lay Peng</a><br></td>
   </tr>
   <tr>
-    <td class="tg-j24s"><span style="color:#4C4C4C;background-color:#FFEFE3">5 Sincerity</span></td>
-    <td class="tg-gfyo"><a href="mailto:farzana_begum_kamal@schools.gov.sg">Ms Farzana Begum Binte Kamal</a></td>
-    <td class="tg-gfyo"><a href="mailto:geraldine_ang_lay_peng@schools.gov.sg">Ms Geraldine Ang Lay Peng</a></td>
   </tr>
   <tr>
   </tr>
