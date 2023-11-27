@@ -222,8 +222,8 @@ variant: markdown
 <thead>
   <tr>
     <th class="tg-x88q"><span style="color:#4C4C4C;background-color:#EFFBFF">2 Graciousness</span><br></th>
-    <th class="tg-ut1a"><a href="mailto:tian_yuyuan@schools.gov.sg">Mr Tian Yuyuan</a></th>
-    <th class="tg-ut1a"><a href="mailto:tania_tay_wen_jing@schools.gov.sg">Ms Tania Tay</a></th>
+    <th class="tg-ut1a"><a href="mailto:liu_yuanling_candice@schools.gov.sgschools.gov.sg">Ms Liu Yuanling Candice</a></th>
+    <th class="tg-ut1a"><a href="mailto:radziah_mohamed@schools.gov.sg">Mdm Radziah Mohamed</a></th>
   </tr>
 </thead>
 <tbody>
@@ -235,7 +235,7 @@ variant: markdown
   <tr>
     <td class="tg-x88q"><span style="color:#4C4C4C;background-color:#EFFBFF">2 Versatility</span><br></td>
     <td class="tg-ut1a"><a href="mailto:tan_ping_ping_a@schools.gov.sg">Mdm Tan Ping Ping</a></td>
-    <td class="tg-ut1a"><a href="mailto:ho_lee_ling@schools.gov.sg">Mdm Ho Lee Ling</a></td>
+    <td class="tg-ut1a"><a href="mailto:azimah_begam_haja_mohidin@schools.gov.sg@schools.gov.sg">Ms Azimah Begam</a></td>
   </tr>
   <tr>
     <td class="tg-j24s"><span style="color:#4C4C4C;background-color:#FFEFE3">2 Empathy</span><br></td>
@@ -245,7 +245,7 @@ variant: markdown
   <tr>
     <td class="tg-x88q"><span style="color:#4C4C4C;background-color:#EFFBFF">2 Responsibility</span><br></td>
     <td class="tg-ut1a"><a href="mailto:lee_jin_ngee_patrick@schools.gov.sg">Mr Lee Jin Ngee Patrick</a></td>
-    <td class="tg-ut1a"><a href="mailto:yang_XIAOQI@schools.gov.sg">Ms Yang Xiaoqi</a><br></td>
+    <td class="tg-ut1a"><a href="mailto:ho_lee_ling@schools.gov.sg">Mdm Ho Lee Ling</a><br></td>
   </tr>
   <tr>
     <td class="tg-j24s"><span style="color:#4C4C4C;background-color:#FFEFE3">2 Respect</span></td>
@@ -279,14 +279,14 @@ variant: markdown
   <tr>
     <th class="tg-x88q"><span style="color:#4C4C4C;background-color:#EFFBFF">3 Graciousness</span><br></th>
     <th class="tg-ut1a"><a href="mailto:chua_ai_lian_irene@schools.gov.sg">Mdm Chua Ai Lian Irene</a></th>
-    <th class="tg-ut1a"><a href="</a></th>
+    <th class="tg-ut1a"><a href="mailto:chua_ai_lian_irene@schools.gov.sg">Mdm Chua Ai Lian Irene</a></th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="><span style="color:#4C4C4C;background-color:#FFEFE3">3 Integrity</span><br>
-    </a></th><td class="tg-gfyo"><a href="mailto:tay_sam_choon@schools.gov.sg">Mr Tay Sam Choon</a></td>
-    <td class="tg-gfyo"><a href="mailto:TAN_Ai_Ling_a@schools.gov.sg">Mdm Tan Ai Ling</a></td>
+    <td class="tg-j24s"><span style="color:#4C4C4C;background-color:#FFEFE3">3 Integrity</span><br></td>
+    <td class="tg-gfyo"><a href="mailto:tay_sam_choon@schools.gov.sg">Mr Tay Sam Choon</a></td>
+    <td class="tg-gfyo"><a href="mailto:tania_tay_wen_jing@schools.gov.sg">Ms Tania Tay</a></td>
   </tr>
   <tr>
     <td class="tg-x88q"><span style="color:#4C4C4C;background-color:#EFFBFF">3 Versatility</span><br></td>
@@ -295,7 +295,7 @@ variant: markdown
   </tr>
   <tr>
     <td class="tg-j24s"><span style="color:#4C4C4C;background-color:#FFEFE3">3 Empathy</span><br></td>
-    <td class="tg-gfyo"><a href="mailto:ang_su_hsien_fairlyn@schools.gov.sg">Ms Ang Su Hsien Fairlyn</a></td>
+    <td class="tg-gfyo"><a href="mailto:ang_su_hsien_fairlyn@schools.gov.sg">Ms Ang Su Hsien Fairlynmailto:tan_ping_ping_a@schools.gov.sg"&gt;Mdm Tan Ping Ping</a></td>
     <td class="tg-zugg"><a rel="noopener noreferrer" target="_blank" href="mailto:jane_toh_ka_ru@schools.gov.sg">Ms Jane Toh Ka Ru</a><br></td>
   </tr>
   <tr>
@@ -308,8 +308,8 @@ variant: markdown
     <td class="tg-gfyo"><a href="</a></td>
     <td class="></a><a href="mailto:Nailah_Nizam_Thaha@schools.gov.sg">Ms Nailah Binte Nizam Thaha</a></td>
   </tr>
-
-</thead></table>
+</tbody>
+</table>
 
 <p><strong>PRIMARY 4 2023</strong></p>
 
@@ -431,13 +431,13 @@ variant: markdown
   <tr>
     <th class="tg-x88q"><span style="color:#4C4C4C;background-color:#EFFBFF">6 Graciousness</span></th>
     <th class="tg-ut1a"><a href="mailto:yang_XIAOQI@schools.gov.sg">Ms Yang Xiaoqi</a></th>
-    <th class="tg-ut1a"><a href="</a></th>
+    <th class="tg-ut1a"><a href="mailto:yang_XIAOQI@schools.gov.sg">Ms Yang Xiaoqi</a></th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="><span style="color:#4C4C4C;background-color:#FFEFE3">6 Integrity</span><br>
-    </a></th><td class="tg-gfyo"><a href="mailto:Poh_Si_hui@schools.gov.sg">Ms Poh Si Hui</a></td>
+    <td class="tg-j24s"><span style="color:#4C4C4C;background-color:#FFEFE3">6 Integrity</span><br></td>
+    <td class="tg-gfyo"><a href="mailto:Poh_Si_hui@schools.gov.sg">Ms Poh Si Hui</a></td>
     <td class="tg-gfyo"><a href="mailto:goh_han_sin@schools.gov.sg">Mr Goh Han Sin</a></td>
   </tr>
   <tr>
@@ -448,12 +448,12 @@ variant: markdown
   <tr>
     <td class="tg-j24s"><span style="color:#4C4C4C;background-color:#FFEFE3">6 Empathy</span><br></td>
     <td class="tg-gfyo"><a href="mailto:lee_siew_ming@schools.gov.sg">Ms Lee Siew Ming</a></td>
-    <td class="tg-gfyo"><a href="mailto:liu_yuanling_candice@schools.gov.sgschools.gov.sg">Ms Liu Yuanling Candicemailto:phang_huey_wen@schools.gov.sg"&gt;Mdm Phang Huey Wen</a><br><a>
+    <td class="tg-gfyo"><a href="mailto:phang_huey_wen@schools.gov.sg">Mdm Phang Huey Wen</a><br><a>
   </a></td></tr>
   <tr>
     <td class="tg-x88q"><span style="color:#4C4C4C;background-color:#EFFBFF">6 Responsibility</span><br></td>
     <td class="tg-ut1a"><a href="mailto:nur_farhana_zainal_abidin@schools.gov.sg">Ms Nur Farhana Binte Zainal Abidin</a></td>
-    <td class="tg-ut1a"><a href="mailto:teo_bee_hwee@schools.gov.sg">Ms Teo Bee Hwee</a></td>
+    <td class="tg-ut1a"><a href="mailto:teo_bee_hwee@schools.gov.sg">Ms Teo Bee Hweemailto:tian_yuyuan@schools.gov.sg"&gt;Mr Tian Yuyuan</a></td>
   </tr>
   <tr>
     <td class="tg-j24s"><span style="color:#4C4C4C;background-color:#FFEFE3">6 Sincerity 1</span></td>
@@ -465,8 +465,8 @@ variant: markdown
     <td class="tg-ut1a"><a href="mailto:Habibah_Najihahbi_Ahmad@schools.gov.sg">Ms Habibah Najihahbi Binte Ahmad</a></td>
     <td class="tg-ut1a"><a href="mailto:sundararajan_anandavalli@schools.gov.sg">Mdm Sundararajan Anandavalli</a></td>
   </tr>
-
-</thead></table>
+</tbody>
+</table>
 
 <h4><strong>MT Teachers</strong></h4>
 <p><strong>CHINESE LANGUAGE</strong></p>
