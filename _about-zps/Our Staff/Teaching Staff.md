@@ -297,7 +297,7 @@ variant: markdown
     <td class="tg-ut1a"><a href="mailto:Yee_Poh_Kuen@schools.gov.sg">Ms Yee Poh Kuen 
 </a></td></tr></tbody>
 </table>
-<p><strong>PRIMARY 4 2023</strong></p>
+<p><strong>PRIMARY 4 2024</strong></p>
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
