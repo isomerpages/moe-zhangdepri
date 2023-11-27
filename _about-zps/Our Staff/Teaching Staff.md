@@ -292,9 +292,9 @@ variant: markdown
     <td class="tg-zugg"><a href="mailto:Ong_Wei_Ting@schools.gov.sg">Ms Ong Wei Ting</a><br></td>
   </tr>
   <tr>
-    <td class="tg-x88q"><span style="color:#4C4C4C;background-color:#EFFBFF">3 Responsibility</span><br></td>
-    <td class="tg-ut1a"><a href="mailto:lim_mei_gee@schools.gov.sg">Ms Lim Mei Gee</a></td>
-    <td class="tg-ut1a"><a href="mailto:Teo_Wui_Seng@schools.gov.sg">Mr Teo Wui Seng</a></td>
+    <td class="tg-x88q"><span style="color:#4C4C4C;background-color:#EFFBFF">3 Sincerity</span><br></td>
+    <td class="tg-ut1a"><a href="mailto:tan_wei_lin@schools.gov.sg">Mr Tan Wei Lin</a></td>
+    <td class="tg-ut1a"><a href="mailto:Yee_Poh_Kuen@schools.gov.sg">Ms Yee Poh Kuen</a></td>
   </tr>
   <tr>
     <td class="tg-j24s"><span style="color:#4C4C4C;background-color:#FFEFE3">3 Sincerity</span></td>
@@ -329,11 +329,11 @@ variant: markdown
   <tr>
     <td class="tg-j24s"><span style="color:#4C4C4C;background-color:#FFEFE3">4 Integrity</span><br></td>
     <td class="tg-gfyo"><a href="mailto:tay_sam_choon@schools.gov.sg">Mr Tay Sam Choon</a></td>
-    <td class="tg-gfyo"><a href="mailto:tan_wei_lin@schools.gov.sg">Mr Tan Wei Lin</a></td>
+    <td class="tg-gfyo"><a href="mailto:Nailah_Nizam_Thaha@schools.gov.sg">Ms Nailah Binte Nizam Thaha</a></td>
   </tr>
   <tr>
     <td class="tg-x88q"><span style="color:#4C4C4C;background-color:#EFFBFF">4 Versatility</span><br></td>
-    <td class="tg-ut1a"><a href="mailto:Yee_Poh_Kuen@schools.gov.sg">Ms Yee Poh Kuenmailto:karine_lau_zi_xi@schools.gov.sg"&gt;Ms Karine Lau Zi Xi</a></td>
+    <td class="tg-ut1a"><a href="mailto:karine_lau_zi_xi@schools.gov.sg">Ms Karine Lau Zi Xi</a></td>
     <td class="tg-ut1a"><a href="mailto:Silva_MP@schools.gov.sg">Mr Prashan Silvamailto:Sangappillai_Vasuki@schools.gov.sg"&gt;Mdm Sangappillai Vasuki</a></td>
   </tr>
   <tr>
@@ -349,7 +349,7 @@ variant: markdown
   <tr>
     <td class="tg-j24s"><span style="color:#4C4C4C;background-color:#FFEFE3">4 Sincerity</span></td>
     <td class="tg-gfyo"><a href="mailto:Bacierto_Vanessa_Mae_Medidas@schools.gov.sg">Ms Vanessa Mae Medidas Bacierto</a></td>
-    <td class="tg-gfyo"><a href="mailto:khairil_bahri_kamal@schools.gov.sg">Mr Khairil Bahri Kamal</a></td>
+    <td class="tg-gfyo"><a href="mailto:khairil_bahri_kamal@schools.gov.sg">Mr Khairil Bahri Kamalmailto:Teo_Wui_Seng@schools.gov.sg"&gt;Mr Teo Wui Seng</a></td>
   </tr>
 </tbody>
 </table>
