@@ -384,8 +384,8 @@ variant: markdown
     <td class="tg-gfyo"><a href="mailto:nur_farhana_zainal_abidin@schools.gov.sg">Ms Nur Farhana Binte Zainal Abidin</a></td>
   </tr>
   <tr>
-    <td class="tg-x88q"><span style="color:#4C4C4C;background-color:#EFFBFF">5 Responsibility</span><br></td>
-    <td class="tg-ut1a"><a href="mailto:hamidah_mohamed_ismail@schools.gov.sg">Mdm Hamidah Bte Mohamed Ismail</a></td>
+    <td class="tg-x88q"><span style="color:#4C4C4C;background-color:#EFFBFF">5 Sincerity</span><br></td>
+    <td class="tg-ut1a"><a href="mailto:errol_benedict_robert@schools.gov.sg">Mr Errol Benedict Robert</a></td>
     <td class="tg-ut1a"><a href="mailto:low_kin_yew_jonathan@schools.gov.sg">Mr Low Kin Yew Jonathan</a><br></td>
   </tr>
   <tr>
