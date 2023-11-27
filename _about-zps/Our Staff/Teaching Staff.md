@@ -294,18 +294,10 @@ variant: markdown
   <tr>
     <td class="tg-x88q"><span style="color:#4C4C4C;background-color:#EFFBFF">3 Sincerity</span><br></td>
     <td class="tg-ut1a"><a href="mailto:tan_wei_lin@schools.gov.sg">Mr Tan Wei Lin</a></td>
-    <td class="tg-ut1a"><a href="mailto:Yee_Poh_Kuen@schools.gov.sg">Ms Yee Poh Kuen</a></td>
-  </tr>
-  <tr>
-    <td class="tg-j24s"><span style="color:#4C4C4C;background-color:#FFEFE3">3 Sincerity</span></td>
-    <td class="tg-gfyo"><a href="</a></td>
-    <td class="></a><a href="mailto:Nailah_Nizam_Thaha@schools.gov.sg">Ms Nailah Binte Nizam Thaha</a></td>
-  </tr>
-</tbody>
+    <td class="tg-ut1a"><a href="mailto:Yee_Poh_Kuen@schools.gov.sg">Ms Yee Poh Kuen 
+</a></td></tr></tbody>
 </table>
-
 <p><strong>PRIMARY 4 2023</strong></p>
-
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
