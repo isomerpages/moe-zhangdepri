@@ -471,7 +471,7 @@ variant: markdown
   </tr>
   <tr>
     <td class="tg-qphe"><a href="mailto:lee_siew_ming@schools.gov.sg">Ms Lee Siew Ming</a></td>
-    <td class="tg-qphe"><a href="mailto:tan_ai_ling@schools.gov.sg">Mdm Tan Ai Ling</a></td>
+    <td class="tg-qphe"><a href="mailto:Ong_Wei_Ting@schools.gov.sg">Ms Ong Wei Ting</a></td>
   </tr>
   <tr>
     <td class="tg-52k0"><a href="mailto:zhou_jin@schools.gov.sg">Mdm Zhou Jin</a></td>
@@ -490,15 +490,9 @@ variant: markdown
     <td class="tg-qphe"><a href="mailto:shi_hairong@schools.gov.sg">Ms Shi Hai Rong </a></td>
 		</tr>
   <tr>
-    <td class="tg-52k0"><a href="mailto:Li_Liqin@schools.gov.sg">Mdm Li Liqin</a></td>
-    <td class="tg-52k0"><a href="mailto:Kwan_Lee_Suan@schools.gov.sg">Mdm Kwan Lee Suan</a></td>
-		</tr>
-  <tr>
-    <td class="tg-qphe"><a href="mailto:Ong_Wei_Ting@schools.gov.sg">Ms Ong Wei Ting</a></td>
-    <td class="tg-qphe"><a href="mailto:Wong_King_Sing_A@schools.gov.sg">Mdm Wong King Sing </a></td>
-  </tr>
-</tbody>
-</table>
+    <td class="tg-52k0"><a href="mailto:Wong_King_Sing_A@schools.gov.sg">Mdm Wong King Sing </a></td>
+
+</tr></tbody></table>
 
 <p><strong>MALAY LANGUAGE</strong></p>
 
