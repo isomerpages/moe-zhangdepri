@@ -394,8 +394,7 @@ variant: markdown
   </tr>
 </tbody>
 </table>
-
-<p><strong>PRIMARY 6 2023</strong></p>
+<p><strong>PRIMARY 6 2024</strong></p>
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -412,14 +411,14 @@ variant: markdown
 <thead>
   <tr>
     <th class="tg-x88q"><span style="color:#4C4C4C;background-color:#EFFBFF">6 Graciousness</span></th>
-    <th class="tg-ut1a"><a href="mailto:yang_XIAOQI@schools.gov.sg">Ms Yang Xiaoqi</a></th>
-    <th class="tg-ut1a"><a href="mailto:yang_XIAOQI@schools.gov.sg">Ms Yang Xiaoqi</a></th>
+    <th class="tg-ut1a"><a href="mailto:goh_sze_lin_tracy@schools.gov.sg">Mrs Ching-Goh Sze Lin 
+    </a></th><th class="tg-ut1a"><a href="mailto:yang_XIAOQI@schools.gov.sg">Ms Yang Xiaoqi</a></th>
   </tr>
 </thead>
 <tbody>
   <tr>
     <td class="tg-j24s"><span style="color:#4C4C4C;background-color:#FFEFE3">6 Integrity</span><br></td>
-    <td class="tg-gfyo"><a href="mailto:Poh_Si_hui@schools.gov.sg">Ms Poh Si Hui</a></td>
+    <td class="tg-gfyo"><a href="mailto:thenappan_barathi@schools.gov.sg">Ms Ms Thenappan Barathi</a></td>
     <td class="tg-gfyo"><a href="mailto:goh_han_sin@schools.gov.sg">Mr Goh Han Sin</a></td>
   </tr>
   <tr>
