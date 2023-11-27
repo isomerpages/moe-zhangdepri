@@ -573,12 +573,12 @@ variant: markdown
 <thead>
   <tr>
     <th class="tg-qphe"><a href="mailto:lim_pei_shy_josephine@schools.gov.sg">Ms Lim Pei Shy Josephine</a></th>
-    <th class="tg-qphe"><a href="mailto:farzana_begum_kamal@schools.gov.sg">Ms Farzana Begum Binte Kamal</a></th>
+    <th class="tg-qphe"><a href="mailto:tan_ping_ping_a@schools.gov.sg">Mdm Tan Ping Ping</a></th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-52k0"><a href="mailto:phua_siew_hoon@schools.gov.sg">Mdm Phua Siew Hoon</a></td>
+    <td class="tg-52k0"><a href="mailto:Nazmunnisah_Abdul@schools.gov.sg">Nazmunnisah Abdul</a></td>
     <td class="tg-52k0"><a href="mailto:Tay_Pei_niang_shermin@schools.gov.sg">Ms Tay Pei Niang Shermin</a></td>
   </tr>
   <tr>
@@ -586,7 +586,7 @@ variant: markdown
     <td class="tg-qphe"><a href="mailto:tan_si_mei_grace@schools.gov.sg">Mdm Tan Si Mei Grace</a></td>
   </tr>
   <tr>
-    <td class="tg-52k0"><a href="mailto:koh_mui_khee_florence@schools.gov.sg">Mdm Florence Koh Mui Khee</a><br></td>
+    <td class="tg-52k0"><a href="mailto:farzana_begum_kamal@schools.gov.sg">Ms Farzana Begum Binte Kamal </a><br></td>
     <td class="tg-yahg"><a href="mailto:loh_keng_ming@schools.gov.sg">Mdm Ee Peck Hong</a></td>
   </tr>
 </tbody>
