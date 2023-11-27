@@ -326,7 +326,7 @@ variant: markdown
   <tr>
     <td class="tg-x88q"><span style="color:#4C4C4C;background-color:#EFFBFF">4 Versatility</span><br></td>
     <td class="tg-ut1a"><a href="mailto:karine_lau_zi_xi@schools.gov.sg">Ms Karine Lau Zi Xi</a></td>
-    <td class="tg-ut1a"><a href="mailto:Silva_MP@schools.gov.sg">Mr Prashan Silvamailto:Sangappillai_Vasuki@schools.gov.sg"&gt;Mdm Sangappillai Vasuki</a></td>
+    <td class="tg-ut1a"><a href="mailto:Sangappillai_Vasuki@schools.gov.sg">Mdm Sangappillai Vasuki</a></td>
   </tr>
   <tr>
     <td class="tg-j24s"><span style="color:#4C4C4C;background-color:#FFEFE3">4 Empathy</span><br></td>
