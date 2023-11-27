@@ -3,6 +3,7 @@ title: Teaching Staff
 permalink: /about-zps/our-staff/teaching-staff/
 description: ""
 third_nav_title: Our Staff
+variant: markdown
 ---
 <img src="/images/AboutUs.png">
 <h4><strong>Teaching Staff</strong></h4>
@@ -101,16 +102,16 @@ third_nav_title: Our Staff
 </thead>
 <tbody>
   <tr>
-    <td class="tg-j24s"><span style="color:#4C4C4C;background-color:#FFEFE3">Mathematics</span></td>
-    <td class="tg-gfyo"><a href="mailto:tan_chu_wei@schools.gov.sg">Ms Tan Chu Wei</a><span style="color:#4C4C4C;background-color:#FFEFE3"> </span></td>
+    <td class="tg-j24s"><span style="color:#4C4C4C;background-color:#FFEFE3">English Language</span></td>
+    <td class="tg-gfyo"><a href="mailto:LIM_Mei_Gee@schools.gov.sg">Ms Lim Mei Gee</a><span style="color:#4C4C4C;background-color:#FFEFE3"> </span></td>
   </tr>
   <tr>
     <td class="tg-x88q"><span style="color:#4C4C4C;background-color:#EFFBFF">Mathematics</span></td>
     <td class="tg-ut1a"><a href="mailto:jane_toh_ka_ru@schools.gov.sg">Ms Jane Toh Ka Ru</a><br></td>
   </tr>
   <tr>
-		 <td class="tg-j24s"><span style="color:#4C4C4C;background-color:#FFEFE3">Science</span></td>
-    <td class="tg-gfyo"><a href="mailto:ong_li_ya_sandy@schools.gov.sg">Ms Sandy Ong Li Ya</a></td>
+		 <td class="tg-j24s"><span style="color:#4C4C4C;background-color:#FFEFE3">Mathematics</span></td>
+    <td class="tg-gfyo"><a href="mailto:tan_chu_wei@schools.gov.sg">Ms Tan Chu Wei</a></td>
   </tr>
   <tr>
     <td class="tg-x88q"><span style="color:#4C4C4C;background-color:#EFFBFF">Information Communication &amp; Technology </span></td>
@@ -121,13 +122,10 @@ third_nav_title: Our Staff
   </tr>
   <tr>
     <td class="tg-x88q"><span style="color:#4C4C4C;background-color:#EFFBFF">Student Welfare </span></td>
-    <td class="tg-ut1a"><a href="mailto:mohd_shaan_mohamed_shafie@schools.gov.sg">Mr Mohd Shaan Bin Mohammad Shafie</a></td>
+    <td class="tg-ut1a"><a href="mailto:chin_meiyi@schools.gov.sg">Ms Chin Meiyi</a></td>
 	</tr>
   <tr>
-		 <td class="tg-j24s"><span style="color:#4C4C4C;background-color:#FFEFE3">Student Welfare</span></td>
-    <td class="tg-gfyo"><a href="mailto:chin_meiyi@schools.gov.sg">Ms Chin Meiyi</a></td>
-  </tr>
-</tbody>
+</tr></tbody>
 </table>
 <p><strong>Senior Teachers</strong></p>
 <style type="text/css">
