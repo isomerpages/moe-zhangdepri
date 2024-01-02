@@ -78,8 +78,8 @@ variant: markdown
     <td class="tg-ntrq">Mr J. Ganesan</td>
   </tr>
 			<tr>
-    <td class="tg-jxeu"></td>
-    <td class="tg-qjaw">Mr Wan Muhamad Nafiis Bin Wan Ismail</td>
+    <td class="tg-ntrq"></td>
+    <td class="tg-ntrq">Mr Wan Muhamad Nafiis Bin Wan Ismail</td>
   </tr>
   <tr>
     <td class="tg-x88q"><span style="color:#4C4C4C;background-color:#EFFBFF">Library Assistant</span><br></td>
