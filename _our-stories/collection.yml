@@ -2,6 +2,7 @@ collections:
   our-stories:
     output: true
     order:
+      - 2023 Photos.md
       - R3 Club @ Zhangde.md
       - Happenings @ ZPS/Term 4 2023.md
       - Happenings @ ZPS/Term 3 2023.md
