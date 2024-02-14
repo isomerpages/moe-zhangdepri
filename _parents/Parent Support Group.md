@@ -2,6 +2,7 @@
 title: Parent Support Group
 permalink: /our-partners/parents/parent-support-group/
 description: ""
+variant: markdown
 ---
 <img src="/images/OurPartners.png">
 <h4><strong>Overview</strong></h4>
