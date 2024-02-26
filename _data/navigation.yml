@@ -1,0 +1,39 @@
+logo: /images/school logo.png
+links:
+  - title: About ZPS
+    collection: about-zps
+  - title: Information
+    collection: information
+  - title: Our Programmes
+    url: /our-programmes
+    sublinks:
+      - title: IP Core Curriculum
+        url: /our-programmes/ip-core-curriculum/english
+      - title: Non-IP Core Curriculum
+        url: /our-programmes/non-ip-core-curriculum
+      - title: Applied Learning Programme
+        url: /our-programmes/applied-learning-programme/alp
+      - title: Learning for Life Programme
+        url: /our-programmes/learning-for-life-programme
+      - title: Sexuality Education Programme
+        url: /our-programmes/sexuality-education-programme
+      - title: Our Stories
+        url: /our-programmes/our-stories/happenings-at-zps
+  - title: Our Partners
+    url: /our-partners/parents
+    sublinks:
+      - title: Parents
+        url: /our-partners/parents
+      - title: School Advisory Committee
+        url: /our-partners/school-advisory-committee
+      - title: Guide for P6 Parents,Students
+        url: /our-partners/guides-for-p6-parents-and-students
+      - title: GIVER3S Times 2022
+        url: /our-partners/giver3s-times-2022
+  - title: Resources
+    url: /resources
+    sublinks:
+      - title: Student's Hub
+        url: /resources/students-hub/links-and-helpdesk
+      - title: Teacher's Resources
+        url: /resources/teachers-resources
