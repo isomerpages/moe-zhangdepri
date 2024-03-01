@@ -136,7 +136,7 @@ variant: tiptap
 <p>HOD Student Welfare</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tan_winnie@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Tan Winnie</a>
+<p><a href="mailto:tan_winnie@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Tan Winnie</a> 
 <br>
 </p>
 </td>
@@ -146,7 +146,7 @@ variant: tiptap
 <p>HOD Special Education Needs</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tan_lee_ling@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Tan Lee Ling</a>
+<p><a href="mailto:tan_lee_ling@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Tan Lee Ling</a> 
 <br>
 </p>
 </td>
@@ -183,7 +183,7 @@ variant: tiptap
 <p>Year Head</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tan_gui_liu@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Tan Gui Liu</a>
+<p><a href="mailto:tan_gui_liu@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Tan Gui Liu</a> 
 <br>
 </p>
 </td>
@@ -222,7 +222,7 @@ variant: tiptap
 <p>LH Mathematics</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:jane_toh_ka_ru@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Jane Toh Ka Ru</a>
+<p><a href="mailto:jane_toh_ka_ru@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Jane Toh Ka Ru</a> 
 <br>
 </p>
 </td>
