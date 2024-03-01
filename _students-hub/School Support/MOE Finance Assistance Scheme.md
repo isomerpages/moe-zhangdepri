@@ -100,7 +100,7 @@ family.</p>
 </ul>
 </li>
 <li>
-<p>School Meals Fund ($2.60 per day);</p>
+<p>School Meals Fund ($2.90 per day);</p>
 </li>
 <li>
 <p>School Transport (if applicable)</p>
