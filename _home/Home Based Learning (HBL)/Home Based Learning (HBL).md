@@ -13,7 +13,7 @@ variant: tiptap
 we will be engaging our students at home through the Home-Based Learning
 Exercise (HBL) on 4 April 2024.</p>
 <p>Do refer to the HBL schedule below.</p>
-<p><a href="/files/HBL_Programme_for_P2_to_P5__4th_April_2024_Final.pdf" rel="noopener noreferrer nofollow" target="_blank">4 April HBL</a>
+<p><a href="/files/Zhangde_Primary_School_HBL_Schedule_P2_to_P5_4Apr2024.pdf" rel="noopener noreferrer nofollow" target="_blank">4 April HBL</a>
 </p>
 <p></p>
 <table>
