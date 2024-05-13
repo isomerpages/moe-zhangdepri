@@ -2,11 +2,11 @@
 title: CCE
 permalink: /our-programmes/non-ip-core-curriculum/cce/
 description: ""
+variant: markdown
 ---
-
 <img src="/images/OurProgrammes1.png">
 <h4><strong>Department Focus</strong></h4>
-<p>To nurture gracious citizens, the school emphasises character development, national education and stays close to community needs, collaborating and partnering with the community in programmes which develop civic mindedness and environmental ownership. This is encapsulated in our school vision &ldquo;A Learning School with a&nbsp;<strong>GIVER<sup>3</sup>S</strong>&nbsp;Heart&rdquo;. The school also continues to pay attention to the acquisition of 21st Century Competencies by our pupils through a compendium of learning activities within and outside of classroom.</p>
+<p>To nurture gracious citizens, the school emphasises character development, national education and stays close to community needs, collaborating and partnering with the community in programmes which develop civic mindedness and environmental ownership. This is encapsulated in our school vision “A Learning School with a&nbsp;<strong>GIVER<sup>3</sup>S</strong>&nbsp;Heart”. The school also continues to pay attention to the acquisition of 21st Century Competencies by our pupils through a compendium of learning activities within and outside of classroom.</p>
 <h4><strong>Programmes</strong></h4>
 <p><strong>Character and Citizenship Education Curriculum</strong></p>
 <style type="text/css">
@@ -53,26 +53,26 @@ description: ""
 <thead>
   <tr>
     <th class="tg-q6nq">Term 1</th>
-    <th class="tg-q6nq">Responsibility and Respect</th>
+    <th class="tg-q6nq">Resilience and Responsibility</th>
   </tr>
 </thead>
 <tbody>
   <tr>
     <td class="tg-br2o">Term 2</td>
-    <td class="tg-br2o">Graciousness and Integrity<br></td>
+    <td class="tg-br2o">Respect and Empathy<br></td>
   </tr>
   <tr>
     <td class="tg-q6nq">Term 3</td>
-    <td class="tg-q6nq">Empathy and Resilience<br></td>
+    <td class="tg-q6nq">Graciousness and Versatility<br></td>
   </tr>
   <tr>
     <td class="tg-br2o">Term 4</td>
-    <td class="tg-br2o">Versatility and Sincerity</td>
+    <td class="tg-br2o">Integrity and Sincerity</td>
   </tr>
 </tbody>
 </table>
-<p><strong><em>Values-in-Action (VIA)<br /></em></strong></p>
-<p>Values-in-Action (VIA) are learning experiences that support students&rsquo; development as socially responsible citizens who contribute meaningfully to the community, through the learning and application of values, knowledge and skills. VIA fosters student ownership over how they contribute to the community. As part of VIA, students reflect on their experiences, the values they have put into practice, and how they can continue to contribute meaningfully.</p>
+<p><strong><em>Values-in-Action (VIA)<br></em></strong></p>
+<p>Values-in-Action (VIA) are learning experiences that support students’ development as socially responsible citizens who contribute meaningfully to the community, through the learning and application of values, knowledge and skills. VIA fosters student ownership over how they contribute to the community. As part of VIA, students reflect on their experiences, the values they have put into practice, and how they can continue to contribute meaningfully.</p>
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -105,6 +105,6 @@ description: ""
 </table>
 <p><strong>Support Structures</strong></p>
 <p><strong><em>Student Recognition</em></strong></p>
-<p>Student Recognition, given through school-based and MOE-given awards, as well as highlighting of students&rsquo; successes, helps to reinforce school values and desired character traits.</p>
+<p>Student Recognition, given through school-based and MOE-given awards, as well as highlighting of students’ successes, helps to reinforce school values and desired character traits.</p>
 <p><strong><em>Pastoral Care</em></strong></p>
 <p>Research has shown that pupils are likely to be emotionally and intellectually invested in classes where they have positive relationships with their teachers (Nichols, 2006; Pianta 1999; Phelan 1992) and thus it is critical for us to plan time that allows purposeful pupil-teacher interactions and the explicit teaching of social and emotional (SE) competencies. Through Strategies to Ensure More Attention to Individual Pupil (SEAIP), protected time within the curriculum allows form teachers to build positive relationships with their pupils. Also, SEAIP allows teachers to identify the needs of pupils and provide them with better support. Counsellors also provide the expert support where needed.</p>
