@@ -32,4 +32,11 @@ variant: tiptap
 <p></p>
 </li>
 </ul>
+<h4><strong>2024 Term 3</strong></h4>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/files/Term_3_Student_Calendar_2024.pdf" rel="noopener" target="_blank">Term 3 Calendar</a>
+</p>
+</li>
+</ul>
 <p></p>
