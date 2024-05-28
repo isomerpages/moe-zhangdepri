@@ -26,4 +26,12 @@ variant: tiptap
 <div class="iframe-wrapper">
 <iframe height="299" width="480" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSEuUyaWiiLW48OYIxCjZDpHQVDjxDLuL6joBK5VTOVVqtTSg0tGV53AYkbqqEKymrMWN7nILlV2A_i/embed?start=true&amp;loop=true&amp;delayms=15000"></iframe>
 </div>
+<h4><strong>International Biodiversity Day 2024 (IBD 2024)</strong></h4>
+<div class="iframe-wrapper">
+<iframe height="299" width="480" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTaZf2Q1EF-1bVzVlJHcXFCJwhzCzloQ4VqdmUB8n5ugq2pgZ35F6pwwKyjkothIEoXs1I8e6t85wOE/embed?start=true&amp;loop=true&amp;delayms=15000"></iframe>
+</div>
+<h4><strong>Games and Innovation Day 2024</strong></h4>
+<div class="iframe-wrapper">
+<iframe height="299" width="480" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTLWXGJ73W16sqWmqaYFzuYcuUatEFECCrGyne_jIdcYEOZxSPDegTzuwv0JnaR2UXN5x2R4bp-z1dr/embed?start=true&amp;loop=true&amp;delayms=15000"></iframe>
+</div>
 <p></p>
