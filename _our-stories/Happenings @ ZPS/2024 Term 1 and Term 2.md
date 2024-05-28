@@ -24,6 +24,6 @@ variant: tiptap
 </div>
 <h4><strong>P3 Simulating Innovation Through Collaboration (SITC 2024)</strong></h4>
 <div class="iframe-wrapper">
-<iframe allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSEuUyaWiiLW48OYIxCjZDpHQVDjxDLuL6joBK5VTOVVqtTSg0tGV53AYkbqqEKymrMWN7nILlV2A_i/embed?start=true&amp;loop=true&amp;delayms=15000"></iframe>
+<iframe height="299" width="480" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSEuUyaWiiLW48OYIxCjZDpHQVDjxDLuL6joBK5VTOVVqtTSg0tGV53AYkbqqEKymrMWN7nILlV2A_i/embed?start=true&amp;loop=true&amp;delayms=15000"></iframe>
 </div>
 <p></p>
