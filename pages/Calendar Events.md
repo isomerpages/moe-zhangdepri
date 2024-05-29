@@ -2,112 +2,25 @@
 title: Calendar Events
 permalink: /calendar-events/
 description: ""
+variant: tiptap
 ---
-2<h4><strong>CALENDAR EVENTS</strong></h4>
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-m8iq{background-color:#FFD2D2;color:#134F5C;font-style:italic;font-weight:bold;text-align:center;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <td class="tg-m8iq"><span style="color:#134F5C">11 Sep</span>  </td>
-    <td class="tg-m8iq">Teachers' Day Holiday</td>
-  </tr>
-  <tr>
-    <td class="tg-m8iq"><span style="color:#134F5C">13 Sep</span>  </td>
-    <td class="tg-m8iq">Let’s Chat Session by PSG (Online)</td>
-  </tr>
-  <tr>
-    <td class="tg-m8iq"><span style="color:#134F5C">14 Sep</span>  </td>
-    <td class="tg-m8iq">P3 MTL Cultural Camp</td>
-  </tr>
-  <tr>
-    <td class="tg-m8iq"><span style="color:#134F5C">15 Sep</span>  </td>
-    <td class="tg-m8iq">PSLE LC Examination (P1 to P5 HBL)</td>
-  </tr>
-  <tr>
-    <td class="tg-m8iq"><span style="color:#134F5C">16 Sep</span>  </td>
-    <td class="tg-m8iq">PSG Meeting</td>
-  </tr>
-  <tr>
-    <td class="tg-m8iq"><span style="color:#134F5C">25 &amp; 26 Sep</span>  </td>
-    <td class="tg-m8iq">P3 &amp; P4 EOY Oral Examination</td>
-  </tr>
-  <tr>
-    <td class="tg-m8iq"><span style="color:#134F5C">28 Sep - 4 Oct</span></td>
-    <td class="tg-m8iq">PSLE Written Examination</td>
-  </tr>
-  <tr>
-    <td class="tg-m8iq"><span style="color:#134F5C">28 &amp; 29 Sep</span>  </td>
-    <td class="tg-m8iq">P1, P2 &amp; P5 HBL</td>
-  </tr>
-  <tr>
-    <td class="tg-m8iq"><span style="color:#134F5C">2 &amp; 3 Oct</span>  </td>
-    <td class="tg-m8iq">P3 &amp; P4 HBL</td>
-  </tr>
-  <tr>
-    <td class="tg-m8iq"><span style="color:#134F5C">5 Oct</span>  </td>
-    <td class="tg-m8iq">Sports Fiesta</td>
-  </tr>
-  <tr>
-    <td class="tg-m8iq"><span style="color:#134F5C">6 Oct</span>  </td>
-    <td class="tg-m8iq">Children's Day Holiday</td>
-  </tr>
-  <tr>
-    <td class="tg-m8iq"><span style="color:#134F5C">9 &amp; 10 Oct</span>  </td>
-    <td class="tg-m8iq">P5 EOY Oral Examination</td>
-  </tr>
-  <tr>
-    <td class="tg-m8iq"><span style="color:#134F5C">11 &amp; 12 Oct</span>  </td>
-    <td class="tg-m8iq">Clean Plates Campaign @ Recess</td>
-  </tr>
-  <tr>
-    <td class="tg-m8iq"><span style="color:#134F5C">12, 13 &amp; 19 Oct</span>  </td>
-    <td class="tg-m8iq">P3 - P5 EOY Written Examination<br>
-  </td></tr>
-  <tr>
-    <td class="tg-m8iq"><span style="color:#134F5C">16 - 18 Oct</span>  </td>
-    <td class="tg-m8iq">PSLE Marking</td>
-  </tr>
-  <tr>
-    <td class="tg-m8iq"><span style="color:#134F5C">23 - 27 Oct</span>  </td>
-    <td class="tg-m8iq">P3 - P5 EOY Written Examination</td>
-  </tr>
-  <tr>
-    <td class="tg-m8iq"><span style="color:#134F5C">4 Nov</span>  </td>
-    <td class="tg-m8iq">PSG Meeting</td>
-  </tr>
-  <tr>
-    <td class="tg-m8iq"><span style="color:#134F5C">6 Nov</span>  </td>
-    <td class="tg-m8iq">Admin Day</td>
-  </tr>
-  <tr>
-    <td class="tg-m8iq"><span style="color:#134F5C">8 Nov</span>  </td>
-    <td class="tg-m8iq">P1 - P5 Parent Engagement Session</td>
-		</tr>
-	<tr>
-    <td class="tg-m8iq"><span style="color:#134F5C">10 Nov</span>  </td>
-    <td class="tg-m8iq">P1 Day Camp</td>
-	</tr>
-	<tr><td class="tg-m8iq"><span style="color:#134F5C">15 Nov</span>  </td>
-    <td class="tg-m8iq">Deepavali Celebration
-
-Let’s Chat Session by PSG (Online)
-  </td></tr>
-	<tr><td class="tg-m8iq"><span style="color:#134F5C">16 Nov</span>  </td>
-    <td class="tg-m8iq">P6 Farewell Day (No school for P1 - P5)</td>
-  </tr>
-    <tr><td class="tg-m8iq"><span style="color:#134F5C">17 Nov</span>  </td>
-    <td class="tg-m8iq">P1 - P5 Celebrating Our 2023 Journey (No school for P6)</td>
-  </tr>
-    <tr><td class="tg-m8iq"><span style="color:#134F5C">18 Nov - 31 Dec</span>  </td>
-    <td class="tg-m8iq">School Holidays</td>
-		</tr>
-</thead>
+<p>2</p>
+<h4><strong>CALENDAR EVENTS</strong></h4>
+<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>27 May - 23 Jun</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>School Holidays</p>
+</td>
+</tr>
+</tbody>
 </table>
+<p></p>
