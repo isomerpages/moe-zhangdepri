@@ -3,24 +3,40 @@ title: Wushu Club
 permalink: /our-programmes/non-ip-core-curriculum/ccas/wushu-club/
 description: ""
 third_nav_title: CCAs
+variant: tiptap
 ---
-<img src="/images/OurProgrammes1.png">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" src="/images/OurProgrammes1.png">
+</div>
 <h4><strong>Wushu Club</strong></h4>
-<p>The ZPS Wushu Club was formed in 2008. Currently, we have a total of 76 members ranging from P3 to P6. The club participates in competitions at national as well as at international levels. Some competitions include the annual National Primary Wushu Championship and Singapore International Martial Arts Tournament.</p>
-<p>Recently, some of our P6 members took part in the National School Games Wushu Competition 2021. With the COVID-19 safe management measures in place, our members exhibited values such as versatility and resilience. They focused on giving their personal best and persevered throughout the weekly CCA sessions and extra trainings.</p>
-<p>Apart from competing in Wushu competitions, our members regularly perform at various school and public events. The performances include a myriad of Wushu styles as recommended by our coaches. Some performances include our yearly Chinese New Year concerts as well as our school&rsquo;s Open House.</p>
-<p>Newcomers will be introduced to the basic stances and techniques of Wushu. Periodic grading is conducted to gauge the progress of all members before they move on to advanced levels. Through this process of assessment and learning, our Wushu members seek to continually improve oneself and achieve greater heights with zeal.</p>
-
-<figure><img src="/images/Wushu1.jpeg" style="width:35%"><figcaption> <b>CCA sessions:</b> Wushu members in action with 
-safe management measures in place.</figcaption></figure>
-
-<figure><img src="/images/Wushu2.jpeg" style="width:100%"><figcaption> <b>Chinese New Year Concert 2021:</b> Recording of members’ performance for virtual concert.</figcaption></figure>
-
-<figure><img src="/images/Wushu3.jpeg" style="width:100%"><figcaption> <b>Chinese New Year Concert 2021:</b> A beautiful ending pose.</figcaption></figure>
-
-<figure><img src="/images/Wushu4.jpeg" style="width:100%"><figcaption> <b>National School Games Wushu Competition 2021:</b> Our participants awaiting instructions from the relevant personnel to proceed to the warm-up venue.</figcaption></figure>
-
-
-<figure><img src="/images/Wushu5.jpeg" style="width:100%"><figcaption> <b>National School Games Wushu Competition 2021:</b> Some of our participants waiting for their peers to complete their competition recording.</figcaption></figure>
-
-<figure><img src="/images/Wushu6.jpeg" style="width:100%"><figcaption> <b>National School Games Wushu Competition 2021:</b> A group shot with our coach, Mr Eric Loy and one of our Wushu CCA teacher-in-charge, Mr Tian.</figcaption></figure>
+<p>The ZPS Wushu Club was formed in 2008. Currently, we have members ranging
+from P3 to P6. The club participates in the National School Games yearly.</p>
+<p></p>
+<p>Members are reminded to always display good sportsmanship in competitions
+and games. Values such as versatility and resilience are also emphasised
+during CCA trainings so that members persevere and endeavour to achieve
+their personal best.</p>
+<p></p>
+<p>Apart from competing in Wushu competitions, our members also perform at
+various school and public events. The performances include solo and group
+routines. Some performances include our yearly Chinese New Year concerts
+as well as our school’s Open House.</p>
+<p></p>
+<p>Newcomers will be introduced to the basic stances and techniques of Wushu.
+Our Wushu coaches identify members who show potential and positive learning
+dispositions to be enrolled into the school team. School team members will
+attend extra training sessions and prepare for competitions. Through this
+differentiated approach to training, our Wushu members seek to continually
+improve oneself and achieve greater heights.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Wu1.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Wu2.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Wu3.png">
+</div>
+<p></p>
