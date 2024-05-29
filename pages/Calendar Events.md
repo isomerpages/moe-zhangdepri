@@ -4,7 +4,7 @@ permalink: /calendar-events/
 description: ""
 variant: tiptap
 ---
-<p>2</p>
+<p></p>
 <h4><strong>CALENDAR EVENTS</strong></h4>
 <p></p>
 <table style="minWidth: 50px">
