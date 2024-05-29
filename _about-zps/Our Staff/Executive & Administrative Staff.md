@@ -9,7 +9,11 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" src="/images/AboutUs.png">
 </div>
 <h4><strong>Executive &amp; Administrative Staff</strong></h4><pre><code></code></pre>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -26,7 +30,7 @@ variant: tiptap
 <p>Administrative Executive</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Jannath_beevi_Johabar_ali@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Jannath Beevi Bte A Johabar Ali</a>
+<p><a href="mailto:Jannath_beevi_Johabar_ali@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Jannath Beevi Bte A Johabar Ali</a> 
 <br>
 </p>
 </td>
@@ -45,7 +49,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Mui_Pek_Kuan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Mui Pek Kuan</a>
+<p><a href="mailto:Mui_Pek_Kuan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Mui Pek Kuan</a> 
 <br>
 </p>
 </td>
@@ -57,7 +61,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Lee_Hon_meng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Jason Lee Hon Meng</a>
+<p><a href="mailto:Lee_Hon_meng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Jason Lee Hon Meng</a> 
 <br>
 </p>
 </td>
@@ -67,7 +71,7 @@ variant: tiptap
 <p>C</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Sam_Kin_Mun@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Sam Kin Mun</a>
+<p><a href="mailto:Sam_Kin_Mun@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Sam Kin Mun</a> 
 <br>
 </p>
 </td>
@@ -104,20 +108,12 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Lai Woan Jin</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>ICT Associate
 <br>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Leong_Wee_Siong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Jason Leong Wee Siong</a>
+<p><a href="mailto:Leong_Wee_Siong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Jason Leong Wee Siong</a> 
 <br>
 </p>
 </td>
@@ -145,7 +141,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Bavani Naidu</p>
+<p>Ms Jacqueline Lim</p>
 </td>
 </tr>
 <tr>
