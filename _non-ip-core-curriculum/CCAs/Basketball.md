@@ -3,16 +3,42 @@ title: Basketball
 permalink: /our-programmes/non-ip-core-curriculum/ccas/basketball/
 description: ""
 third_nav_title: CCAs
+variant: tiptap
 ---
-<img src="/images/OurProgrammes1.png">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" src="/images/OurProgrammes1.png">
+</div>
 <h4><strong>Basketball</strong></h4>
-<p><strong>BASKETBALL (BOYS)</strong></p>
-<p>The scintillating sport of basketball not only enhances one&rsquo;s overall fitness but it also helps to strengthen discipline, camaraderie and teamwork amongst the student athletes. At our friendly but focused playing environment, they are given opportunities to excel in the various essential aspects of the sport, such as rebounding or lay-ups, under the technical guidance of a dedicated coach. A team of passionate teachers would also provide more insights into the other aspects of the game. </p>
-<p>Student athletes will also be able to forge strong friendships amongst peers and develop resilience as they pursue sporting excellence through the annual South Zone Primary Schools Basketball Championships.&nbsp;They would also be able to further enhance their psycho-motor skills, stamina, sportsmanship and confidence. There would be many opportunities for each player to gradually realise his true potential and develop resilience.</p>
-<img src="/images/BASKETBALL%20(BOYS).png">
-<p><strong>BASKETBALL (GIRLS)</strong></p>
-<p style="text-align: center;"><strong>Learn the game, Build character</strong></p>
-<p>Zhangde basketball (girls)&nbsp;welcomespupils who are interested in learning and playing basketball. We develop basketball skills such as dribbling, passing, shooting, rebounds, and teach strategic game play using offence and defence during our weekly CCA and extra practices. These contribute to building on pupils&rsquo; physical strength and stamina which are essential in every sports activity. More importantly, our basketballers build friendship, character and values such as self-discipline, perseverance, team-work, resilience, commitment and dedication through this sport.</p>
-<p>Basketballers are given opportunities to participate in competitions. We also learn and compete through our friendly matches with others</p>
-<img src="/images/BASKETBALL%20(GIRLS).jpeg">
-<p>basketball teams. In every round we compete in, we learn, have fun, and become better players!</p>
+<p><strong>BASKETBALL (BOYS &amp; GIRLS)</strong>
+</p>
+<p>The exciting sport of basketball not only enhances one’s overall fitness
+but it also helps to strengthen discipline, camaraderie and teamwork amongst
+the student athletes. At our inclusive playing environment, they are given
+opportunities to excel in various aspects of the sport such as passing,
+shooting and dribbling under the guidance of dedicated basketball coaches.
+A team of passionate teachers also provide guidance and knowledge into
+the other aspects of the game.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Bball1.png">
+</div>
+<p><strong>Discipline, Focus, Growth Mindset</strong>
+</p>
+<p>Through Basketball, student develop discipline in training for a sport,
+an ability to focus on the drills and games and a growth mindset in improving
+performance and character. We take pride in ensuring our students perform
+and behave both on and off the court and to exemplify the GIVERS and Sportsmanship
+values.</p>
+<p>Student athletes also forge strong friendships amongst peers and develop
+resilience as they pursue sporting excellence through the annual Basketball
+National School Games for both Junior and Senior teams. These competitive
+players will learn to develop grit, ruggedness and resilience through the
+extra trainings and competition. Through these games, teachers guide the
+students to win and lose graciously while demonstrating sportsmanship.</p>
+<p>Join us if you are passionate about basketball and want to grow as a student-athlete
+while having fun!</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Bball2.png">
+</div>
+<p></p>
