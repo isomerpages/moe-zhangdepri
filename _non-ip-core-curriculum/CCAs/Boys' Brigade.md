@@ -25,6 +25,8 @@ Gold JM Fraser Award regularly.</p>
 <div class="iframe-wrapper">
 <iframe allowfullscreen="true" frameborder="0" src="https://docs.google.com/document/d/e/2PACX-1vT99nrciv1-00CLVhBZ25C1fEZd56GVWFColP3srzr2Sgqo-sC_pUg7OgBf6ts8rA/pub?embedded=true"></iframe>
 </div>
+<p>Link to parade schedule: <a href="https://docs.google.com/document/d/1soe6m5UXprBJB43w-B58b5J1ghQPyphv/edit?usp=sharing&amp;ouid=108678324557480774710&amp;rtpof=true&amp;sd=true" rel="noopener noreferrer nofollow" target="_blank">Click here to view the parade schedule</a>
+</p>
 <div class="isomer-image-wrapper">
 <img style="width:30%" height="auto" width="100%" src="/images/Boys%20Brigade.jpg">
 </div>
