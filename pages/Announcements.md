@@ -11,5 +11,4 @@ here to access the Term 3 Calendar &amp; Letter to Parents</p>
 <p><strong><a href="/our-partners/parents/useful-guides-and-resources/cyber-wellness-tips" rel="noopener noreferrer nofollow" target="_blank">Cyber wellness Tips</a><br></strong>Click
 here to find out more.</p>
 <hr>
-<p><strong><a href="/home-based-learning-hbl/" rel="noopener noreferrer nofollow" target="_blank">4 April HBL Schedule</a><br></strong>Click
-here to find out more.</p>
+<p></p>
