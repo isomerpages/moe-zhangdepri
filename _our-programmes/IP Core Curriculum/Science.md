@@ -26,14 +26,14 @@ in Society.</p>
 <p><strong>Pedagogy</strong>
 </p>
 <p>Inquiry-Based Learning, Experiential Learning, Investigative Work and
-E-pedagogy</p>
+E-pedagogy.</p>
 <p><strong>Programmes</strong>
 </p>
 <p>The Science department embarks on programmes to build students' knowledge,
 values and skills in Science concepts and to enable them to apply and see
 the relation between Science and the environment around them. These include
 a variety of approaches such as learning from the environment, small group
-experiential learning in Science, Science Centre Learning Journeysenrichment
+experiential learning in Science, Science Centre Learning Journeys, enrichment
 programmes to stretch the thinking in higher ability learners.</p>
 <p><strong><u>Key Programmes for Different Levels</u></strong>
 </p>
@@ -88,7 +88,7 @@ learnt through an enriching experience at the Singapore Science Centre.
 <p>2.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Garden Trails</p>
+<p>Garden Trails - Online</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>P3
@@ -105,23 +105,22 @@ rich biodiversity, life processes and uses.
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>3.</p>
+<ol start="3" data-tight="true" class="tight">
+<li>
+<p></p>
+</li>
+</ol>
 </td>
 <td rowspan="1" colspan="1">
-<p>Garden Curriculum</p>
+<p>Garden Trails - Online</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>P4
-<br>
-</p>
+<p>P4</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Students learn the lifecycle of plants. They grow seeds into seedlings
 and then into adult plants. In the process, Students understand the necessary
-conditions that must be suitable for the young seedling to survive.
-<br>
-<br>
-</p>
+conditions that must be suitable for the young seedling to survive.</p>
 </td>
 </tr>
 <tr>
@@ -139,20 +138,50 @@ conditions that must be suitable for the young seedling to survive.
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>
-<br>
-<br>
-<br>P5 students grow seedlings in a soilless environment. They learn that
+<p>P5 students grow seedlings in a soilless environment. They learn that
 this is useful in Singapore where land is scarce. They learn how water
 can be efficiently used and also how the environmental factors affecting
-plant growth are controlled.
-<br>
-</p>
+plant growth are controlled.</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>5.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Project TIGUR</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P5</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Making Traditional, Innovative Games using recyclables. A level -wide
+programme that instils critical thinking, creativity, collaboration and
+fun in our students.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<ol start="6" data-tight="true" class="tight">
+<li>
+<p></p>
+</li>
+</ol>
+</td>
+<td rowspan="1" colspan="1">
+<p>SITC</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>A programme to stretch inventive and critical thinking in our students
+through a programme entitled ‘Stimulating Innovation through Collaboration’.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>7.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Science Olympiad</p>
@@ -163,9 +192,7 @@ plant growth are controlled.
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>
-<br>
-<br>To develop the higher order thinking skills in pupils.</p>
+<p>To develop the higher order thinking skills in pupils.</p>
 </td>
 </tr>
 </tbody>
