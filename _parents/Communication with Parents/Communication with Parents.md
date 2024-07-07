@@ -42,5 +42,10 @@ variant: tiptap
 <p><a href="/files/From_the_Desk_of_the_Principal__Term_3_2024.pdf" rel="noopener" target="_blank">Term 3 Letter to Parents</a>
 </p>
 </li>
+<li>
+<p><a href="/files/P6_Letter_to_Parent_PRELIM_2024.pdf" rel="noopener" target="_blank">Prelim Letter to Parents</a>
+</p>
+</li>
 </ul>
-<p></p>
+<p><a href="/files/From_the_Desk_of_the_Principal__Term_3_2024.pdf" rel="noopener" target="_blank">m 3 Letter to Parents</a>
+</p>
