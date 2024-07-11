@@ -16,6 +16,11 @@ support the school in various ways to enrich the learning experiences of
 the students and enhance home-school collaboration. PSG is also a good
 platform for parents to connect with one another and to be actively engaged
 in their child’s educational journey.&nbsp;</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="PSG Organisation Chart" src="/images/PSG_Org_chart.jpg">
+</div>
+<p></p>
 <p>We would like to invite parents&nbsp;to volunteer (ad-hoc) or be a member
 of our PSG. Please scan the QR code given below or click on this link&nbsp;
 <a href="https://form.gov.sg/#!/5f696bb30666cb0011cc3a2e" rel="noopener" target="_blank">https://form.gov.sg/#!/5f696bb30666cb0011cc3a2e</a>&nbsp;to fill&nbsp;up
