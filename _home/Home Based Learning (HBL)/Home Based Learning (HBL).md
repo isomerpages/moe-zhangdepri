@@ -15,6 +15,8 @@ Exercise (HBL) on 16 July 2024.</p>
 <p>Do refer to the HBL schedule below.</p>
 <p><a href="/files/Zhangde_Primary_School_HBL_Schedule_P1_16Jul2024.pdf" rel="noopener noreferrer nofollow" target="_blank">P1 HBL Schedule</a>
 </p>
+<p><a href="/files/P1_2024_HBL_16_July.pdf" rel="noopener noreferrer nofollow" target="_blank">P1 Detailed HBL Timetable</a>
+</p>
 <p><a href="/files/P3_2024_HBL_16_July.pdf" rel="noopener noreferrer nofollow" target="_blank">P3 HBL Schedule</a>
 </p>
 <p><a href="/files/P4_2024_HBL_16_July.pdf" rel="noopener noreferrer nofollow" target="_blank">P4 HBL Schedule</a>
