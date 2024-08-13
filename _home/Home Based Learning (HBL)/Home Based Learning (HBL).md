@@ -11,7 +11,7 @@ variant: tiptap
 <h4><strong>Home Based Learning (HBL)</strong></h4>
 <p>In support of the school’s efforts to promote self-directed learning,
 we will be engaging our students at home through the Home-Based Learning
-Exercise (HBL) on 13 and 14 August 2024.</p>
+Exercise (HBL) on 13 &amp; 14 August 2024.</p>
 <p>Do refer to the HBL schedule below.</p>
 <p><a href="/files/P1_2024_HBL_13_14_August.pdf" rel="noopener noreferrer nofollow" target="_blank">P1 HBL Schedule</a>
 </p>
