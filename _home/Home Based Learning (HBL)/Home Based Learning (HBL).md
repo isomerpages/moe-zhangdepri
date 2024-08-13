@@ -11,17 +11,17 @@ variant: tiptap
 <h4><strong>Home Based Learning (HBL)</strong></h4>
 <p>In support of the school’s efforts to promote self-directed learning,
 we will be engaging our students at home through the Home-Based Learning
-Exercise (HBL) on 16 July 2024.</p>
+Exercise (HBL) on 13 &amp; 14 August 2024.</p>
 <p>Do refer to the HBL schedule below.</p>
-<p><a href="/files/Zhangde_Primary_School_HBL_Schedule_P1_16Jul2024.pdf" rel="noopener noreferrer nofollow" target="_blank">P1 HBL Schedule</a>
+<p><a href="/files/P1_2024_HBL_13_14_August.pdf" rel="noopener noreferrer nofollow" target="_blank">P1 HBL Schedule</a>
 </p>
-<p><a href="/files/P1_2024_HBL_16_July.pdf" rel="noopener noreferrer nofollow" target="_blank">P1 Detailed HBL Timetable</a>
+<p><a href="/files/P2_2024_HBL_13___14_Aug.pdf" rel="noopener noreferrer nofollow" target="_blank">P2 HBL Schedule</a>
 </p>
-<p><a href="/files/P3_2024_HBL_16_July.pdf" rel="noopener noreferrer nofollow" target="_blank">P3 HBL Schedule</a>
+<p><a href="/files/P3_2024_HBL__13_Aug___14_Aug.pdf" rel="noopener noreferrer nofollow" target="_blank">P3 HBL Schedule</a>
 </p>
-<p><a href="/files/P4_2024_HBL_16_July.pdf" rel="noopener noreferrer nofollow" target="_blank">P4 HBL Schedule</a>
+<p><a href="/files/P4_2024_HBL_13_Aug___14_Aug.pdf" rel="noopener noreferrer nofollow" target="_blank">P4 HBL Schedule</a>
 </p>
-<p><a href="/files/P5_2024_HBL__16_July.pdf" rel="noopener noreferrer nofollow" target="_blank">P5 HBL Schedule</a>
+<p><a href="/files/P5_2024_HBL__13_Aug___14_Aug.pdf" rel="noopener noreferrer nofollow" target="_blank">P5 HBL Schedule</a>
 </p>
 <p></p>
 <table style="width: 0px">
