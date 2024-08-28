@@ -47,4 +47,11 @@ variant: tiptap
 </p>
 </li>
 </ul>
+<h4><strong>2024 Term 4</strong></h4>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/files/Term_4_Student_Calendar_2024.pdf" rel="noopener nofollow" target="_blank">Term 4 Calendar</a>
+</p>
+</li>
+</ul>
 <p></p>
