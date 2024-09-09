@@ -22,6 +22,8 @@ variant: tiptap
 <p><strong>Student Care Centre @ ZPS<br></strong>Tel: 8202 3972
 <br>Email: <a href="mailto:zhangde@shgstudentcare.com.sg" rel="noopener noreferrer nofollow" target="_blank">zhangde@shgstudentcare.com.sg</a>
 </p>
+<p>SCC’s Corporate Website<strong>: <a rel="noopener noreferrer nofollow" target="_blank">https://bigheartstudentcare.com/</a></strong>
+</p>
 <p><strong>School Bookshop<br></strong>Pacific Bookstores Pte Ltd
 <br>Tel: 90481277</p>
 <p>Opening Hours:
