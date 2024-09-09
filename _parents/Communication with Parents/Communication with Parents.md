@@ -53,5 +53,9 @@ variant: tiptap
 <p><a href="/files/Term_4_Student_Calendar_2024.pdf" rel="noopener nofollow" target="_blank">Term 4 Calendar</a>
 </p>
 </li>
+<li>
+<p><a href="/files/Term_4_Letter_From_the_Desk_of_the_Principal_9th_September_2024.pdf" rel="noopener nofollow" target="_blank">Term 4 Letter to Parents</a>
+</p>
+</li>
 </ul>
 <p></p>
