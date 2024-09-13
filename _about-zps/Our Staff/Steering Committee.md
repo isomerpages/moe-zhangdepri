@@ -9,7 +9,11 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" src="/images/AboutUs.png">
 </div>
 <h4><strong>Steering Committee</strong></h4>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -229,6 +233,15 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>LH Student Welfare</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:chin_meiyi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Chin Meiyi</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>SH Information Communication &amp; Technology</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -247,10 +260,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>LH Student Welfare</p>
+<p>SH Student Well-Being</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:chin_meiyi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Chin Meiyi</a>
+<p><a href="LOW_YU_CI@SCHOOLS.GOV.SG" rel="noopener nofollow" target="_blank">Ms Low Yu Ci</a>
 </p>
 </td>
 </tr>
