@@ -260,6 +260,33 @@ variant: tiptap
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>ST Malay Language</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="radziah_mohamed@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Radziah Mohamed</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>ST Music</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="tan_pei_ee@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Tan Pei Ee</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>ST Educational Support</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="shakkila_banu_gose_sulta@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Shakkila Banu Gose Sulta</a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <h4><strong>Form Teachers</strong></h4>
