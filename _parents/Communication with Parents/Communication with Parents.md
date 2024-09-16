@@ -57,5 +57,22 @@ variant: tiptap
 <p><a href="/files/Term_4_Letter_From_the_Desk_of_the_Principal_9th_September_2024.pdf" rel="noopener nofollow" target="_blank">Term 4 Letter to Parents</a>
 </p>
 </li>
+<li>
+<p>Topics to be tested for End of Year Examinations</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/files/2024_P3_EOY_Exams_Topics_To_Be_Tested.pdf" rel="noopener nofollow" target="_blank">Primary 3</a>
+</p>
+</li>
+<li>
+<p><a href="/files/2024_P4_EOY_Exams_Topics_To_Be_Tested.pdf" rel="noopener nofollow" target="_blank">Primary 4</a>
+</p>
+</li>
+<li>
+<p><a href="/files/2024_P5_EOY_Exams_Topics_To_Be_Tested.pdf" rel="noopener nofollow" target="_blank">Primary 5</a>
+</p>
+</li>
+</ul>
+</li>
 </ul>
 <p></p>
