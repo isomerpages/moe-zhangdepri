@@ -36,8 +36,7 @@ Exercise (HBL) during PSLE Written Examinations.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>30 September and</p>
-<p>1 October</p>
+<p>30 September and 1 October</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>P3 and P4</p>
