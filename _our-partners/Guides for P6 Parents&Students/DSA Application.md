@@ -25,7 +25,7 @@ primary school (e.g. via email or phone calls) for assistance.</p>
 MOE website to help you prepare the relevant information offline.</p>
 </li>
 </ul>
-<p><em>* Students who wish to apply for School of the Arts (SOTA) and Singapore Sports School (SSP) may approach the school directly.</em>
+<p><em>* Students who wish to apply for School of the Arts (SOTA) may approach the school directly.</em>
 </p>
 <p><strong>Selection Process -&nbsp;(27 Jun 2024 – 12 Sep 2024)</strong>
 </p>
