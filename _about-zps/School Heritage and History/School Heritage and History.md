@@ -138,7 +138,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="/about-zps/school-heritage-and-history/1954-1975" rel="noopener noreferrer nofollow" target="">1945-1975</a></strong>
+<p><strong><a href="/about-zps/school-heritage-and-history/1945-1975" rel="noopener noreferrer nofollow" target="">1945-1975</a></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -146,7 +146,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="/about-zps/school-heritage-and-history/2000-2004" rel="noopener noreferrer nofollow" target="">2000-2004</a></strong>
+<p><strong><a href="/about-zps/school-heritage-and-history/1999-2004" rel="noopener noreferrer nofollow" target="">1999-2004</a></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
