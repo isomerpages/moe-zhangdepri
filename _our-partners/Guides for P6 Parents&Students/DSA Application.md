@@ -10,7 +10,7 @@ variant: tiptap
 </div>
 <p><strong>Application Process<br></strong>The Direct School Admission for
 Secondary Schools (DSA-Sec) is now open for application until&nbsp;<strong>3pm, 1 Jun 2024</strong>.
-Interested parents may wish to visit MOE’s DSA website (<a href="https://go.gov.sg/dsa-secschpref" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/dsa-sec</a>)
+Interested parents may wish to visit MOE’s DSA website (<a href="https://www.moe.gov.sg/secondary/dsa/preferences/submit-preference-form-mainstream-primary-school-child" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/dsa-sec</a>)
 for more information.</p>
 <ul data-tight="true" class="tight">
 <li>
