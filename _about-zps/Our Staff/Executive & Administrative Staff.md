@@ -40,7 +40,7 @@ variant: tiptap
 <p>Cooperate Support Officers</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Mui_Pek_Kuan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Mui Pek Kuan</a> 
+<p><a href="mailto:Mui_Pek_Kuan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Mui Pek Kuan</a>
 </p>
 </td>
 </tr>
