@@ -3,6 +3,7 @@ title: Student Support Team
 permalink: /about-zps/our-staff/student-support-team/
 description: ""
 third_nav_title: Our Staff
+variant: markdown
 ---
 <img src="/images/AboutUs.png">
 <h4><strong>Student Support Team</strong></h4>
