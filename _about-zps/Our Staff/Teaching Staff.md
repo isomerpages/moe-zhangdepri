@@ -254,7 +254,7 @@ variant: tiptap
 <p>ST Tamil Language</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:kayal_vili_pungalendi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Kayal Vili d/o Pugalendi</a>
+<p><a href="mailto:kayal_vili_pugalendi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Kayal Vili d/o Pugalendi</a>
 </p>
 </td>
 </tr>
