@@ -173,8 +173,8 @@ The Zhangde School Code of Conduct is a guide for students to ensure that the sc
 ##### **10\. Use of Mobile Phones in school**
 
   
-Wef 1 Jan 2025
-On use of mobile phones, refer to Student HB 2025
+(**Wef 1 Jan 2025**)
+* On use of mobile phones, refer to Student HB 2025
 
 
 
