@@ -2,6 +2,7 @@
 title: School Advisory Committee
 permalink: /our-partners/school-advisory-committee/
 description: ""
+variant: markdown
 ---
 <img src="/images/OurPartners.png">
 <table class="ive_eobj_left iveo_table ives_tab_1">
@@ -9,12 +10,7 @@ description: ""
 <tr>
 <td width="200px"><strong>Designation</strong></td>
 <td width="250px"><strong>Name</strong></td>
-</tr>
-<tr>
-<td>Chairperson</td>
-<td>Mrs Mark Loo</td>
-</tr>
-<tr>
+
 <td>&nbsp;</td>
 <td>&nbsp;</td>
 </tr>
@@ -45,6 +41,10 @@ description: ""
 <tr>
 <td>&nbsp;</td>
 <td>Mr Eddy Goh&nbsp;</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<td>Mr Loo Hee Jin&nbsp;</td>
 </tr>
 </tbody>
 </table>
