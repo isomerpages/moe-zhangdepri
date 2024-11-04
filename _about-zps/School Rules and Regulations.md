@@ -2,6 +2,7 @@
 title: School Rules and Regulations
 permalink: /about-zps/school-rules-and-regulations/
 description: ""
+variant: markdown
 ---
 <img src="/images/AboutUs.png">
 <h4><strong>School Rules and Regulations</strong></h4>
@@ -172,14 +173,9 @@ The Zhangde School Code of Conduct is a guide for students to ensure that the sc
 ##### **10\. Use of Mobile Phones in school**
 
   
+Wef 1 Jan 2025
+On use of mobile phones, refer to Student HB 2025
 
-*   All students are advised&nbsp;<u><b>not to</b></u>&nbsp;bring mobile phones to school. However, we understand that parents / guardians may at times require your children to bring mobile phones to school. As such, we would like to share some guidelines pertaining to the usage of mobile phones in school. These guidelines are meant to ensure that students are focused during lesson time and not distracted during their learning.  
-    
-
-    *   Mobile phones must be switched off, including during remedial classes and enrichment classes.
-    *   The school reserves the right to check on the mobile phones.
-    *   The responsibility for the safeguarding of the mobile phone rests on the students and parents.&nbsp;<b>The school will not be responsible for any loss of mobile phones.</b>
-    *   Inappropriate use of the mobile phone may result in its confiscation. All confiscated mobile phones will be handed over to the Student Management department for safe-keeping until a parent or guardian comes to the school to retrieve it.
 
 
 ##### **11\. Use of School Facilities**
