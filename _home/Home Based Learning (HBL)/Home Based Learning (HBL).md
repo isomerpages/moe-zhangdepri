@@ -17,7 +17,7 @@ Exercise (HBL) during PSLE Marking Days.</p>
 <p>P2 Link: <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vTXcK4sL8RIm-m5S30BySdgVeCGtgU4dkb_4Xliwi9UDaJr45nm3dcNqAY4HML1w3G2KGeA6vLKqiID/pubhtml" rel="noopener nofollow" target="_blank">P2 HBL Schedule</a>
 </p>
 <div class="iframe-wrapper">
-<iframe allowfullscreen="true" frameborder="0" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTXcK4sL8RIm-m5S30BySdgVeCGtgU4dkb_4Xliwi9UDaJr45nm3dcNqAY4HML1w3G2KGeA6vLKqiID/pubhtml?widget=true&amp;headers=false"></iframe>
+<iframe height="600" width="100%" allowfullscreen="true" frameborder="0" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTXcK4sL8RIm-m5S30BySdgVeCGtgU4dkb_4Xliwi9UDaJr45nm3dcNqAY4HML1w3G2KGeA6vLKqiID/pubhtml?widget=true&amp;headers=false"></iframe>
 </div>
 <p><a href="/files/P1_2024_HBL_14_16_October.pdf" rel="noopener noreferrer nofollow" target="_blank">P1 HBL Schedule</a>
 </p>
