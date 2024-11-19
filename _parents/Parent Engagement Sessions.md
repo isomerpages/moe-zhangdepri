@@ -7,14 +7,14 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" src="/images/OurPartners.png">
 </div>
-<h4><strong>2024 P1 Orientation</strong></h4>
+<h4><strong>2025 P1 Orientation</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/2024_P1_Orientation_Sharing_for_Parents_Part_1.pdf" rel="noopener" target="_blank">P1 Orientation Slides to Parents_Part 1</a>
+<p><a href="/files/2025_P1_Orientation_Sharing_for_Parents_For_School_Website_Part_1.pdf" rel="noopener nofollow" target="_blank">2025 P1 Orientation Slides for Parents (Part 1)</a>
 </p>
 </li>
 <li>
-<p><a href="/files/2024_P1_Orientation_Sharing_for_Parents_Part_2.pdf" rel="noopener" target="_blank">P1 Orientation Slides to Parents_Part 2</a>
+<p><a href="/files/2025_P1_Orientation_Sharing_for_Parents_For_School_Website_Part_2.pdf" rel="noopener nofollow" target="_blank">2025 P1 Orientation Slides for Parents (Part 2)</a>
 </p>
 </li>
 <li>
