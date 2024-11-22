@@ -21,6 +21,10 @@ variant: tiptap
 <p><a href="/files/Parents%20Gateway%20Instrutional%20Guide%20(Installation).pdf" rel="noopener" target="_blank">Guide for Parents Gateway Installation</a>
 </p>
 </li>
+<li>
+<p><a href="https://drive.google.com/file/d/1kDilLU3kVhRevyXLUjlsmUom510BcWpr/view?usp=sharing" rel="noopener nofollow" target="_blank">2025 P1 Orientation Slides - Classroom Sharing</a>
+</p>
+</li>
 </ul>
 <h4><strong>2024 Parents Engagement Sessions</strong></h4>
 <ul data-tight="true" class="tight">
