@@ -54,7 +54,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/our-programmes/non-ip-core-curriculum/ccas/international-dance" rel="noopener noreferrer nofollow" target="_blank">International Dance</a>
+<p><a href="https://zhangdepri.moe.edu.sg/our-programmes/non-ip-core-curriculum/ccas/international-dance/" rel="noopener noreferrer nofollow" target="_blank">International Dance</a>
 </p>
 <p><a href="/our-programmes/non-ip-core-curriculum/ccas/choir" rel="noopener noreferrer nofollow" target="_blank">Choir</a>
 </p>
