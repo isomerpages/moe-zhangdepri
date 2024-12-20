@@ -37,7 +37,16 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Cooperate Support Officers</p>
+<p>Administrative Executive</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:lee_shu_yee_a@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Lee Shu Yee</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Corporate Support Officers</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:Mui_Pek_Kuan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Mui Pek Kuan</a>
