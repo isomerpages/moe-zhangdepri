@@ -187,7 +187,7 @@ variant: tiptap
 <p>Year Head</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tan_gui_liu@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Tan Gui Liu</a> 
+<p><a href="mailto:tan_gui_liu@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Tan Gui Liu</a>
 </p>
 </td>
 </tr>
