@@ -42,7 +42,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tay_hwee_lin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Tay Hwee Lin</a>
+<p><a href="mailto:chan_cheong_cheong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Chan Cheong Cheong</a>
 </p>
 </td>
 </tr>
@@ -112,8 +112,7 @@ variant: tiptap
 <p>HOD Information Communication &amp; Technology</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lee_hui_fen_fiona@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Wong-Lee Hui Fen Fiona</a>
-</p>
+<p><a href="mailto:goh_han_sin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Goh Han Sin</a> (Covering)</p>
 </td>
 </tr>
 <tr>
@@ -131,8 +130,9 @@ variant: tiptap
 <p>HOD PE, CCA &amp; Aesthetics</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:chung_wei_yin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Chung Wei Yin</a>
-</p>
+<p><a href="mailto:thilak_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Thilakaran s/o Divenaran</a>
+<br><a href="mailto:siti_mas_laily@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Siti Mas Laily</a>
+<br>(Covering)</p>
 </td>
 </tr>
 <tr>
@@ -187,8 +187,7 @@ variant: tiptap
 <p>Year Head</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tan_gui_liu@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Tan Gui Liu</a> 
-<br>
+<p><a href="mailto:tan_gui_liu@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Tan Gui Liu</a>
 </p>
 </td>
 </tr>
