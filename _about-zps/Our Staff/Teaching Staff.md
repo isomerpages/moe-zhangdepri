@@ -265,7 +265,7 @@ variant: tiptap
 <p>ST Malay Language</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="radziah_mohamed@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Radziah Mohamed</a>
+<p><a href="mailto:radziah_mohamed@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Radziah Mohamed</a>
 </p>
 </td>
 </tr>
@@ -274,7 +274,7 @@ variant: tiptap
 <p>ST Music</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="tan_pei_ee@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Tan Pei Ee</a>
+<p><a href="mailto:tan_pei_ee@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Tan Pei Ee</a>
 </p>
 </td>
 </tr>
@@ -283,7 +283,7 @@ variant: tiptap
 <p>ST Educational Support</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="shakkila_banu_gose_sulta@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Shakkila Banu Gose Sulta</a>
+<p><a href="mailto:shakkila_banu_gose_sulta@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Shakkila Banu Gose Sulta</a>
 </p>
 </td>
 </tr>
@@ -972,7 +972,7 @@ variant: tiptap
 </p>
 </th>
 <th rowspan="1" colspan="1">
-<p><a href="mailto:kayal_vili_pugalendi@schools.gov.sg<shahul_hameed_ameer_hamsah@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Kayal Vili d/o Pugalendi</a>
+<p><a href="mailto:kayal_vili_pugalendi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Kayal Vili d/o Pugalendi</a>
 </p>
 </th>
 </tr>
@@ -982,7 +982,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:azimah_begam_haja_mohidin@schools.gov.sg@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Azimah Begam</a>
+<p><a href="mailto:azimah_begam_haja_mohidin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Azimah Begam</a>
 <br>
 </p>
 </td>
