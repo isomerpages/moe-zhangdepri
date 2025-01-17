@@ -60,10 +60,6 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/our-programmes/non-ip-core-curriculum/ccas/art-club" rel="noopener noreferrer nofollow" target="_blank">Art Club</a>
-</p>
-<p><a href="/non-ip-core-curriculum/ccas/environment-club" rel="noopener noreferrer nofollow" target="_blank">Environment Club</a>
-</p>
 <p><a href="/our-programmes/non-ip-core-curriculum/ccas/robotics-club" rel="noopener noreferrer nofollow" target="_blank">Robotics Club</a>
 </p>
 <p></p>
