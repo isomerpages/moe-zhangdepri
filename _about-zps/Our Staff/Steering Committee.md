@@ -127,11 +127,20 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>HOD PE, CCA &amp; Aesthetics</p>
+<p>HOD PE &amp; Aesthetics</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:thilak_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Thilakaran s/o Divenaran</a>
-<br><a href="mailto:siti_mas_laily@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Siti Mas Laily</a>
+<p><a href="mailto:thilak_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Thilakaran s/o Divenaran </a>(Covering)
+<br>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>HOD CCA</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:siti_mas_laily@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Siti Mas Laily</a>
 <br>(Covering)</p>
 </td>
 </tr>
