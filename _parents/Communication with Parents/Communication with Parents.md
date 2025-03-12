@@ -8,6 +8,14 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" src="/images/OurPartners.png">
 </div>
+<h4><strong>2025 Term 2</strong></h4>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/files/Term_2_Student_Calendar_2025.pdf" rel="noopener nofollow" target="_blank">Term 2 Calendar</a>
+</p>
+<p></p>
+</li>
+</ul>
 <h4><strong>2025 Term 1</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
@@ -17,7 +25,7 @@ variant: tiptap
 <li>
 <p><a href="/files/1_Term_1_From_the_Desk_of_the_Principal_3rd_Jan_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Term 1 Letter to Parents</a>
 </p>
-<p></p>
 </li>
 </ul>
+<h4></h4>
 <p></p>
