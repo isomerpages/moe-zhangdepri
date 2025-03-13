@@ -38,4 +38,12 @@ safe and smart online.</p>
 <div class="isomer-image-wrapper">
 <img style="width:75%" height="auto" width="100%" src="/images/Curbing%20Gaming%20Addiction.jpg">
 </div>
+<p>Managing Screen Time</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Managing_your_child_s_device_use_1.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Managing_your_child_s_device_use_2.jpg">
+</div>
 <p></p>
