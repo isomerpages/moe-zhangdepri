@@ -37,18 +37,12 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="/files/Part_1_P5_2025_Parent_Engagement_Session__For_Uploading.pdf" rel="noopener nofollow" target="_blank">P5 Parents Engagement Slides (Part 1)</a>
-</p>
-</li>
-<li>
-<p><a href="/files/Part_2_P5_2025_Parent_Engagement_Session__For_Uploading.pdf" rel="noopener nofollow" target="_blank">P5 Parents Engagement Slides (Part 2)</a>
+<p><a href="https://drive.google.com/file/d/1lhALskUqu90OYo3e0xMeMOWtPD5MDRNk/view?usp=sharing" rel="noopener nofollow" target="_blank">P5 Parents Engagement Slides</a>
 </p>
 </li>
 <li>
 <p><a href="/files/Uploaded_SBB_S1_Positing_and_DSA_information.pdf" rel="noopener nofollow" target="_blank">Subject Based Banding, S1 Posting and Direct School Admission matters</a>
 </p>
-</li>
-<li>
 <p></p>
 </li>
 </ul>
