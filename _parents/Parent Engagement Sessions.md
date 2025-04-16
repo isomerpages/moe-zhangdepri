@@ -33,6 +33,10 @@ variant: tiptap
 </p>
 </li>
 <li>
+<p><a href="/files/Uploaded_P3_Parents_Engagement_Sharing_EL_MA_MTL_SC.pdf" rel="noopener nofollow" target="_blank">P3 Parents Engagement Slides</a>
+</p>
+</li>
+<li>
 <p><a href="/files/P4_Parents_Engagement_Sharing_Final.pdf" rel="noopener nofollow" target="_blank">P4 Parents Engagement Slides</a>
 </p>
 </li>
