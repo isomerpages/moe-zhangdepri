@@ -47,6 +47,20 @@ submit work on time.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Date</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Levels</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Term 2</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -81,7 +95,9 @@ submit work on time.</p>
 <tr></tr>
 </tbody>
 </table>
-<h4><strong>Quick Tip! - Have Trouble Accessing SLS?</strong></h4>
+<h4><strong>Quick Tip! - Have Trouble Accessing SLS or Microsoft Teams?</strong></h4>
+<p><a href="/files/Guide_to_Joining_Microsoft_Teams_Meeting_docx.pdf" rel="noopener nofollow" target="_blank">Guide to Join Microsoft Teams Meeting</a>
+</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" src="/images/SLS.jpeg">
 </div>
