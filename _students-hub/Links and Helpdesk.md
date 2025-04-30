@@ -10,8 +10,7 @@ variant: tiptap
 <p><strong>1) Student Learning Space</strong>
 <br>Click <a href="https://vle.learning.moe.edu.sg/login" rel="noopener" target="_blank">here</a> to
 access the Student Learning Space (SLS).</p>
-<p><strong>SLS Support for Home-based Learning/E-learning Day</strong>
-</p>
+<p></p>
 <p><strong>School Operating Hours</strong>
 </p>
 <p>During school operating hours, students should contact the&nbsp;<strong><u>School-based Helpline</u></strong>&nbsp;for
@@ -52,8 +51,8 @@ and form class.</p>
 <br>Click&nbsp;<a href="https://workspace.google.com/dashboard" rel="noopener" target="_blank">here</a>&nbsp;to
 login to the student icon.
 <br>
-<br>For password reset and unlocking of accounts, please contact Mrs Fiona
-Wong at 6274 0357 or email to&nbsp;<a href="mailto:goh_han_sin@schools.gov.sg" rel="noopener noreferrer nofollow" target="">goh_han_sin@schools.gov.sg</a>
+<br>For password reset and unlocking of accounts, please contact Mr. Goh Han
+Sin at 6274 0357 or email to&nbsp;<a href="mailto:goh_han_sin@schools.gov.sg" rel="noopener noreferrer nofollow" target="">goh_han_sin@schools.gov.sg</a>
 <br>
 <br><strong>3)&nbsp;Guide to Join Microsoft Teams Meeting</strong>
 </p>
