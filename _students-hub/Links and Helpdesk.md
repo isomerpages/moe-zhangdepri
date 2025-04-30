@@ -51,8 +51,8 @@ and form class.</p>
 <br>Click&nbsp;<a href="https://workspace.google.com/dashboard" rel="noopener" target="_blank">here</a>&nbsp;to
 login to the student icon.
 <br>
-<br>For password reset and unlocking of accounts, please contact Mrs Fiona
-Wong at 6274 0357 or email to&nbsp;<a href="mailto:goh_han_sin@schools.gov.sg" rel="noopener noreferrer nofollow" target="">goh_han_sin@schools.gov.sg</a>
+<br>For password reset and unlocking of accounts, please contact Mr. Goh Han
+Sin at 6274 0357 or email to&nbsp;<a href="mailto:goh_han_sin@schools.gov.sg" rel="noopener noreferrer nofollow" target="">goh_han_sin@schools.gov.sg</a>
 <br>
 <br><strong>3)&nbsp;Guide to Join Microsoft Teams Meeting</strong>
 </p>
