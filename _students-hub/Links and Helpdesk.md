@@ -10,8 +10,7 @@ variant: tiptap
 <p><strong>1) Student Learning Space</strong>
 <br>Click <a href="https://vle.learning.moe.edu.sg/login" rel="noopener" target="_blank">here</a> to
 access the Student Learning Space (SLS).</p>
-<p><strong>SLS Support for Home-based Learning/E-learning Day</strong>
-</p>
+<p></p>
 <p><strong>School Operating Hours</strong>
 </p>
 <p>During school operating hours, students should contact the&nbsp;<strong><u>School-based Helpline</u></strong>&nbsp;for
