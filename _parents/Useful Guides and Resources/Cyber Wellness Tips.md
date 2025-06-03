@@ -29,6 +29,11 @@ safe and smart online.</p>
 </p>
 </li>
 </ol>
+<p>Cyber Safety Tips</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Cyber_safety_CSA_talk.jpg">
+</div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" src="/images/CWT1.png">
 </div>
