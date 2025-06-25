@@ -77,14 +77,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Operations Support Officers
-<br>
-</p>
+<p>Operations Support Officers</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Yuphin Moonta
-<br>
-</p>
+<p>Mdm Yuphin Moonta</p>
 </td>
 </tr>
 <tr>
@@ -100,9 +96,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Lew Kim Piak
-<br>
-</p>
+<p>Mr Lew Kim Piak</p>
 </td>
 </tr>
 <tr>
