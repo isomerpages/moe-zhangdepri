@@ -8,6 +8,12 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" src="/images/OurProgrammes.png">
 </div>
+<h4><strong>Zhangde Primary School 40th Anniversary</strong></h4>
+<blockquote>
+<h4>Future of Zhangde reimagined by our students</h4>
+</blockquote>
+<p><a href="https://www.thinglink.com/view/scene/1994652521477440356" rel="noopener nofollow" target="_blank">Click here to view the Virtual Model</a>
+</p>
 <h4><strong>Team Zhangde 2024</strong></h4>
 <div class="iframe-wrapper">
 <iframe height="299" width="480" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQpDmEgk5wQlC6q3H5wFIoTe32pj4Pc_8Ui3p_BEL2fhnzbNgZfXiOW2lXTHorY0v38yqQmC3JAXTQq/embed?start=true&amp;loop=true&amp;delayms=10000"></iframe>
