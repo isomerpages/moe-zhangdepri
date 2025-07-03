@@ -59,13 +59,21 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>PE, CCA &amp; Aesthetics
-<br>
-</p>
+<p>PE</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:thilak_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Thilakaran s/o Divenaran</a>
 </p>
+<p>(covering)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>CCA &amp; Aesthetics
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
 <p><a href="mailto:siti_mas_laily@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Siti Mas Laily</a>
 </p>
 <p>(covering)</p>
@@ -89,7 +97,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:goh_han_sin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Goh Han Sin</a> (covering)</p>
+<p><a href="mailto:goh_han_sin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Goh Han Sin</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -116,7 +125,7 @@ variant: tiptap
 <p>Student Welfare</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tan_winnie@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Tan Winnie</a>
+<p><a href="mailto:tan_winnie@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Winnie Tan</a>
 <br>
 </p>
 </td>
@@ -160,7 +169,7 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p><strong>Level Heads/Subjects Heads</strong>
+<p><strong>Level Heads/Subjects Heads/Assistant Year Head</strong>
 </p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -207,15 +216,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Information Communication &amp; Technology</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:goh_han_sin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Goh Han Sin</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Character &amp; Citizenship Education</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -229,6 +229,24 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:chin_meiyi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Chin Meiyi</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Student Well-being</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:low_yu_ci@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Grace Low</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Assistant Year Head</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:farzana_begum_kamal@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Farzana Begum Binte Kamal </a>
 </p>
 </td>
 </tr>
