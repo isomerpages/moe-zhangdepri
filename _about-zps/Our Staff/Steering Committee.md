@@ -272,7 +272,7 @@ variant: tiptap
 <p>SH Student Well-Being</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="LOW_YU_CI@SCHOOLS.GOV.SG" rel="noopener nofollow" target="_blank">Ms Low Yu Ci</a>
+<p><a href="mailto:LOW_YU_CI@SCHOOLS.GOV.SG" rel="noopener nofollow" target="_blank">Ms Low Yu Ci</a>
 </p>
 </td>
 </tr>
