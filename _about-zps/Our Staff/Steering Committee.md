@@ -112,7 +112,8 @@ variant: tiptap
 <p>HOD Information Communication &amp; Technology</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:goh_han_sin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Goh Han Sin</a> (Covering)</p>
+<p><a href="mailto:goh_han_sin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Goh Han Sin</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -202,6 +203,15 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Assistant Year Head</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:farzana_begum_kamal@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Farzana Begum Binte Kamal</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>LH English Language</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -245,15 +255,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:chin_meiyi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Chin Meiyi</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>SH Information Communication &amp; Technology</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:goh_han_sin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Goh Han Sin</a>
 </p>
 </td>
 </tr>
