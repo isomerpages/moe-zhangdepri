@@ -6,7 +6,6 @@ description: ""
 third_nav_title: Home Based Learning (HBL)
 ---
 <h2>Home-Based Learning Schedules</h2>
-<p></p>
 <p>Home-Based Learning (HBL) aims to nurture students to be self-directed
 and future-ready learners.</p>
 <p>It allows students to take ownership of their learning while building
