@@ -13,10 +13,10 @@ sections:
       key_highlights:
         - title: ANNOUNCEMENTS
           description: ""
-          url: /announcements/
+          url: /our-partners/parents/communication-with-parents/
         - title: CALENDAR EVENTS
           description: ""
-          url: /calendar-events/
+          url: /files/Term_3_Students_Calendar_2025.pdf
         - title: Student Learning Space
           description: ""
           url: https://vle.learning.moe.edu.sg/login
