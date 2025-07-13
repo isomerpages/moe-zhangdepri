@@ -75,16 +75,30 @@ submit work on time.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Term 3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>16 July 2025</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>P1 - P5</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Prelim Oral</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Term 3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>13 - 14 August 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P1 - P5</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>PSLE Oral</p>
 </td>
 </tr>
 </tbody>
