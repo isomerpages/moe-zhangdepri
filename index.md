@@ -16,7 +16,7 @@ sections:
           url: /our-partners/parents/communication-with-parents/
         - title: CALENDAR EVENTS
           description: ""
-          url: /files/Term_3_Students_Calendar_2025.pdf
+          url: /our-partners/parents/communication-with-parents/
         - title: Student Learning Space
           description: ""
           url: https://vle.learning.moe.edu.sg/login
