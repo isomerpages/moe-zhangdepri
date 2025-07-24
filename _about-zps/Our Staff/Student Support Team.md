@@ -35,6 +35,15 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:vivian_choo_li_hsuen@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Vivian Choo Li Hsuen</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Senior SEN officer (Learning &amp; Behavioural Support)
 <br>
 </p>
@@ -69,7 +78,16 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto: fan_xinyi_ebellia_c@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Fan Xinyi Ebellia</a>
+<p><a href="mailto:tan_si_rong_constanza@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Tan Si Rong Constanza</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:syahidah_husuhaimi@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Syahidah Binte Husuhaimi</a>
 </p>
 </td>
 </tr>
