@@ -9,6 +9,14 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" src="/images/OurPartners.png">
 </div>
 <p></p>
+<h4><strong>2025 Term 4</strong></h4>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/files/Term_4_Student_Calendar_2025.pdf" rel="noopener nofollow" target="_blank">Term 4 Calendar</a>
+</p>
+</li>
+</ul>
+<p></p>
 <h4><strong>2025 Term 3</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
