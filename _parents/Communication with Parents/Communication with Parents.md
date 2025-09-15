@@ -15,8 +15,11 @@ variant: tiptap
 <p><a href="/files/Term_4_Student_Calendar_2025.pdf" rel="noopener nofollow" target="_blank">Term 4 Calendar</a>
 </p>
 </li>
+<li>
+<p><a href="/files/4_Term_4_From_the_Desk_of_the_Principal.pdf" rel="noopener nofollow" target="_blank">Term 4 Letter to Parents</a>
+</p>
+</li>
 </ul>
-<p></p>
 <h4><strong>2025 Term 3</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
