@@ -8,7 +8,21 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" src="/images/OurPartners.png">
 </div>
-<p></p>
+<h4><strong>End of Year Examinations Topics to be Tested</strong></h4>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/files/2025_P3_EOY_Exams_Topics_To_Be_Tested.pdf" rel="noopener nofollow" target="_blank">P3 End of Year Examinations Topics to be tested</a>
+</p>
+</li>
+<li>
+<p><a href="/files/2025_P4_EOY_Exams_Topics_To_Be_Tested.pdf" rel="noopener nofollow" target="_blank">P4 End of Year Examinations Topics to be tested</a>
+</p>
+</li>
+<li>
+<p><a href="/files/2025_P5_EOY_Exams_Topics_To_Be_Tested.pdf" rel="noopener nofollow" target="_blank">P5 End of Year Examinations Topics to be tested</a>
+</p>
+</li>
+</ul>
 <h4><strong>2025 Term 4</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
