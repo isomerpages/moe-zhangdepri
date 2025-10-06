@@ -20,18 +20,9 @@ variant: tiptap
 <p>School Counsellor</p>
 </th>
 <th rowspan="1" colspan="1">
-<p><a href="mailto:karin_ng_yi-lyn@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Karin Ng Yi-Lyn</a>
+<p><a href="mailto:Lee_Lai_Kuan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Lee Lai Kuan</a>
 </p>
 </th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:Lee_Lai_Kuan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Lee Lai Kuan @ Imaan Lee</a>
-</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
