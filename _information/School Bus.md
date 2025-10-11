@@ -13,4 +13,4 @@ variant: markdown
 
 School Bus Operator and Bus Fare (From Jan 2024 to Dec 2025 & Jan 2026 to Dec 2027)
 
-[](/files/School_Bus_Services___ZPS__2024__2025___2026__2027_.pdf)
+[](/files/[Click here to view the School Bus Operator and Bus Fare ](/files/School_Bus_Services___ZPS__2024__2025___2026__2027_.pdf)School_Bus_Services___ZPS__2024__2025___2026__2027_.pdf)
