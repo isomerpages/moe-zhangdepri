@@ -23,37 +23,37 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p><a href="/files/P1_BOOKLIST_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">P1 Booklist</a>
+<p><a href="/files/P1_BOOKLIST_2026.pdf" rel="noopener nofollow" target="_blank">P1 Booklist</a>
 </p>
 </th>
 <th rowspan="1" colspan="1">
-<p><a href="/files/P3_BOOKLIST_2025.pdf" rel="noopener nofollow" target="_blank">P3 Booklist</a>
+<p><a href="/files/P3_BOOKLIST_2026.pdf" rel="noopener nofollow" target="_blank">P3 Booklist</a>
 </p>
 </th>
 <th rowspan="1" colspan="1">
-<p><a href="/files/P5_BOOKLIST_2025.pdf" rel="noopener nofollow" target="_blank">P5 Booklist</a>
+<p><a href="/files/P5_BOOKLIST_2026.pdf" rel="noopener nofollow" target="_blank">P5 Booklist</a>
 </p>
 </th>
 <td rowspan="1" colspan="1">
-<p><strong><a href="/files/P5_FDN_BOOKLIST_2025.pdf" rel="noopener nofollow" target="_blank">P5 FDN Booklist</a></strong>
+<p><strong><a href="/files/P5__FDN__BOOKLIST_2026.pdf" rel="noopener nofollow" target="_blank">P5 FDN Booklist</a></strong>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="/files/P2_BOOKLIST_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">P2 Booklist</a></strong>
+<p><strong><a href="/files/P2_BOOKLIST_2026.pdf" rel="noopener nofollow" target="_blank">P2 Booklist</a></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="/files/P4_BOOKLIST_2025.pdf" rel="noopener nofollow" target="_blank">P4 Booklist</a></strong>
+<p><strong><a href="/files/P4_BOOKLIST_2026.pdf" rel="noopener nofollow" target="_blank">P4 Booklist</a></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="/files/P6_BOOKLIST_2025.pdf" rel="noopener nofollow" target="_blank">P6 Booklist</a></strong>
+<p><strong><a href="/files/P6_BOOKLIST_2026.pdf" rel="noopener nofollow" target="_blank">P6 Booklist</a></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="/files/P6__FDN__BOOKLIST_2025.pdf" rel="noopener nofollow" target="_blank">P6 FDN Booklist</a></strong>
+<p><strong><a href="/files/P6__FDN__BOOKLIST_2026.pdf" rel="noopener nofollow" target="_blank">P6 FDN Booklist</a></strong>
 </p>
 </td>
 </tr>
