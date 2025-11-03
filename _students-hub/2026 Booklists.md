@@ -7,8 +7,10 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" src="/images/Resourcesheader2.png">
 </div>
-<p><strong><u>Click on the link between to download the booklist.</u></strong>
+<p>Select the correct level and course.</p>
+<p><strong><u>Click the link below to download the booklist.</u></strong>
 </p>
+<p></p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 25%;" height="auto" width="100%" alt="" src="/images/Bookicon.png">
