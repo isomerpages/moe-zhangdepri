@@ -24,7 +24,7 @@ unlocking of accounts, as well as queries about lesson assignments.</p>
 </p>
 </li>
 <li>
-<p>Mr. Goh Han Sin (SH ICT): <a href="mailto:goh_han_sin@schools.gov.sg" rel="noopener noreferrer nofollow" target="">goh_han_sin@schools.gov.sg</a>
+<p>Mr. Goh Han Sin (HOD ICT): <a href="mailto:goh_han_sin@schools.gov.sg" rel="noopener noreferrer nofollow" target="">goh_han_sin@schools.gov.sg</a>
 </p>
 </li>
 <li>
@@ -48,7 +48,7 @@ the school operating hours.</p>
 When emailing the SLS Helpdesk, please include full name, name of school
 and form class.</p>
 <p><strong>2) Student Icon</strong>
-<br>Click&nbsp;<a href="https://workspace.google.com/dashboard" rel="noopener" target="_blank">here</a>&nbsp;to
+<br>Click&nbsp;<a href="https://idp.mims.moe.gov.sg/" rel="noopener" target="_blank">here</a>&nbsp;to
 login to the student icon.
 <br>
 <br>For password reset and unlocking of accounts, please contact Mr. Goh Han
