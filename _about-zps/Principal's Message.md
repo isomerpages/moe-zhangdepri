@@ -2,14 +2,36 @@
 title: Principal's Message
 permalink: /about-zps/Principals-Message/
 description: ""
+variant: tiptap
 ---
-<img src="/images/AboutUs.png">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" src="/images/AboutUs.png">
+</div>
 <h4><strong>Principal's Message</strong></h4>
-<p>At Zhangde Primary School, we value every child as a valuable asset to our family, to the school, to the community, to society and the Nation. We will be committed to our children from the moment they join the Zhangde Family to give them a holistic educational experience to nurture them to be all that they can be. Not only is this the School’s responsibility but it is our children’s right to a balanced, enjoyable and happy education.</p>
-<img src="/images/Mdm%20Rita%20Raj%20Lal.jpg" style="width:180px;height:240px;margin-right:15px;" align="left"> 
-<p>At Zhangde Primary School, we believe that each child has his or her own natural abilities and strengths and in the six years with us, we will do all that we can to ensure that all of them are exposed to an academically and culturally unique and vibrant Zhangde Experience. Our students are the true VIPs of the school because the future of Singapore is in their hands to build and achieve.</p>
-<p>Our school believes in the basics of building a child’s character and we will focus much in building the values, ethics and character of our children. With a firm grounding in the school values of a GIVER3S Heart, we know that our children will excel in everything they attempt, experience and learn as they unlock the doors to knowledge.</p>
-<p>At Zhangde Primary School (ZPS), your child will for the first time have many new experiences. He or she will interact and socialize with many children of all races, nationalities, backgrounds and religions. They will be exposed to many teachers, situations and learning journeys which they could never have imagined. This sense of wonder and discovery is very important for us at ZPS because we firmly believe that children must have time to be children. They must not be robbed of their childhood, but be allowed to have fun, be amazed by what they learn and enjoy being in school because there is always something new to delight them every single day.</p>
-<p>While we do as much as we can for our children, we also believe in a strong Partnership with the Home. Every parent is important to us because you are instrumental in the holistic education of your child. You can help in your child’s education in many different ways. You can help reinforce what is being taught in school, monitor and encourage your child’s work, sit with your child and just be there for him or her. Most importantly you can be a role model for your child and relate your life experiences and what you have learnt in society and Singapore over the years that you have seen Singapore transform and change for the better. Our Parents are our Partners and we will work closely with you to ensure that our children get the best both in school and at home.</p>
-<p>Zhangde Primary School, is well-established in our community with knowledgeable, qualified and professional teachers and staff who will nurture our children to be thinking individuals and gracious citizens that we all, the school, parents and Singapore, can be proud of.</p>
-<p>Mrs Rita Dass<br>Principal</p>
+<p>Dear Parents &amp; Guardians,</p>
+<p>On 8th October, I shared with you that I will be retiring at the end of
+2025.</p>
+<p>I would like to take a moment to express my heartfelt gratitude for the
+tremendous support and encouragement you have given me over the past seven
+years. Our school's vision of "A Learning School, Givers Heart" has been
+my guiding light as I worked alongside my dedicated staff to build a nurturing
+environment where your children could truly thrive. This remarkable journey
+would not have been possible without our committed educators, our SAC's
+unwavering support, our PSG's positive presence, and the countless ways
+you have partnered with us from your homes and offices. Thank you from
+the bottom of my heart.</p>
+<p>I will treasure the wonderful memories created in our classrooms, corridors,
+hall, canteen, library, fields, and gardens—spaces where students worked,
+played, laughed, and sometimes cried alongside our caring staff. Thank
+you for granting me the extraordinary privilege of being part of your children's
+educational journey and watching them grow into the remarkable individuals
+they are today.</p>
+<p>As I leave alongside the Class of 2025 P6 students, we do so with heads
+held high and hearts full of excitement for the next chapter of our lives.
+To the students who remain, we wish them continued growth and success,
+confident that they will flourish under the continued care of Mr Kyaw Saw
+Lynn (Principal) and staff of Zhangde Primary School.</p>
+<p>With deepest appreciation and warmest wishes for your continued success.</p>
+<p>Mrs Rita Dass</p>
+<p>Principal (2019-2025)</p>
+<p></p>
