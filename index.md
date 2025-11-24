@@ -23,4 +23,13 @@ sections:
         - title: Home Based Learning
           description: ""
           url: /home-based-learning-hbl
+  - infopic:
+      title: 40th Anniversary
+      subtitle: Zhangde is 40!
+      id: infopic
+      description: In 2025, Zhangde celebrates her 40th Anniversary
+      button: Click here for the 40th Anniversary Newsletter
+      url: https://online.fliphtml5.com/ntzva/jjuo/
+      image: /images/logo.png
+      alt: Image alt text
 ---
