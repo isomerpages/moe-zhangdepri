@@ -5,11 +5,9 @@ description: ""
 variant: tiptap
 ---
 <h4><strong>ANNOUNCEMENTS</strong></h4>
-<p><strong><a href="/our-partners/parents/communication-with-parents" rel="noopener noreferrer nofollow" target="_blank">2024 Term 4 Calendar &amp; Letter to Parents</a><br></strong>Click
-here to access the Term 4 Calendar &amp; Letter to Parents</p>
-<hr>
-<p><strong><a href="/our-partners/parents/communication-with-parents" rel="noopener noreferrer nofollow" target="_blank">2024 End of Year Examinations</a><br></strong>Click
-here to access the topics to be tested for End of Year Examinations</p>
+<p><strong><a href="https://online.fliphtml5.com/ntzva/jjuo/" rel="noopener noreferrer nofollow" target="_blank">40th Anniversary Newsletter</a></strong>
+</p>
+<p>Click here to view our 40th Anniversary Newsletter</p>
 <hr>
 <p><strong><a href="/our-partners/parents/useful-guides-and-resources/cyber-wellness-tips" rel="noopener noreferrer nofollow" target="_blank">Cyber wellness Tips</a><br></strong>Click
 here to find out more.</p>
