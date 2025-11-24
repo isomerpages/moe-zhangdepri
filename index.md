@@ -13,7 +13,7 @@ sections:
       key_highlights:
         - title: ANNOUNCEMENTS
           description: ""
-          url: /our-partners/parents/communication-with-parents/
+          url: /announcements/
         - title: CALENDAR EVENTS
           description: ""
           url: /our-partners/parents/communication-with-parents/
