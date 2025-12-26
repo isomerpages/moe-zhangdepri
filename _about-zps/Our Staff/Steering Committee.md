@@ -20,15 +20,13 @@ variant: tiptap
 <p>Principal</p>
 </th>
 <th rowspan="1" colspan="1">
-<p><a href="mailto:Rita_Raj_LAL@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Rita Dass (Mdm Rita Raj Lal)</a>
+<p><a href="mailto:kyaw_saw_lynn@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Kyaw Saw Lynn</a>
 </p>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Vice-Principal
-<br>
-</p>
+<p>Vice-Principal</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:lim_peggy@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Peggy Koh (Mdm Peggy Lim)</a>
@@ -37,9 +35,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Vice-Principal
-<br>
-</p>
+<p>Vice-Principal</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:chan_cheong_cheong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Chan Cheong Cheong</a>
@@ -57,9 +53,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>HOD English Language
-<br>
-</p>
+<p>HOD English Language</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:lim_pei_shy_josephine@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Lim Pei Shy Josephine</a>
@@ -86,9 +80,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>HOD Mathematics
-<br>
-</p>
+<p>HOD Mathematics</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:tang_siew_hong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Tang Siew Hong</a>
@@ -97,9 +89,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>HOD Character &amp; Citizenship Education
-<br>
-</p>
+<p>HOD Character &amp; Citizenship Education</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:tan_yingya_rebecca@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Rebecca Tan Yingya</a> 
@@ -118,41 +108,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>HOD Student Management
-<br>
-</p>
+<p>HOD Student Management</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tan_winnie@schools.gov.sg" rel="noopener noreferrer nofollow" target="">Ms Tan Winnie</a> (Covering)</p>
+<p><a href="mailto:abdul_khalik_b_saidin@schools.gov.sg" rel="noopener noreferrer nofollow" target="">Mr Abdul Khalik B Saidin</a>(Covering)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>HOD PE</p>
+<p>HOD PE, CCA &amp; Aesthetics</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:thilak_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Thilakaran s/o Divenaran </a>(Covering)
-<br>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>HOD CCA &amp; Aesthetics</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:siti_mas_laily@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Siti Mas Laily</a>
-<br>(Covering)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>HOD Student Welfare</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:tan_winnie@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Tan Winnie</a> 
-<br>
-</p>
+<p><a href="mailto:siti_mas_laily@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Siti Mas Laily</a>(Covering)</p>
 </td>
 </tr>
 <tr>
@@ -160,8 +127,7 @@ variant: tiptap
 <p>HOD Special Education Needs</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tan_lee_ling@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Tan Lee Ling</a> 
-<br>
+<p><a href="mailto:tan_lee_ling@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Tan Lee Ling</a>
 </p>
 </td>
 </tr>
@@ -171,15 +137,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:abdul_khalik_b_saidin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Abdul Khalik B Saidin</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Year Head</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:thilak_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Thilakaran s/o Divenaran</a>
 </p>
 </td>
 </tr>
@@ -230,9 +187,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>LH Mathematics
-<br>
-</p>
+<p>LH Mathematics</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:tan_chu_wei@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Tan Chu Wei</a>
@@ -244,8 +199,7 @@ variant: tiptap
 <p>LH Mathematics</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:jane_toh_ka_ru@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Jane Toh Ka Ru</a> 
-<br>
+<p><a href="mailto:jane_toh_ka_ru@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Jane Toh Ka Ru</a>
 </p>
 </td>
 </tr>
