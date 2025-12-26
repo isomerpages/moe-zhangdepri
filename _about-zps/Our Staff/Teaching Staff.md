@@ -278,11 +278,11 @@ variant: tiptap
 <p>1 Graciousness</p>
 </th>
 <th rowspan="1" colspan="1">
-<p><a href="mailto:farzana_begum_kamal@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Farzana Begum Binte Kamal</a>
+<p><a href="mailto:chia_siew_geok@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Chia Siew Geok </a>
 </p>
 </th>
 <th rowspan="1" colspan="1">
-<p><a href="mailto:phang_huey_wen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Phang Huey Wen</a>
+<p><a href="mailto:chin_meiyi@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Chin Meiyi</a>
 </p>
 </th>
 </tr>
@@ -291,11 +291,11 @@ variant: tiptap
 <p>1 Integrity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:erawati_luman_yixuan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Erawati Luman Yixuan</a>
+<p><a href="mailto:qin_xueting@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Qin Xueting</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:yang_xiaoqi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Yang Xiaoqi</a>
+<p><a href="mailto:khairil_bahri_kamal@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Khairil Bahri Kamal</a>
 </p>
 </td>
 </tr>
@@ -304,11 +304,11 @@ variant: tiptap
 <p>1 Versatility</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:nandwani_sunil_bhagwandas@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Nandwani Sunil Bhagwandas</a>
+<p><a href="mailto:Soh_Shi_Qi_Beatrice@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Soh Shi Qi Beatrice</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:xie_ying@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Xie Ying</a>
+<p><a href="mailto:lee_siew_ming@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Lee Siew Ming</a>
 </p>
 </td>
 </tr>
@@ -317,11 +317,11 @@ variant: tiptap
 <p>1 Empathy</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:syed_hakkim_nisha_sikkandar@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Syed Hakkim Nisha D/O Sikkandar</a>
+<p><a href="mailto:putri_liyana_megat_mohd@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Putri Lyana Megat</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Ee_Peck_Hong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Ee Peck Hong</a>
+<p><a href="mailto:han_xuehui_delicia@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Teo Wui Seng</a>
 </p>
 </td>
 </tr>
@@ -330,11 +330,11 @@ variant: tiptap
 <p>1 Sincerity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:goh_sze_lin_tracy@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Ching-Goh Sze Lin</a>
+<p><a href="mailto:koh_mui_khee_florence@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Florence Koh Mui Khee</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:radziah_mohamed@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Radziah Mohamed</a>
+<p><a href="mailto:Ee_Peck_Hong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Ee Peck Hong</a>
 </p>
 </td>
 </tr>
@@ -356,7 +356,8 @@ variant: tiptap
 </p>
 </th>
 <th rowspan="1" colspan="1">
-<p><a href="mailto:koh_mui_khee_florence@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Florence Koh Mui Khee</a>
+<p></p>
+<p><a href="mailto:goh_sze_lin_tracy@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Ching-Goh Sze Lin</a>
 </p>
 </th>
 <th rowspan="1" colspan="1">
@@ -371,7 +372,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Soh_Shi_Qi_Beatrice@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Soh Shi Qi Beatrice</a>
+<p></p>
+<p><a href="mailto:nandwani_sunil_bhagwandas@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Nandwani Sunil Bhagwandas</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -387,7 +389,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:putri_liyana_megat_mohd@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Putri Lyana Megat</a>
+<p></p>
+<p><a href="mailto:syed_hakkim_nisha_sikkandar@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Syed Hakkim Nisha D/O Sikkandar</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -405,9 +408,11 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="mailto:chua_ai_lian_irene@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Chua Ai Lian Irene</a>
 </p>
+<p><a href="mailto:erawati_luman_yixuan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Erawati Luman Yixuan</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:chia_siew_geok@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Chia Siew Geok</a>
+<p><a href="mailto:chia_siew_geok@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Farzana Begum Binte Kamal</a>
 <br>
 </p>
 </td>
@@ -439,6 +444,8 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="mailto:ho_lee_ling@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Ho Lee Ling</a>
 </p>
+<p><a href="mailto:radziah_mohamed@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Radziah Mohamed</a>
+</p>
 </td>
 </tr>
 </tbody>
@@ -465,6 +472,8 @@ variant: tiptap
 <th rowspan="1" colspan="1">
 <p><a href="mailto:sun_xiaojun_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Sun Xiao Jun</a>
 </p>
+<p><a href="mailto:phang_huey_wen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Phang Huey Wen</a>
+</p>
 </th>
 </tr>
 <tr>
@@ -478,8 +487,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:han_xuehui_delicia@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Teo Wui Seng</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -732,7 +740,7 @@ variant: tiptap
 </p>
 </th>
 <th rowspan="1" colspan="1">
-<p><a href="mailto:khairil_bahri_kamal@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Khairil Bahri Kamal</a>
+<p>
 <br>
 </p>
 </th>
@@ -763,7 +771,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lee_siew_ming@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Lee Siew Ming</a>
+<p><a href="mailto:xie_ying@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Xie Ying</a>
 </p>
 </td>
 </tr>
