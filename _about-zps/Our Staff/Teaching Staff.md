@@ -208,7 +208,7 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p><strong>Senior Teachers</strong>
+<p><strong>Lead Teachers (LT) and Senior Teachers (ST)</strong>
 </p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -218,21 +218,12 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>ST Chinese Language</p>
+<p>LT Tamil Language</p>
 </th>
 <th rowspan="1" colspan="1">
-<p><a href="mailto:ho_lee_ling@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Ho Lee Ling</a>
-</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>ST Tamil Language</p>
-</td>
-<td rowspan="1" colspan="1">
 <p><a href="mailto:kayal_vili_pugalendi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Kayal Vili d/o Pugalendi</a>
 </p>
-</td>
+</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -261,10 +252,19 @@ variant: tiptap
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>ST Lower Primary</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:goh_sze_lin_tracy@schools.gov.sg" rel="noopener nofollow" target="_blank">Mrs Ching-Goh Sze Lin</a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <h4><strong>Form Teachers</strong></h4>
-<p><strong>PRIMARY 1 2025</strong>
+<p><strong>PRIMARY 1 2026</strong>
 </p>
 <table style="minWidth: 75px">
 <colgroup>
