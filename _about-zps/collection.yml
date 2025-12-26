@@ -2,7 +2,6 @@ collections:
   about-zps:
     output: true
     order:
-      - Mrs Rita Dass Message.md
       - Principal's Message.md
       - School Heritage and History/.keep
       - School Heritage and History/School Heritage and History.md
