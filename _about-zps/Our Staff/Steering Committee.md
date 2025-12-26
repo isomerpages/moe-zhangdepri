@@ -127,7 +127,7 @@ variant: tiptap
 <p>HOD Special Education Needs</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tan_lee_ling@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Tan Lee Ling</a> 
+<p><a href="mailto:tan_lee_ling@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Tan Lee Ling</a>
 </p>
 </td>
 </tr>
@@ -199,7 +199,7 @@ variant: tiptap
 <p>LH Mathematics</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:jane_toh_ka_ru@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Jane Toh Ka Ru</a> 
+<p><a href="mailto:jane_toh_ka_ru@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Jane Toh Ka Ru</a>
 </p>
 </td>
 </tr>
