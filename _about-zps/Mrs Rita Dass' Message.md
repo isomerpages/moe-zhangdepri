@@ -1,13 +1,13 @@
 ---
-title: Principal's Message
-permalink: /about-zps/Principals-Message/
+title: Mrs Rita Dass' Message
+permalink: /about-zps/mrsdass-message/
 description: ""
 variant: tiptap
 ---
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" src="/images/AboutUs.png">
 </div>
-<h4><strong>Principal's Message</strong></h4>
+<h4><strong>Mrs Rita Dass' Message</strong></h4>
 <p>Dear Parents &amp; Guardians,</p>
 <p>On 8th October, I shared with you that I will be retiring at the end of
 2025.</p>

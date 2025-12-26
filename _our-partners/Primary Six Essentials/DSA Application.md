@@ -2,7 +2,7 @@
 title: DSA Application
 permalink: /our-partners/guides-for-p6-parents-and-students/dsa-application/
 description: ""
-third_nav_title: Guides for P6 Parents&Students
+third_nav_title: Primary Six Essentials
 variant: tiptap
 ---
 <div class="isomer-image-wrapper">
