@@ -23,7 +23,7 @@ variant: tiptap
 </p>
 </th>
 <th rowspan="1" colspan="1">
-<p><a href="tang_siew_hong@schools.gov.sg" rel="noopener nofollow" target="_blank">Mrs Tang Siew Hong</a>
+<p><a href="mailto:tang_siew_hong@schools.gov.sg" rel="noopener nofollow" target="_blank">Mrs Tang Siew Hong</a>
 </p>
 </th>
 </tr>
@@ -33,15 +33,12 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:lim_pei_shy_josephine@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Lim Pei Shy Josephine</a>
-<br>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mother Tongue
-<br>
-</p>
+<p>Mother Tongue</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:chung_zhao_li@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Samantha Chung Zhao Li</a>
@@ -59,31 +56,15 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>PE</p>
+<p>PE, CCA &amp; Aesthetics</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:thilak_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Thilakaran s/o Divenaran</a>
-</p>
-<p>(covering)</p>
+<p><a href="mailto:siti_mas_laily@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Siti Mas Laily</a>(covering)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>CCA &amp; Aesthetics
-<br>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:siti_mas_laily@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Siti Mas Laily</a>
-</p>
-<p>(covering)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Character &amp; Citizenship Education
-<br>
-</p>
+<p>Character &amp; Citizenship Education</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:tan_yingya_rebecca@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Rebecca Tan Yingya</a>
@@ -92,9 +73,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Information Communication &amp; Technology
-<br>
-</p>
+<p>Information Communication &amp; Technology</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:goh_han_sin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Goh Han Sin</a>
@@ -103,9 +82,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>School Staff Developer
-<br>
-</p>
+<p>School Staff Developer</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:abdul_khalik_b_saidin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Abdul Khalik B Saidin</a>
@@ -117,17 +94,7 @@ variant: tiptap
 <p>Student Management</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="tan_winnie@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Winnie Tan</a> (covering)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Student Welfare</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:tan_winnie@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Winnie Tan</a>
-<br>
-</p>
+<p><a href="mailto:abdul_khalik_b_saidin@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Abdul Khalik B Saidin</a>(covering)</p>
 </td>
 </tr>
 <tr>
@@ -136,16 +103,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:tan_lee_ling@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Tan Lee Ling</a>
-<br>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Year Head</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:thilak_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Thilakaran s/o Divenaran</a>
 </p>
 </td>
 </tr>
@@ -201,7 +158,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:jane_toh_ka_ru@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Jane Toh Ka Ru</a>
-<br>
 </p>
 </td>
 </tr>
@@ -246,7 +202,7 @@ variant: tiptap
 <p>Assistant Year Head</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:farzana_begum_kamal@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Farzana Begum Binte Kamal </a>
+<p><a href="mailto:farzana_begum_kamal@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Farzana Begum Binte Kamal</a>
 </p>
 </td>
 </tr>
