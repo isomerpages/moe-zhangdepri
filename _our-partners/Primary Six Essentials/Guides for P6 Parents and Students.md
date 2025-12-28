@@ -3,6 +3,7 @@ title: Guides for P6 Parents and Students
 permalink: /our-partners/guides-for-p6-parents-and-students/
 description: ""
 third_nav_title: Primary Six Essentials
+variant: markdown
 ---
 <img src="/images/OurPartners.png">
 <p><strong><u>S1 Posting Exercise</u></strong></p>
@@ -23,9 +24,7 @@ third_nav_title: Primary Six Essentials
 </ol>
 <img src="/images/Resources.png"><br>
 <img src="/images/Resources2.png"><br>
-<img style="width: 80%;" src="/images/Resources3.png">
-<p><strong><a href="https://www.seab.gov.sg/docs/default-source/publiccommunications/seab-link-newsletter/special-feature-on-2021-psle.pdf" target="_blank" rel="noopener">Newsletter</a></strong></p>
+
 <img src="/images/A%20Secondary%20School%20Thats%20Suitable%20For%20Your%20Child.jpg">
-<h4><strong>New PSLE Scoring System 2021</strong></h4>
+<h4><strong>PSLE Scoring System from 2021 onwards</strong></h4>
 <p><a href="https://www.moe.gov.sg/microsites/psle-fsbb/psle/main.html" target="_blank" rel="noopener">New PSLE Scoring System(1)</a><br><a href="/files/Changes%20to%20the%20PSLE%20Scoring%20System%20MOE.pdf" target="_blank" rel="noopener">New PSLE Scoring System(2)</a><br><a href="/files/Infosheet%20on%20PSLE%20changes.pdf" target="">Quick Guide to New PSLE Scoring and S1 Posting</a></p>
-<p>If you have any questions regarding the S1 posting, you may also submit using this&nbsp;<a href="https://form.gov.sg/5f9a1b9bf627ec001173c47e" target="_blank" rel="noopener">form</a>.</p>
