@@ -15,6 +15,6 @@ legacy and future aspirations.</p>
 <p><a href="https://online.fliphtml5.com/ntzva/jjuo/" rel="noopener nofollow" target="_blank">Click Here to view the 40th Anniversary Newsletter</a>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/logo.png">
+<img style="width: 25%;" height="auto" width="100%" alt="" src="/images/logo.png">
 </div>
 <p></p>
