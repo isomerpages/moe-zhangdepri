@@ -570,8 +570,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Norliah Samsuri</p>
-<p><a href="mailto:kayal_vili_pugalendi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Kayal Vili d/o Pugalendi</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
