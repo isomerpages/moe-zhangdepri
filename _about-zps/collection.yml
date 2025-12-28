@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Mrs Rita Dass' Message.md
-      - School Heritage and History/2025 40th Anniversary.md
       - School Heritage and History/.keep
       - School Heritage and History/School Heritage and History.md
       - School Heritage and History/1923 – 1942.md
@@ -12,6 +11,7 @@ collections:
       - School Heritage and History/1999 – 2004.md
       - School Heritage and History/2005 – 2012.md
       - School Heritage and History/2013 – 2020.md
+      - School Heritage and History/2025 40th Anniversary.md
       - School Vision, Mission & Values.md
       - School Crest & Song.md
       - School Rules and Regulations.md
