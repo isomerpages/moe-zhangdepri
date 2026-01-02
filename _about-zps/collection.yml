@@ -2,6 +2,7 @@ collections:
   about-zps:
     output: true
     order:
+      - ICT Acceptable Use Policy (AUP).md
       - Principal's Message.md
       - Mrs Rita Dass' Message.md
       - School Heritage and History/.keep
