@@ -424,7 +424,7 @@ variant: tiptap
 <p><a href="mailto:goh_sze_lin_tracy@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Ching-Goh Sze Lin</a>
 </p>
 <p></p>
-<p>Ms. Shallene</p>
+<p>Ms Shallene</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:nafeesah_muhammad_amiyn_jailani@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Nafeesah</a>
@@ -654,14 +654,16 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:shakkila_banu_gose_sulta@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Shakkila Banu Gose Sulta</a>
-</p>
-<p></p>
 <p><a href="mailto:zhou_jin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Zhou Jin</a>
 </p>
+<p></p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:silva_mp@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Prashan Silva</a>
+</p>
+<p></p>
+<p><a href="mailto:shakkila_banu_gose_sulta@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Shakkila Banu Gose Sulta</a>
 </p>
 </td>
 </tr>
