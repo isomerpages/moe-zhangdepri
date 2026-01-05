@@ -411,7 +411,9 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="mailto:simranpreet_kaur@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Simranpreet Kaur</a>
 </p>
-<p>Ms Mou Wai Nor</p>
+<p></p>
+<p><a href="mailto:mou_wai_nor@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Mou Wai Nor</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -480,9 +482,11 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
+<p><a href="mailto:nur_zafirah_abdul_halim@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Nur Zafirah</a>
+</p>
+<p></p>
 <p>Ms Lim Xin Yi</p>
 <p></p>
-<p>Ms Nur Zafirah</p>
 </td>
 </tr>
 <tr>
@@ -512,7 +516,8 @@ variant: tiptap
 <p><a href="mailto:yee_poh_kuen_a@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Yee Poh Kuen</a>
 </p>
 <p></p>
-<p>Ms Malarvizhi Kankairaj</p>
+<p><a href="mailto:kankairaj_malarvizhi@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Malarvizhi Kankairaj</a>
+</p>
 </td>
 </tr>
 </tbody>
@@ -614,7 +619,8 @@ variant: tiptap
 </p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Mr Boo Choong Kwang</p>
+<p><a href="boo_choon_kwang@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Boo Choong Kwang</a>
+</p>
 </th>
 </tr>
 <tr>
@@ -644,7 +650,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Caroline Tan</p>
+<p><a href="mailto:tan_tsai_ling_caroline@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Caroline Tan</a>
+</p>
 </td>
 </tr>
 <tr>
