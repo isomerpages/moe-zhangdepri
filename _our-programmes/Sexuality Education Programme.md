@@ -89,7 +89,7 @@ rewarding relationships with others, including those with members of the
 opposite sex. Students are also guided to make wise, informed and responsible
 decisions to keep themselves safe from sexuality-related risks.</p>
 <p></p>
-<p><strong>At Zhangde Primary School, the following Sexuality Education lessons will be taught in&nbsp;<u>2025</u>:</strong>
+<p><strong>At Zhangde Primary School, the following Sexuality Education lessons will be taught in&nbsp;<u>2026</u>:</strong>
 </p>
 <p><strong><u>Primary 5</u></strong>
 </p>
