@@ -10,11 +10,11 @@ variant: tiptap
 <h4><strong><u>2026 P1 Orientation</u></strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/Orientation_Programme_Slides__Part_1_.pdf" rel="noopener nofollow" target="_blank">P1 Orientation - part 1/2</a>
+<p><a href="/files/Orientation_Programme_Slides__Part_1_.pdf" rel="noopener nofollow" target="_blank"><u>P1 Orientation - part 1/2</u></a>
 </p>
 </li>
 <li>
-<p><a href="/files/Orientation_Programme_Slides__Part_2_.pdf" rel="noopener nofollow" target="_blank">P1 Orientation - part 2/2</a>
+<p><a href="/files/Orientation_Programme_Slides__Part_2_.pdf" rel="noopener nofollow" target="_blank"><u>P1 Orientation - part 2/2</u></a>
 </p>
 </li>
 </ul>
