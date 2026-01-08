@@ -8,6 +8,9 @@ variant: tiptap
 <p><strong><a href="https://www.zhangdepri.moe.edu.sg/our-partners/parents/communication-with-parents/" rel="noopener nofollow" target="_blank">Communication with Parents</a></strong>
 </p>
 <p>Click here to view the communication with Parents</p>
+<p><strong><a href="https://www.zhangdepri.moe.edu.sg/our-partners/parents/parents-engagement-sessions/" rel="noopener nofollow" target="_blank">Parents Engagement Slides</a></strong>
+</p>
+<p>Click here for Parents Engagement Slides</p>
 <p><strong><a href="https://online.fliphtml5.com/ntzva/jjuo/" rel="noopener noreferrer nofollow" target="_blank">40th Anniversary Newsletter</a></strong>
 </p>
 <p>Click here to view our 40th Anniversary Newsletter</p>
