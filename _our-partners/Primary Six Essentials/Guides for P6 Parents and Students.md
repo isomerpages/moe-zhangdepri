@@ -26,5 +26,6 @@ variant: markdown
 <img src="/images/Resources2.png"><br>
 
 <img src="/images/A%20Secondary%20School%20Thats%20Suitable%20For%20Your%20Child.jpg">
-<h4><strong>PSLE Scoring System from 2021 onwards</strong></h4>
-<p><a href="https://www.moe.gov.sg/microsites/psle-fsbb/psle/main.html" target="_blank" rel="noopener">New PSLE Scoring System(1)</a><br><a href="/files/Changes%20to%20the%20PSLE%20Scoring%20System%20MOE.pdf" target="_blank" rel="noopener">New PSLE Scoring System(2)</a><br><a href="/files/Infosheet%20on%20PSLE%20changes.pdf" target="">Quick Guide to New PSLE Scoring and S1 Posting</a></p>
+<h4><strong>S1 Posting Matters</strong></h4>
+
+[S1 Posting and DSA information](/files/Uploaded_SBB_S1_Positing_and_DSA_information.pdf)
