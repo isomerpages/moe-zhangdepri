@@ -552,8 +552,9 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:han_xuehui_delicia@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Han Xuehui, Delicia</a>
+<p><a href="mailto:han_xuehui_delicia@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Han Xuehui, Delicia</a>
 </p>
+<p>(Mrs Delicia Ee)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:shi_hairong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Shi Hairong</a>
