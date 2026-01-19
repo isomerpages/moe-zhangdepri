@@ -23,7 +23,18 @@ variant: tiptap
 <li>
 <p><a href="/files/P2_Parents_Engagement_Slides_Website_Upload.pdf" rel="noopener nofollow" target="_blank">P2 Parents Engagement</a>
 </p>
-<p></p>
 </li>
 </ul>
+<h4><strong><u>2026 P6 Parents Engagement</u></strong></h4>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/files/2026_P6_Parent_Engagement_Session___Part_1.pdf" rel="noopener nofollow" target="_blank">P6 Parents Engagement - part 1/2</a>
+</p>
+</li>
+<li>
+<p><a href="/files/2026_P6_Parent_Engagement_Session___Part_2.pdf" rel="noopener nofollow" target="_blank">P6 Parents Engagement - part 2/2</a>
+</p>
+</li>
+</ul>
+<p></p>
 <p></p>
