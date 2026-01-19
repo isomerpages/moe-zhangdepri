@@ -2,6 +2,7 @@ collections:
   about-zps:
     output: true
     order:
+      - Discipline Policy.md
       - Principal's Message.md
       - Mrs Rita Dass' Message.md
       - School Heritage and History/.keep
