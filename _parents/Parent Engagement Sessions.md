@@ -18,4 +18,12 @@ variant: tiptap
 </p>
 </li>
 </ul>
+<h4><strong><u>2026 P2 Parents Engagement</u></strong></h4>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/files/P2_Parents_Engagement_Slides_Website_Upload.pdf" rel="noopener nofollow" target="_blank">P2 Parents Engagement</a>
+</p>
+<p></p>
+</li>
+</ul>
 <p></p>
