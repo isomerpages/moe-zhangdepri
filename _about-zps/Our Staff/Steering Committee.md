@@ -230,6 +230,22 @@ variant: tiptap
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Assistant Year Head (Internal)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Han Xuehui Delicia</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SH Physical Education (Internal)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Low Kin Yew Jonathan</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
