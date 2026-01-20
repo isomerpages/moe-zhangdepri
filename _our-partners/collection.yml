@@ -2,8 +2,8 @@ collections:
   our-partners:
     output: true
     order:
-      - Parent Engagement Sessions.md
       - Parents.md
+      - Parent Engagement Sessions.md
       - School Advisory Committee.md
       - Primary Six Essentials/.keep
       - Primary Six Essentials/Guides for P6 Parents and Students.md
