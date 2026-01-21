@@ -235,8 +235,8 @@ variant: tiptap
 <p>Assistant Year Head (Internal)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Han Xuehui, Delicia</p>
-<p>(Mrs Delicia Ee)</p>
+<p><a href="mailto:han_xuehui_delicia@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Han Xuehui, Delicia  (Mrs Delicia Ee)</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -244,7 +244,8 @@ variant: tiptap
 <p>SH Physical Education (Internal)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Low Kin Yew Jonathan</p>
+<p><a href="mailto:low_kin_yew_jonathan@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Low Kin Yew Jonathan</a>
+</p>
 </td>
 </tr>
 </tbody>
