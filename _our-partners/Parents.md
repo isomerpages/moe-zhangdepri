@@ -11,7 +11,7 @@ variant: tiptap
 </p>
 <p><a href="/our-partners/parents/communication-with-parents" rel="noopener noreferrer nofollow" target="">Communication with Parents</a>
 </p>
-<p><a href="/our-partners/parents/parents-engagement-sessions" rel="noopener noreferrer nofollow" target="">Parent Engagement Sessions</a>
+<p><a href="https://www.zhangdepri.moe.edu.sg/parent-engagement-sessions/" rel="noopener nofollow" target="_blank">Parent Engagement</a>
 </p>
 <p><a href="/our-partners/parents/useful-guides-and-resources" rel="noopener noreferrer nofollow" target="">Useful Guides and Resources</a>
 </p>
