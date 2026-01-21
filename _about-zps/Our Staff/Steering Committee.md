@@ -235,7 +235,7 @@ variant: tiptap
 <p>Assistant Year Head (Internal)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:han_xuehui_delicia@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Han Xuehui, Delicia  (Mrs Delicia Ee)</a>
+<p><a href="mailto:han_xuehui_delicia@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Han Xuehui, Delicia (Mrs Delicia Ee)</a>
 </p>
 </td>
 </tr>
