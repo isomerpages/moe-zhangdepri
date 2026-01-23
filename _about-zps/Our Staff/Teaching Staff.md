@@ -356,7 +356,7 @@ variant: tiptap
 </p>
 </th>
 <th rowspan="1" colspan="1">
-<p><a href="mailto:chia_siew_geok@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Farzana Begum Binte Kamal</a>
+<p><a href="mailto:farzana_begum_kamal@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Farzana Begum Binte Kamal</a>
 </p>
 <p></p>
 </th>
