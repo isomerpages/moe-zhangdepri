@@ -219,6 +219,7 @@ variant: tiptap
 <tr>
 <th rowspan="1" colspan="1">
 <p>LT Tamil Language</p>
+<p></p>
 </th>
 <th rowspan="1" colspan="1">
 <p><a href="mailto:kayal_vili_pugalendi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Kayal Vili d/o Pugalendi</a>
