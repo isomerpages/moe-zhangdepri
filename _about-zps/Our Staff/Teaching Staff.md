@@ -227,15 +227,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>ST Malay Language</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:radziah_mohamed@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Radziah Mohamed</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>ST Music</p>
 </td>
 <td rowspan="1" colspan="1">
