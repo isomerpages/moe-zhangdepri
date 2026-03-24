@@ -22,7 +22,7 @@ variant: tiptap
 <h4><strong>2026 Term 2</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/2_Term_2_Letter_From_the_Desk_of_the_Principal.pdf" rel="noopener nofollow" target="_blank">Term 2 Calendar</a>
+<p><a href="/files/2_Term_2_Letter_From_the_Desk_of_the_Principal.pdf" rel="noopener nofollow" target="_blank">Term 2 Letter to Parents</a>
 </p>
 </li>
 </ul>
