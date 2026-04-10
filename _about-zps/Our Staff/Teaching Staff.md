@@ -418,7 +418,6 @@ variant: tiptap
 <p><a href="mailto:goh_sze_lin_tracy@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Ching-Goh Sze Lin</a>
 </p>
 <p></p>
-<p>Ms Shallene</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:nafeesah_muhammad_amiyn_jailani@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Nafeesah</a>
@@ -462,7 +461,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Wang Wenling</p>
+<p><a href="mailto:wang_wenling@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Wang Wenling</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -574,7 +574,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Norliah Samsuri</p>
+<p><a href="mailto:Norliah_Samsuri_C@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Norliah Samsuri</a>
+</p>
 <p></p>
 </td>
 </tr>
@@ -690,7 +691,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Chelsia Leong Le-Ting</p>
+<p><a href="mailto:Leong_Leting_Chelsia_A@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Chelsia Leong</a>
+</p>
 </td>
 </tr>
 </tbody>
