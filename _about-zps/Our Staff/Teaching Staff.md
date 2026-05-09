@@ -384,6 +384,9 @@ variant: tiptap
 <p><a href="mailto:nandwani_sunil_bhagwandas@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Nandwani Sunil Bhagwandas</a>
 </p>
 <p></p>
+<p><a href="mailto:tan_chay_eng_A@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Tan Chay Eng</a>
+</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:xie_ying@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Xie Ying</a>
