@@ -16,7 +16,7 @@ sections:
           url: /announcements/
         - title: CALENDAR EVENTS
           description: ""
-          url: /our-partners/parents/communication-with-parents/
+          url: /calendar-events/
         - title: Student Learning Space
           description: ""
           url: https://vle.learning.moe.edu.sg/login
