@@ -2,10 +2,10 @@
 layout: contact_us
 title: Contact Us
 permalink: /contact-us/
-agency_name: ZhangDe Primary School
+agency_name: Zhangde Primary School
 locations:
   - address:
-      - "51 "
+      - "51"
       - Jalan Membina
       - Singapore 169485
     operating_hours: []
@@ -22,4 +22,5 @@ contacts:
       - email: ""
       - other: ""
     title: Fax
+feedback: ""
 ---
