@@ -1,6 +1,6 @@
 ---
 title: Discipline Policy
-permalink: /discipline-policy/
+permalink: /wip/
 variant: tiptap
 description: ""
 ---
