@@ -27,6 +27,15 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Administration Manager (ICT)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:Edmund_goh@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Edmund Goh</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Administrative Executive</p>
 </td>
 <td rowspan="1" colspan="1">
