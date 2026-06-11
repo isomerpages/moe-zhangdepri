@@ -27,6 +27,15 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Administration Manager (ICT)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:Edmund_goh@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Edmund Goh</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Administrative Executive</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -124,7 +133,7 @@ variant: tiptap
 <p>Desktop Enginner</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr J. Ganesan</p>
+<p>Mr Wan Muhamad Nafiis Bin Wan Ismail</p>
 </td>
 </tr>
 <tr>
@@ -132,7 +141,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Wan Muhamad Nafiis Bin Wan Ismail</p>
+<p>Ms Monica Mathews</p>
 </td>
 </tr>
 <tr>
@@ -154,14 +163,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="mailto:juliana_peris@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Juliana Peris</a>
 </p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 </tbody>
