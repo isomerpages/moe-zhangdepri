@@ -133,7 +133,7 @@ variant: tiptap
 <p>Desktop Enginner</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr J. Ganesan</p>
+<p>Mr Wan Muhamad Nafiis Bin Wan Ismail</p>
 </td>
 </tr>
 <tr>
@@ -141,7 +141,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Wan Muhamad Nafiis Bin Wan Ismail</p>
+<p>Ms Monica Mathews</p>
 </td>
 </tr>
 <tr>
@@ -163,14 +163,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="mailto:juliana_peris@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Juliana Peris</a>
 </p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 </tbody>
