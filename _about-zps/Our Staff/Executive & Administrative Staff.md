@@ -16,14 +16,13 @@ variant: tiptap
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
+<td rowspan="1" colspan="1">
 <p>Administration Manager</p>
-</th>
-<th rowspan="1" colspan="1">
-<p><a href="mailto:tan_mae_hee@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Verlencia Tan Mae Hee</a> 
-<br>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="tan_mae_hee@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Verlencia Tan Mae Hee</a>
 </p>
-</th>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
