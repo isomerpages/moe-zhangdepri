@@ -16,13 +16,14 @@ variant: tiptap
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p>School Counsellor</p>
-</th>
-<th rowspan="1" colspan="1">
-<p><a href="mailto:Lee_Lai_Kuan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Lee Lai Kuan</a>
+<td rowspan="1" colspan="1">
+<p><strong>School Counsellor</strong>
 </p>
-</th>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:lee_lai_kuan@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Lee Lai Kuan</a>
+</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -31,6 +32,14 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="mailto:vivian_choo_li_hsuen@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Vivian Choo Li Hsuen</a>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -91,7 +100,16 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Student Welfare Officer</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Student Welfare Officer</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:mazuin_musa@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Mazuin Musa</a>
