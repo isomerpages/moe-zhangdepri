@@ -35,8 +35,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Senior SEN officer (Learning &amp; Behavioural Support)
-<br>
+<p><strong>Senior SEN officer (Learning &amp; Behavioural Support) <br></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -55,7 +54,15 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SEN officer (Learning &amp; Behavioural Support)
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>SEN officer (Learning &amp; Behavioural Support) </strong>
 <br>
 </p>
 </td>
