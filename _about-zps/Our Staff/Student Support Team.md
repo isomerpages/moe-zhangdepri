@@ -35,6 +35,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>Senior SEN officer (Learning &amp; Behavioural Support) <br></strong>
 </p>
 </td>
@@ -91,7 +99,16 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Student Welfare Officer</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Student Welfare Officer</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:mazuin_musa@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Mazuin Musa</a>
