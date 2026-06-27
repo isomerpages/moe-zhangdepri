@@ -44,20 +44,11 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Senior SEN officer (Learning &amp; Behavioural Support) </strong>
+<p><strong>Senior SEN officer (Learning &amp; Behavioural Support)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:tan_jo-lynn@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Tan Jo-lynn</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:Yeo_Shi_Yun_Vanessa@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Yeo Shi Yun Vanessa</a>
 </p>
 </td>
 </tr>
@@ -75,12 +66,21 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
+<p><a href="mailto:Yeo_Shi_Yun_Vanessa@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Yeo Shi Yun Vanessa</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>SEN officer (Learning &amp; Behavioural Support) </strong>
+<p><strong>SEN officer (Learning &amp; Behavioural Support)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
