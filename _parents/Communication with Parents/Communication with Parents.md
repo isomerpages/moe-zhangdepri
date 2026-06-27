@@ -9,16 +9,6 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" src="/images/OurPartners.png">
 </div>
 <h4><strong>2026 Term 3</strong></h4>
-<ul data-tight="true" class="tight">
-<li>
-<p><a href="/files/2026_T3_Calendar_Student.pdf" rel="noopener nofollow" target="_blank">Term 3 Calendar</a>
-</p>
-</li>
-<li>
-<p><a href="/files/Term_3_2026_Principal_Letter.pdf" rel="noopener nofollow" target="_blank">Term 3 Letter to Parents</a>
-</p>
-</li>
-</ul>
 <p></p>
 <h4><strong>2026 Term 2</strong></h4>
 <ul data-tight="true" class="tight">
