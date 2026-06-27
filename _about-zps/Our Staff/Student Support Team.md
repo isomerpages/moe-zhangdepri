@@ -44,11 +44,20 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Senior SEN officer (Learning &amp; Behavioural Support) <br></strong>
+<p><strong>Senior SEN officer (Learning &amp; Behavioural Support)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:tan_jo-lynn@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Tan Jo-lynn</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:tan_si_rong_constanza@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Tan Si Rong Constanza</a>
 </p>
 </td>
 </tr>
@@ -71,18 +80,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>SEN officer (Learning &amp; Behavioural Support) </strong>
-<br>
+<p><strong>SEN officer (Learning &amp; Behavioural Support)</strong>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:tan_si_rong_constanza@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Tan Si Rong Constanza</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:Ernest_Tan_Leng_Kiat@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Ernest Tan Leng Kiat</a>
