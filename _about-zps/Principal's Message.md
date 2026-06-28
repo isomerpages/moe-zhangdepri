@@ -4,7 +4,6 @@ permalink: /principal-s-message/
 variant: tiptap
 description: ""
 ---
-<h4><strong>Message from Principal Mr. Kyaw Saw Lynn</strong></h4>
 <p>Dear Zhangde Community</p>
 <p>It is both an honour and a privilege to serve as the principal of Zhangde
 Primary School (ZPS). I am excited to embark on this journey with all of
@@ -20,8 +19,7 @@ ZPS. Under her guidance, ZPS has fostered a safe, inclusive and enabling
 environment. I am committed to building on this legacy, deepening our sense
 of belonging, and continuing to create a school where every child is valued
 for his/her unique ability, interest, passion, and is supported and empowered
-to achieve his/her personal excellence. Please refer to “Mrs Rita Dass’
-Message” to be inspired by her farewell note to ZPS Family.</p>
+to achieve his/her personal excellence.</p>
 <p><strong>What defines the education at Zhangde Primary School?</strong>
 </p>
 <p>The Zhangde Education provides our students with a variety of learning
@@ -69,14 +67,14 @@ be “thinking individuals and gracious citizens”, guided by the GIVER<sup>3</
 Heart. Therefore, we endeavour to bring the best out of every student based
 on their true potential, guided by our Zhangde’s Promise of <strong>“Zhangde for Every Zhangderen!”</strong>
 </p>
-<p>In 2026, under the theme of “Curious Hearts, Connected Minds — Growing
-the Future Together”, we aim to reinforce a culture of inquiry, a sense
-of belonging, and our collective purpose for educating the young for the
-future. Moving forward, ZPS hopes to grow together as a community of curious
-hearts and connected minds — nurturing a culture of joy, inquiry, and shared
-growth as we shape the Future of Learning, one learner at a time!</p>
-<p>Together as a school community, we aim to <strong>lead well, teach well, learn well and grow well</strong>,
-with curious hearts and connected minds!</p>
+<p></p>
+<p>At Zhangde, every child is <strong>seen, welcomed, loved</strong> and <strong>stretched to grow</strong>.
+Moving forward, ZPS hopes to grow together as a community of curious hearts
+and connected minds — nurturing a culture of care, joy, inquiry, and shared
+growth as we shape the Future of Learning, one learner at a time! Together,
+we aim to <strong>lead well, teach well, learn well and grow well</strong> as
+a school that <strong>cares</strong>!</p>
+<p></p>
 <p><strong><em>May we be the reason a child loves coming to Zhangde!</em></strong>
 </p>
 <p><strong><em>May our students remember their school experience at Zhangde fondly.</em></strong>
