@@ -1,6 +1,6 @@
 ---
-title: Mrs Rita Dass' Message
-permalink: /about-zps/mrsdass-message/
+title: archived
+permalink: /archived-mrsdass-message/312312331/
 description: ""
 variant: tiptap
 ---
