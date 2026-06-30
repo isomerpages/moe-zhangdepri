@@ -11,7 +11,7 @@ variant: tiptap
 <h4><strong>2026 Term 3</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/2026_T3_Calendar_Student.pdf" rel="noopener nofollow" target="_blank">Term 3 Calendar</a>
+<p><a href="/files/2026_T3_Calendar_Student_final_for_print_updated_30_June.pdf" rel="noopener nofollow" target="_blank">Term 3 Calendar (updated 30 June 2026)</a>
 </p>
 </li>
 <li>
