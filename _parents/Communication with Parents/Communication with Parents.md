@@ -30,7 +30,6 @@ variant: tiptap
 </p>
 </li>
 </ul>
-<p></p>
 <h4><strong>2026 Term 1</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
