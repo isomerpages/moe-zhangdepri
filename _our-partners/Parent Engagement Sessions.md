@@ -7,7 +7,8 @@ description: ""
 <h4><strong><u>2026 P3 Refreshed Approach for Gifted Education Sharing</u></strong></h4>
 <p><a href="/files/ZPS_P3_The_Refreshed_Approach_for_Gifted_Education__Parent_Engagement_2026_for_sharing.pdf" rel="noopener nofollow" target="_blank">ZPS P3 The Refreshed Approach for Gifted Education Sharing Slides</a>
 </p>
-<p></p>
+<p>Link to recorded sharing: <a href="https://drive.google.com/file/d/1Da4fcMc7R-zZHBzUqiKDD5KWFwRTD6SS/view?usp=sharing" rel="noopener nofollow" target="_blank">Click Here</a>
+</p>
 <h4><strong><u>2026 P1 Orientation</u></strong></h4>
 <p><a href="/files/Orientation_Programme_Slides__Part_1_.pdf" rel="noopener nofollow" target="_blank">P1 Orientation - part 1/2</a>
 </p>
