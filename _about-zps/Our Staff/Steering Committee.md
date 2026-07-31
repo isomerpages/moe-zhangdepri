@@ -205,15 +205,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>LH Student Welfare</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:chin_meiyi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Chin Meiyi</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>SH Character &amp; Citizenship Education</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -227,15 +218,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:LOW_YU_CI@SCHOOLS.GOV.SG" rel="noopener nofollow" target="_blank">Ms Low Yu Ci</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Assistant Year Head (Internal)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:han_xuehui_delicia@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Han Xuehui, Delicia (Mrs Delicia Ee)</a>
 </p>
 </td>
 </tr>
