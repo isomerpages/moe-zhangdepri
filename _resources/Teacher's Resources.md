@@ -30,7 +30,7 @@ variant: tiptap
 <p></p>
 <p><strong>Finance</strong>
 </p>
-<p><a href="https://form.gov.sg/6937c4ab769eff211d2ca5b0" rel="noopener nofollow" target="_blank">AOR</a>
+<p><strong><a href="https://form.gov.sg/6937c4ab769eff211d2ca5b0" rel="noopener nofollow" target="_blank">AOR</a></strong>
 </p>
 </td>
 </tr>
